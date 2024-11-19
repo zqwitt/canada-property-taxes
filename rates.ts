@@ -5,6 +5,7 @@ export const rates = [
       en: "Division No.  1, Subd. V",
       fr: "Division No.  1, Subd. V",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -13,6 +14,7 @@ export const rates = [
       en: "Portugal Cove South",
       fr: "Portugal Cove South",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -21,6 +23,7 @@ export const rates = [
       en: "Trepassey",
       fr: "Trepassey",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -29,6 +32,7 @@ export const rates = [
       en: "St. Shott's",
       fr: "St. Shott's",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -37,6 +41,7 @@ export const rates = [
       en: "Division No.  1, Subd. U",
       fr: "Division No.  1, Subd. U",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -45,6 +50,7 @@ export const rates = [
       en: "Cape Broyle",
       fr: "Cape Broyle",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -53,6 +59,7 @@ export const rates = [
       en: "Renews-Cappahayden",
       fr: "Renews-Cappahayden",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -61,6 +68,7 @@ export const rates = [
       en: "Fermeuse",
       fr: "Fermeuse",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -69,6 +77,7 @@ export const rates = [
       en: "Port Kirwan",
       fr: "Port Kirwan",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -77,6 +86,7 @@ export const rates = [
       en: "Aquaforte",
       fr: "Aquaforte",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -85,6 +95,7 @@ export const rates = [
       en: "Ferryland",
       fr: "Ferryland",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -93,6 +104,7 @@ export const rates = [
       en: "Division No.  1, Subd. W",
       fr: "Division No.  1, Subd. W",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -101,6 +113,7 @@ export const rates = [
       en: "St. Vincent's-St. Stephen's-Peter's River",
       fr: "St. Vincent's-St. Stephen's-Peter's River",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -109,6 +122,7 @@ export const rates = [
       en: "Gaskiers-Point La Haye",
       fr: "Gaskiers-Point La Haye",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -117,6 +131,7 @@ export const rates = [
       en: "St. Mary's",
       fr: "St. Mary's",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -125,6 +140,7 @@ export const rates = [
       en: "Riverhead",
       fr: "Riverhead",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -133,6 +149,7 @@ export const rates = [
       en: "Admirals Beach",
       fr: "Admirals Beach",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -141,6 +158,7 @@ export const rates = [
       en: "St. Joseph's",
       fr: "St. Joseph's",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -149,6 +167,7 @@ export const rates = [
       en: "Mount Carmel-Mitchells Brook-St. Catherine's",
       fr: "Mount Carmel-Mitchells Brook-St. Catherine's",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -157,6 +176,7 @@ export const rates = [
       en: "Division No.  1, Subd. X",
       fr: "Division No.  1, Subd. X",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -165,6 +185,7 @@ export const rates = [
       en: "Colinet",
       fr: "Colinet",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -173,6 +194,7 @@ export const rates = [
       en: "Division No.  1, Subd. C",
       fr: "Division No.  1, Subd. C",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -181,6 +203,7 @@ export const rates = [
       en: "Branch",
       fr: "Branch",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -189,6 +212,7 @@ export const rates = [
       en: "Point Lance",
       fr: "Point Lance",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -197,6 +221,7 @@ export const rates = [
       en: "St. Bride's",
       fr: "St. Bride's",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -205,6 +230,7 @@ export const rates = [
       en: "Division No.  1, Subd. B",
       fr: "Division No.  1, Subd. B",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -213,6 +239,7 @@ export const rates = [
       en: "Placentia",
       fr: "Placentia",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -221,6 +248,7 @@ export const rates = [
       en: "Fox Harbour",
       fr: "Fox Harbour",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -229,6 +257,7 @@ export const rates = [
       en: "Division No.  1, Subd. A",
       fr: "Division No.  1, Subd. A",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -237,6 +266,7 @@ export const rates = [
       en: "Long Harbour-Mount Arlington Heights",
       fr: "Long Harbour-Mount Arlington Heights",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -245,6 +275,7 @@ export const rates = [
       en: "Southern Harbour",
       fr: "Southern Harbour",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -253,6 +284,7 @@ export const rates = [
       en: "Arnold's Cove",
       fr: "Arnold's Cove",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -261,6 +293,7 @@ export const rates = [
       en: "Come By Chance",
       fr: "Come By Chance",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -269,6 +302,7 @@ export const rates = [
       en: "Sunnyside",
       fr: "Sunnyside",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -277,6 +311,7 @@ export const rates = [
       en: "Chance Cove",
       fr: "Chance Cove",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -285,6 +320,7 @@ export const rates = [
       en: "Norman's Cove-Long Cove",
       fr: "Norman's Cove-Long Cove",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -293,6 +329,7 @@ export const rates = [
       en: "Chapel Arm",
       fr: "Chapel Arm",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -301,6 +338,7 @@ export const rates = [
       en: "Division No.  1, Subd. Y",
       fr: "Division No.  1, Subd. Y",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -309,6 +347,7 @@ export const rates = [
       en: "Whitbourne",
       fr: "Whitbourne",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -317,6 +356,7 @@ export const rates = [
       en: "Division No.  1, Subd. E",
       fr: "Division No.  1, Subd. E",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -325,6 +365,7 @@ export const rates = [
       en: "Whiteway",
       fr: "Whiteway",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -333,6 +374,7 @@ export const rates = [
       en: "Heart's Delight-Islington",
       fr: "Heart's Delight-Islington",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -341,6 +383,7 @@ export const rates = [
       en: "Heart's Desire",
       fr: "Heart's Desire",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -349,6 +392,7 @@ export const rates = [
       en: "Division No.  1, Subd. F",
       fr: "Division No.  1, Subd. F",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -357,6 +401,7 @@ export const rates = [
       en: "Heart's Content",
       fr: "Heart's Content",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -365,6 +410,7 @@ export const rates = [
       en: "New Perlican",
       fr: "New Perlican",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -373,6 +419,7 @@ export const rates = [
       en: "Winterton",
       fr: "Winterton",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -381,6 +428,7 @@ export const rates = [
       en: "Hant's Harbour",
       fr: "Hant's Harbour",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -389,6 +437,7 @@ export const rates = [
       en: "Division No.  1, Subd. G",
       fr: "Division No.  1, Subd. G",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -397,6 +446,7 @@ export const rates = [
       en: "Old Perlican",
       fr: "Old Perlican",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -405,6 +455,7 @@ export const rates = [
       en: "Bay de Verde",
       fr: "Bay de Verde",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -413,6 +464,7 @@ export const rates = [
       en: "Small Point-Adam's Cove-Blackhead-Broad Cove",
       fr: "Small Point-Adam's Cove-Blackhead-Broad Cove",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -421,6 +473,7 @@ export const rates = [
       en: "Division No.  1, Subd. H",
       fr: "Division No.  1, Subd. H",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -429,6 +482,7 @@ export const rates = [
       en: "Salmon Cove",
       fr: "Salmon Cove",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -437,6 +491,7 @@ export const rates = [
       en: "Victoria",
       fr: "Victoria",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -445,6 +500,7 @@ export const rates = [
       en: "Carbonear",
       fr: "Carbonear",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -453,6 +509,7 @@ export const rates = [
       en: "Division No.  1, Subd. I",
       fr: "Division No.  1, Subd. I",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -461,6 +518,7 @@ export const rates = [
       en: "Bryant's Cove",
       fr: "Bryant's Cove",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -469,6 +527,7 @@ export const rates = [
       en: "Harbour Grace",
       fr: "Harbour Grace",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -477,6 +536,7 @@ export const rates = [
       en: "Upper Island Cove",
       fr: "Upper Island Cove",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -485,6 +545,7 @@ export const rates = [
       en: "Division No.  1, Subd. J",
       fr: "Division No.  1, Subd. J",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -493,6 +554,7 @@ export const rates = [
       en: "Bishop's Cove",
       fr: "Bishop's Cove",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -501,6 +563,7 @@ export const rates = [
       en: "Spaniard's Bay",
       fr: "Spaniard's Bay",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -509,6 +572,7 @@ export const rates = [
       en: "Division No.  1, Subd. K",
       fr: "Division No.  1, Subd. K",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -517,6 +581,7 @@ export const rates = [
       en: "Bay Roberts",
       fr: "Bay Roberts",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -525,6 +590,7 @@ export const rates = [
       en: "Division No.  1, Subd. L",
       fr: "Division No.  1, Subd. L",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -533,6 +599,7 @@ export const rates = [
       en: "Division No.  1, Subd. M",
       fr: "Division No.  1, Subd. M",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -541,6 +608,7 @@ export const rates = [
       en: "North River",
       fr: "North River",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -549,6 +617,7 @@ export const rates = [
       en: "Clarke's Beach",
       fr: "Clarke's Beach",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -557,6 +626,7 @@ export const rates = [
       en: "South River",
       fr: "South River",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -565,6 +635,7 @@ export const rates = [
       en: "Cupids",
       fr: "Cupids",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -573,6 +644,7 @@ export const rates = [
       en: "Division No.  1, Subd. N",
       fr: "Division No.  1, Subd. N",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -581,6 +653,7 @@ export const rates = [
       en: "Brigus",
       fr: "Brigus",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -589,6 +662,7 @@ export const rates = [
       en: "Division No.  1, Subd. O",
       fr: "Division No.  1, Subd. O",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -597,6 +671,7 @@ export const rates = [
       en: "Colliers",
       fr: "Colliers",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -605,6 +680,7 @@ export const rates = [
       en: "Conception Harbour",
       fr: "Conception Harbour",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -613,6 +689,7 @@ export const rates = [
       en: "Avondale",
       fr: "Avondale",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -621,6 +698,7 @@ export const rates = [
       en: "Harbour Main-Chapel's Cove-Lakeview",
       fr: "Harbour Main-Chapel's Cove-Lakeview",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -629,6 +707,7 @@ export const rates = [
       en: "Holyrood",
       fr: "Holyrood",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -637,6 +716,7 @@ export const rates = [
       en: "Conception Bay South",
       fr: "Conception Bay South",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -645,6 +725,7 @@ export const rates = [
       en: "Division No.  1, Subd. R",
       fr: "Division No.  1, Subd. R",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -653,6 +734,7 @@ export const rates = [
       en: "Wabana",
       fr: "Wabana",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -661,6 +743,7 @@ export const rates = [
       en: "Portugal Cove-St. Philip's",
       fr: "Portugal Cove-St. Philip's",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -669,6 +752,7 @@ export const rates = [
       en: "Pouch Cove",
       fr: "Pouch Cove",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -677,6 +761,7 @@ export const rates = [
       en: "Flatrock",
       fr: "Flatrock",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -685,6 +770,7 @@ export const rates = [
       en: "Torbay",
       fr: "Torbay",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -693,6 +779,7 @@ export const rates = [
       en: "Logy Bay-Middle Cove-Outer Cove",
       fr: "Logy Bay-Middle Cove-Outer Cove",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -701,6 +788,7 @@ export const rates = [
       en: "Bauline",
       fr: "Bauline",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -709,6 +797,7 @@ export const rates = [
       en: "Paradise",
       fr: "Paradise",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -717,6 +806,7 @@ export const rates = [
       en: "St. John's",
       fr: "St. John's",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -725,6 +815,7 @@ export const rates = [
       en: "Mount Pearl",
       fr: "Mount Pearl",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -733,6 +824,7 @@ export const rates = [
       en: "Petty Harbour-Maddox Cove",
       fr: "Petty Harbour-Maddox Cove",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -741,6 +833,7 @@ export const rates = [
       en: "Bay Bulls",
       fr: "Bay Bulls",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -749,6 +842,7 @@ export const rates = [
       en: "Witless Bay",
       fr: "Witless Bay",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -757,6 +851,7 @@ export const rates = [
       en: "Division No.  1, Subd. D",
       fr: "Division No.  1, Subd. D",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -765,6 +860,7 @@ export const rates = [
       en: "Division No.  2, Subd. E",
       fr: "Division No.  2, Subd. E",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -773,6 +869,7 @@ export const rates = [
       en: "Lewin's Cove",
       fr: "Lewin's Cove",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -781,6 +878,7 @@ export const rates = [
       en: "Burin",
       fr: "Burin",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -789,6 +887,7 @@ export const rates = [
       en: "Division No.  2, Subd. F",
       fr: "Division No.  2, Subd. F",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -797,6 +896,7 @@ export const rates = [
       en: "St. Lawrence",
       fr: "St. Lawrence",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -805,6 +905,7 @@ export const rates = [
       en: "Division No.  2, Subd. G",
       fr: "Division No.  2, Subd. G",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -813,6 +914,7 @@ export const rates = [
       en: "Lawn",
       fr: "Lawn",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -821,6 +923,7 @@ export const rates = [
       en: "Lamaline",
       fr: "Lamaline",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -829,6 +932,7 @@ export const rates = [
       en: "Lord's Cove",
       fr: "Lord's Cove",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -837,6 +941,7 @@ export const rates = [
       en: "Point May",
       fr: "Point May",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -845,6 +950,7 @@ export const rates = [
       en: "Point au Gaul",
       fr: "Point au Gaul",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -853,6 +959,7 @@ export const rates = [
       en: "Division No.  2, Subd. H",
       fr: "Division No.  2, Subd. H",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -861,6 +968,7 @@ export const rates = [
       en: "Frenchman's Cove",
       fr: "Frenchman's Cove",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -869,6 +977,7 @@ export const rates = [
       en: "Fortune",
       fr: "Fortune",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -877,6 +986,7 @@ export const rates = [
       en: "Grand Bank",
       fr: "Grand Bank",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -885,6 +995,7 @@ export const rates = [
       en: "Garnish",
       fr: "Garnish",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -893,6 +1004,7 @@ export const rates = [
       en: "Division No.  2, Subd. D",
       fr: "Division No.  2, Subd. D",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -901,6 +1013,7 @@ export const rates = [
       en: "Winterland",
       fr: "Winterland",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -909,6 +1022,7 @@ export const rates = [
       en: "Marystown",
       fr: "Marystown",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -917,6 +1031,7 @@ export const rates = [
       en: "Fox Cove-Mortier",
       fr: "Fox Cove-Mortier",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -925,6 +1040,7 @@ export const rates = [
       en: "Division No.  2, Subd. I",
       fr: "Division No.  2, Subd. I",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -933,6 +1049,7 @@ export const rates = [
       en: "Bay L'Argent",
       fr: "Bay L'Argent",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -941,6 +1058,7 @@ export const rates = [
       en: "Division No.  2, Subd. J",
       fr: "Division No.  2, Subd. J",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -949,6 +1067,7 @@ export const rates = [
       en: "Grand Le Pierre",
       fr: "Grand Le Pierre",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -957,6 +1076,7 @@ export const rates = [
       en: "Division No.  2, Subd. C",
       fr: "Division No.  2, Subd. C",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -965,6 +1085,7 @@ export const rates = [
       en: "Rushoon",
       fr: "Rushoon",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -973,6 +1094,7 @@ export const rates = [
       en: "Parkers Cove",
       fr: "Parkers Cove",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -981,6 +1103,7 @@ export const rates = [
       en: "Terrenceville",
       fr: "Terrenceville",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -989,6 +1112,7 @@ export const rates = [
       en: "Red Harbour",
       fr: "Red Harbour",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -997,6 +1121,7 @@ export const rates = [
       en: "English Harbour East",
       fr: "English Harbour East",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1005,6 +1130,7 @@ export const rates = [
       en: "Baine Harbour",
       fr: "Baine Harbour",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1013,6 +1139,7 @@ export const rates = [
       en: "St. Bernard's-Jacques Fontaine",
       fr: "St. Bernard's-Jacques Fontaine",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1021,6 +1148,7 @@ export const rates = [
       en: "Division No.  2, Subd. L",
       fr: "Division No.  2, Subd. L",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1029,6 +1157,7 @@ export const rates = [
       en: "Division No.  2, Subd. K",
       fr: "Division No.  2, Subd. K",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1037,6 +1166,7 @@ export const rates = [
       en: "Little Bay East",
       fr: "Little Bay East",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1045,6 +1175,7 @@ export const rates = [
       en: "Division No.  3, Subd. A",
       fr: "Division No.  3, Subd. A",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1053,6 +1184,7 @@ export const rates = [
       en: "Rencontre East",
       fr: "Rencontre East",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1061,6 +1193,7 @@ export const rates = [
       en: "St. Jacques-Coomb's Cove",
       fr: "St. Jacques-Coomb's Cove",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1069,6 +1202,7 @@ export const rates = [
       en: "Belleoram",
       fr: "Belleoram",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1077,6 +1211,7 @@ export const rates = [
       en: "Pool's Cove",
       fr: "Pool's Cove",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1085,6 +1220,7 @@ export const rates = [
       en: "Division No.  3, Subd. B",
       fr: "Division No.  3, Subd. B",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1093,6 +1229,7 @@ export const rates = [
       en: "Harbour Breton",
       fr: "Harbour Breton",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1101,6 +1238,7 @@ export const rates = [
       en: "Division No.  3, Subd. C",
       fr: "Division No.  3, Subd. C",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1109,6 +1247,7 @@ export const rates = [
       en: "Seal Cove (Fortune Bay)",
       fr: "Seal Cove (Fortune Bay)",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1117,6 +1256,7 @@ export const rates = [
       en: "Hermitage-Sandyville",
       fr: "Hermitage-Sandyville",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1125,6 +1265,7 @@ export const rates = [
       en: "Gaultois",
       fr: "Gaultois",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1133,6 +1274,7 @@ export const rates = [
       en: "Division No.  3, Subd. D",
       fr: "Division No.  3, Subd. D",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1141,6 +1283,7 @@ export const rates = [
       en: "Milltown-Head of Bay d'Espoir",
       fr: "Milltown-Head of Bay d'Espoir",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1149,6 +1292,7 @@ export const rates = [
       en: "St. Alban's",
       fr: "St. Alban's",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1157,6 +1301,7 @@ export const rates = [
       en: "Morrisville",
       fr: "Morrisville",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1165,6 +1310,7 @@ export const rates = [
       en: "Division No.  3, Subd. E",
       fr: "Division No.  3, Subd. E",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1173,6 +1319,7 @@ export const rates = [
       en: "Division No.  3, Subd. F",
       fr: "Division No.  3, Subd. F",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1181,6 +1328,7 @@ export const rates = [
       en: "Ramea",
       fr: "Ramea",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1189,6 +1337,7 @@ export const rates = [
       en: "Burgeo",
       fr: "Burgeo",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1197,6 +1346,7 @@ export const rates = [
       en: "Division No.  3, Subd. H",
       fr: "Division No.  3, Subd. H",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1205,6 +1355,7 @@ export const rates = [
       en: "Isle aux Morts",
       fr: "Isle aux Morts",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1213,6 +1364,7 @@ export const rates = [
       en: "Burnt Islands",
       fr: "Burnt Islands",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1221,6 +1373,7 @@ export const rates = [
       en: "Channel-Port aux Basques",
       fr: "Channel-Port aux Basques",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1229,6 +1382,7 @@ export const rates = [
       en: "Division No.  3, Subd. I",
       fr: "Division No.  3, Subd. I",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1237,6 +1391,7 @@ export const rates = [
       en: "Division No.  3, Subd. J",
       fr: "Division No.  3, Subd. J",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1245,6 +1400,7 @@ export const rates = [
       en: "Rose Blanche-Harbour le Cou",
       fr: "Rose Blanche-Harbour le Cou",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1253,6 +1409,7 @@ export const rates = [
       en: "Samiajij Miawpukek",
       fr: "Samiajij Miawpukek",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1261,6 +1418,7 @@ export const rates = [
       en: "Division No.  4, Subd. A",
       fr: "Division No.  4, Subd. A",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1269,6 +1427,7 @@ export const rates = [
       en: "Division No.  4, Subd. B",
       fr: "Division No.  4, Subd. B",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1277,6 +1436,7 @@ export const rates = [
       en: "Division No.  4, Subd. C",
       fr: "Division No.  4, Subd. C",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1285,6 +1445,7 @@ export const rates = [
       en: "St. George's",
       fr: "St. George's",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1293,6 +1454,7 @@ export const rates = [
       en: "Division No.  4, Subd. D",
       fr: "Division No.  4, Subd. D",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1301,6 +1463,7 @@ export const rates = [
       en: "Gallants",
       fr: "Gallants",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1309,6 +1472,7 @@ export const rates = [
       en: "Stephenville Crossing",
       fr: "Stephenville Crossing",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1317,6 +1481,7 @@ export const rates = [
       en: "Stephenville",
       fr: "Stephenville",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1325,6 +1490,7 @@ export const rates = [
       en: "Kippens",
       fr: "Kippens",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1333,6 +1499,7 @@ export const rates = [
       en: "Port au Port East",
       fr: "Port au Port East",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1341,6 +1508,7 @@ export const rates = [
       en: "Division No.  4, Subd. E",
       fr: "Division No.  4, Subd. E",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1349,6 +1517,7 @@ export const rates = [
       en: "Cape St. George",
       fr: "Cape St. George",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1357,6 +1526,7 @@ export const rates = [
       en: "Lourdes",
       fr: "Lourdes",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1365,6 +1535,7 @@ export const rates = [
       en: "Port au Port West-Aguathuna-Felix Cove",
       fr: "Port au Port West-Aguathuna-Felix Cove",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1373,6 +1544,7 @@ export const rates = [
       en: "Division No.  5, Subd. A",
       fr: "Division No.  5, Subd. A",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1381,6 +1553,7 @@ export const rates = [
       en: "Division No.  5, Subd. G",
       fr: "Division No.  5, Subd. G",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1389,6 +1562,7 @@ export const rates = [
       en: "Deer Lake",
       fr: "Deer Lake",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1397,6 +1571,7 @@ export const rates = [
       en: "Jackson's Arm",
       fr: "Jackson's Arm",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1405,6 +1580,7 @@ export const rates = [
       en: "Howley",
       fr: "Howley",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1413,6 +1589,7 @@ export const rates = [
       en: "Division No.  5, Subd. E",
       fr: "Division No.  5, Subd. E",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1421,6 +1598,7 @@ export const rates = [
       en: "Hampden",
       fr: "Hampden",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1429,6 +1607,7 @@ export const rates = [
       en: "Reidville",
       fr: "Reidville",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1437,6 +1616,7 @@ export const rates = [
       en: "Division No.  5, Subd. F",
       fr: "Division No.  5, Subd. F",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1445,6 +1625,7 @@ export const rates = [
       en: "Steady Brook",
       fr: "Steady Brook",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1453,6 +1634,7 @@ export const rates = [
       en: "Pasadena",
       fr: "Pasadena",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1461,6 +1643,7 @@ export const rates = [
       en: "Cormack",
       fr: "Cormack",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1469,6 +1652,7 @@ export const rates = [
       en: "Gillams",
       fr: "Gillams",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1477,6 +1661,7 @@ export const rates = [
       en: "Division No.  5, Subd. C",
       fr: "Division No.  5, Subd. C",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1485,6 +1670,7 @@ export const rates = [
       en: "Massey Drive",
       fr: "Massey Drive",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1493,6 +1679,7 @@ export const rates = [
       en: "Corner Brook",
       fr: "Corner Brook",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1501,6 +1688,7 @@ export const rates = [
       en: "Division No.  5, Subd. D",
       fr: "Division No.  5, Subd. D",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1509,6 +1697,7 @@ export const rates = [
       en: "Humber Arm South",
       fr: "Humber Arm South",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1517,6 +1706,7 @@ export const rates = [
       en: "McIvers",
       fr: "McIvers",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1525,6 +1715,7 @@ export const rates = [
       en: "Cox's Cove",
       fr: "Cox's Cove",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1533,6 +1724,7 @@ export const rates = [
       en: "Lark Harbour",
       fr: "Lark Harbour",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1541,6 +1733,7 @@ export const rates = [
       en: "Meadows",
       fr: "Meadows",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1549,6 +1742,7 @@ export const rates = [
       en: "Hughes Brook",
       fr: "Hughes Brook",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1557,6 +1751,7 @@ export const rates = [
       en: "Irishtown-Summerside",
       fr: "Irishtown-Summerside",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1565,6 +1760,7 @@ export const rates = [
       en: "Mount Moriah",
       fr: "Mount Moriah",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1573,6 +1769,7 @@ export const rates = [
       en: "York Harbour",
       fr: "York Harbour",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1581,6 +1778,7 @@ export const rates = [
       en: "Division No.  6, Subd. D",
       fr: "Division No.  6, Subd. D",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1589,6 +1787,7 @@ export const rates = [
       en: "Norris Arm",
       fr: "Norris Arm",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1597,6 +1796,7 @@ export const rates = [
       en: "Division No.  6, Subd. E",
       fr: "Division No.  6, Subd. E",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1605,6 +1805,7 @@ export const rates = [
       en: "Gander",
       fr: "Gander",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1613,6 +1814,7 @@ export const rates = [
       en: "Appleton",
       fr: "Appleton",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1621,6 +1823,7 @@ export const rates = [
       en: "Glenwood",
       fr: "Glenwood",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1629,6 +1832,7 @@ export const rates = [
       en: "Division No.  6, Subd. C",
       fr: "Division No.  6, Subd. C",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1637,6 +1841,7 @@ export const rates = [
       en: "Northern Arm",
       fr: "Northern Arm",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1645,6 +1850,7 @@ export const rates = [
       en: "Grand Falls-Windsor",
       fr: "Grand Falls-Windsor",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1653,6 +1859,7 @@ export const rates = [
       en: "Bishop's Falls",
       fr: "Bishop's Falls",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1661,6 +1868,7 @@ export const rates = [
       en: "Peterview",
       fr: "Peterview",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1669,6 +1877,7 @@ export const rates = [
       en: "Botwood",
       fr: "Botwood",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1677,6 +1886,7 @@ export const rates = [
       en: "Badger",
       fr: "Badger",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1685,6 +1895,7 @@ export const rates = [
       en: "Millertown",
       fr: "Millertown",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1693,6 +1904,7 @@ export const rates = [
       en: "Division No.  6, Subd. A",
       fr: "Division No.  6, Subd. A",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1701,6 +1913,7 @@ export const rates = [
       en: "Buchans",
       fr: "Buchans",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1709,6 +1922,7 @@ export const rates = [
       en: "Division No.  7, Subd. M",
       fr: "Division No.  7, Subd. M",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1717,6 +1931,7 @@ export const rates = [
       en: "Division No.  7, Subd. L",
       fr: "Division No.  7, Subd. L",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1725,6 +1940,7 @@ export const rates = [
       en: "Division No.  7, Subd. K",
       fr: "Division No.  7, Subd. K",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1733,6 +1949,7 @@ export const rates = [
       en: "Clarenville",
       fr: "Clarenville",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1741,6 +1958,7 @@ export const rates = [
       en: "Division No.  7, Subd. J",
       fr: "Division No.  7, Subd. J",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1749,6 +1967,7 @@ export const rates = [
       en: "Trinity (Trinity Bay)",
       fr: "Trinity (Trinity Bay)",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1757,6 +1976,7 @@ export const rates = [
       en: "Port Rexton",
       fr: "Port Rexton",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1765,6 +1985,7 @@ export const rates = [
       en: "Division No.  7, Subd. I",
       fr: "Division No.  7, Subd. I",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1773,6 +1994,7 @@ export const rates = [
       en: "Elliston",
       fr: "Elliston",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1781,6 +2003,7 @@ export const rates = [
       en: "Trinity Bay North",
       fr: "Trinity Bay North",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1789,6 +2012,7 @@ export const rates = [
       en: "Bonavista",
       fr: "Bonavista",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1797,6 +2021,7 @@ export const rates = [
       en: "Division No.  7, Subd. G",
       fr: "Division No.  7, Subd. G",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1805,6 +2030,7 @@ export const rates = [
       en: "Keels",
       fr: "Keels",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1813,6 +2039,7 @@ export const rates = [
       en: "Duntara",
       fr: "Duntara",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1821,6 +2048,7 @@ export const rates = [
       en: "King's Cove",
       fr: "King's Cove",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1829,6 +2057,7 @@ export const rates = [
       en: "Division No.  7, Subd. F",
       fr: "Division No.  7, Subd. F",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1837,6 +2066,7 @@ export const rates = [
       en: "Division No.  7, Subd. E",
       fr: "Division No.  7, Subd. E",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1845,6 +2075,7 @@ export const rates = [
       en: "Musgravetown",
       fr: "Musgravetown",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1853,6 +2084,7 @@ export const rates = [
       en: "Port Blandford",
       fr: "Port Blandford",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1861,6 +2093,7 @@ export const rates = [
       en: "Traytown",
       fr: "Traytown",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1869,6 +2102,7 @@ export const rates = [
       en: "Division No.  7, Subd. D",
       fr: "Division No.  7, Subd. D",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1877,6 +2111,7 @@ export const rates = [
       en: "Sandy Cove",
       fr: "Sandy Cove",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1885,6 +2120,7 @@ export const rates = [
       en: "Terra Nova",
       fr: "Terra Nova",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1893,6 +2129,7 @@ export const rates = [
       en: "Happy Adventure",
       fr: "Happy Adventure",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1901,6 +2138,7 @@ export const rates = [
       en: "Eastport",
       fr: "Eastport",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1909,6 +2147,7 @@ export const rates = [
       en: "Sandringham",
       fr: "Sandringham",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1917,6 +2156,7 @@ export const rates = [
       en: "Glovertown",
       fr: "Glovertown",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1925,6 +2165,7 @@ export const rates = [
       en: "Division No.  7, Subd. N",
       fr: "Division No.  7, Subd. N",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1933,6 +2174,7 @@ export const rates = [
       en: "Salvage",
       fr: "Salvage",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1941,6 +2183,7 @@ export const rates = [
       en: "Gambo",
       fr: "Gambo",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1949,6 +2192,7 @@ export const rates = [
       en: "St. Brendan's",
       fr: "St. Brendan's",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1957,6 +2201,7 @@ export const rates = [
       en: "Hare Bay",
       fr: "Hare Bay",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1965,6 +2210,7 @@ export const rates = [
       en: "Centreville-Wareham-Trinity",
       fr: "Centreville-Wareham-Trinity",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1973,6 +2219,7 @@ export const rates = [
       en: "Division No.  7, Subd. B",
       fr: "Division No.  7, Subd. B",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1981,6 +2228,7 @@ export const rates = [
       en: "Greenspond",
       fr: "Greenspond",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1989,6 +2237,7 @@ export const rates = [
       en: "Division No.  7, Subd. A",
       fr: "Division No.  7, Subd. A",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -1997,6 +2246,7 @@ export const rates = [
       en: "Dover",
       fr: "Dover",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2005,6 +2255,7 @@ export const rates = [
       en: "New-Wes-Valley",
       fr: "New-Wes-Valley",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2013,6 +2264,7 @@ export const rates = [
       en: "Indian Bay",
       fr: "Indian Bay",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2021,6 +2273,7 @@ export const rates = [
       en: "Division No.  8, Subd. M",
       fr: "Division No.  8, Subd. M",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2029,6 +2282,7 @@ export const rates = [
       en: "Lumsden",
       fr: "Lumsden",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2037,6 +2291,7 @@ export const rates = [
       en: "Musgrave Harbour",
       fr: "Musgrave Harbour",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2045,6 +2300,7 @@ export const rates = [
       en: "Division No.  8, Subd. L",
       fr: "Division No.  8, Subd. L",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2053,6 +2309,7 @@ export const rates = [
       en: "Carmanville",
       fr: "Carmanville",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2061,6 +2318,7 @@ export const rates = [
       en: "Change Islands",
       fr: "Change Islands",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2069,6 +2327,7 @@ export const rates = [
       en: "Division No.  8, Subd. I",
       fr: "Division No.  8, Subd. I",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2077,6 +2336,7 @@ export const rates = [
       en: "Crow Head",
       fr: "Crow Head",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2085,6 +2345,7 @@ export const rates = [
       en: "Division No.  8, Subd. H",
       fr: "Division No.  8, Subd. H",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2093,6 +2354,7 @@ export const rates = [
       en: "Cottlesville",
       fr: "Cottlesville",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2101,6 +2363,7 @@ export const rates = [
       en: "Summerford",
       fr: "Summerford",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2109,6 +2372,7 @@ export const rates = [
       en: "Twillingate",
       fr: "Twillingate",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2117,6 +2381,7 @@ export const rates = [
       en: "Division No.  8, Subd. G",
       fr: "Division No.  8, Subd. G",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2125,6 +2390,7 @@ export const rates = [
       en: "Campbellton",
       fr: "Campbellton",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2133,6 +2399,7 @@ export const rates = [
       en: "Birchy Bay",
       fr: "Birchy Bay",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2141,6 +2408,7 @@ export const rates = [
       en: "Comfort Cove-Newstead",
       fr: "Comfort Cove-Newstead",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2149,6 +2417,7 @@ export const rates = [
       en: "Baytona",
       fr: "Baytona",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2157,6 +2426,7 @@ export const rates = [
       en: "Division No.  8, Subd. F",
       fr: "Division No.  8, Subd. F",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2165,6 +2435,7 @@ export const rates = [
       en: "Embree",
       fr: "Embree",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2173,6 +2444,7 @@ export const rates = [
       en: "Lewisporte",
       fr: "Lewisporte",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2181,6 +2453,7 @@ export const rates = [
       en: "Little Burnt Bay",
       fr: "Little Burnt Bay",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2189,6 +2462,7 @@ export const rates = [
       en: "Division No.  8, Subd. E",
       fr: "Division No.  8, Subd. E",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2197,6 +2471,7 @@ export const rates = [
       en: "Point of Bay",
       fr: "Point of Bay",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2205,6 +2480,7 @@ export const rates = [
       en: "Leading Tickles",
       fr: "Leading Tickles",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2213,6 +2489,7 @@ export const rates = [
       en: "Point Leamington",
       fr: "Point Leamington",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2221,6 +2498,7 @@ export const rates = [
       en: "Division No.  8, Subd. D",
       fr: "Division No.  8, Subd. D",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2229,6 +2507,7 @@ export const rates = [
       en: "Pilley's Island",
       fr: "Pilley's Island",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2237,6 +2516,7 @@ export const rates = [
       en: "Triton",
       fr: "Triton",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2245,6 +2525,7 @@ export const rates = [
       en: "Brighton",
       fr: "Brighton",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2253,6 +2534,7 @@ export const rates = [
       en: "Lushes Bight-Beaumont-Beaumont North",
       fr: "Lushes Bight-Beaumont-Beaumont North",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2261,6 +2543,7 @@ export const rates = [
       en: "Division No.  8, Subd. C",
       fr: "Division No.  8, Subd. C",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2269,6 +2552,7 @@ export const rates = [
       en: "South Brook",
       fr: "South Brook",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2277,6 +2561,7 @@ export const rates = [
       en: "Robert's Arm",
       fr: "Robert's Arm",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2285,6 +2570,7 @@ export const rates = [
       en: "Springdale",
       fr: "Springdale",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2293,6 +2579,7 @@ export const rates = [
       en: "Port Anson",
       fr: "Port Anson",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2301,6 +2588,7 @@ export const rates = [
       en: "Little Bay",
       fr: "Little Bay",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2309,6 +2597,7 @@ export const rates = [
       en: "Little Bay Islands",
       fr: "Little Bay Islands",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2317,6 +2606,7 @@ export const rates = [
       en: "Division No.  8, Subd. P",
       fr: "Division No.  8, Subd. P",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2325,6 +2615,7 @@ export const rates = [
       en: "Beachside",
       fr: "Beachside",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2333,6 +2624,7 @@ export const rates = [
       en: "Division No.  8, Subd. O",
       fr: "Division No.  8, Subd. O",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2341,6 +2633,7 @@ export const rates = [
       en: "King's Point",
       fr: "King's Point",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2349,6 +2642,7 @@ export const rates = [
       en: "Nippers Harbour",
       fr: "Nippers Harbour",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2357,6 +2651,7 @@ export const rates = [
       en: "Burlington",
       fr: "Burlington",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2365,6 +2660,7 @@ export const rates = [
       en: "Middle Arm",
       fr: "Middle Arm",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2373,6 +2669,7 @@ export const rates = [
       en: "Tilt Cove",
       fr: "Tilt Cove",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2381,6 +2678,7 @@ export const rates = [
       en: "Division No.  8, Subd. A",
       fr: "Division No.  8, Subd. A",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2389,6 +2687,7 @@ export const rates = [
       en: "Fleur de Lys",
       fr: "Fleur de Lys",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2397,6 +2696,7 @@ export const rates = [
       en: "LaScie",
       fr: "LaScie",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2405,6 +2705,7 @@ export const rates = [
       en: "Brent's Cove",
       fr: "Brent's Cove",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2413,6 +2714,7 @@ export const rates = [
       en: "Pacquet",
       fr: "Pacquet",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2421,6 +2723,7 @@ export const rates = [
       en: "Baie Verte",
       fr: "Baie Verte",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2429,6 +2732,7 @@ export const rates = [
       en: "Seal Cove (White Bay)",
       fr: "Seal Cove (White Bay)",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2437,6 +2741,7 @@ export const rates = [
       en: "Coachman's Cove",
       fr: "Coachman's Cove",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2445,6 +2750,7 @@ export const rates = [
       en: "Westport",
       fr: "Westport",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2453,6 +2759,7 @@ export const rates = [
       en: "Ming's Bight",
       fr: "Ming's Bight",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2461,6 +2768,7 @@ export const rates = [
       en: "Woodstock",
       fr: "Woodstock",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2469,6 +2777,7 @@ export const rates = [
       en: "Miles Cove",
       fr: "Miles Cove",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2477,6 +2786,7 @@ export const rates = [
       en: "Fogo Island",
       fr: "Fogo Island",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2485,6 +2795,7 @@ export const rates = [
       en: "Division No.  9, Subd. F",
       fr: "Division No.  9, Subd. F",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2493,6 +2804,7 @@ export const rates = [
       en: "Englee",
       fr: "Englee",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2501,6 +2813,7 @@ export const rates = [
       en: "Roddickton-Bide Arm",
       fr: "Roddickton-Bide Arm",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2509,6 +2822,7 @@ export const rates = [
       en: "Conche",
       fr: "Conche",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2517,6 +2831,7 @@ export const rates = [
       en: "Division No.  9, Subd. A",
       fr: "Division No.  9, Subd. A",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2525,6 +2840,7 @@ export const rates = [
       en: "Trout River",
       fr: "Trout River",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2533,6 +2849,7 @@ export const rates = [
       en: "Woody Point, Bonne Bay",
       fr: "Woody Point, Bonne Bay",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2541,6 +2858,7 @@ export const rates = [
       en: "Norris Point",
       fr: "Norris Point",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2549,6 +2867,7 @@ export const rates = [
       en: "Rocky Harbour",
       fr: "Rocky Harbour",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2557,6 +2876,7 @@ export const rates = [
       en: "Daniel's Harbour",
       fr: "Daniel's Harbour",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2565,6 +2885,7 @@ export const rates = [
       en: "Cow Head",
       fr: "Cow Head",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2573,6 +2894,7 @@ export const rates = [
       en: "Parson's Pond",
       fr: "Parson's Pond",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2581,6 +2903,7 @@ export const rates = [
       en: "Hawke's Bay",
       fr: "Hawke's Bay",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2589,6 +2912,7 @@ export const rates = [
       en: "Port Saunders",
       fr: "Port Saunders",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2597,6 +2921,7 @@ export const rates = [
       en: "St. Pauls",
       fr: "St. Pauls",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2605,6 +2930,7 @@ export const rates = [
       en: "Division No.  9, Subd. C",
       fr: "Division No.  9, Subd. C",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2613,6 +2939,7 @@ export const rates = [
       en: "Port au Choix",
       fr: "Port au Choix",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2621,6 +2948,7 @@ export const rates = [
       en: "Anchor Point",
       fr: "Anchor Point",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2629,6 +2957,7 @@ export const rates = [
       en: "Flower's Cove",
       fr: "Flower's Cove",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2637,6 +2966,7 @@ export const rates = [
       en: "Bird Cove",
       fr: "Bird Cove",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2645,6 +2975,7 @@ export const rates = [
       en: "Main Brook",
       fr: "Main Brook",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2653,6 +2984,7 @@ export const rates = [
       en: "St. Anthony",
       fr: "St. Anthony",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2661,6 +2993,7 @@ export const rates = [
       en: "Glenburnie-Birchy Head-Shoal Brook",
       fr: "Glenburnie-Birchy Head-Shoal Brook",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2669,6 +3002,7 @@ export const rates = [
       en: "Division No.  9, Subd. D",
       fr: "Division No.  9, Subd. D",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2677,6 +3011,7 @@ export const rates = [
       en: "St. Lunaire-Griquet",
       fr: "St. Lunaire-Griquet",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2685,6 +3020,7 @@ export const rates = [
       en: "Cook's Harbour",
       fr: "Cook's Harbour",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2693,6 +3029,7 @@ export const rates = [
       en: "Raleigh",
       fr: "Raleigh",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2701,6 +3038,7 @@ export const rates = [
       en: "Sally's Cove",
       fr: "Sally's Cove",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2709,6 +3047,7 @@ export const rates = [
       en: "Goose Cove East",
       fr: "Goose Cove East",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2717,6 +3056,7 @@ export const rates = [
       en: "Division No.  9, Subd. H",
       fr: "Division No.  9, Subd. H",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2725,6 +3065,7 @@ export const rates = [
       en: "Bellburns",
       fr: "Bellburns",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2733,6 +3074,7 @@ export const rates = [
       en: "Division No.  9, Subd. G",
       fr: "Division No.  9, Subd. G",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2741,6 +3083,7 @@ export const rates = [
       en: "River of Ponds",
       fr: "River of Ponds",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2749,6 +3092,7 @@ export const rates = [
       en: "Division No. 10, Subd. A",
       fr: "Division No. 10, Subd. A",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2757,6 +3101,7 @@ export const rates = [
       en: "L'Anse au Loup",
       fr: "L'Anse au Loup",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2765,6 +3110,7 @@ export const rates = [
       en: "Red Bay",
       fr: "Red Bay",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2773,6 +3119,7 @@ export const rates = [
       en: "L'Anse-au-Clair",
       fr: "L'Anse-au-Clair",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2781,6 +3128,7 @@ export const rates = [
       en: "Forteau",
       fr: "Forteau",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2789,6 +3137,7 @@ export const rates = [
       en: "West St. Modeste",
       fr: "West St. Modeste",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2797,6 +3146,7 @@ export const rates = [
       en: "Pinware",
       fr: "Pinware",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2805,6 +3155,7 @@ export const rates = [
       en: "Division No. 10, Subd. B",
       fr: "Division No. 10, Subd. B",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2813,6 +3164,7 @@ export const rates = [
       en: "Port Hope Simpson",
       fr: "Port Hope Simpson",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2821,6 +3173,7 @@ export const rates = [
       en: "St. Lewis",
       fr: "St. Lewis",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2829,6 +3182,7 @@ export const rates = [
       en: "Mary's Harbour",
       fr: "Mary's Harbour",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2837,6 +3191,7 @@ export const rates = [
       en: "Cartwright, Labrador",
       fr: "Cartwright, Labrador",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2845,6 +3200,7 @@ export const rates = [
       en: "Charlottetown (Labrador)",
       fr: "Charlottetown (Labrador)",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2853,6 +3209,7 @@ export const rates = [
       en: "Division No. 10, Subd. C",
       fr: "Division No. 10, Subd. C",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2861,6 +3218,7 @@ export const rates = [
       en: "North West River",
       fr: "North West River",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2869,6 +3227,7 @@ export const rates = [
       en: "Happy Valley-Goose Bay",
       fr: "Happy Valley-Goose Bay",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2877,6 +3236,7 @@ export const rates = [
       en: "Division No. 10, Subd. D",
       fr: "Division No. 10, Subd. D",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2885,6 +3245,7 @@ export const rates = [
       en: "Labrador City",
       fr: "Labrador City",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2893,6 +3254,7 @@ export const rates = [
       en: "Wabush",
       fr: "Wabush",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2901,6 +3263,7 @@ export const rates = [
       en: "Division No. 10, Subd. E",
       fr: "Division No. 10, Subd. E",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2909,6 +3272,7 @@ export const rates = [
       en: "Natuashish 2",
       fr: "Natuashish 2",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2917,6 +3281,7 @@ export const rates = [
       en: "Sheshatshiu 3",
       fr: "Sheshatshiu 3",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2925,6 +3290,7 @@ export const rates = [
       en: "Division No. 11, Subd. C",
       fr: "Division No. 11, Subd. C",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2933,6 +3299,7 @@ export const rates = [
       en: "Rigolet",
       fr: "Rigolet",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2941,6 +3308,7 @@ export const rates = [
       en: "Postville",
       fr: "Postville",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2949,6 +3317,7 @@ export const rates = [
       en: "Makkovik",
       fr: "Makkovik",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2957,6 +3326,7 @@ export const rates = [
       en: "Hopedale",
       fr: "Hopedale",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2965,6 +3335,7 @@ export const rates = [
       en: "Nain",
       fr: "Nain",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2973,6 +3344,7 @@ export const rates = [
       en: "Division No. 11, Subd. E",
       fr: "Division No. 11, Subd. E",
     },
+    province: "NL",
     rates: [],
   },
   {
@@ -2981,7 +3353,14 @@ export const rates = [
       en: "Murray Harbour",
       fr: "Murray Harbour",
     },
-    rates: [],
+    province: "PE",
+    rates: [
+      { year: 2020, rate: 0.0154 },
+      { year: 2021, rate: 0.0154 },
+      { year: 2022, rate: 0.01567 },
+      { year: 2023, rate: 0.01578 },
+      { year: 2024, rate: 0.0159 },
+    ],
   },
   {
     id: "2021A00051101003",
@@ -2989,7 +3368,14 @@ export const rates = [
       en: "Murray Harbour",
       fr: "Murray Harbour",
     },
-    rates: [],
+    province: "PE",
+    rates: [
+      { year: 2020, rate: 0.01 },
+      { year: 2021, rate: 0.01 },
+      { year: 2022, rate: 0.01 },
+      { year: 2023, rate: 0.01 },
+      { year: 2024, rate: 0.01 },
+    ],
   },
   {
     id: "2021A00051101004",
@@ -2997,7 +3383,14 @@ export const rates = [
       en: "Murray River",
       fr: "Murray River",
     },
-    rates: [],
+    province: "PE",
+    rates: [
+      { year: 2020, rate: 0.0148 },
+      { year: 2021, rate: 0.015 },
+      { year: 2022, rate: 0.015 },
+      { year: 2023, rate: 0.015 },
+      { year: 2024, rate: 0.015 },
+    ],
   },
   {
     id: "2021A00051101005",
@@ -3005,7 +3398,14 @@ export const rates = [
       en: "Murray River, Part 1",
       fr: "Murray River, Part 1",
     },
-    rates: [],
+    province: "PE",
+    rates: [
+      { year: 2020, rate: 0.01 },
+      { year: 2021, rate: 0.01 },
+      { year: 2022, rate: 0.01 },
+      { year: 2023, rate: 0.01 },
+      { year: 2024, rate: 0.01 },
+    ],
   },
   {
     id: "2021A00051101020",
@@ -3013,7 +3413,14 @@ export const rates = [
       en: "Cardigan",
       fr: "Cardigan",
     },
-    rates: [],
+    province: "PE",
+    rates: [
+      { year: 2020, rate: 0.01 },
+      { year: 2021, rate: 0.01 },
+      { year: 2022, rate: 0.01 },
+      { year: 2023, rate: 0.01 },
+      { year: 2024, rate: 0.01 },
+    ],
   },
   {
     id: "2021A00051101025",
@@ -3021,7 +3428,14 @@ export const rates = [
       en: "Central Kings",
       fr: "Central Kings",
     },
-    rates: [],
+    province: "PE",
+    rates: [
+      { year: 2020, rate: 0.012 },
+      { year: 2021, rate: 0.012 },
+      { year: 2022, rate: 0.012 },
+      { year: 2023, rate: 0.012 },
+      { year: 2024, rate: 0.012 },
+    ],
   },
   {
     id: "2021A00051101027",
@@ -3029,7 +3443,14 @@ export const rates = [
       en: "Central Kings",
       fr: "Central Kings",
     },
-    rates: [],
+    province: "PE",
+    rates: [
+      { year: 2020, rate: 0.01 },
+      { year: 2021, rate: 0.01 },
+      { year: 2022, rate: 0.01 },
+      { year: 2023, rate: 0.01 },
+      { year: 2024, rate: 0.01 },
+    ],
   },
   {
     id: "2021A00051101030",
@@ -3037,7 +3458,14 @@ export const rates = [
       en: "Annandale - Little Pond - Howe Bay",
       fr: "Annandale - Little Pond - Howe Bay",
     },
-    rates: [],
+    province: "PE",
+    rates: [
+      { year: 2020, rate: 0.012 },
+      { year: 2021, rate: 0.012 },
+      { year: 2022, rate: 0.012 },
+      { year: 2023, rate: 0.012 },
+      { year: 2024, rate: 0.014 },
+    ],
   },
   {
     id: "2021A00051101033",
@@ -3045,7 +3473,14 @@ export const rates = [
       en: "Souris West",
       fr: "Souris West",
     },
-    rates: [],
+    province: "PE",
+    rates: [
+      { year: 2020, rate: 0.0109 },
+      { year: 2021, rate: 0.0109 },
+      { year: 2022, rate: 0.0109 },
+      { year: 2023, rate: 0.0112 },
+      { year: 2024, rate: 0.0112 },
+    ],
   },
   {
     id: "2021A00051101035",
@@ -3053,7 +3488,14 @@ export const rates = [
       en: "Souris",
       fr: "Souris",
     },
-    rates: [],
+    province: "PE",
+    rates: [
+      { year: 2020, rate: 0.017 },
+      { year: 2021, rate: 0.017 },
+      { year: 2022, rate: 0.017 },
+      { year: 2023, rate: 0.017 },
+      { year: 2024, rate: 0.017 },
+    ],
   },
   {
     id: "2021A00051101036",
@@ -3061,7 +3503,14 @@ export const rates = [
       en: "Souris",
       fr: "Souris",
     },
-    rates: [],
+    province: "PE",
+    rates: [
+      { year: 2020, rate: 0.01 },
+      { year: 2021, rate: 0.01 },
+      { year: 2022, rate: 0.01 },
+      { year: 2023, rate: 0.01 },
+      { year: 2024, rate: 0.01 },
+    ],
   },
   {
     id: "2021A00051101037",
@@ -3069,7 +3518,14 @@ export const rates = [
       en: "St. Peters",
       fr: "St. Peters",
     },
-    rates: [],
+    province: "PE",
+    rates: [
+      { year: 2020, rate: 0.014 },
+      { year: 2021, rate: 0.014 },
+      { year: 2022, rate: 0.014 },
+      { year: 2023, rate: 0.014 },
+      { year: 2024, rate: 0.015 },
+    ],
   },
   {
     id: "2021A00051101040",
@@ -3077,7 +3533,14 @@ export const rates = [
       en: "Eastern Kings",
       fr: "Eastern Kings",
     },
-    rates: [],
+    province: "PE",
+    rates: [
+      { year: 2020, rate: 0.019 },
+      { year: 2021, rate: 0.019 },
+      { year: 2022, rate: 0.019 },
+      { year: 2023, rate: 0.019 },
+      { year: 2024, rate: 0.019 },
+    ],
   },
   {
     id: "2021A00051101043",
@@ -3085,7 +3548,14 @@ export const rates = [
       en: "Morell",
       fr: "Morell",
     },
-    rates: [],
+    province: "PE",
+    rates: [
+      { year: 2020, rate: 0.01615 },
+      { year: 2021, rate: 0.01615 },
+      { year: 2022, rate: 0.01615 },
+      { year: 2023, rate: 0.01615 },
+      { year: 2024, rate: 0.01615 },
+    ],
   },
   {
     id: "2021A00051101044",
@@ -3093,7 +3563,14 @@ export const rates = [
       en: "St. Peters Bay",
       fr: "St. Peters Bay",
     },
-    rates: [],
+    province: "PE",
+    rates: [
+      { year: 2020, rate: 0.014 },
+      { year: 2021, rate: 0.014 },
+      { year: 2022, rate: 0.014 },
+      { year: 2023, rate: 0.014 },
+      { year: 2024, rate: 0.015 },
+    ],
   },
   {
     id: "2021A00051101045",
@@ -3101,6 +3578,7 @@ export const rates = [
       en: "Three Rivers",
       fr: "Three Rivers",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3109,7 +3587,14 @@ export const rates = [
       en: "Morell",
       fr: "Morell",
     },
-    rates: [],
+    province: "PE",
+    rates: [
+      { year: 2020, rate: 0.01615 },
+      { year: 2021, rate: 0.01615 },
+      { year: 2022, rate: 0.01615 },
+      { year: 2023, rate: 0.01615 },
+      { year: 2024, rate: 0.01615 },
+    ],
   },
   {
     id: "2021A00051101050",
@@ -3117,7 +3602,14 @@ export const rates = [
       en: "Morell 2",
       fr: "Morell 2",
     },
-    rates: [],
+    province: "PE",
+    rates: [
+      { year: 2020, rate: 0.01 },
+      { year: 2021, rate: 0.01 },
+      { year: 2022, rate: 0.01 },
+      { year: 2023, rate: 0.01 },
+      { year: 2024, rate: 0.01 },
+    ],
   },
   {
     id: "2021A00051101052",
@@ -3125,7 +3617,14 @@ export const rates = [
       en: "East River, Part 2",
       fr: "East River, Part 2",
     },
-    rates: [],
+    province: "PE",
+    rates: [
+      { year: 2020, rate: 0.01 },
+      { year: 2021, rate: 0.01 },
+      { year: 2022, rate: 0.01 },
+      { year: 2023, rate: 0.01 },
+      { year: 2024, rate: 0.01 },
+    ],
   },
   {
     id: "2021A00051102002",
@@ -3133,7 +3632,14 @@ export const rates = [
       en: "Belfast",
       fr: "Belfast",
     },
-    rates: [],
+    province: "PE",
+    rates: [
+      { year: 2020, rate: 0.0115 },
+      { year: 2021, rate: 0.0115 },
+      { year: 2022, rate: 0.0117 },
+      { year: 2023, rate: 0.0117 },
+      { year: 2024, rate: 0.012 },
+    ],
   },
   {
     id: "2021A00051102003",
@@ -3141,7 +3647,14 @@ export const rates = [
       en: "Murray River, Part 2",
       fr: "Murray River, Part 2",
     },
-    rates: [],
+    province: "PE",
+    rates: [
+      { year: 2020, rate: 0.01 },
+      { year: 2021, rate: 0.01 },
+      { year: 2022, rate: 0.01 },
+      { year: 2023, rate: 0.01 },
+      { year: 2024, rate: 0.01 },
+    ],
   },
   {
     id: "2021A00051102005",
@@ -3149,7 +3662,14 @@ export const rates = [
       en: "Montague",
       fr: "Montague",
     },
-    rates: [],
+    province: "PE",
+    rates: [
+      { year: 2020, rate: 0.01 },
+      { year: 2021, rate: 0.01 },
+      { year: 2022, rate: 0.01 },
+      { year: 2023, rate: 0.01 },
+      { year: 2024, rate: 0.01 },
+    ],
   },
   {
     id: "2021A00051102010",
@@ -3157,7 +3677,14 @@ export const rates = [
       en: "Crossroads",
       fr: "Crossroads",
     },
-    rates: [],
+    province: "PE",
+    rates: [
+      { year: 2020, rate: 0.01 },
+      { year: 2021, rate: 0.01 },
+      { year: 2022, rate: 0.01 },
+      { year: 2023, rate: 0.01 },
+      { year: 2024, rate: 0.01 },
+    ],
   },
   {
     id: "2021A00051102011",
@@ -3165,7 +3692,14 @@ export const rates = [
       en: "Hazelbrook",
       fr: "Hazelbrook",
     },
-    rates: [],
+    province: "PE",
+    rates: [
+      { year: 2020, rate: 0.01205 },
+      { year: 2021, rate: 0.01205 },
+      { year: 2022, rate: 0.01188 },
+      { year: 2023, rate: 0.01152 },
+      { year: 2024, rate: 0.01158 },
+    ],
   },
   {
     id: "2021A00051102013",
@@ -3173,7 +3707,14 @@ export const rates = [
       en: "Alexandra",
       fr: "Alexandra",
     },
-    rates: [],
+    province: "PE",
+    rates: [
+      { year: 2020, rate: 0.0117 },
+      { year: 2021, rate: 0.0119 },
+      { year: 2022, rate: 0.0119 },
+      { year: 2023, rate: 0.0119 },
+      { year: 2024, rate: 0.0117 },
+    ],
   },
   {
     id: "2021A00051102015",
@@ -3181,7 +3722,14 @@ export const rates = [
       en: "Johnstons River",
       fr: "Johnstons River",
     },
-    rates: [],
+    province: "PE",
+    rates: [
+      { year: 2020, rate: 0.01 },
+      { year: 2021, rate: 0.01 },
+      { year: 2022, rate: 0.01 },
+      { year: 2023, rate: 0.01 },
+      { year: 2024, rate: 0.01 },
+    ],
   },
   {
     id: "2021A00051102016",
@@ -3189,7 +3737,14 @@ export const rates = [
       en: "Vernon River",
       fr: "Vernon River",
     },
-    rates: [],
+    province: "PE",
+    rates: [
+      { year: 2020, rate: 0.01 },
+      { year: 2021, rate: 0.01 },
+      { year: 2022, rate: 0.01 },
+      { year: 2023, rate: 0.01 },
+      { year: 2024, rate: 0.01 },
+    ],
   },
   {
     id: "2021A00051102017",
@@ -3197,6 +3752,7 @@ export const rates = [
       en: "New Glasgow",
       fr: "New Glasgow",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3205,6 +3761,7 @@ export const rates = [
       en: "Crapaud, Part 1",
       fr: "Crapaud, Part 1",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3213,6 +3770,7 @@ export const rates = [
       en: "North Rustico",
       fr: "North Rustico",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3221,6 +3779,7 @@ export const rates = [
       en: "North Wiltshire",
       fr: "North Wiltshire",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3229,6 +3788,7 @@ export const rates = [
       en: "Hampshire",
       fr: "Hampshire",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3237,6 +3797,7 @@ export const rates = [
       en: "Kingston",
       fr: "Kingston",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3245,6 +3806,7 @@ export const rates = [
       en: "Rocky Point 3",
       fr: "Rocky Point 3",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3253,6 +3815,7 @@ export const rates = [
       en: "Victoria",
       fr: "Victoria",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3261,6 +3824,7 @@ export const rates = [
       en: "Crapaud",
       fr: "Crapaud",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3269,6 +3833,7 @@ export const rates = [
       en: "Darlington",
       fr: "Darlington",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3277,6 +3842,7 @@ export const rates = [
       en: "Clyde River",
       fr: "Clyde River",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3285,6 +3851,7 @@ export const rates = [
       en: "Miltonvale Park",
       fr: "Miltonvale Park",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3293,6 +3860,7 @@ export const rates = [
       en: "Hunter River",
       fr: "Hunter River",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3301,6 +3869,7 @@ export const rates = [
       en: "Stanley Bridge, Hope River, Bayview, Cavendish and North Rustico",
       fr: "Stanley Bridge, Hope River, Bayview, Cavendish and North Rustico",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3309,6 +3878,7 @@ export const rates = [
       en: "North Rustico",
       fr: "North Rustico",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3317,6 +3887,7 @@ export const rates = [
       en: "Union Road",
       fr: "Union Road",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3325,6 +3896,7 @@ export const rates = [
       en: "Breadalbane",
       fr: "Breadalbane",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3333,6 +3905,7 @@ export const rates = [
       en: "Brackley",
       fr: "Brackley",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3341,6 +3914,7 @@ export const rates = [
       en: "Scotchfort 4",
       fr: "Scotchfort 4",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3349,6 +3923,7 @@ export const rates = [
       en: "Mount Stewart",
       fr: "Mount Stewart",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3357,6 +3932,7 @@ export const rates = [
       en: "York",
       fr: "York",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3365,6 +3941,7 @@ export const rates = [
       en: "East River, Part 1",
       fr: "East River, Part 1",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3373,6 +3950,7 @@ export const rates = [
       en: "Kensington, Part 2",
       fr: "Kensington, Part 2",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3381,6 +3959,7 @@ export const rates = [
       en: "North Shore",
       fr: "North Shore",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3389,6 +3968,7 @@ export const rates = [
       en: "West River",
       fr: "West River",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3397,6 +3977,7 @@ export const rates = [
       en: "Winsloe North",
       fr: "Winsloe North",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3405,6 +3986,7 @@ export const rates = [
       en: "Warren Grove",
       fr: "Warren Grove",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3413,6 +3995,7 @@ export const rates = [
       en: "New London",
       fr: "New London",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3421,6 +4004,7 @@ export const rates = [
       en: "North River",
       fr: "North River",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3429,6 +4013,7 @@ export const rates = [
       en: "North Shore",
       fr: "North Shore",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3437,6 +4022,7 @@ export const rates = [
       en: "Charlottetown",
       fr: "Charlottetown",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3445,6 +4031,7 @@ export const rates = [
       en: "Stratford",
       fr: "Stratford",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3453,6 +4040,7 @@ export const rates = [
       en: "Cornwall",
       fr: "Cornwall",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3461,6 +4049,7 @@ export const rates = [
       en: "Borden",
       fr: "Borden",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3469,6 +4058,7 @@ export const rates = [
       en: "Kinkora",
       fr: "Kinkora",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3477,6 +4067,7 @@ export const rates = [
       en: "Crapaud, Part 2",
       fr: "Crapaud, Part 2",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3485,6 +4076,7 @@ export const rates = [
       en: "Borden-Carleton",
       fr: "Borden-Carleton",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3493,6 +4085,7 @@ export const rates = [
       en: "Malpeque Bay",
       fr: "Malpeque Bay",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3501,6 +4094,7 @@ export const rates = [
       en: "Kinkora",
       fr: "Kinkora",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3509,6 +4103,7 @@ export const rates = [
       en: "Kensington",
       fr: "Kensington",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3517,6 +4112,7 @@ export const rates = [
       en: "Bedeque and Area",
       fr: "Bedeque and Area",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3525,6 +4121,7 @@ export const rates = [
       en: "Sherbrooke",
       fr: "Sherbrooke",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3533,6 +4130,7 @@ export const rates = [
       en: "Wellington",
       fr: "Wellington",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3541,6 +4139,7 @@ export const rates = [
       en: "Tyne Valley",
       fr: "Tyne Valley",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3549,6 +4148,7 @@ export const rates = [
       en: "St. Nicholas",
       fr: "St. Nicholas",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3557,6 +4157,7 @@ export const rates = [
       en: "Linkletter",
       fr: "Linkletter",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3565,6 +4166,7 @@ export const rates = [
       en: "Miscouche",
       fr: "Miscouche",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3573,6 +4175,7 @@ export const rates = [
       en: "Summerside",
       fr: "Summerside",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3581,7 +4184,14 @@ export const rates = [
       en: "Abram-Village",
       fr: "Abram-Village",
     },
-    rates: [],
+    province: "PE",
+    rates: [
+      { year: 2020, rate: 0.013 },
+      { year: 2021, rate: 0.013 },
+      { year: 2022, rate: 0.013 },
+      { year: 2023, rate: 0.013 },
+      { year: 2024, rate: 0.013 },
+    ],
   },
   {
     id: "2021A00051103029",
@@ -3589,6 +4199,7 @@ export const rates = [
       en: "Wellington",
       fr: "Wellington",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3597,6 +4208,7 @@ export const rates = [
       en: "Tyne Valley",
       fr: "Tyne Valley",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3605,6 +4217,7 @@ export const rates = [
       en: "Lennox Island 1",
       fr: "Lennox Island 1",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3613,6 +4226,7 @@ export const rates = [
       en: "Lot 11 and Area",
       fr: "Lot 11 and Area",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3621,6 +4235,7 @@ export const rates = [
       en: "Miscouche",
       fr: "Miscouche",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3629,6 +4244,7 @@ export const rates = [
       en: "O'Leary",
       fr: "O'Leary",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3637,6 +4253,7 @@ export const rates = [
       en: "Central Prince",
       fr: "Central Prince",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3645,6 +4262,7 @@ export const rates = [
       en: "Northport",
       fr: "Northport",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3653,7 +4271,14 @@ export const rates = [
       en: "Alberton",
       fr: "Alberton",
     },
-    rates: [],
+    province: "PE",
+    rates: [
+      { year: 2020, rate: 0.0156 },
+      { year: 2021, rate: 0.0156 },
+      { year: 2022, rate: 0.0156 },
+      { year: 2023, rate: 0.0156 },
+      { year: 2024, rate: 0.0156 },
+    ],
   },
   {
     id: "2021A00051103053",
@@ -3661,6 +4286,7 @@ export const rates = [
       en: "St. Felix",
       fr: "St. Felix",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3669,6 +4295,7 @@ export const rates = [
       en: "Greenmount-Montrose",
       fr: "Greenmount-Montrose",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3677,6 +4304,7 @@ export const rates = [
       en: "St. Louis",
       fr: "St. Louis",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3685,6 +4313,7 @@ export const rates = [
       en: "Tignish",
       fr: "Tignish",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3693,6 +4322,7 @@ export const rates = [
       en: "Tignish Shore",
       fr: "Tignish Shore",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3701,6 +4331,7 @@ export const rates = [
       en: "Tignish",
       fr: "Tignish",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3709,6 +4340,7 @@ export const rates = [
       en: "Miminegash",
       fr: "Miminegash",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3717,6 +4349,7 @@ export const rates = [
       en: "Miminegash",
       fr: "Miminegash",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3725,6 +4358,7 @@ export const rates = [
       en: "Alberton",
       fr: "Alberton",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3733,6 +4367,7 @@ export const rates = [
       en: "O'Leary",
       fr: "O'Leary",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3741,6 +4376,7 @@ export const rates = [
       en: "West Point",
       fr: "West Point",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3749,6 +4385,7 @@ export const rates = [
       en: "Kensington, Part 1",
       fr: "Kensington, Part 1",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3757,6 +4394,7 @@ export const rates = [
       en: "Victoria",
       fr: "Victoria",
     },
+    province: "PE",
     rates: [],
   },
   {
@@ -3765,6 +4403,7 @@ export const rates = [
       en: "Barrington",
       fr: "Barrington",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -3773,6 +4412,7 @@ export const rates = [
       en: "Clark's Harbour",
       fr: "Clark's Harbour",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -3781,6 +4421,7 @@ export const rates = [
       en: "Shelburne",
       fr: "Shelburne",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -3789,6 +4430,7 @@ export const rates = [
       en: "Shelburne",
       fr: "Shelburne",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -3797,6 +4439,7 @@ export const rates = [
       en: "Lockeport",
       fr: "Lockeport",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -3805,6 +4448,7 @@ export const rates = [
       en: "Argyle",
       fr: "Argyle",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -3813,6 +4457,7 @@ export const rates = [
       en: "Yarmouth",
       fr: "Yarmouth",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -3821,6 +4466,7 @@ export const rates = [
       en: "Yarmouth",
       fr: "Yarmouth",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -3829,6 +4475,7 @@ export const rates = [
       en: "Yarmouth 33",
       fr: "Yarmouth 33",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -3837,6 +4484,7 @@ export const rates = [
       en: "Clare",
       fr: "Clare",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -3845,6 +4493,7 @@ export const rates = [
       en: "Digby",
       fr: "Digby",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -3853,6 +4502,7 @@ export const rates = [
       en: "Digby",
       fr: "Digby",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -3861,6 +4511,7 @@ export const rates = [
       en: "Bear River (Part) 6",
       fr: "Bear River (Part) 6",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -3869,6 +4520,7 @@ export const rates = [
       en: "Medway River 11",
       fr: "Medway River 11",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -3877,6 +4529,7 @@ export const rates = [
       en: "Ponhook Lake 10",
       fr: "Ponhook Lake 10",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -3885,6 +4538,7 @@ export const rates = [
       en: "Queens",
       fr: "Queens",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -3893,6 +4547,7 @@ export const rates = [
       en: "Wildcat 12",
       fr: "Wildcat 12",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -3901,6 +4556,7 @@ export const rates = [
       en: "Annapolis, Subd. D",
       fr: "Annapolis, Subd. D",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -3909,6 +4565,7 @@ export const rates = [
       en: "Bear River (Part) 6",
       fr: "Bear River (Part) 6",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -3917,6 +4574,7 @@ export const rates = [
       en: "Annapolis, Subd. A",
       fr: "Annapolis, Subd. A",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -3925,6 +4583,7 @@ export const rates = [
       en: "Bear River 6B",
       fr: "Bear River 6B",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -3933,6 +4592,7 @@ export const rates = [
       en: "Annapolis Royal",
       fr: "Annapolis Royal",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -3941,6 +4601,7 @@ export const rates = [
       en: "Annapolis, Subd. B",
       fr: "Annapolis, Subd. B",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -3949,6 +4610,7 @@ export const rates = [
       en: "Annapolis, Subd. C",
       fr: "Annapolis, Subd. C",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -3957,6 +4619,7 @@ export const rates = [
       en: "Middleton",
       fr: "Middleton",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -3965,6 +4628,7 @@ export const rates = [
       en: "Lunenburg",
       fr: "Lunenburg",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -3973,6 +4637,7 @@ export const rates = [
       en: "Bridgewater",
       fr: "Bridgewater",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -3981,6 +4646,7 @@ export const rates = [
       en: "Lunenburg",
       fr: "Lunenburg",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -3989,6 +4655,7 @@ export const rates = [
       en: "Mahone Bay",
       fr: "Mahone Bay",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -3997,6 +4664,7 @@ export const rates = [
       en: "Chester",
       fr: "Chester",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4005,6 +4673,7 @@ export const rates = [
       en: "Gold River 21",
       fr: "Gold River 21",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4013,6 +4682,7 @@ export const rates = [
       en: "Pennal 19",
       fr: "Pennal 19",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4021,6 +4691,7 @@ export const rates = [
       en: "New Ross 20",
       fr: "New Ross 20",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4029,6 +4700,7 @@ export const rates = [
       en: "Kings, Subd. A",
       fr: "Kings, Subd. A",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4037,6 +4709,7 @@ export const rates = [
       en: "Annapolis Valley First Nation",
       fr: "Annapolis Valley First Nation",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4045,6 +4718,7 @@ export const rates = [
       en: "Berwick",
       fr: "Berwick",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4053,6 +4727,7 @@ export const rates = [
       en: "Kings, Subd. C",
       fr: "Kings, Subd. C",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4061,6 +4736,7 @@ export const rates = [
       en: "Kentville",
       fr: "Kentville",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4069,6 +4745,7 @@ export const rates = [
       en: "Kings, Subd. B",
       fr: "Kings, Subd. B",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4077,6 +4754,7 @@ export const rates = [
       en: "Kings, Subd. D",
       fr: "Kings, Subd. D",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4085,6 +4763,7 @@ export const rates = [
       en: "Wolfville",
       fr: "Wolfville",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4093,6 +4772,7 @@ export const rates = [
       en: "Glooscap 35",
       fr: "Glooscap 35",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4101,6 +4781,7 @@ export const rates = [
       en: "West Hants",
       fr: "West Hants",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4109,6 +4790,7 @@ export const rates = [
       en: "East Hants",
       fr: "East Hants",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4117,6 +4799,7 @@ export const rates = [
       en: "Indian Brook 14",
       fr: "Indian Brook 14",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4125,6 +4808,7 @@ export const rates = [
       en: "Cole Harbour 30",
       fr: "Cole Harbour 30",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4133,6 +4817,7 @@ export const rates = [
       en: "Halifax",
       fr: "Halifax",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4141,6 +4826,7 @@ export const rates = [
       en: "Beaver Lake 17",
       fr: "Beaver Lake 17",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4149,6 +4835,7 @@ export const rates = [
       en: "Sheet Harbour 36",
       fr: "Sheet Harbour 36",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4157,6 +4844,7 @@ export const rates = [
       en: "Wallace Hills 14A",
       fr: "Wallace Hills 14A",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4165,6 +4853,7 @@ export const rates = [
       en: "Colchester, Subd. C",
       fr: "Colchester, Subd. C",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4173,6 +4862,7 @@ export const rates = [
       en: "Stewiacke",
       fr: "Stewiacke",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4181,6 +4871,7 @@ export const rates = [
       en: "Millbrook 27",
       fr: "Millbrook 27",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4189,6 +4880,7 @@ export const rates = [
       en: "Truro",
       fr: "Truro",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4197,6 +4889,7 @@ export const rates = [
       en: "Colchester, Subd. B",
       fr: "Colchester, Subd. B",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4205,6 +4898,7 @@ export const rates = [
       en: "Colchester, Subd. A",
       fr: "Colchester, Subd. A",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4213,6 +4907,7 @@ export const rates = [
       en: "Cumberland, Subd. A",
       fr: "Cumberland, Subd. A",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4221,6 +4916,7 @@ export const rates = [
       en: "Cumberland, Subd. B",
       fr: "Cumberland, Subd. B",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4229,6 +4925,7 @@ export const rates = [
       en: "Cumberland, Subd. C",
       fr: "Cumberland, Subd. C",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4237,6 +4934,7 @@ export const rates = [
       en: "Amherst",
       fr: "Amherst",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4245,6 +4943,7 @@ export const rates = [
       en: "Oxford",
       fr: "Oxford",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4253,6 +4952,7 @@ export const rates = [
       en: "Cumberland, Subd. D",
       fr: "Cumberland, Subd. D",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4261,6 +4961,7 @@ export const rates = [
       en: "Pictou, Subd. A",
       fr: "Pictou, Subd. A",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4269,6 +4970,7 @@ export const rates = [
       en: "Pictou",
       fr: "Pictou",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4277,6 +4979,7 @@ export const rates = [
       en: "Pictou, Subd. B",
       fr: "Pictou, Subd. B",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4285,6 +4988,7 @@ export const rates = [
       en: "Westville",
       fr: "Westville",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4293,6 +4997,7 @@ export const rates = [
       en: "Stellarton",
       fr: "Stellarton",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4301,6 +5006,7 @@ export const rates = [
       en: "Pictou, Subd. C",
       fr: "Pictou, Subd. C",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4309,6 +5015,7 @@ export const rates = [
       en: "New Glasgow",
       fr: "New Glasgow",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4317,6 +5024,7 @@ export const rates = [
       en: "Trenton",
       fr: "Trenton",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4325,6 +5033,7 @@ export const rates = [
       en: "Fisher's Grant 24",
       fr: "Fisher's Grant 24",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4333,6 +5042,7 @@ export const rates = [
       en: "Merigomish Harbour 31",
       fr: "Merigomish Harbour 31",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4341,6 +5051,7 @@ export const rates = [
       en: "St. Mary's",
       fr: "St. Mary's",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4349,6 +5060,7 @@ export const rates = [
       en: "Guysborough",
       fr: "Guysborough",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4357,6 +5069,7 @@ export const rates = [
       en: "Mulgrave",
       fr: "Mulgrave",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4365,6 +5078,7 @@ export const rates = [
       en: "Antigonish, Subd. A",
       fr: "Antigonish, Subd. A",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4373,6 +5087,7 @@ export const rates = [
       en: "Antigonish",
       fr: "Antigonish",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4381,6 +5096,7 @@ export const rates = [
       en: "Antigonish, Subd. B",
       fr: "Antigonish, Subd. B",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4389,6 +5105,7 @@ export const rates = [
       en: "Paqtnkek-Niktuek No. 23",
       fr: "Paqtnkek-Niktuek No. 23",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4397,6 +5114,7 @@ export const rates = [
       en: "Inverness, Subd. C",
       fr: "Inverness, Subd. C",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4405,6 +5123,7 @@ export const rates = [
       en: "Port Hawkesbury",
       fr: "Port Hawkesbury",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4413,6 +5132,7 @@ export const rates = [
       en: "Malagawatch 4",
       fr: "Malagawatch 4",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4421,6 +5141,7 @@ export const rates = [
       en: "Inverness, Subd. B",
       fr: "Inverness, Subd. B",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4429,6 +5150,7 @@ export const rates = [
       en: "Whycocomagh 2",
       fr: "Whycocomagh 2",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4437,6 +5159,7 @@ export const rates = [
       en: "Inverness, Subd. A",
       fr: "Inverness, Subd. A",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4445,6 +5168,7 @@ export const rates = [
       en: "Richmond, Subd. C",
       fr: "Richmond, Subd. C",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4453,6 +5177,7 @@ export const rates = [
       en: "Richmond, Subd. A",
       fr: "Richmond, Subd. A",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4461,6 +5186,7 @@ export const rates = [
       en: "Richmond, Subd. B",
       fr: "Richmond, Subd. B",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4469,6 +5195,7 @@ export const rates = [
       en: "Chapel Island 5",
       fr: "Chapel Island 5",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4477,6 +5204,7 @@ export const rates = [
       en: "Membertou 28B",
       fr: "Membertou 28B",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4485,6 +5213,7 @@ export const rates = [
       en: "Eskasoni 3",
       fr: "Eskasoni 3",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4493,6 +5222,7 @@ export const rates = [
       en: "Cape Breton",
       fr: "Cape Breton",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4501,6 +5231,7 @@ export const rates = [
       en: "Victoria, Subd. B",
       fr: "Victoria, Subd. B",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4509,6 +5240,7 @@ export const rates = [
       en: "Wagmatcook 1",
       fr: "Wagmatcook 1",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4517,6 +5249,7 @@ export const rates = [
       en: "Victoria, Subd. A",
       fr: "Victoria, Subd. A",
     },
+    province: "NS",
     rates: [],
   },
   {
@@ -4525,6 +5258,7 @@ export const rates = [
       en: "Saint Martins",
       fr: "Saint Martins",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4533,6 +5267,7 @@ export const rates = [
       en: "St. Martins",
       fr: "St. Martins",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4541,6 +5276,7 @@ export const rates = [
       en: "Simonds",
       fr: "Simonds",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4549,6 +5285,7 @@ export const rates = [
       en: "Saint John",
       fr: "Saint John",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4557,6 +5294,7 @@ export const rates = [
       en: "Musquash",
       fr: "Musquash",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4565,6 +5303,7 @@ export const rates = [
       en: "Grand Manan",
       fr: "Grand Manan",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4573,6 +5312,7 @@ export const rates = [
       en: "Campobello Island",
       fr: "Campobello Island",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4581,6 +5321,7 @@ export const rates = [
       en: "West Isles",
       fr: "West Isles",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4589,6 +5330,7 @@ export const rates = [
       en: "Lepreau",
       fr: "Lepreau",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4597,6 +5339,7 @@ export const rates = [
       en: "Pennfield",
       fr: "Pennfield",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4605,6 +5348,7 @@ export const rates = [
       en: "Blacks Harbour",
       fr: "Blacks Harbour",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4613,6 +5357,7 @@ export const rates = [
       en: "Clarendon",
       fr: "Clarendon",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4621,6 +5366,7 @@ export const rates = [
       en: "Saint George",
       fr: "Saint George",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4629,6 +5375,7 @@ export const rates = [
       en: "St. George",
       fr: "St. George",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4637,6 +5384,7 @@ export const rates = [
       en: "Saint Patrick",
       fr: "Saint Patrick",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4645,6 +5393,7 @@ export const rates = [
       en: "Saint Andrews",
       fr: "Saint Andrews",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4653,6 +5402,7 @@ export const rates = [
       en: "Saint Andrews",
       fr: "Saint Andrews",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4661,6 +5411,7 @@ export const rates = [
       en: "Saint Croix",
       fr: "Saint Croix",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4669,6 +5420,7 @@ export const rates = [
       en: "Dufferin",
       fr: "Dufferin",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4677,6 +5429,7 @@ export const rates = [
       en: "Saint Stephen",
       fr: "Saint Stephen",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4685,6 +5438,7 @@ export const rates = [
       en: "St. Stephen",
       fr: "St. Stephen",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4693,6 +5447,7 @@ export const rates = [
       en: "Saint James",
       fr: "Saint James",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4701,6 +5456,7 @@ export const rates = [
       en: "Saint David",
       fr: "Saint David",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4709,6 +5465,7 @@ export const rates = [
       en: "Dumbarton",
       fr: "Dumbarton",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4717,6 +5474,7 @@ export const rates = [
       en: "Grand Manan",
       fr: "Grand Manan",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4725,6 +5483,7 @@ export const rates = [
       en: "Blissville",
       fr: "Blissville",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4733,6 +5492,7 @@ export const rates = [
       en: "Gladstone",
       fr: "Gladstone",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4741,6 +5501,7 @@ export const rates = [
       en: "Tracy",
       fr: "Tracy",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4749,6 +5510,7 @@ export const rates = [
       en: "Fredericton Junction",
       fr: "Fredericton Junction",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4757,6 +5519,7 @@ export const rates = [
       en: "Lincoln",
       fr: "Lincoln",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4765,6 +5528,7 @@ export const rates = [
       en: "Burton",
       fr: "Burton",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4773,6 +5537,7 @@ export const rates = [
       en: "Oromocto",
       fr: "Oromocto",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4781,6 +5546,7 @@ export const rates = [
       en: "Oromocto 26",
       fr: "Oromocto 26",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4789,6 +5555,7 @@ export const rates = [
       en: "Sheffield",
       fr: "Sheffield",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4797,6 +5564,7 @@ export const rates = [
       en: "Maugerville",
       fr: "Maugerville",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4805,6 +5573,7 @@ export const rates = [
       en: "Northfield",
       fr: "Northfield",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4813,6 +5582,7 @@ export const rates = [
       en: "Petersville",
       fr: "Petersville",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4821,6 +5591,7 @@ export const rates = [
       en: "Gagetown",
       fr: "Gagetown",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4829,6 +5600,7 @@ export const rates = [
       en: "Gagetown",
       fr: "Gagetown",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4837,6 +5609,7 @@ export const rates = [
       en: "Hampstead",
       fr: "Hampstead",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4845,6 +5618,7 @@ export const rates = [
       en: "Wickham",
       fr: "Wickham",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4853,6 +5627,7 @@ export const rates = [
       en: "Cambridge",
       fr: "Cambridge",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4861,6 +5636,7 @@ export const rates = [
       en: "Cambridge-Narrows",
       fr: "Cambridge-Narrows",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4869,6 +5645,7 @@ export const rates = [
       en: "Johnston",
       fr: "Johnston",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4877,6 +5654,7 @@ export const rates = [
       en: "Brunswick",
       fr: "Brunswick",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4885,6 +5663,7 @@ export const rates = [
       en: "Waterborough",
       fr: "Waterborough",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4893,6 +5672,7 @@ export const rates = [
       en: "Canning",
       fr: "Canning",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4901,6 +5681,7 @@ export const rates = [
       en: "Minto",
       fr: "Minto",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4909,6 +5690,7 @@ export const rates = [
       en: "Chipman",
       fr: "Chipman",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4917,6 +5699,7 @@ export const rates = [
       en: "Chipman",
       fr: "Chipman",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4925,6 +5708,7 @@ export const rates = [
       en: "Hammond",
       fr: "Hammond",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4933,6 +5717,7 @@ export const rates = [
       en: "Upham",
       fr: "Upham",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4941,6 +5726,7 @@ export const rates = [
       en: "Hampton",
       fr: "Hampton",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4949,6 +5735,7 @@ export const rates = [
       en: "Hampton",
       fr: "Hampton",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4957,6 +5744,7 @@ export const rates = [
       en: "Rothesay",
       fr: "Rothesay",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4965,6 +5753,7 @@ export const rates = [
       en: "Westfield",
       fr: "Westfield",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4973,6 +5762,7 @@ export const rates = [
       en: "Kingston",
       fr: "Kingston",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4981,6 +5771,7 @@ export const rates = [
       en: "Grand Bay-Westfield",
       fr: "Grand Bay-Westfield",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4989,6 +5780,7 @@ export const rates = [
       en: "Norton",
       fr: "Norton",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -4997,6 +5789,7 @@ export const rates = [
       en: "Norton",
       fr: "Norton",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5005,6 +5798,7 @@ export const rates = [
       en: "Sussex",
       fr: "Sussex",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5013,6 +5807,7 @@ export const rates = [
       en: "Sussex",
       fr: "Sussex",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5021,6 +5816,7 @@ export const rates = [
       en: "Sussex Corner",
       fr: "Sussex Corner",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5029,6 +5825,7 @@ export const rates = [
       en: "Waterford",
       fr: "Waterford",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5037,6 +5834,7 @@ export const rates = [
       en: "Cardwell",
       fr: "Cardwell",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5045,6 +5843,7 @@ export const rates = [
       en: "Havelock",
       fr: "Havelock",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5053,6 +5852,7 @@ export const rates = [
       en: "Studholm",
       fr: "Studholm",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5061,6 +5861,7 @@ export const rates = [
       en: "Springfield",
       fr: "Springfield",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5069,6 +5870,7 @@ export const rates = [
       en: "Kars",
       fr: "Kars",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5077,6 +5879,7 @@ export const rates = [
       en: "Greenwich",
       fr: "Greenwich",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5085,6 +5888,7 @@ export const rates = [
       en: "Rothesay",
       fr: "Rothesay",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5093,6 +5897,7 @@ export const rates = [
       en: "Quispamsis",
       fr: "Quispamsis",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5101,6 +5906,7 @@ export const rates = [
       en: "Hopewell",
       fr: "Hopewell",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5109,6 +5915,7 @@ export const rates = [
       en: "Riverside-Albert",
       fr: "Riverside-Albert",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5117,6 +5924,7 @@ export const rates = [
       en: "Harvey",
       fr: "Harvey",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5125,6 +5933,7 @@ export const rates = [
       en: "Alma",
       fr: "Alma",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5133,6 +5942,7 @@ export const rates = [
       en: "Alma",
       fr: "Alma",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5141,6 +5951,7 @@ export const rates = [
       en: "Elgin",
       fr: "Elgin",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5149,6 +5960,7 @@ export const rates = [
       en: "Hillsborough",
       fr: "Hillsborough",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5157,6 +5969,7 @@ export const rates = [
       en: "Coverdale",
       fr: "Coverdale",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5165,6 +5978,7 @@ export const rates = [
       en: "Riverview",
       fr: "Riverview",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5173,6 +5987,7 @@ export const rates = [
       en: "Hillsborough",
       fr: "Hillsborough",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5181,6 +5996,7 @@ export const rates = [
       en: "Westmorland",
       fr: "Westmorland",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5189,6 +6005,7 @@ export const rates = [
       en: "Port Elgin",
       fr: "Port Elgin",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5197,6 +6014,7 @@ export const rates = [
       en: "Botsford",
       fr: "Botsford",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5205,6 +6023,7 @@ export const rates = [
       en: "Beaubassin East / Beaubassin-est",
       fr: "Beaubassin East / Beaubassin-est",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5213,6 +6032,7 @@ export const rates = [
       en: "Cap-Pelé",
       fr: "Cap-Pelé",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5221,6 +6041,7 @@ export const rates = [
       en: "Sackville",
       fr: "Sackville",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5229,6 +6050,7 @@ export const rates = [
       en: "Sackville",
       fr: "Sackville",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5237,6 +6059,7 @@ export const rates = [
       en: "Dorchester",
       fr: "Dorchester",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5245,6 +6068,7 @@ export const rates = [
       en: "Dorchester",
       fr: "Dorchester",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5253,6 +6077,7 @@ export const rates = [
       en: "Memramcook",
       fr: "Memramcook",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5261,6 +6086,7 @@ export const rates = [
       en: "Fort Folly 1",
       fr: "Fort Folly 1",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5269,6 +6095,7 @@ export const rates = [
       en: "Shediac",
       fr: "Shediac",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5277,6 +6104,7 @@ export const rates = [
       en: "Moncton",
       fr: "Moncton",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5285,6 +6113,7 @@ export const rates = [
       en: "Moncton",
       fr: "Moncton",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5293,6 +6122,7 @@ export const rates = [
       en: "Salisbury",
       fr: "Salisbury",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5301,6 +6131,7 @@ export const rates = [
       en: "Salisbury",
       fr: "Salisbury",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5309,6 +6140,7 @@ export const rates = [
       en: "Petitcodiac",
       fr: "Petitcodiac",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5317,6 +6149,7 @@ export const rates = [
       en: "Dieppe",
       fr: "Dieppe",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5325,6 +6158,7 @@ export const rates = [
       en: "Shediac",
       fr: "Shediac",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5333,6 +6167,7 @@ export const rates = [
       en: "Dundas",
       fr: "Dundas",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5341,6 +6176,7 @@ export const rates = [
       en: "Cocagne",
       fr: "Cocagne",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5349,6 +6185,7 @@ export const rates = [
       en: "Buctouche 16",
       fr: "Buctouche 16",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5357,6 +6194,7 @@ export const rates = [
       en: "Wellington",
       fr: "Wellington",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5365,6 +6203,7 @@ export const rates = [
       en: "Bouctouche",
       fr: "Bouctouche",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5373,6 +6212,7 @@ export const rates = [
       en: "Saint Mary",
       fr: "Saint Mary",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5381,6 +6221,7 @@ export const rates = [
       en: "Saint-Antoine",
       fr: "Saint-Antoine",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5389,6 +6230,7 @@ export const rates = [
       en: "Saint-Paul",
       fr: "Saint-Paul",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5397,6 +6239,7 @@ export const rates = [
       en: "Harcourt",
       fr: "Harcourt",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5405,6 +6248,7 @@ export const rates = [
       en: "Huskisson",
       fr: "Huskisson",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5413,6 +6257,7 @@ export const rates = [
       en: "Weldford",
       fr: "Weldford",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5421,6 +6266,7 @@ export const rates = [
       en: "Richibucto 15",
       fr: "Richibucto 15",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5429,6 +6275,7 @@ export const rates = [
       en: "Richibucto",
       fr: "Richibucto",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5437,6 +6284,7 @@ export const rates = [
       en: "Rexton",
       fr: "Rexton",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5445,6 +6293,7 @@ export const rates = [
       en: "Richibucto",
       fr: "Richibucto",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5453,6 +6302,7 @@ export const rates = [
       en: "Saint-Charles",
       fr: "Saint-Charles",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5461,6 +6311,7 @@ export const rates = [
       en: "Indian Island 28",
       fr: "Indian Island 28",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5469,6 +6320,7 @@ export const rates = [
       en: "Saint-Louis",
       fr: "Saint-Louis",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5477,6 +6329,7 @@ export const rates = [
       en: "Saint-Louis de Kent",
       fr: "Saint-Louis de Kent",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5485,6 +6338,7 @@ export const rates = [
       en: "Acadieville",
       fr: "Acadieville",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5493,6 +6347,7 @@ export const rates = [
       en: "Carleton",
       fr: "Carleton",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5501,6 +6356,7 @@ export const rates = [
       en: "Hardwicke",
       fr: "Hardwicke",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5509,6 +6365,7 @@ export const rates = [
       en: "Glenelg",
       fr: "Glenelg",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5517,6 +6374,7 @@ export const rates = [
       en: "Chatham",
       fr: "Chatham",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5525,6 +6383,7 @@ export const rates = [
       en: "Renous 12",
       fr: "Renous 12",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5533,6 +6392,7 @@ export const rates = [
       en: "Derby",
       fr: "Derby",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5541,6 +6401,7 @@ export const rates = [
       en: "Nelson",
       fr: "Nelson",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5549,6 +6410,7 @@ export const rates = [
       en: "Rogersville",
       fr: "Rogersville",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5557,6 +6419,7 @@ export const rates = [
       en: "Rogersville",
       fr: "Rogersville",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5565,6 +6428,7 @@ export const rates = [
       en: "Blackville",
       fr: "Blackville",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5573,6 +6437,7 @@ export const rates = [
       en: "Blackville",
       fr: "Blackville",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5581,6 +6446,7 @@ export const rates = [
       en: "Blissfield",
       fr: "Blissfield",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5589,6 +6455,7 @@ export const rates = [
       en: "Doaktown",
       fr: "Doaktown",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5597,6 +6464,7 @@ export const rates = [
       en: "Red Bank 4",
       fr: "Red Bank 4",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5605,6 +6473,7 @@ export const rates = [
       en: "Southesk",
       fr: "Southesk",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5613,6 +6482,7 @@ export const rates = [
       en: "Upper Miramichi",
       fr: "Upper Miramichi",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5621,6 +6491,7 @@ export const rates = [
       en: "Northesk",
       fr: "Northesk",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5629,6 +6500,7 @@ export const rates = [
       en: "Newcastle",
       fr: "Newcastle",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5637,6 +6509,7 @@ export const rates = [
       en: "Big Hole Tract 8 (North Half)",
       fr: "Big Hole Tract 8 (North Half)",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5645,6 +6518,7 @@ export const rates = [
       en: "Big Hole Tract 8 (South Half)",
       fr: "Big Hole Tract 8 (South Half)",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5653,6 +6527,7 @@ export const rates = [
       en: "Eel Ground 2",
       fr: "Eel Ground 2",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5661,6 +6536,7 @@ export const rates = [
       en: "Alnwick",
       fr: "Alnwick",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5669,6 +6545,7 @@ export const rates = [
       en: "Neguac",
       fr: "Neguac",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5677,6 +6554,7 @@ export const rates = [
       en: "Esgenoôpetitj 14",
       fr: "Esgenoôpetitj 14",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5685,6 +6563,7 @@ export const rates = [
       en: "Tabusintac 9",
       fr: "Tabusintac 9",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5693,6 +6572,7 @@ export const rates = [
       en: "Miramichi",
       fr: "Miramichi",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5701,6 +6581,7 @@ export const rates = [
       en: "New Maryland",
       fr: "New Maryland",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5709,6 +6590,7 @@ export const rates = [
       en: "New Maryland",
       fr: "New Maryland",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5717,6 +6599,7 @@ export const rates = [
       en: "Manners Sutton",
       fr: "Manners Sutton",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5725,6 +6608,7 @@ export const rates = [
       en: "Harvey",
       fr: "Harvey",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5733,6 +6617,7 @@ export const rates = [
       en: "McAdam",
       fr: "McAdam",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5741,6 +6626,7 @@ export const rates = [
       en: "McAdam",
       fr: "McAdam",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5749,6 +6635,7 @@ export const rates = [
       en: "North Lake",
       fr: "North Lake",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5757,6 +6644,7 @@ export const rates = [
       en: "Canterbury",
       fr: "Canterbury",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5765,6 +6653,7 @@ export const rates = [
       en: "Canterbury",
       fr: "Canterbury",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5773,6 +6662,7 @@ export const rates = [
       en: "Meductic",
       fr: "Meductic",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5781,6 +6671,7 @@ export const rates = [
       en: "Dumfries",
       fr: "Dumfries",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5789,6 +6680,7 @@ export const rates = [
       en: "Prince William",
       fr: "Prince William",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5797,6 +6689,7 @@ export const rates = [
       en: "Hanwell",
       fr: "Hanwell",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5805,6 +6698,7 @@ export const rates = [
       en: "Kingsclear",
       fr: "Kingsclear",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5813,6 +6707,7 @@ export const rates = [
       en: "Kingsclear 6",
       fr: "Kingsclear 6",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5821,6 +6716,7 @@ export const rates = [
       en: "Queensbury",
       fr: "Queensbury",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5829,6 +6725,7 @@ export const rates = [
       en: "Southampton",
       fr: "Southampton",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5837,6 +6734,7 @@ export const rates = [
       en: "Millville",
       fr: "Millville",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5845,6 +6743,7 @@ export const rates = [
       en: "Bright",
       fr: "Bright",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5853,6 +6752,7 @@ export const rates = [
       en: "Douglas",
       fr: "Douglas",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5861,6 +6761,7 @@ export const rates = [
       en: "Saint Marys",
       fr: "Saint Marys",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5869,6 +6770,7 @@ export const rates = [
       en: "Fredericton",
       fr: "Fredericton",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5877,6 +6779,7 @@ export const rates = [
       en: "Devon 30",
       fr: "Devon 30",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5885,6 +6788,7 @@ export const rates = [
       en: "Stanley",
       fr: "Stanley",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5893,6 +6797,7 @@ export const rates = [
       en: "Stanley",
       fr: "Stanley",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5901,6 +6806,7 @@ export const rates = [
       en: "Nackawic",
       fr: "Nackawic",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5909,6 +6815,7 @@ export const rates = [
       en: "Richmond",
       fr: "Richmond",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5917,6 +6824,7 @@ export const rates = [
       en: "Woodstock",
       fr: "Woodstock",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5925,6 +6833,7 @@ export const rates = [
       en: "Woodstock 23",
       fr: "Woodstock 23",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5933,6 +6842,7 @@ export const rates = [
       en: "Woodstock",
       fr: "Woodstock",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5941,6 +6851,7 @@ export const rates = [
       en: "Northampton",
       fr: "Northampton",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5949,6 +6860,7 @@ export const rates = [
       en: "Brighton",
       fr: "Brighton",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5957,6 +6869,7 @@ export const rates = [
       en: "Hartland",
       fr: "Hartland",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5965,6 +6878,7 @@ export const rates = [
       en: "Wakefield",
       fr: "Wakefield",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5973,6 +6887,7 @@ export const rates = [
       en: "Wilmot",
       fr: "Wilmot",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5981,6 +6896,7 @@ export const rates = [
       en: "Centreville",
       fr: "Centreville",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5989,6 +6905,7 @@ export const rates = [
       en: "Simonds",
       fr: "Simonds",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -5997,6 +6914,7 @@ export const rates = [
       en: "Peel",
       fr: "Peel",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6005,6 +6923,7 @@ export const rates = [
       en: "Aberdeen",
       fr: "Aberdeen",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6013,6 +6932,7 @@ export const rates = [
       en: "Florenceville-Bristol",
       fr: "Florenceville-Bristol",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6021,6 +6941,7 @@ export const rates = [
       en: "Kent",
       fr: "Kent",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6029,6 +6950,7 @@ export const rates = [
       en: "Bath",
       fr: "Bath",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6037,6 +6959,7 @@ export const rates = [
       en: "Wicklow",
       fr: "Wicklow",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6045,6 +6968,7 @@ export const rates = [
       en: "Andover",
       fr: "Andover",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6053,6 +6977,7 @@ export const rates = [
       en: "Aroostook",
       fr: "Aroostook",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6061,6 +6986,7 @@ export const rates = [
       en: "Perth",
       fr: "Perth",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6069,6 +6995,7 @@ export const rates = [
       en: "Perth-Andover",
       fr: "Perth-Andover",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6077,6 +7004,7 @@ export const rates = [
       en: "Tobique 20",
       fr: "Tobique 20",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6085,6 +7013,7 @@ export const rates = [
       en: "Gordon",
       fr: "Gordon",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6093,6 +7022,7 @@ export const rates = [
       en: "Plaster Rock",
       fr: "Plaster Rock",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6101,6 +7031,7 @@ export const rates = [
       en: "Lorne",
       fr: "Lorne",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6109,6 +7040,7 @@ export const rates = [
       en: "Denmark",
       fr: "Denmark",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6117,6 +7049,7 @@ export const rates = [
       en: "Grand Falls",
       fr: "Grand Falls",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6125,6 +7058,7 @@ export const rates = [
       en: "Grand Falls / Grand-Sault",
       fr: "Grand Falls / Grand-Sault",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6133,6 +7067,7 @@ export const rates = [
       en: "Drummond",
       fr: "Drummond",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6141,6 +7076,7 @@ export const rates = [
       en: "Drummond",
       fr: "Drummond",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6149,6 +7085,7 @@ export const rates = [
       en: "Saint-André",
       fr: "Saint-André",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6157,6 +7094,7 @@ export const rates = [
       en: "Saint-Léonard",
       fr: "Saint-Léonard",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6165,6 +7103,7 @@ export const rates = [
       en: "Saint-Léonard",
       fr: "Saint-Léonard",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6173,6 +7112,7 @@ export const rates = [
       en: "Notre-Dame-de-Lourdes",
       fr: "Notre-Dame-de-Lourdes",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6181,6 +7121,7 @@ export const rates = [
       en: "Sainte-Anne",
       fr: "Sainte-Anne",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6189,6 +7130,7 @@ export const rates = [
       en: "Sainte-Anne-de-Madawaska",
       fr: "Sainte-Anne-de-Madawaska",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6197,6 +7139,7 @@ export const rates = [
       en: "Rivière-Verte",
       fr: "Rivière-Verte",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6205,6 +7148,7 @@ export const rates = [
       en: "Rivière-Verte",
       fr: "Rivière-Verte",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6213,6 +7157,7 @@ export const rates = [
       en: "Saint-Basile",
       fr: "Saint-Basile",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6221,6 +7166,7 @@ export const rates = [
       en: "St. Basile 10",
       fr: "St. Basile 10",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6229,6 +7175,7 @@ export const rates = [
       en: "Saint-Joseph",
       fr: "Saint-Joseph",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6237,6 +7184,7 @@ export const rates = [
       en: "Saint-Jacques",
       fr: "Saint-Jacques",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6245,6 +7193,7 @@ export const rates = [
       en: "Edmundston",
       fr: "Edmundston",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6253,6 +7202,7 @@ export const rates = [
       en: "Madawaska",
       fr: "Madawaska",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6261,6 +7211,7 @@ export const rates = [
       en: "Haut-Madawaska",
       fr: "Haut-Madawaska",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6269,6 +7220,7 @@ export const rates = [
       en: "Lac Baker",
       fr: "Lac Baker",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6277,6 +7229,7 @@ export const rates = [
       en: "Durham",
       fr: "Durham",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6285,6 +7238,7 @@ export const rates = [
       en: "Colborne",
       fr: "Colborne",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6293,6 +7247,7 @@ export const rates = [
       en: "Charlo",
       fr: "Charlo",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6301,6 +7256,7 @@ export const rates = [
       en: "Balmoral",
       fr: "Balmoral",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6309,6 +7265,7 @@ export const rates = [
       en: "Balmoral",
       fr: "Balmoral",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6317,6 +7274,7 @@ export const rates = [
       en: "Dalhousie",
       fr: "Dalhousie",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6325,6 +7283,7 @@ export const rates = [
       en: "Eel River 3",
       fr: "Eel River 3",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6333,6 +7292,7 @@ export const rates = [
       en: "Eel River Crossing",
       fr: "Eel River Crossing",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6341,6 +7301,7 @@ export const rates = [
       en: "Addington",
       fr: "Addington",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6349,6 +7310,7 @@ export const rates = [
       en: "Atholville",
       fr: "Atholville",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6357,6 +7319,7 @@ export const rates = [
       en: "Campbellton",
       fr: "Campbellton",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6365,6 +7328,7 @@ export const rates = [
       en: "Tide Head",
       fr: "Tide Head",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6373,6 +7337,7 @@ export const rates = [
       en: "Eldon",
       fr: "Eldon",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6381,6 +7346,7 @@ export const rates = [
       en: "Dalhousie",
       fr: "Dalhousie",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6389,6 +7355,7 @@ export const rates = [
       en: "Kedgwick",
       fr: "Kedgwick",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6397,6 +7364,7 @@ export const rates = [
       en: "Saint-Quentin",
       fr: "Saint-Quentin",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6405,6 +7373,7 @@ export const rates = [
       en: "Saint-Quentin",
       fr: "Saint-Quentin",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6413,6 +7382,7 @@ export const rates = [
       en: "Belledune",
       fr: "Belledune",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6421,6 +7391,7 @@ export const rates = [
       en: "Indian Ranch",
       fr: "Indian Ranch",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6429,6 +7400,7 @@ export const rates = [
       en: "Tracadie",
       fr: "Tracadie",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6437,6 +7409,7 @@ export const rates = [
       en: "Allardville",
       fr: "Allardville",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6445,6 +7418,7 @@ export const rates = [
       en: "Bathurst",
       fr: "Bathurst",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6453,6 +7427,7 @@ export const rates = [
       en: "Pabineau 11",
       fr: "Pabineau 11",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6461,6 +7436,7 @@ export const rates = [
       en: "Bathurst",
       fr: "Bathurst",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6469,6 +7445,7 @@ export const rates = [
       en: "Beresford",
       fr: "Beresford",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6477,6 +7454,7 @@ export const rates = [
       en: "Pointe-Verte",
       fr: "Pointe-Verte",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6485,6 +7463,7 @@ export const rates = [
       en: "Petit-Rocher",
       fr: "Petit-Rocher",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6493,6 +7472,7 @@ export const rates = [
       en: "Beresford",
       fr: "Beresford",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6501,6 +7481,7 @@ export const rates = [
       en: "New Bandon",
       fr: "New Bandon",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6509,6 +7490,7 @@ export const rates = [
       en: "Saint-Léolin",
       fr: "Saint-Léolin",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6517,6 +7499,7 @@ export const rates = [
       en: "Paquetville",
       fr: "Paquetville",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6525,6 +7508,7 @@ export const rates = [
       en: "Paquetville",
       fr: "Paquetville",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6533,6 +7517,7 @@ export const rates = [
       en: "Saint-Isidore",
       fr: "Saint-Isidore",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6541,6 +7526,7 @@ export const rates = [
       en: "Saint-Isidore",
       fr: "Saint-Isidore",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6549,6 +7535,7 @@ export const rates = [
       en: "Inkerman",
       fr: "Inkerman",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6557,6 +7544,7 @@ export const rates = [
       en: "Caraquet",
       fr: "Caraquet",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6565,6 +7553,7 @@ export const rates = [
       en: "Bas-Caraquet",
       fr: "Bas-Caraquet",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6573,6 +7562,7 @@ export const rates = [
       en: "Caraquet",
       fr: "Caraquet",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6581,6 +7571,7 @@ export const rates = [
       en: "Shippagan",
       fr: "Shippagan",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6589,6 +7580,7 @@ export const rates = [
       en: "Le Goulet",
       fr: "Le Goulet",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6597,6 +7589,7 @@ export const rates = [
       en: "Shippagan",
       fr: "Shippagan",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6605,6 +7598,7 @@ export const rates = [
       en: "Lamèque",
       fr: "Lamèque",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6613,6 +7607,7 @@ export const rates = [
       en: "Sainte-Marie-Saint-Raphaël",
       fr: "Sainte-Marie-Saint-Raphaël",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6621,6 +7616,7 @@ export const rates = [
       en: "Bertrand",
       fr: "Bertrand",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6629,6 +7625,7 @@ export const rates = [
       en: "Nigadoo",
       fr: "Nigadoo",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6637,6 +7634,7 @@ export const rates = [
       en: "Grande-Anse",
       fr: "Grande-Anse",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6645,6 +7643,7 @@ export const rates = [
       en: "Maisonnette",
       fr: "Maisonnette",
     },
+    province: "NB",
     rates: [],
   },
   {
@@ -6653,6 +7652,7 @@ export const rates = [
       en: "Les Îles-de-la-Madeleine",
       fr: "Les Îles-de-la-Madeleine",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6661,6 +7661,7 @@ export const rates = [
       en: "Grosse-Île",
       fr: "Grosse-Île",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6669,6 +7670,7 @@ export const rates = [
       en: "Percé",
       fr: "Percé",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6677,6 +7679,7 @@ export const rates = [
       en: "Sainte-Thérèse-de-Gaspé",
       fr: "Sainte-Thérèse-de-Gaspé",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6685,6 +7688,7 @@ export const rates = [
       en: "Grande-Rivière",
       fr: "Grande-Rivière",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6693,6 +7697,7 @@ export const rates = [
       en: "Chandler",
       fr: "Chandler",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6701,6 +7706,7 @@ export const rates = [
       en: "Port-Daniel--Gascons",
       fr: "Port-Daniel--Gascons",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6709,6 +7715,7 @@ export const rates = [
       en: "Mont-Alexandre",
       fr: "Mont-Alexandre",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6717,6 +7724,7 @@ export const rates = [
       en: "Gaspé",
       fr: "Gaspé",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6725,6 +7733,7 @@ export const rates = [
       en: "Cloridorme",
       fr: "Cloridorme",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6733,6 +7742,7 @@ export const rates = [
       en: "Petite-Vallée",
       fr: "Petite-Vallée",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6741,6 +7751,7 @@ export const rates = [
       en: "Grande-Vallée",
       fr: "Grande-Vallée",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6749,6 +7760,7 @@ export const rates = [
       en: "Murdochville",
       fr: "Murdochville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6757,6 +7769,7 @@ export const rates = [
       en: "Rivière-Saint-Jean",
       fr: "Rivière-Saint-Jean",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6765,6 +7778,7 @@ export const rates = [
       en: "Collines-du-Basque",
       fr: "Collines-du-Basque",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6773,6 +7787,7 @@ export const rates = [
       en: "Sainte-Madeleine-de-la-Rivière-Madeleine",
       fr: "Sainte-Madeleine-de-la-Rivière-Madeleine",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6781,6 +7796,7 @@ export const rates = [
       en: "Saint-Maxime-du-Mont-Louis",
       fr: "Saint-Maxime-du-Mont-Louis",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6789,6 +7805,7 @@ export const rates = [
       en: "Mont-Saint-Pierre",
       fr: "Mont-Saint-Pierre",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6797,6 +7814,7 @@ export const rates = [
       en: "Rivière-à-Claude",
       fr: "Rivière-à-Claude",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6805,6 +7823,7 @@ export const rates = [
       en: "Marsoui",
       fr: "Marsoui",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6813,6 +7832,7 @@ export const rates = [
       en: "La Martre",
       fr: "La Martre",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6821,6 +7841,7 @@ export const rates = [
       en: "Sainte-Anne-des-Monts",
       fr: "Sainte-Anne-des-Monts",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6829,6 +7850,7 @@ export const rates = [
       en: "Cap-Chat",
       fr: "Cap-Chat",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6837,6 +7859,7 @@ export const rates = [
       en: "Mont-Albert",
       fr: "Mont-Albert",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6845,6 +7868,7 @@ export const rates = [
       en: "Coulée-des-Adolphe",
       fr: "Coulée-des-Adolphe",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6853,6 +7877,7 @@ export const rates = [
       en: "Shigawake",
       fr: "Shigawake",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6861,6 +7886,7 @@ export const rates = [
       en: "Saint-Godefroi",
       fr: "Saint-Godefroi",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6869,6 +7895,7 @@ export const rates = [
       en: "Hope Town",
       fr: "Hope Town",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6877,6 +7904,7 @@ export const rates = [
       en: "Hope",
       fr: "Hope",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6885,6 +7913,7 @@ export const rates = [
       en: "Paspébiac",
       fr: "Paspébiac",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6893,6 +7922,7 @@ export const rates = [
       en: "New Carlisle",
       fr: "New Carlisle",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6901,6 +7931,7 @@ export const rates = [
       en: "Bonaventure",
       fr: "Bonaventure",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6909,6 +7940,7 @@ export const rates = [
       en: "Saint-Elzéar",
       fr: "Saint-Elzéar",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6917,6 +7949,7 @@ export const rates = [
       en: "Saint-Siméon",
       fr: "Saint-Siméon",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6925,6 +7958,7 @@ export const rates = [
       en: "Caplan",
       fr: "Caplan",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6933,6 +7967,7 @@ export const rates = [
       en: "Saint-Alphonse",
       fr: "Saint-Alphonse",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6941,6 +7976,7 @@ export const rates = [
       en: "New Richmond",
       fr: "New Richmond",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6949,6 +7985,7 @@ export const rates = [
       en: "Cascapédia--Saint-Jules",
       fr: "Cascapédia--Saint-Jules",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6957,6 +7994,7 @@ export const rates = [
       en: "Rivière-Bonaventure",
       fr: "Rivière-Bonaventure",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6965,6 +8003,7 @@ export const rates = [
       en: "Maria",
       fr: "Maria",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6973,6 +8012,7 @@ export const rates = [
       en: "Carleton-sur-Mer",
       fr: "Carleton-sur-Mer",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6981,6 +8021,7 @@ export const rates = [
       en: "Nouvelle",
       fr: "Nouvelle",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6989,6 +8030,7 @@ export const rates = [
       en: "Escuminac",
       fr: "Escuminac",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -6997,6 +8039,7 @@ export const rates = [
       en: "Pointe-à-la-Croix",
       fr: "Pointe-à-la-Croix",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7005,6 +8048,7 @@ export const rates = [
       en: "Ristigouche-Partie-Sud-Est",
       fr: "Ristigouche-Partie-Sud-Est",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7013,6 +8057,7 @@ export const rates = [
       en: "Saint-André-de-Restigouche",
       fr: "Saint-André-de-Restigouche",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7021,6 +8066,7 @@ export const rates = [
       en: "Matapédia",
       fr: "Matapédia",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7029,6 +8075,7 @@ export const rates = [
       en: "Saint-Alexis-de-Matapédia",
       fr: "Saint-Alexis-de-Matapédia",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7037,6 +8084,7 @@ export const rates = [
       en: "Saint-François-d'Assise",
       fr: "Saint-François-d'Assise",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7045,6 +8093,7 @@ export const rates = [
       en: "L'Ascension-de-Patapédia",
       fr: "L'Ascension-de-Patapédia",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7053,6 +8102,7 @@ export const rates = [
       en: "Gesgapegiag",
       fr: "Gesgapegiag",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7061,6 +8111,7 @@ export const rates = [
       en: "Listuguj",
       fr: "Listuguj",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7069,6 +8120,7 @@ export const rates = [
       en: "Rivière-Nouvelle",
       fr: "Rivière-Nouvelle",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7077,6 +8129,7 @@ export const rates = [
       en: "Ruisseau-Ferguson",
       fr: "Ruisseau-Ferguson",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7085,6 +8138,7 @@ export const rates = [
       en: "Sainte-Marguerite-Marie",
       fr: "Sainte-Marguerite-Marie",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7093,6 +8147,7 @@ export const rates = [
       en: "Sainte-Florence",
       fr: "Sainte-Florence",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7101,6 +8156,7 @@ export const rates = [
       en: "Causapscal",
       fr: "Causapscal",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7109,6 +8165,7 @@ export const rates = [
       en: "Albertville",
       fr: "Albertville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7117,6 +8174,7 @@ export const rates = [
       en: "Saint-Léon-le-Grand",
       fr: "Saint-Léon-le-Grand",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7125,6 +8183,7 @@ export const rates = [
       en: "Saint-Zénon-du-Lac-Humqui",
       fr: "Saint-Zénon-du-Lac-Humqui",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7133,6 +8192,7 @@ export const rates = [
       en: "Sainte-Irène",
       fr: "Sainte-Irène",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7141,6 +8201,7 @@ export const rates = [
       en: "Amqui",
       fr: "Amqui",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7149,6 +8210,7 @@ export const rates = [
       en: "Lac-au-Saumon",
       fr: "Lac-au-Saumon",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7157,6 +8219,7 @@ export const rates = [
       en: "Saint-Alexandre-des-Lacs",
       fr: "Saint-Alexandre-des-Lacs",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7165,6 +8228,7 @@ export const rates = [
       en: "Saint-Tharcisius",
       fr: "Saint-Tharcisius",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7173,6 +8237,7 @@ export const rates = [
       en: "Saint-Vianney",
       fr: "Saint-Vianney",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7181,6 +8246,7 @@ export const rates = [
       en: "Val-Brillant",
       fr: "Val-Brillant",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7189,6 +8255,7 @@ export const rates = [
       en: "Sayabec",
       fr: "Sayabec",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7197,6 +8264,7 @@ export const rates = [
       en: "Saint-Cléophas",
       fr: "Saint-Cléophas",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7205,6 +8273,7 @@ export const rates = [
       en: "Saint-Moïse",
       fr: "Saint-Moïse",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7213,6 +8282,7 @@ export const rates = [
       en: "Saint-Noël",
       fr: "Saint-Noël",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7221,6 +8291,7 @@ export const rates = [
       en: "Saint-Damase",
       fr: "Saint-Damase",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7229,6 +8300,7 @@ export const rates = [
       en: "Routhierville",
       fr: "Routhierville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7237,6 +8309,7 @@ export const rates = [
       en: "Rivière-Vaseuse",
       fr: "Rivière-Vaseuse",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7245,6 +8318,7 @@ export const rates = [
       en: "Rivière-Patapédia-Est",
       fr: "Rivière-Patapédia-Est",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7253,6 +8327,7 @@ export const rates = [
       en: "Lac-Casault",
       fr: "Lac-Casault",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7261,6 +8336,7 @@ export const rates = [
       en: "Ruisseau-des-Mineurs",
       fr: "Ruisseau-des-Mineurs",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7269,6 +8345,7 @@ export const rates = [
       en: "Lac-Alfred",
       fr: "Lac-Alfred",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7277,6 +8354,7 @@ export const rates = [
       en: "Lac-Matapédia",
       fr: "Lac-Matapédia",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7285,6 +8363,7 @@ export const rates = [
       en: "Les Méchins",
       fr: "Les Méchins",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7293,6 +8372,7 @@ export const rates = [
       en: "Saint-Jean-de-Cherbourg",
       fr: "Saint-Jean-de-Cherbourg",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7301,6 +8381,7 @@ export const rates = [
       en: "Grosses-Roches",
       fr: "Grosses-Roches",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7309,6 +8390,7 @@ export const rates = [
       en: "Sainte-Félicité",
       fr: "Sainte-Félicité",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7317,6 +8399,7 @@ export const rates = [
       en: "Saint-Adelme",
       fr: "Saint-Adelme",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7325,6 +8408,7 @@ export const rates = [
       en: "Saint-René-de-Matane",
       fr: "Saint-René-de-Matane",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7333,6 +8417,7 @@ export const rates = [
       en: "Sainte-Paule",
       fr: "Sainte-Paule",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7341,6 +8426,7 @@ export const rates = [
       en: "Matane",
       fr: "Matane",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7349,6 +8435,7 @@ export const rates = [
       en: "Saint-Léandre",
       fr: "Saint-Léandre",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7357,6 +8444,7 @@ export const rates = [
       en: "Saint-Ulric",
       fr: "Saint-Ulric",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7365,6 +8453,7 @@ export const rates = [
       en: "Baie-des-Sables",
       fr: "Baie-des-Sables",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7373,6 +8462,7 @@ export const rates = [
       en: "Rivière-Bonjour",
       fr: "Rivière-Bonjour",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7381,6 +8471,7 @@ export const rates = [
       en: "La Rédemption",
       fr: "La Rédemption",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7389,6 +8480,7 @@ export const rates = [
       en: "Saint-Charles-Garnier",
       fr: "Saint-Charles-Garnier",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7397,6 +8489,7 @@ export const rates = [
       en: "Les Hauteurs",
       fr: "Les Hauteurs",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7405,6 +8498,7 @@ export const rates = [
       en: "Sainte-Jeanne-d'Arc",
       fr: "Sainte-Jeanne-d'Arc",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7413,6 +8507,7 @@ export const rates = [
       en: "Saint-Gabriel-de-Rimouski",
       fr: "Saint-Gabriel-de-Rimouski",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7421,6 +8516,7 @@ export const rates = [
       en: "Saint-Donat",
       fr: "Saint-Donat",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7429,6 +8525,7 @@ export const rates = [
       en: "Sainte-Angèle-de-Mérici",
       fr: "Sainte-Angèle-de-Mérici",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7437,6 +8534,7 @@ export const rates = [
       en: "Padoue",
       fr: "Padoue",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7445,6 +8543,7 @@ export const rates = [
       en: "Métis-sur-Mer",
       fr: "Métis-sur-Mer",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7453,6 +8552,7 @@ export const rates = [
       en: "Saint-Octave-de-Métis",
       fr: "Saint-Octave-de-Métis",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7461,6 +8561,7 @@ export const rates = [
       en: "Grand-Métis",
       fr: "Grand-Métis",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7469,6 +8570,7 @@ export const rates = [
       en: "Price",
       fr: "Price",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7477,6 +8579,7 @@ export const rates = [
       en: "Saint-Joseph-de-Lepage",
       fr: "Saint-Joseph-de-Lepage",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7485,6 +8588,7 @@ export const rates = [
       en: "Mont-Joli",
       fr: "Mont-Joli",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7493,6 +8597,7 @@ export const rates = [
       en: "Sainte-Flavie",
       fr: "Sainte-Flavie",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7501,6 +8606,7 @@ export const rates = [
       en: "Sainte-Luce",
       fr: "Sainte-Luce",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7509,6 +8615,7 @@ export const rates = [
       en: "Lac-des-Eaux-Mortes",
       fr: "Lac-des-Eaux-Mortes",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7517,6 +8624,7 @@ export const rates = [
       en: "Lac-à-la-Croix",
       fr: "Lac-à-la-Croix",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7525,6 +8633,7 @@ export const rates = [
       en: "Esprit-Saint",
       fr: "Esprit-Saint",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7533,6 +8642,7 @@ export const rates = [
       en: "La Trinité-des-Monts",
       fr: "La Trinité-des-Monts",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7541,6 +8651,7 @@ export const rates = [
       en: "Saint-Narcisse-de-Rimouski",
       fr: "Saint-Narcisse-de-Rimouski",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7549,6 +8660,7 @@ export const rates = [
       en: "Saint-Marcellin",
       fr: "Saint-Marcellin",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7557,6 +8669,7 @@ export const rates = [
       en: "Saint-Anaclet-de-Lessard",
       fr: "Saint-Anaclet-de-Lessard",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7565,6 +8678,7 @@ export const rates = [
       en: "Rimouski",
       fr: "Rimouski",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7573,6 +8687,7 @@ export const rates = [
       en: "Saint-Valérien",
       fr: "Saint-Valérien",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7581,6 +8696,7 @@ export const rates = [
       en: "Saint-Fabien",
       fr: "Saint-Fabien",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7589,6 +8705,7 @@ export const rates = [
       en: "Saint-Eugène-de-Ladrière",
       fr: "Saint-Eugène-de-Ladrière",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7597,6 +8714,7 @@ export const rates = [
       en: "Lac-Huron",
       fr: "Lac-Huron",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7605,6 +8723,7 @@ export const rates = [
       en: "Saint-Clément",
       fr: "Saint-Clément",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7613,6 +8732,7 @@ export const rates = [
       en: "Saint-Jean-de-Dieu",
       fr: "Saint-Jean-de-Dieu",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7621,6 +8741,7 @@ export const rates = [
       en: "Sainte-Rita",
       fr: "Sainte-Rita",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7629,6 +8750,7 @@ export const rates = [
       en: "Saint-Guy",
       fr: "Saint-Guy",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7637,6 +8759,7 @@ export const rates = [
       en: "Saint-Médard",
       fr: "Saint-Médard",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7645,6 +8768,7 @@ export const rates = [
       en: "Sainte-Françoise",
       fr: "Sainte-Françoise",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7653,6 +8777,7 @@ export const rates = [
       en: "Saint-Éloi",
       fr: "Saint-Éloi",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7661,6 +8786,7 @@ export const rates = [
       en: "Trois-Pistoles",
       fr: "Trois-Pistoles",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7669,6 +8795,7 @@ export const rates = [
       en: "Notre-Dame-des-Neiges",
       fr: "Notre-Dame-des-Neiges",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7677,6 +8804,7 @@ export const rates = [
       en: "Saint-Mathieu-de-Rioux",
       fr: "Saint-Mathieu-de-Rioux",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7685,6 +8813,7 @@ export const rates = [
       en: "Saint-Simon-de-Rimouski",
       fr: "Saint-Simon-de-Rimouski",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7693,6 +8822,7 @@ export const rates = [
       en: "Lac-Boisbouscache",
       fr: "Lac-Boisbouscache",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7701,6 +8831,7 @@ export const rates = [
       en: "Saint-Cyprien",
       fr: "Saint-Cyprien",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7709,6 +8840,7 @@ export const rates = [
       en: "Saint-Hubert-de-Rivière-du-Loup",
       fr: "Saint-Hubert-de-Rivière-du-Loup",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7717,6 +8849,7 @@ export const rates = [
       en: "Saint-Antonin",
       fr: "Saint-Antonin",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7725,6 +8858,7 @@ export const rates = [
       en: "Saint-Modeste",
       fr: "Saint-Modeste",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7733,6 +8867,7 @@ export const rates = [
       en: "Saint-François-Xavier-de-Viger",
       fr: "Saint-François-Xavier-de-Viger",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7741,6 +8876,7 @@ export const rates = [
       en: "Saint-Épiphane",
       fr: "Saint-Épiphane",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7749,6 +8885,7 @@ export const rates = [
       en: "Saint-Paul-de-la-Croix",
       fr: "Saint-Paul-de-la-Croix",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7757,6 +8894,7 @@ export const rates = [
       en: "L'Isle-Verte",
       fr: "L'Isle-Verte",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7765,6 +8903,7 @@ export const rates = [
       en: "Notre-Dame-des-Sept-Douleurs",
       fr: "Notre-Dame-des-Sept-Douleurs",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7773,6 +8912,7 @@ export const rates = [
       en: "Cacouna",
       fr: "Cacouna",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7781,6 +8921,7 @@ export const rates = [
       en: "Saint-Arsène",
       fr: "Saint-Arsène",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7789,6 +8930,7 @@ export const rates = [
       en: "Rivière-du-Loup",
       fr: "Rivière-du-Loup",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7797,6 +8939,7 @@ export const rates = [
       en: "Notre-Dame-du-Portage",
       fr: "Notre-Dame-du-Portage",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7805,6 +8948,7 @@ export const rates = [
       en: "Dégelis",
       fr: "Dégelis",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7813,6 +8957,7 @@ export const rates = [
       en: "Saint-Jean-de-la-Lande",
       fr: "Saint-Jean-de-la-Lande",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7821,6 +8966,7 @@ export const rates = [
       en: "Packington",
       fr: "Packington",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7829,6 +8975,7 @@ export const rates = [
       en: "Saint-Marc-du-Lac-Long",
       fr: "Saint-Marc-du-Lac-Long",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7837,6 +8984,7 @@ export const rates = [
       en: "Rivière-Bleue",
       fr: "Rivière-Bleue",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7845,6 +8993,7 @@ export const rates = [
       en: "Saint-Eusèbe",
       fr: "Saint-Eusèbe",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7853,6 +9002,7 @@ export const rates = [
       en: "Saint-Juste-du-Lac",
       fr: "Saint-Juste-du-Lac",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7861,6 +9011,7 @@ export const rates = [
       en: "Auclair",
       fr: "Auclair",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7869,6 +9020,7 @@ export const rates = [
       en: "Lejeune",
       fr: "Lejeune",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7877,6 +9029,7 @@ export const rates = [
       en: "Biencourt",
       fr: "Biencourt",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7885,6 +9038,7 @@ export const rates = [
       en: "Lac-des-Aigles",
       fr: "Lac-des-Aigles",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7893,6 +9047,7 @@ export const rates = [
       en: "Saint-Michel-du-Squatec",
       fr: "Saint-Michel-du-Squatec",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7901,6 +9056,7 @@ export const rates = [
       en: "Témiscouata-sur-le-Lac",
       fr: "Témiscouata-sur-le-Lac",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7909,6 +9065,7 @@ export const rates = [
       en: "Saint-Pierre-de-Lamy",
       fr: "Saint-Pierre-de-Lamy",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7917,6 +9074,7 @@ export const rates = [
       en: "Saint-Louis-du-Ha! Ha!",
       fr: "Saint-Louis-du-Ha! Ha!",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7925,6 +9083,7 @@ export const rates = [
       en: "Saint-Elzéar-de-Témiscouata",
       fr: "Saint-Elzéar-de-Témiscouata",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7933,6 +9092,7 @@ export const rates = [
       en: "Saint-Honoré-de-Témiscouata",
       fr: "Saint-Honoré-de-Témiscouata",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7941,6 +9101,7 @@ export const rates = [
       en: "Pohénégamook",
       fr: "Pohénégamook",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7949,6 +9110,7 @@ export const rates = [
       en: "Saint-Athanase",
       fr: "Saint-Athanase",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7957,6 +9119,7 @@ export const rates = [
       en: "Mont-Carmel",
       fr: "Mont-Carmel",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7965,6 +9128,7 @@ export const rates = [
       en: "Saint-Bruno-de-Kamouraska",
       fr: "Saint-Bruno-de-Kamouraska",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7973,6 +9137,7 @@ export const rates = [
       en: "Saint-Pascal",
       fr: "Saint-Pascal",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7981,6 +9146,7 @@ export const rates = [
       en: "Sainte-Hélène-de-Kamouraska",
       fr: "Sainte-Hélène-de-Kamouraska",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7989,6 +9155,7 @@ export const rates = [
       en: "Saint-Joseph-de-Kamouraska",
       fr: "Saint-Joseph-de-Kamouraska",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -7997,6 +9164,7 @@ export const rates = [
       en: "Saint-Alexandre-de-Kamouraska",
       fr: "Saint-Alexandre-de-Kamouraska",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8005,6 +9173,7 @@ export const rates = [
       en: "Saint-André-de-Kamouraska",
       fr: "Saint-André-de-Kamouraska",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8013,6 +9182,7 @@ export const rates = [
       en: "Saint-Germain",
       fr: "Saint-Germain",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8021,6 +9191,7 @@ export const rates = [
       en: "Kamouraska",
       fr: "Kamouraska",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8029,6 +9200,7 @@ export const rates = [
       en: "Saint-Denis-De La Bouteillerie",
       fr: "Saint-Denis-De La Bouteillerie",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8037,6 +9209,7 @@ export const rates = [
       en: "Saint-Philippe-de-Néri",
       fr: "Saint-Philippe-de-Néri",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8045,6 +9218,7 @@ export const rates = [
       en: "Rivière-Ouelle",
       fr: "Rivière-Ouelle",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8053,6 +9227,7 @@ export const rates = [
       en: "Saint-Pacôme",
       fr: "Saint-Pacôme",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8061,6 +9236,7 @@ export const rates = [
       en: "Saint-Gabriel-Lalemant",
       fr: "Saint-Gabriel-Lalemant",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8069,6 +9245,7 @@ export const rates = [
       en: "Saint-Onésime-d'Ixworth",
       fr: "Saint-Onésime-d'Ixworth",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8077,6 +9254,7 @@ export const rates = [
       en: "La Pocatière",
       fr: "La Pocatière",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8085,6 +9263,7 @@ export const rates = [
       en: "Sainte-Anne-de-la-Pocatière",
       fr: "Sainte-Anne-de-la-Pocatière",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8093,6 +9272,7 @@ export const rates = [
       en: "Picard",
       fr: "Picard",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8101,6 +9281,7 @@ export const rates = [
       en: "Petit-Lac-Sainte-Anne",
       fr: "Petit-Lac-Sainte-Anne",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8109,6 +9290,7 @@ export const rates = [
       en: "Saint-Irénée",
       fr: "Saint-Irénée",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8117,6 +9299,7 @@ export const rates = [
       en: "La Malbaie",
       fr: "La Malbaie",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8125,6 +9308,7 @@ export const rates = [
       en: "Notre-Dame-des-Monts",
       fr: "Notre-Dame-des-Monts",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8133,6 +9317,7 @@ export const rates = [
       en: "Saint-Aimé-des-Lacs",
       fr: "Saint-Aimé-des-Lacs",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8141,6 +9326,7 @@ export const rates = [
       en: "Clermont",
       fr: "Clermont",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8149,6 +9335,7 @@ export const rates = [
       en: "Saint-Siméon",
       fr: "Saint-Siméon",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8157,6 +9344,7 @@ export const rates = [
       en: "Baie-Sainte-Catherine",
       fr: "Baie-Sainte-Catherine",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8165,6 +9353,7 @@ export const rates = [
       en: "Mont-Élie",
       fr: "Mont-Élie",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8173,6 +9362,7 @@ export const rates = [
       en: "Sagard",
       fr: "Sagard",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8181,6 +9371,7 @@ export const rates = [
       en: "Petite-Rivière-Saint-François",
       fr: "Petite-Rivière-Saint-François",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8189,6 +9380,7 @@ export const rates = [
       en: "Baie-Saint-Paul",
       fr: "Baie-Saint-Paul",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8197,6 +9389,7 @@ export const rates = [
       en: "L'Isle-aux-Coudres",
       fr: "L'Isle-aux-Coudres",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8205,6 +9398,7 @@ export const rates = [
       en: "Les Éboulements",
       fr: "Les Éboulements",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8213,6 +9407,7 @@ export const rates = [
       en: "Saint-Hilarion",
       fr: "Saint-Hilarion",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8221,6 +9416,7 @@ export const rates = [
       en: "Saint-Urbain",
       fr: "Saint-Urbain",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8229,6 +9425,7 @@ export const rates = [
       en: "Lac-Pikauba",
       fr: "Lac-Pikauba",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8237,6 +9434,7 @@ export const rates = [
       en: "Saint-Omer",
       fr: "Saint-Omer",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8245,6 +9443,7 @@ export const rates = [
       en: "Saint-Pamphile",
       fr: "Saint-Pamphile",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8253,6 +9452,7 @@ export const rates = [
       en: "Saint-Adalbert",
       fr: "Saint-Adalbert",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8261,6 +9461,7 @@ export const rates = [
       en: "Saint-Marcel",
       fr: "Saint-Marcel",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8269,6 +9470,7 @@ export const rates = [
       en: "Sainte-Félicité",
       fr: "Sainte-Félicité",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8277,6 +9479,7 @@ export const rates = [
       en: "Sainte-Perpétue",
       fr: "Sainte-Perpétue",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8285,6 +9488,7 @@ export const rates = [
       en: "Tourville",
       fr: "Tourville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8293,6 +9497,7 @@ export const rates = [
       en: "Saint-Damase-de-L'Islet",
       fr: "Saint-Damase-de-L'Islet",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8301,6 +9506,7 @@ export const rates = [
       en: "Saint-Cyrille-de-Lessard",
       fr: "Saint-Cyrille-de-Lessard",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8309,6 +9515,7 @@ export const rates = [
       en: "Saint-Aubert",
       fr: "Saint-Aubert",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8317,6 +9524,7 @@ export const rates = [
       en: "Sainte-Louise",
       fr: "Sainte-Louise",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8325,6 +9533,7 @@ export const rates = [
       en: "Saint-Roch-des-Aulnaies",
       fr: "Saint-Roch-des-Aulnaies",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8333,6 +9542,7 @@ export const rates = [
       en: "Saint-Jean-Port-Joli",
       fr: "Saint-Jean-Port-Joli",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8341,6 +9551,7 @@ export const rates = [
       en: "L'Islet",
       fr: "L'Islet",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8349,6 +9560,7 @@ export const rates = [
       en: "Saint-Just-de-Bretenières",
       fr: "Saint-Just-de-Bretenières",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8357,6 +9569,7 @@ export const rates = [
       en: "Lac-Frontière",
       fr: "Lac-Frontière",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8365,6 +9578,7 @@ export const rates = [
       en: "Saint-Fabien-de-Panet",
       fr: "Saint-Fabien-de-Panet",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8373,6 +9587,7 @@ export const rates = [
       en: "Sainte-Lucie-de-Beauregard",
       fr: "Sainte-Lucie-de-Beauregard",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8381,6 +9596,7 @@ export const rates = [
       en: "Sainte-Apolline-de-Patton",
       fr: "Sainte-Apolline-de-Patton",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8389,6 +9605,7 @@ export const rates = [
       en: "Saint-Paul-de-Montminy",
       fr: "Saint-Paul-de-Montminy",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8397,6 +9614,7 @@ export const rates = [
       en: "Sainte-Euphémie-sur-Rivière-du-Sud",
       fr: "Sainte-Euphémie-sur-Rivière-du-Sud",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8405,6 +9623,7 @@ export const rates = [
       en: "Notre-Dame-du-Rosaire",
       fr: "Notre-Dame-du-Rosaire",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8413,6 +9632,7 @@ export const rates = [
       en: "Cap-Saint-Ignace",
       fr: "Cap-Saint-Ignace",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8421,6 +9641,7 @@ export const rates = [
       en: "Montmagny",
       fr: "Montmagny",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8429,6 +9650,7 @@ export const rates = [
       en: "Saint-Pierre-de-la-Rivière-du-Sud",
       fr: "Saint-Pierre-de-la-Rivière-du-Sud",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8437,6 +9659,7 @@ export const rates = [
       en: "Saint-François-de-la-Rivière-du-Sud",
       fr: "Saint-François-de-la-Rivière-du-Sud",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8445,6 +9668,7 @@ export const rates = [
       en: "Berthier-sur-Mer",
       fr: "Berthier-sur-Mer",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8453,6 +9677,7 @@ export const rates = [
       en: "Saint-Antoine-de-l'Isle-aux-Grues",
       fr: "Saint-Antoine-de-l'Isle-aux-Grues",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8461,6 +9686,7 @@ export const rates = [
       en: "Saint-Philémon",
       fr: "Saint-Philémon",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8469,6 +9695,7 @@ export const rates = [
       en: "Notre-Dame-Auxiliatrice-de-Buckland",
       fr: "Notre-Dame-Auxiliatrice-de-Buckland",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8477,6 +9704,7 @@ export const rates = [
       en: "Saint-Nazaire-de-Dorchester",
       fr: "Saint-Nazaire-de-Dorchester",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8485,6 +9713,7 @@ export const rates = [
       en: "Saint-Léon-de-Standon",
       fr: "Saint-Léon-de-Standon",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8493,6 +9722,7 @@ export const rates = [
       en: "Saint-Malachie",
       fr: "Saint-Malachie",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8501,6 +9731,7 @@ export const rates = [
       en: "Saint-Damien-de-Buckland",
       fr: "Saint-Damien-de-Buckland",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8509,6 +9740,7 @@ export const rates = [
       en: "Armagh",
       fr: "Armagh",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8517,6 +9749,7 @@ export const rates = [
       en: "Saint-Nérée-de-Bellechasse",
       fr: "Saint-Nérée-de-Bellechasse",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8525,6 +9758,7 @@ export const rates = [
       en: "Saint-Lazare-de-Bellechasse",
       fr: "Saint-Lazare-de-Bellechasse",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8533,6 +9767,7 @@ export const rates = [
       en: "Sainte-Claire",
       fr: "Sainte-Claire",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8541,6 +9776,7 @@ export const rates = [
       en: "Saint-Anselme",
       fr: "Saint-Anselme",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8549,6 +9785,7 @@ export const rates = [
       en: "Saint-Henri",
       fr: "Saint-Henri",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8557,6 +9794,7 @@ export const rates = [
       en: "Honfleur",
       fr: "Honfleur",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8565,6 +9803,7 @@ export const rates = [
       en: "Saint-Gervais",
       fr: "Saint-Gervais",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8573,6 +9812,7 @@ export const rates = [
       en: "Saint-Raphaël",
       fr: "Saint-Raphaël",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8581,6 +9821,7 @@ export const rates = [
       en: "La Durantaye",
       fr: "La Durantaye",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8589,6 +9830,7 @@ export const rates = [
       en: "Saint-Charles-de-Bellechasse",
       fr: "Saint-Charles-de-Bellechasse",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8597,6 +9839,7 @@ export const rates = [
       en: "Beaumont",
       fr: "Beaumont",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8605,6 +9848,7 @@ export const rates = [
       en: "Saint-Michel-de-Bellechasse",
       fr: "Saint-Michel-de-Bellechasse",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8613,6 +9857,7 @@ export const rates = [
       en: "Saint-Vallier",
       fr: "Saint-Vallier",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8621,6 +9866,7 @@ export const rates = [
       en: "Saint-François-de-l'Île-d'Orléans",
       fr: "Saint-François-de-l'Île-d'Orléans",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8629,6 +9875,7 @@ export const rates = [
       en: "Sainte-Famille-de-l'Île-d'Orléans",
       fr: "Sainte-Famille-de-l'Île-d'Orléans",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8637,6 +9884,7 @@ export const rates = [
       en: "Saint-Jean-de-l'Île-d'Orléans",
       fr: "Saint-Jean-de-l'Île-d'Orléans",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8645,6 +9893,7 @@ export const rates = [
       en: "Saint-Laurent-de-l'Île-d'Orléans",
       fr: "Saint-Laurent-de-l'Île-d'Orléans",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8653,6 +9902,7 @@ export const rates = [
       en: "Saint-Pierre-de-l'Île-d'Orléans",
       fr: "Saint-Pierre-de-l'Île-d'Orléans",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8661,6 +9911,7 @@ export const rates = [
       en: "Sainte-Pétronille",
       fr: "Sainte-Pétronille",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8669,6 +9920,7 @@ export const rates = [
       en: "Saint-Tite-des-Caps",
       fr: "Saint-Tite-des-Caps",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8677,6 +9929,7 @@ export const rates = [
       en: "Saint-Ferréol-les-Neiges",
       fr: "Saint-Ferréol-les-Neiges",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8685,6 +9938,7 @@ export const rates = [
       en: "Saint-Louis-de-Gonzague-du-Cap-Tourmente",
       fr: "Saint-Louis-de-Gonzague-du-Cap-Tourmente",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8693,6 +9947,7 @@ export const rates = [
       en: "Saint-Joachim",
       fr: "Saint-Joachim",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8701,6 +9956,7 @@ export const rates = [
       en: "Beaupré",
       fr: "Beaupré",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8709,6 +9965,7 @@ export const rates = [
       en: "Sainte-Anne-de-Beaupré",
       fr: "Sainte-Anne-de-Beaupré",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8717,6 +9974,7 @@ export const rates = [
       en: "Château-Richer",
       fr: "Château-Richer",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8725,6 +9983,7 @@ export const rates = [
       en: "L'Ange-Gardien",
       fr: "L'Ange-Gardien",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8733,6 +9992,7 @@ export const rates = [
       en: "Boischatel",
       fr: "Boischatel",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8741,6 +10001,7 @@ export const rates = [
       en: "Sault-au-Cochon",
       fr: "Sault-au-Cochon",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8749,6 +10010,7 @@ export const rates = [
       en: "Lac-Jacques-Cartier",
       fr: "Lac-Jacques-Cartier",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8757,6 +10019,7 @@ export const rates = [
       en: "Sainte-Catherine-de-la-Jacques-Cartier",
       fr: "Sainte-Catherine-de-la-Jacques-Cartier",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8765,6 +10028,7 @@ export const rates = [
       en: "Fossambault-sur-le-Lac",
       fr: "Fossambault-sur-le-Lac",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8773,6 +10037,7 @@ export const rates = [
       en: "Lac-Saint-Joseph",
       fr: "Lac-Saint-Joseph",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8781,6 +10046,7 @@ export const rates = [
       en: "Shannon",
       fr: "Shannon",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8789,6 +10055,7 @@ export const rates = [
       en: "Saint-Gabriel-de-Valcartier",
       fr: "Saint-Gabriel-de-Valcartier",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8797,6 +10064,7 @@ export const rates = [
       en: "Lac-Delage",
       fr: "Lac-Delage",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8805,6 +10073,7 @@ export const rates = [
       en: "Stoneham-et-Tewkesbury",
       fr: "Stoneham-et-Tewkesbury",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8813,6 +10082,7 @@ export const rates = [
       en: "Lac-Beauport",
       fr: "Lac-Beauport",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8821,6 +10091,7 @@ export const rates = [
       en: "Sainte-Brigitte-de-Laval",
       fr: "Sainte-Brigitte-de-Laval",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8829,6 +10100,7 @@ export const rates = [
       en: "Lac-Croche",
       fr: "Lac-Croche",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8837,6 +10109,7 @@ export const rates = [
       en: "Notre-Dame-des-Anges",
       fr: "Notre-Dame-des-Anges",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8845,6 +10118,7 @@ export const rates = [
       en: "Québec",
       fr: "Québec",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8853,6 +10127,7 @@ export const rates = [
       en: "L'Ancienne-Lorette",
       fr: "L'Ancienne-Lorette",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8861,6 +10136,7 @@ export const rates = [
       en: "Saint-Augustin-de-Desmaures",
       fr: "Saint-Augustin-de-Desmaures",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8869,6 +10145,7 @@ export const rates = [
       en: "Wendake",
       fr: "Wendake",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8877,6 +10154,7 @@ export const rates = [
       en: "Lévis",
       fr: "Lévis",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8885,6 +10163,7 @@ export const rates = [
       en: "Frampton",
       fr: "Frampton",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8893,6 +10172,7 @@ export const rates = [
       en: "Saints-Anges",
       fr: "Saints-Anges",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8901,6 +10181,7 @@ export const rates = [
       en: "Vallée-Jonction",
       fr: "Vallée-Jonction",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8909,6 +10190,7 @@ export const rates = [
       en: "Saint-Elzéar",
       fr: "Saint-Elzéar",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8917,6 +10199,7 @@ export const rates = [
       en: "Sainte-Marie",
       fr: "Sainte-Marie",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8925,6 +10208,7 @@ export const rates = [
       en: "Sainte-Marguerite",
       fr: "Sainte-Marguerite",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8933,6 +10217,7 @@ export const rates = [
       en: "Sainte-Hénédine",
       fr: "Sainte-Hénédine",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8941,6 +10226,7 @@ export const rates = [
       en: "Scott",
       fr: "Scott",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8949,6 +10235,7 @@ export const rates = [
       en: "Saint-Bernard",
       fr: "Saint-Bernard",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8957,6 +10244,7 @@ export const rates = [
       en: "Saint-Isidore",
       fr: "Saint-Isidore",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8965,6 +10253,7 @@ export const rates = [
       en: "Saint-Lambert-de-Lauzon",
       fr: "Saint-Lambert-de-Lauzon",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8973,6 +10262,7 @@ export const rates = [
       en: "Saint-Victor",
       fr: "Saint-Victor",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8981,6 +10271,7 @@ export const rates = [
       en: "Saint-Alfred",
       fr: "Saint-Alfred",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8989,6 +10280,7 @@ export const rates = [
       en: "Beauceville",
       fr: "Beauceville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -8997,6 +10289,7 @@ export const rates = [
       en: "Saint-Odilon-de-Cranbourne",
       fr: "Saint-Odilon-de-Cranbourne",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9005,6 +10298,7 @@ export const rates = [
       en: "Saint-Joseph-de-Beauce",
       fr: "Saint-Joseph-de-Beauce",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9013,6 +10307,7 @@ export const rates = [
       en: "Saint-Joseph-des-Érables",
       fr: "Saint-Joseph-des-Érables",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9021,6 +10316,7 @@ export const rates = [
       en: "Saint-Jules",
       fr: "Saint-Jules",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9029,6 +10325,7 @@ export const rates = [
       en: "Tring-Jonction",
       fr: "Tring-Jonction",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9037,6 +10334,7 @@ export const rates = [
       en: "Saint-Frédéric",
       fr: "Saint-Frédéric",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9045,6 +10343,7 @@ export const rates = [
       en: "Saint-Séverin",
       fr: "Saint-Séverin",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9053,6 +10352,7 @@ export const rates = [
       en: "Saint-Zacharie",
       fr: "Saint-Zacharie",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9061,6 +10361,7 @@ export const rates = [
       en: "Sainte-Aurélie",
       fr: "Sainte-Aurélie",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9069,6 +10370,7 @@ export const rates = [
       en: "Saint-Prosper",
       fr: "Saint-Prosper",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9077,6 +10379,7 @@ export const rates = [
       en: "Saint-Benjamin",
       fr: "Saint-Benjamin",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9085,6 +10388,7 @@ export const rates = [
       en: "Sainte-Rose-de-Watford",
       fr: "Sainte-Rose-de-Watford",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9093,6 +10397,7 @@ export const rates = [
       en: "Saint-Louis-de-Gonzague",
       fr: "Saint-Louis-de-Gonzague",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9101,6 +10406,7 @@ export const rates = [
       en: "Saint-Cyprien",
       fr: "Saint-Cyprien",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9109,6 +10415,7 @@ export const rates = [
       en: "Sainte-Justine",
       fr: "Sainte-Justine",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9117,6 +10424,7 @@ export const rates = [
       en: "Lac-Etchemin",
       fr: "Lac-Etchemin",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9125,6 +10433,7 @@ export const rates = [
       en: "Saint-Luc-de-Bellechasse",
       fr: "Saint-Luc-de-Bellechasse",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9133,6 +10442,7 @@ export const rates = [
       en: "Sainte-Sabine",
       fr: "Sainte-Sabine",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9141,6 +10451,7 @@ export const rates = [
       en: "Saint-Camille-de-Lellis",
       fr: "Saint-Camille-de-Lellis",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9149,6 +10460,7 @@ export const rates = [
       en: "Saint-Magloire",
       fr: "Saint-Magloire",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9157,6 +10469,7 @@ export const rates = [
       en: "Saint-Théophile",
       fr: "Saint-Théophile",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9165,6 +10478,7 @@ export const rates = [
       en: "Saint-Gédéon-de-Beauce",
       fr: "Saint-Gédéon-de-Beauce",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9173,6 +10487,7 @@ export const rates = [
       en: "Saint-Hilaire-de-Dorset",
       fr: "Saint-Hilaire-de-Dorset",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9181,6 +10496,7 @@ export const rates = [
       en: "Saint-Évariste-de-Forsyth",
       fr: "Saint-Évariste-de-Forsyth",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9189,6 +10505,7 @@ export const rates = [
       en: "La Guadeloupe",
       fr: "La Guadeloupe",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9197,6 +10514,7 @@ export const rates = [
       en: "Saint-Honoré-de-Shenley",
       fr: "Saint-Honoré-de-Shenley",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9205,6 +10523,7 @@ export const rates = [
       en: "Saint-Martin",
       fr: "Saint-Martin",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9213,6 +10532,7 @@ export const rates = [
       en: "Saint-René",
       fr: "Saint-René",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9221,6 +10541,7 @@ export const rates = [
       en: "Saint-Côme--Linière",
       fr: "Saint-Côme--Linière",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9229,6 +10550,7 @@ export const rates = [
       en: "Saint-Philibert",
       fr: "Saint-Philibert",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9237,6 +10559,7 @@ export const rates = [
       en: "Saint-Georges",
       fr: "Saint-Georges",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9245,6 +10568,7 @@ export const rates = [
       en: "Lac-Poulin",
       fr: "Lac-Poulin",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9253,6 +10577,7 @@ export const rates = [
       en: "Saint-Benoît-Labre",
       fr: "Saint-Benoît-Labre",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9261,6 +10586,7 @@ export const rates = [
       en: "Saint-Éphrem-de-Beauce",
       fr: "Saint-Éphrem-de-Beauce",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9269,6 +10595,7 @@ export const rates = [
       en: "Notre-Dame-des-Pins",
       fr: "Notre-Dame-des-Pins",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9277,6 +10604,7 @@ export const rates = [
       en: "Saint-Simon-les-Mines",
       fr: "Saint-Simon-les-Mines",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9285,6 +10613,7 @@ export const rates = [
       en: "Saint-Augustin-de-Woburn",
       fr: "Saint-Augustin-de-Woburn",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9293,6 +10622,7 @@ export const rates = [
       en: "Notre-Dame-des-Bois",
       fr: "Notre-Dame-des-Bois",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9301,6 +10631,7 @@ export const rates = [
       en: "Val-Racine",
       fr: "Val-Racine",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9309,6 +10640,7 @@ export const rates = [
       en: "Piopolis",
       fr: "Piopolis",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9317,6 +10649,7 @@ export const rates = [
       en: "Frontenac",
       fr: "Frontenac",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9325,6 +10658,7 @@ export const rates = [
       en: "Lac-Mégantic",
       fr: "Lac-Mégantic",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9333,6 +10667,7 @@ export const rates = [
       en: "Marston",
       fr: "Marston",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9341,6 +10676,7 @@ export const rates = [
       en: "Milan",
       fr: "Milan",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9349,6 +10685,7 @@ export const rates = [
       en: "Nantes",
       fr: "Nantes",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9357,6 +10694,7 @@ export const rates = [
       en: "Sainte-Cécile-de-Whitton",
       fr: "Sainte-Cécile-de-Whitton",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9365,6 +10703,7 @@ export const rates = [
       en: "Audet",
       fr: "Audet",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9373,6 +10712,7 @@ export const rates = [
       en: "Saint-Robert-Bellarmin",
       fr: "Saint-Robert-Bellarmin",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9381,6 +10721,7 @@ export const rates = [
       en: "Saint-Ludger",
       fr: "Saint-Ludger",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9389,6 +10730,7 @@ export const rates = [
       en: "Lac-Drolet",
       fr: "Lac-Drolet",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9397,6 +10739,7 @@ export const rates = [
       en: "Saint-Sébastien",
       fr: "Saint-Sébastien",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9405,6 +10748,7 @@ export const rates = [
       en: "Courcelles",
       fr: "Courcelles",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9413,6 +10757,7 @@ export const rates = [
       en: "Lambton",
       fr: "Lambton",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9421,6 +10766,7 @@ export const rates = [
       en: "Saint-Romain",
       fr: "Saint-Romain",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9429,6 +10775,7 @@ export const rates = [
       en: "Stornoway",
       fr: "Stornoway",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9437,6 +10784,7 @@ export const rates = [
       en: "Stratford",
       fr: "Stratford",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9445,6 +10793,7 @@ export const rates = [
       en: "Beaulac-Garthby",
       fr: "Beaulac-Garthby",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9453,6 +10802,7 @@ export const rates = [
       en: "Disraeli",
       fr: "Disraeli",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9461,6 +10811,7 @@ export const rates = [
       en: "Disraeli",
       fr: "Disraeli",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9469,6 +10820,7 @@ export const rates = [
       en: "Saint-Jacques-le-Majeur-de-Wolfestown",
       fr: "Saint-Jacques-le-Majeur-de-Wolfestown",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9477,6 +10829,7 @@ export const rates = [
       en: "Saint-Fortunat",
       fr: "Saint-Fortunat",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9485,6 +10838,7 @@ export const rates = [
       en: "Saint-Julien",
       fr: "Saint-Julien",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9493,6 +10847,7 @@ export const rates = [
       en: "Irlande",
       fr: "Irlande",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9501,6 +10856,7 @@ export const rates = [
       en: "Saint-Joseph-de-Coleraine",
       fr: "Saint-Joseph-de-Coleraine",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9509,6 +10865,7 @@ export const rates = [
       en: "Sainte-Praxède",
       fr: "Sainte-Praxède",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9517,6 +10874,7 @@ export const rates = [
       en: "Adstock",
       fr: "Adstock",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9525,6 +10883,7 @@ export const rates = [
       en: "Sainte-Clotilde-de-Beauce",
       fr: "Sainte-Clotilde-de-Beauce",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9533,6 +10892,7 @@ export const rates = [
       en: "Thetford Mines",
       fr: "Thetford Mines",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9541,6 +10901,7 @@ export const rates = [
       en: "Saint-Adrien-d'Irlande",
       fr: "Saint-Adrien-d'Irlande",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9549,6 +10910,7 @@ export const rates = [
       en: "Saint-Jean-de-Brébeuf",
       fr: "Saint-Jean-de-Brébeuf",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9557,6 +10919,7 @@ export const rates = [
       en: "Kinnear's Mills",
       fr: "Kinnear's Mills",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9565,6 +10928,7 @@ export const rates = [
       en: "East Broughton",
       fr: "East Broughton",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9573,6 +10937,7 @@ export const rates = [
       en: "Sacré-Coeur-de-Jésus",
       fr: "Sacré-Coeur-de-Jésus",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9581,6 +10946,7 @@ export const rates = [
       en: "Saint-Pierre-de-Broughton",
       fr: "Saint-Pierre-de-Broughton",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9589,6 +10955,7 @@ export const rates = [
       en: "Saint-Jacques-de-Leeds",
       fr: "Saint-Jacques-de-Leeds",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9597,6 +10964,7 @@ export const rates = [
       en: "Saint-Ferdinand",
       fr: "Saint-Ferdinand",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9605,6 +10973,7 @@ export const rates = [
       en: "Sainte-Sophie-d'Halifax",
       fr: "Sainte-Sophie-d'Halifax",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9613,6 +10982,7 @@ export const rates = [
       en: "Princeville",
       fr: "Princeville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9621,6 +10991,7 @@ export const rates = [
       en: "Plessisville",
       fr: "Plessisville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9629,6 +11000,7 @@ export const rates = [
       en: "Plessisville",
       fr: "Plessisville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9637,6 +11009,7 @@ export const rates = [
       en: "Saint-Pierre-Baptiste",
       fr: "Saint-Pierre-Baptiste",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9645,6 +11018,7 @@ export const rates = [
       en: "Inverness",
       fr: "Inverness",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9653,6 +11027,7 @@ export const rates = [
       en: "Lyster",
       fr: "Lyster",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9661,6 +11036,7 @@ export const rates = [
       en: "Laurierville",
       fr: "Laurierville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9669,6 +11045,7 @@ export const rates = [
       en: "Notre-Dame-de-Lourdes",
       fr: "Notre-Dame-de-Lourdes",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9677,6 +11054,7 @@ export const rates = [
       en: "Villeroy",
       fr: "Villeroy",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9685,6 +11063,7 @@ export const rates = [
       en: "Saint-Sylvestre",
       fr: "Saint-Sylvestre",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9693,6 +11072,7 @@ export const rates = [
       en: "Sainte-Agathe-de-Lotbinière",
       fr: "Sainte-Agathe-de-Lotbinière",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9701,6 +11081,7 @@ export const rates = [
       en: "Saint-Patrice-de-Beaurivage",
       fr: "Saint-Patrice-de-Beaurivage",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9709,6 +11090,7 @@ export const rates = [
       en: "Saint-Narcisse-de-Beaurivage",
       fr: "Saint-Narcisse-de-Beaurivage",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9717,6 +11099,7 @@ export const rates = [
       en: "Saint-Gilles",
       fr: "Saint-Gilles",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9725,6 +11108,7 @@ export const rates = [
       en: "Dosquet",
       fr: "Dosquet",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9733,6 +11117,7 @@ export const rates = [
       en: "Saint-Agapit",
       fr: "Saint-Agapit",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9741,6 +11126,7 @@ export const rates = [
       en: "Saint-Flavien",
       fr: "Saint-Flavien",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9749,6 +11135,7 @@ export const rates = [
       en: "Laurier-Station",
       fr: "Laurier-Station",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9757,6 +11144,7 @@ export const rates = [
       en: "Saint-Janvier-de-Joly",
       fr: "Saint-Janvier-de-Joly",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9765,6 +11153,7 @@ export const rates = [
       en: "Val-Alain",
       fr: "Val-Alain",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9773,6 +11162,7 @@ export const rates = [
       en: "Saint-Édouard-de-Lotbinière",
       fr: "Saint-Édouard-de-Lotbinière",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9781,6 +11171,7 @@ export const rates = [
       en: "Notre-Dame-du-Sacré-Coeur-d'Issoudun",
       fr: "Notre-Dame-du-Sacré-Coeur-d'Issoudun",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9789,6 +11180,7 @@ export const rates = [
       en: "Saint-Apollinaire",
       fr: "Saint-Apollinaire",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9797,6 +11189,7 @@ export const rates = [
       en: "Saint-Antoine-de-Tilly",
       fr: "Saint-Antoine-de-Tilly",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9805,6 +11198,7 @@ export const rates = [
       en: "Sainte-Croix",
       fr: "Sainte-Croix",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9813,6 +11207,7 @@ export const rates = [
       en: "Lotbinière",
       fr: "Lotbinière",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9821,6 +11216,7 @@ export const rates = [
       en: "Leclercville",
       fr: "Leclercville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9829,6 +11225,7 @@ export const rates = [
       en: "Neuville",
       fr: "Neuville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9837,6 +11234,7 @@ export const rates = [
       en: "Pont-Rouge",
       fr: "Pont-Rouge",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9845,6 +11243,7 @@ export const rates = [
       en: "Donnacona",
       fr: "Donnacona",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9853,6 +11252,7 @@ export const rates = [
       en: "Cap-Santé",
       fr: "Cap-Santé",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9861,6 +11261,7 @@ export const rates = [
       en: "Saint-Basile",
       fr: "Saint-Basile",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9869,6 +11270,7 @@ export const rates = [
       en: "Portneuf",
       fr: "Portneuf",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9877,6 +11279,7 @@ export const rates = [
       en: "Deschambault-Grondines",
       fr: "Deschambault-Grondines",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9885,6 +11288,7 @@ export const rates = [
       en: "Saint-Gilbert",
       fr: "Saint-Gilbert",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9893,6 +11297,7 @@ export const rates = [
       en: "Saint-Marc-des-Carrières",
       fr: "Saint-Marc-des-Carrières",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9901,6 +11306,7 @@ export const rates = [
       en: "Saint-Casimir",
       fr: "Saint-Casimir",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9909,6 +11315,7 @@ export const rates = [
       en: "Saint-Thuribe",
       fr: "Saint-Thuribe",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9917,6 +11324,7 @@ export const rates = [
       en: "Saint-Ubalde",
       fr: "Saint-Ubalde",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9925,6 +11333,7 @@ export const rates = [
       en: "Saint-Alban",
       fr: "Saint-Alban",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9933,6 +11342,7 @@ export const rates = [
       en: "Sainte-Christine-d'Auvergne",
       fr: "Sainte-Christine-d'Auvergne",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9941,6 +11351,7 @@ export const rates = [
       en: "Saint-Léonard-de-Portneuf",
       fr: "Saint-Léonard-de-Portneuf",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9949,6 +11360,7 @@ export const rates = [
       en: "Lac-Sergent",
       fr: "Lac-Sergent",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9957,6 +11369,7 @@ export const rates = [
       en: "Saint-Raymond",
       fr: "Saint-Raymond",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9965,6 +11378,7 @@ export const rates = [
       en: "Rivière-à-Pierre",
       fr: "Rivière-à-Pierre",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9973,6 +11387,7 @@ export const rates = [
       en: "Lac-Blanc",
       fr: "Lac-Blanc",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9981,6 +11396,7 @@ export const rates = [
       en: "Linton",
       fr: "Linton",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9989,6 +11405,7 @@ export const rates = [
       en: "Lac-Lapeyrère",
       fr: "Lac-Lapeyrère",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -9997,6 +11414,7 @@ export const rates = [
       en: "Notre-Dame-de-Montauban",
       fr: "Notre-Dame-de-Montauban",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10005,6 +11423,7 @@ export const rates = [
       en: "Lac-aux-Sables",
       fr: "Lac-aux-Sables",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10013,6 +11432,7 @@ export const rates = [
       en: "Saint-Adelphe",
       fr: "Saint-Adelphe",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10021,6 +11441,7 @@ export const rates = [
       en: "Saint-Séverin",
       fr: "Saint-Séverin",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10029,6 +11450,7 @@ export const rates = [
       en: "Saint-Tite",
       fr: "Saint-Tite",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10037,6 +11459,7 @@ export const rates = [
       en: "Hérouxville",
       fr: "Hérouxville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10045,6 +11468,7 @@ export const rates = [
       en: "Grandes-Piles",
       fr: "Grandes-Piles",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10053,6 +11477,7 @@ export const rates = [
       en: "Saint-Roch-de-Mékinac",
       fr: "Saint-Roch-de-Mékinac",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10061,6 +11486,7 @@ export const rates = [
       en: "Sainte-Thècle",
       fr: "Sainte-Thècle",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10069,6 +11495,7 @@ export const rates = [
       en: "Trois-Rives",
       fr: "Trois-Rives",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10077,6 +11504,7 @@ export const rates = [
       en: "Lac-Masketsi",
       fr: "Lac-Masketsi",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10085,6 +11513,7 @@ export const rates = [
       en: "Lac-Normand",
       fr: "Lac-Normand",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10093,6 +11522,7 @@ export const rates = [
       en: "Rivière-de-la-Savane",
       fr: "Rivière-de-la-Savane",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10101,6 +11531,7 @@ export const rates = [
       en: "Lac-Boulé",
       fr: "Lac-Boulé",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10109,6 +11540,7 @@ export const rates = [
       en: "Shawinigan",
       fr: "Shawinigan",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10117,6 +11549,7 @@ export const rates = [
       en: "Trois-Rivières",
       fr: "Trois-Rivières",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10125,6 +11558,7 @@ export const rates = [
       en: "Sainte-Anne-de-la-Pérade",
       fr: "Sainte-Anne-de-la-Pérade",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10133,6 +11567,7 @@ export const rates = [
       en: "Batiscan",
       fr: "Batiscan",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10141,6 +11576,7 @@ export const rates = [
       en: "Sainte-Geneviève-de-Batiscan",
       fr: "Sainte-Geneviève-de-Batiscan",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10149,6 +11585,7 @@ export const rates = [
       en: "Champlain",
       fr: "Champlain",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10157,6 +11594,7 @@ export const rates = [
       en: "Saint-Luc-de-Vincennes",
       fr: "Saint-Luc-de-Vincennes",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10165,6 +11603,7 @@ export const rates = [
       en: "Saint-Maurice",
       fr: "Saint-Maurice",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10173,6 +11612,7 @@ export const rates = [
       en: "Notre-Dame-du-Mont-Carmel",
       fr: "Notre-Dame-du-Mont-Carmel",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10181,6 +11621,7 @@ export const rates = [
       en: "Saint-Narcisse",
       fr: "Saint-Narcisse",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10189,6 +11630,7 @@ export const rates = [
       en: "Saint-Stanislas",
       fr: "Saint-Stanislas",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10197,6 +11639,7 @@ export const rates = [
       en: "Saint-Prosper-de-Champlain",
       fr: "Saint-Prosper-de-Champlain",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10205,6 +11648,7 @@ export const rates = [
       en: "Saint-Sylvère",
       fr: "Saint-Sylvère",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10213,6 +11657,7 @@ export const rates = [
       en: "Bécancour",
       fr: "Bécancour",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10221,6 +11666,7 @@ export const rates = [
       en: "Sainte-Marie-de-Blandford",
       fr: "Sainte-Marie-de-Blandford",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10229,6 +11675,7 @@ export const rates = [
       en: "Lemieux",
       fr: "Lemieux",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10237,6 +11684,7 @@ export const rates = [
       en: "Manseau",
       fr: "Manseau",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10245,6 +11693,7 @@ export const rates = [
       en: "Sainte-Françoise",
       fr: "Sainte-Françoise",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10253,6 +11702,7 @@ export const rates = [
       en: "Sainte-Sophie-de-Lévrard",
       fr: "Sainte-Sophie-de-Lévrard",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10261,6 +11711,7 @@ export const rates = [
       en: "Fortierville",
       fr: "Fortierville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10269,6 +11720,7 @@ export const rates = [
       en: "Parisville",
       fr: "Parisville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10277,6 +11729,7 @@ export const rates = [
       en: "Sainte-Cécile-de-Lévrard",
       fr: "Sainte-Cécile-de-Lévrard",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10285,6 +11738,7 @@ export const rates = [
       en: "Saint-Pierre-les-Becquets",
       fr: "Saint-Pierre-les-Becquets",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10293,6 +11747,7 @@ export const rates = [
       en: "Deschaillons-sur-Saint-Laurent",
       fr: "Deschaillons-sur-Saint-Laurent",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10301,6 +11756,7 @@ export const rates = [
       en: "Wôlinak",
       fr: "Wôlinak",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10309,6 +11765,7 @@ export const rates = [
       en: "Saints-Martyrs-Canadiens",
       fr: "Saints-Martyrs-Canadiens",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10317,6 +11774,7 @@ export const rates = [
       en: "Ham-Nord",
       fr: "Ham-Nord",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10325,6 +11783,7 @@ export const rates = [
       en: "Notre-Dame-de-Ham",
       fr: "Notre-Dame-de-Ham",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10333,6 +11792,7 @@ export const rates = [
       en: "Saint-Rémi-de-Tingwick",
       fr: "Saint-Rémi-de-Tingwick",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10341,6 +11801,7 @@ export const rates = [
       en: "Tingwick",
       fr: "Tingwick",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10349,6 +11810,7 @@ export const rates = [
       en: "Chesterville",
       fr: "Chesterville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10357,6 +11819,7 @@ export const rates = [
       en: "Sainte-Hélène-de-Chester",
       fr: "Sainte-Hélène-de-Chester",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10365,6 +11828,7 @@ export const rates = [
       en: "Saint-Norbert-d'Arthabaska",
       fr: "Saint-Norbert-d'Arthabaska",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10373,6 +11837,7 @@ export const rates = [
       en: "Saint-Christophe-d'Arthabaska",
       fr: "Saint-Christophe-d'Arthabaska",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10381,6 +11846,7 @@ export const rates = [
       en: "Victoriaville",
       fr: "Victoriaville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10389,6 +11855,7 @@ export const rates = [
       en: "Warwick",
       fr: "Warwick",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10397,6 +11864,7 @@ export const rates = [
       en: "Saint-Albert",
       fr: "Saint-Albert",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10405,6 +11873,7 @@ export const rates = [
       en: "Sainte-Élizabeth-de-Warwick",
       fr: "Sainte-Élizabeth-de-Warwick",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10413,6 +11882,7 @@ export const rates = [
       en: "Kingsey Falls",
       fr: "Kingsey Falls",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10421,6 +11891,7 @@ export const rates = [
       en: "Sainte-Séraphine",
       fr: "Sainte-Séraphine",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10429,6 +11900,7 @@ export const rates = [
       en: "Sainte-Clotilde-de-Horton",
       fr: "Sainte-Clotilde-de-Horton",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10437,6 +11909,7 @@ export const rates = [
       en: "Saint-Samuel",
       fr: "Saint-Samuel",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10445,6 +11918,7 @@ export const rates = [
       en: "Saint-Valère",
       fr: "Saint-Valère",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10453,6 +11927,7 @@ export const rates = [
       en: "Saint-Rosaire",
       fr: "Saint-Rosaire",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10461,6 +11936,7 @@ export const rates = [
       en: "Daveluyville",
       fr: "Daveluyville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10469,6 +11945,7 @@ export const rates = [
       en: "Maddington Falls",
       fr: "Maddington Falls",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10477,6 +11954,7 @@ export const rates = [
       en: "Saint-Louis-de-Blandford",
       fr: "Saint-Louis-de-Blandford",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10485,6 +11963,7 @@ export const rates = [
       en: "Ham-Sud",
       fr: "Ham-Sud",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10493,6 +11972,7 @@ export const rates = [
       en: "Saint-Adrien",
       fr: "Saint-Adrien",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10501,6 +11981,7 @@ export const rates = [
       en: "Wotton",
       fr: "Wotton",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10509,6 +11990,7 @@ export const rates = [
       en: "Saint-Camille",
       fr: "Saint-Camille",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10517,6 +11999,7 @@ export const rates = [
       en: "Saint-Georges-de-Windsor",
       fr: "Saint-Georges-de-Windsor",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10525,6 +12008,7 @@ export const rates = [
       en: "Val-des-Sources",
       fr: "Val-des-Sources",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10533,6 +12017,7 @@ export const rates = [
       en: "Danville",
       fr: "Danville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10541,6 +12026,7 @@ export const rates = [
       en: "Saint-Isidore-de-Clifton",
       fr: "Saint-Isidore-de-Clifton",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10549,6 +12035,7 @@ export const rates = [
       en: "Chartierville",
       fr: "Chartierville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10557,6 +12044,7 @@ export const rates = [
       en: "La Patrie",
       fr: "La Patrie",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10565,6 +12053,7 @@ export const rates = [
       en: "Newport",
       fr: "Newport",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10573,6 +12062,7 @@ export const rates = [
       en: "Cookshire-Eaton",
       fr: "Cookshire-Eaton",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10581,6 +12071,7 @@ export const rates = [
       en: "Ascot Corner",
       fr: "Ascot Corner",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10589,6 +12080,7 @@ export const rates = [
       en: "East Angus",
       fr: "East Angus",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10597,6 +12089,7 @@ export const rates = [
       en: "Westbury",
       fr: "Westbury",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10605,6 +12098,7 @@ export const rates = [
       en: "Bury",
       fr: "Bury",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10613,6 +12107,7 @@ export const rates = [
       en: "Hampden",
       fr: "Hampden",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10621,6 +12116,7 @@ export const rates = [
       en: "Scotstown",
       fr: "Scotstown",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10629,6 +12125,7 @@ export const rates = [
       en: "Lingwick",
       fr: "Lingwick",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10637,6 +12134,7 @@ export const rates = [
       en: "Weedon",
       fr: "Weedon",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10645,6 +12143,7 @@ export const rates = [
       en: "Dudswell",
       fr: "Dudswell",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10653,6 +12152,7 @@ export const rates = [
       en: "Stoke",
       fr: "Stoke",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10661,6 +12161,7 @@ export const rates = [
       en: "Saint-François-Xavier-de-Brompton",
       fr: "Saint-François-Xavier-de-Brompton",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10669,6 +12170,7 @@ export const rates = [
       en: "Saint-Denis-de-Brompton",
       fr: "Saint-Denis-de-Brompton",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10677,6 +12179,7 @@ export const rates = [
       en: "Racine",
       fr: "Racine",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10685,6 +12188,7 @@ export const rates = [
       en: "Bonsecours",
       fr: "Bonsecours",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10693,6 +12197,7 @@ export const rates = [
       en: "Lawrenceville",
       fr: "Lawrenceville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10701,6 +12206,7 @@ export const rates = [
       en: "Sainte-Anne-de-la-Rochelle",
       fr: "Sainte-Anne-de-la-Rochelle",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10709,6 +12215,7 @@ export const rates = [
       en: "Valcourt",
       fr: "Valcourt",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10717,6 +12224,7 @@ export const rates = [
       en: "Valcourt",
       fr: "Valcourt",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10725,6 +12233,7 @@ export const rates = [
       en: "Maricourt",
       fr: "Maricourt",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10733,6 +12242,7 @@ export const rates = [
       en: "Kingsbury",
       fr: "Kingsbury",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10741,6 +12251,7 @@ export const rates = [
       en: "Melbourne",
       fr: "Melbourne",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10749,6 +12260,7 @@ export const rates = [
       en: "Ulverton",
       fr: "Ulverton",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10757,6 +12269,7 @@ export const rates = [
       en: "Windsor",
       fr: "Windsor",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10765,6 +12278,7 @@ export const rates = [
       en: "Val-Joli",
       fr: "Val-Joli",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10773,6 +12287,7 @@ export const rates = [
       en: "Richmond",
       fr: "Richmond",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10781,6 +12296,7 @@ export const rates = [
       en: "Saint-Claude",
       fr: "Saint-Claude",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10789,6 +12305,7 @@ export const rates = [
       en: "Cleveland",
       fr: "Cleveland",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10797,6 +12314,7 @@ export const rates = [
       en: "Sherbrooke",
       fr: "Sherbrooke",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10805,6 +12323,7 @@ export const rates = [
       en: "Saint-Malo",
       fr: "Saint-Malo",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10813,6 +12332,7 @@ export const rates = [
       en: "Saint-Venant-de-Paquette",
       fr: "Saint-Venant-de-Paquette",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10821,6 +12341,7 @@ export const rates = [
       en: "East Hereford",
       fr: "East Hereford",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10829,6 +12350,7 @@ export const rates = [
       en: "Saint-Herménégilde",
       fr: "Saint-Herménégilde",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10837,6 +12359,7 @@ export const rates = [
       en: "Dixville",
       fr: "Dixville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10845,6 +12368,7 @@ export const rates = [
       en: "Coaticook",
       fr: "Coaticook",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10853,6 +12377,7 @@ export const rates = [
       en: "Barnston-Ouest",
       fr: "Barnston-Ouest",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10861,6 +12386,7 @@ export const rates = [
       en: "Stanstead-Est",
       fr: "Stanstead-Est",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10869,6 +12395,7 @@ export const rates = [
       en: "Sainte-Edwidge-de-Clifton",
       fr: "Sainte-Edwidge-de-Clifton",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10877,6 +12404,7 @@ export const rates = [
       en: "Martinville",
       fr: "Martinville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10885,6 +12413,7 @@ export const rates = [
       en: "Compton",
       fr: "Compton",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10893,6 +12422,7 @@ export const rates = [
       en: "Waterville",
       fr: "Waterville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10901,6 +12431,7 @@ export const rates = [
       en: "Stanstead",
       fr: "Stanstead",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10909,6 +12440,7 @@ export const rates = [
       en: "Ogden",
       fr: "Ogden",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10917,6 +12449,7 @@ export const rates = [
       en: "Stanstead",
       fr: "Stanstead",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10925,6 +12458,7 @@ export const rates = [
       en: "Potton",
       fr: "Potton",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10933,6 +12467,7 @@ export const rates = [
       en: "Ayer's Cliff",
       fr: "Ayer's Cliff",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10941,6 +12476,7 @@ export const rates = [
       en: "Hatley",
       fr: "Hatley",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10949,6 +12485,7 @@ export const rates = [
       en: "North Hatley",
       fr: "North Hatley",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10957,6 +12494,7 @@ export const rates = [
       en: "Hatley",
       fr: "Hatley",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10965,6 +12503,7 @@ export const rates = [
       en: "Sainte-Catherine-de-Hatley",
       fr: "Sainte-Catherine-de-Hatley",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10973,6 +12512,7 @@ export const rates = [
       en: "Magog",
       fr: "Magog",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10981,6 +12521,7 @@ export const rates = [
       en: "Saint-Benoît-du-Lac",
       fr: "Saint-Benoît-du-Lac",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10989,6 +12530,7 @@ export const rates = [
       en: "Austin",
       fr: "Austin",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -10997,6 +12539,7 @@ export const rates = [
       en: "Eastman",
       fr: "Eastman",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11005,6 +12548,7 @@ export const rates = [
       en: "Bolton-Est",
       fr: "Bolton-Est",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11013,6 +12557,7 @@ export const rates = [
       en: "Saint-Étienne-de-Bolton",
       fr: "Saint-Étienne-de-Bolton",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11021,6 +12566,7 @@ export const rates = [
       en: "Stukely-Sud",
       fr: "Stukely-Sud",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11029,6 +12575,7 @@ export const rates = [
       en: "Orford",
       fr: "Orford",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11037,6 +12584,7 @@ export const rates = [
       en: "Abercorn",
       fr: "Abercorn",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11045,6 +12593,7 @@ export const rates = [
       en: "Frelighsburg",
       fr: "Frelighsburg",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11053,6 +12602,7 @@ export const rates = [
       en: "Saint-Armand",
       fr: "Saint-Armand",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11061,6 +12611,7 @@ export const rates = [
       en: "Pike River",
       fr: "Pike River",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11069,6 +12620,7 @@ export const rates = [
       en: "Stanbridge Station",
       fr: "Stanbridge Station",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11077,6 +12629,7 @@ export const rates = [
       en: "Bedford",
       fr: "Bedford",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11085,6 +12638,7 @@ export const rates = [
       en: "Bedford",
       fr: "Bedford",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11093,6 +12647,7 @@ export const rates = [
       en: "Stanbridge East",
       fr: "Stanbridge East",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11101,6 +12656,7 @@ export const rates = [
       en: "Dunham",
       fr: "Dunham",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11109,6 +12665,7 @@ export const rates = [
       en: "Sutton",
       fr: "Sutton",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11117,6 +12674,7 @@ export const rates = [
       en: "Bolton-Ouest",
       fr: "Bolton-Ouest",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11125,6 +12683,7 @@ export const rates = [
       en: "Brome",
       fr: "Brome",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11133,6 +12692,7 @@ export const rates = [
       en: "Lac-Brome",
       fr: "Lac-Brome",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11141,6 +12701,7 @@ export const rates = [
       en: "Bromont",
       fr: "Bromont",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11149,6 +12710,7 @@ export const rates = [
       en: "Cowansville",
       fr: "Cowansville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11157,6 +12719,7 @@ export const rates = [
       en: "East Farnham",
       fr: "East Farnham",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11165,6 +12728,7 @@ export const rates = [
       en: "Brigham",
       fr: "Brigham",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11173,6 +12737,7 @@ export const rates = [
       en: "Saint-Ignace-de-Stanbridge",
       fr: "Saint-Ignace-de-Stanbridge",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11181,6 +12746,7 @@ export const rates = [
       en: "Notre-Dame-de-Stanbridge",
       fr: "Notre-Dame-de-Stanbridge",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11189,6 +12755,7 @@ export const rates = [
       en: "Sainte-Sabine",
       fr: "Sainte-Sabine",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11197,6 +12764,7 @@ export const rates = [
       en: "Farnham",
       fr: "Farnham",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11205,6 +12773,7 @@ export const rates = [
       en: "Saint-Alphonse-de-Granby",
       fr: "Saint-Alphonse-de-Granby",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11213,6 +12782,7 @@ export const rates = [
       en: "Granby",
       fr: "Granby",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11221,6 +12791,7 @@ export const rates = [
       en: "Waterloo",
       fr: "Waterloo",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11229,6 +12800,7 @@ export const rates = [
       en: "Warden",
       fr: "Warden",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11237,6 +12809,7 @@ export const rates = [
       en: "Shefford",
       fr: "Shefford",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11245,6 +12818,7 @@ export const rates = [
       en: "Saint-Joachim-de-Shefford",
       fr: "Saint-Joachim-de-Shefford",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11253,6 +12827,7 @@ export const rates = [
       en: "Roxton Pond",
       fr: "Roxton Pond",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11261,6 +12836,7 @@ export const rates = [
       en: "Sainte-Cécile-de-Milton",
       fr: "Sainte-Cécile-de-Milton",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11269,6 +12845,7 @@ export const rates = [
       en: "Béthanie",
       fr: "Béthanie",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11277,6 +12854,7 @@ export const rates = [
       en: "Roxton Falls",
       fr: "Roxton Falls",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11285,6 +12863,7 @@ export const rates = [
       en: "Roxton",
       fr: "Roxton",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11293,6 +12872,7 @@ export const rates = [
       en: "Sainte-Christine",
       fr: "Sainte-Christine",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11301,6 +12881,7 @@ export const rates = [
       en: "Acton Vale",
       fr: "Acton Vale",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11309,6 +12890,7 @@ export const rates = [
       en: "Upton",
       fr: "Upton",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11317,6 +12899,7 @@ export const rates = [
       en: "Saint-Théodore-d'Acton",
       fr: "Saint-Théodore-d'Acton",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11325,6 +12908,7 @@ export const rates = [
       en: "Saint-Nazaire-d'Acton",
       fr: "Saint-Nazaire-d'Acton",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11333,6 +12917,7 @@ export const rates = [
       en: "Saint-Félix-de-Kingsey",
       fr: "Saint-Félix-de-Kingsey",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11341,6 +12926,7 @@ export const rates = [
       en: "Durham-Sud",
       fr: "Durham-Sud",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11349,6 +12935,7 @@ export const rates = [
       en: "Lefebvre",
       fr: "Lefebvre",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11357,6 +12944,7 @@ export const rates = [
       en: "L'Avenir",
       fr: "L'Avenir",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11365,6 +12953,7 @@ export const rates = [
       en: "Saint-Lucien",
       fr: "Saint-Lucien",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11373,6 +12962,7 @@ export const rates = [
       en: "Wickham",
       fr: "Wickham",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11381,6 +12971,7 @@ export const rates = [
       en: "Saint-Germain-de-Grantham",
       fr: "Saint-Germain-de-Grantham",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11389,6 +12980,7 @@ export const rates = [
       en: "Drummondville",
       fr: "Drummondville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11397,6 +12989,7 @@ export const rates = [
       en: "Saint-Cyrille-de-Wendover",
       fr: "Saint-Cyrille-de-Wendover",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11405,6 +12998,7 @@ export const rates = [
       en: "Notre-Dame-du-Bon-Conseil",
       fr: "Notre-Dame-du-Bon-Conseil",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11413,6 +13007,7 @@ export const rates = [
       en: "Notre-Dame-du-Bon-Conseil",
       fr: "Notre-Dame-du-Bon-Conseil",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11421,6 +13016,7 @@ export const rates = [
       en: "Sainte-Brigitte-des-Saults",
       fr: "Sainte-Brigitte-des-Saults",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11429,6 +13025,7 @@ export const rates = [
       en: "Saint-Majorique-de-Grantham",
       fr: "Saint-Majorique-de-Grantham",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11437,6 +13034,7 @@ export const rates = [
       en: "Saint-Edmond-de-Grantham",
       fr: "Saint-Edmond-de-Grantham",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11445,6 +13043,7 @@ export const rates = [
       en: "Saint-Eugène",
       fr: "Saint-Eugène",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11453,6 +13052,7 @@ export const rates = [
       en: "Saint-Guillaume",
       fr: "Saint-Guillaume",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11461,6 +13061,7 @@ export const rates = [
       en: "Saint-Bonaventure",
       fr: "Saint-Bonaventure",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11469,6 +13070,7 @@ export const rates = [
       en: "Saint-Pie-de-Guire",
       fr: "Saint-Pie-de-Guire",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11477,6 +13079,7 @@ export const rates = [
       en: "Sainte-Eulalie",
       fr: "Sainte-Eulalie",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11485,6 +13088,7 @@ export const rates = [
       en: "Aston-Jonction",
       fr: "Aston-Jonction",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11493,6 +13097,7 @@ export const rates = [
       en: "Saint-Wenceslas",
       fr: "Saint-Wenceslas",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11501,6 +13106,7 @@ export const rates = [
       en: "Saint-Célestin",
       fr: "Saint-Célestin",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11509,6 +13115,7 @@ export const rates = [
       en: "Saint-Célestin",
       fr: "Saint-Célestin",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11517,6 +13124,7 @@ export const rates = [
       en: "Saint-Léonard-d'Aston",
       fr: "Saint-Léonard-d'Aston",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11525,6 +13133,7 @@ export const rates = [
       en: "Sainte-Perpétue",
       fr: "Sainte-Perpétue",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11533,6 +13142,7 @@ export const rates = [
       en: "Sainte-Monique",
       fr: "Sainte-Monique",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11541,6 +13151,7 @@ export const rates = [
       en: "Grand-Saint-Esprit",
       fr: "Grand-Saint-Esprit",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11549,6 +13160,7 @@ export const rates = [
       en: "Nicolet",
       fr: "Nicolet",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11557,6 +13169,7 @@ export const rates = [
       en: "La Visitation-de-Yamaska",
       fr: "La Visitation-de-Yamaska",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11565,6 +13178,7 @@ export const rates = [
       en: "Saint-Zéphirin-de-Courval",
       fr: "Saint-Zéphirin-de-Courval",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11573,6 +13187,7 @@ export const rates = [
       en: "Saint-Elphège",
       fr: "Saint-Elphège",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11581,6 +13196,7 @@ export const rates = [
       en: "Baie-du-Febvre",
       fr: "Baie-du-Febvre",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11589,6 +13205,7 @@ export const rates = [
       en: "Pierreville",
       fr: "Pierreville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11597,6 +13214,7 @@ export const rates = [
       en: "Saint-François-du-Lac",
       fr: "Saint-François-du-Lac",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11605,6 +13223,7 @@ export const rates = [
       en: "Odanak",
       fr: "Odanak",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11613,6 +13232,7 @@ export const rates = [
       en: "Maskinongé",
       fr: "Maskinongé",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11621,6 +13241,7 @@ export const rates = [
       en: "Louiseville",
       fr: "Louiseville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11629,6 +13250,7 @@ export const rates = [
       en: "Yamachiche",
       fr: "Yamachiche",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11637,6 +13259,7 @@ export const rates = [
       en: "Saint-Barnabé",
       fr: "Saint-Barnabé",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11645,6 +13268,7 @@ export const rates = [
       en: "Saint-Sévère",
       fr: "Saint-Sévère",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11653,6 +13277,7 @@ export const rates = [
       en: "Saint-Léon-le-Grand",
       fr: "Saint-Léon-le-Grand",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11661,6 +13286,7 @@ export const rates = [
       en: "Sainte-Ursule",
       fr: "Sainte-Ursule",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11669,6 +13295,7 @@ export const rates = [
       en: "Saint-Justin",
       fr: "Saint-Justin",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11677,6 +13304,7 @@ export const rates = [
       en: "Saint-Édouard-de-Maskinongé",
       fr: "Saint-Édouard-de-Maskinongé",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11685,6 +13313,7 @@ export const rates = [
       en: "Sainte-Angèle-de-Prémont",
       fr: "Sainte-Angèle-de-Prémont",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11693,6 +13322,7 @@ export const rates = [
       en: "Saint-Paulin",
       fr: "Saint-Paulin",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11701,6 +13331,7 @@ export const rates = [
       en: "Saint-Alexis-des-Monts",
       fr: "Saint-Alexis-des-Monts",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11709,6 +13340,7 @@ export const rates = [
       en: "Saint-Mathieu-du-Parc",
       fr: "Saint-Mathieu-du-Parc",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11717,6 +13349,7 @@ export const rates = [
       en: "Saint-Élie-de-Caxton",
       fr: "Saint-Élie-de-Caxton",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11725,6 +13358,7 @@ export const rates = [
       en: "Charette",
       fr: "Charette",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11733,6 +13367,7 @@ export const rates = [
       en: "Saint-Boniface",
       fr: "Saint-Boniface",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11741,6 +13376,7 @@ export const rates = [
       en: "Saint-Étienne-des-Grès",
       fr: "Saint-Étienne-des-Grès",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11749,6 +13385,7 @@ export const rates = [
       en: "Lavaltrie",
       fr: "Lavaltrie",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11757,6 +13394,7 @@ export const rates = [
       en: "Lanoraie",
       fr: "Lanoraie",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11765,6 +13403,7 @@ export const rates = [
       en: "Sainte-Élisabeth",
       fr: "Sainte-Élisabeth",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11773,6 +13412,7 @@ export const rates = [
       en: "Berthierville",
       fr: "Berthierville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11781,6 +13421,7 @@ export const rates = [
       en: "Sainte-Geneviève-de-Berthier",
       fr: "Sainte-Geneviève-de-Berthier",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11789,6 +13430,7 @@ export const rates = [
       en: "Saint-Ignace-de-Loyola",
       fr: "Saint-Ignace-de-Loyola",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11797,6 +13439,7 @@ export const rates = [
       en: "La Visitation-de-l'Île-Dupas",
       fr: "La Visitation-de-l'Île-Dupas",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11805,6 +13448,7 @@ export const rates = [
       en: "Saint-Barthélemy",
       fr: "Saint-Barthélemy",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11813,6 +13457,7 @@ export const rates = [
       en: "Saint-Cuthbert",
       fr: "Saint-Cuthbert",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11821,6 +13466,7 @@ export const rates = [
       en: "Saint-Norbert",
       fr: "Saint-Norbert",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11829,6 +13475,7 @@ export const rates = [
       en: "Saint-Cléophas-de-Brandon",
       fr: "Saint-Cléophas-de-Brandon",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11837,6 +13484,7 @@ export const rates = [
       en: "Saint-Gabriel",
       fr: "Saint-Gabriel",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11845,6 +13493,7 @@ export const rates = [
       en: "Saint-Gabriel-de-Brandon",
       fr: "Saint-Gabriel-de-Brandon",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11853,6 +13502,7 @@ export const rates = [
       en: "Saint-Didace",
       fr: "Saint-Didace",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11861,6 +13511,7 @@ export const rates = [
       en: "Mandeville",
       fr: "Mandeville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11869,6 +13520,7 @@ export const rates = [
       en: "Saint-David",
       fr: "Saint-David",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11877,6 +13529,7 @@ export const rates = [
       en: "Massueville",
       fr: "Massueville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11885,6 +13538,7 @@ export const rates = [
       en: "Saint-Aimé",
       fr: "Saint-Aimé",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11893,6 +13547,7 @@ export const rates = [
       en: "Saint-Robert",
       fr: "Saint-Robert",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11901,6 +13556,7 @@ export const rates = [
       en: "Sainte-Victoire-de-Sorel",
       fr: "Sainte-Victoire-de-Sorel",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11909,6 +13565,7 @@ export const rates = [
       en: "Saint-Ours",
       fr: "Saint-Ours",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11917,6 +13574,7 @@ export const rates = [
       en: "Saint-Roch-de-Richelieu",
       fr: "Saint-Roch-de-Richelieu",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11925,6 +13583,7 @@ export const rates = [
       en: "Saint-Joseph-de-Sorel",
       fr: "Saint-Joseph-de-Sorel",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11933,6 +13592,7 @@ export const rates = [
       en: "Sorel-Tracy",
       fr: "Sorel-Tracy",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11941,6 +13601,7 @@ export const rates = [
       en: "Sainte-Anne-de-Sorel",
       fr: "Sainte-Anne-de-Sorel",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11949,6 +13610,7 @@ export const rates = [
       en: "Yamaska",
       fr: "Yamaska",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11957,6 +13619,7 @@ export const rates = [
       en: "Saint-Gérard-Majella",
       fr: "Saint-Gérard-Majella",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11965,6 +13628,7 @@ export const rates = [
       en: "Saint-Pie",
       fr: "Saint-Pie",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11973,6 +13637,7 @@ export const rates = [
       en: "Saint-Damase",
       fr: "Saint-Damase",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11981,6 +13646,7 @@ export const rates = [
       en: "Sainte-Madeleine",
       fr: "Sainte-Madeleine",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11989,6 +13655,7 @@ export const rates = [
       en: "Sainte-Marie-Madeleine",
       fr: "Sainte-Marie-Madeleine",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -11997,6 +13664,7 @@ export const rates = [
       en: "La Présentation",
       fr: "La Présentation",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12005,6 +13673,7 @@ export const rates = [
       en: "Saint-Hyacinthe",
       fr: "Saint-Hyacinthe",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12013,6 +13682,7 @@ export const rates = [
       en: "Saint-Dominique",
       fr: "Saint-Dominique",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12021,6 +13691,7 @@ export const rates = [
       en: "Saint-Valérien-de-Milton",
       fr: "Saint-Valérien-de-Milton",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12029,6 +13700,7 @@ export const rates = [
       en: "Saint-Liboire",
       fr: "Saint-Liboire",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12037,6 +13709,7 @@ export const rates = [
       en: "Saint-Simon",
       fr: "Saint-Simon",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12045,6 +13718,7 @@ export const rates = [
       en: "Sainte-Hélène-de-Bagot",
       fr: "Sainte-Hélène-de-Bagot",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12053,6 +13727,7 @@ export const rates = [
       en: "Saint-Hugues",
       fr: "Saint-Hugues",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12061,6 +13736,7 @@ export const rates = [
       en: "Saint-Barnabé-Sud",
       fr: "Saint-Barnabé-Sud",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12069,6 +13745,7 @@ export const rates = [
       en: "Saint-Jude",
       fr: "Saint-Jude",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12077,6 +13754,7 @@ export const rates = [
       en: "Saint-Bernard-de-Michaudville",
       fr: "Saint-Bernard-de-Michaudville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12085,6 +13763,7 @@ export const rates = [
       en: "Saint-Louis",
       fr: "Saint-Louis",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12093,6 +13772,7 @@ export const rates = [
       en: "Saint-Marcel-de-Richelieu",
       fr: "Saint-Marcel-de-Richelieu",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12101,6 +13781,7 @@ export const rates = [
       en: "Ange-Gardien",
       fr: "Ange-Gardien",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12109,6 +13790,7 @@ export const rates = [
       en: "Saint-Paul-d'Abbotsford",
       fr: "Saint-Paul-d'Abbotsford",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12117,6 +13799,7 @@ export const rates = [
       en: "Saint-Césaire",
       fr: "Saint-Césaire",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12125,6 +13808,7 @@ export const rates = [
       en: "Sainte-Angèle-de-Monnoir",
       fr: "Sainte-Angèle-de-Monnoir",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12133,6 +13817,7 @@ export const rates = [
       en: "Rougemont",
       fr: "Rougemont",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12141,6 +13826,7 @@ export const rates = [
       en: "Marieville",
       fr: "Marieville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12149,6 +13835,7 @@ export const rates = [
       en: "Richelieu",
       fr: "Richelieu",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12157,6 +13844,7 @@ export const rates = [
       en: "Saint-Mathias-sur-Richelieu",
       fr: "Saint-Mathias-sur-Richelieu",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12165,6 +13853,7 @@ export const rates = [
       en: "Venise-en-Québec",
       fr: "Venise-en-Québec",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12173,6 +13862,7 @@ export const rates = [
       en: "Saint-Georges-de-Clarenceville",
       fr: "Saint-Georges-de-Clarenceville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12181,6 +13871,7 @@ export const rates = [
       en: "Noyan",
       fr: "Noyan",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12189,6 +13880,7 @@ export const rates = [
       en: "Lacolle",
       fr: "Lacolle",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12197,6 +13889,7 @@ export const rates = [
       en: "Saint-Valentin",
       fr: "Saint-Valentin",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12205,6 +13898,7 @@ export const rates = [
       en: "Saint-Paul-de-l'Île-aux-Noix",
       fr: "Saint-Paul-de-l'Île-aux-Noix",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12213,6 +13907,7 @@ export const rates = [
       en: "Henryville",
       fr: "Henryville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12221,6 +13916,7 @@ export const rates = [
       en: "Saint-Sébastien",
       fr: "Saint-Sébastien",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12229,6 +13925,7 @@ export const rates = [
       en: "Saint-Alexandre",
       fr: "Saint-Alexandre",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12237,6 +13934,7 @@ export const rates = [
       en: "Sainte-Anne-de-Sabrevois",
       fr: "Sainte-Anne-de-Sabrevois",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12245,6 +13943,7 @@ export const rates = [
       en: "Saint-Blaise-sur-Richelieu",
       fr: "Saint-Blaise-sur-Richelieu",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12253,6 +13952,7 @@ export const rates = [
       en: "Saint-Jean-sur-Richelieu",
       fr: "Saint-Jean-sur-Richelieu",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12261,6 +13961,7 @@ export const rates = [
       en: "Mont-Saint-Grégoire",
       fr: "Mont-Saint-Grégoire",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12269,6 +13970,7 @@ export const rates = [
       en: "Sainte-Brigide-d'Iberville",
       fr: "Sainte-Brigide-d'Iberville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12277,6 +13979,7 @@ export const rates = [
       en: "Chambly",
       fr: "Chambly",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12285,6 +13988,7 @@ export const rates = [
       en: "Carignan",
       fr: "Carignan",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12293,6 +13997,7 @@ export const rates = [
       en: "Saint-Basile-le-Grand",
       fr: "Saint-Basile-le-Grand",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12301,6 +14006,7 @@ export const rates = [
       en: "McMasterville",
       fr: "McMasterville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12309,6 +14015,7 @@ export const rates = [
       en: "Otterburn Park",
       fr: "Otterburn Park",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12317,6 +14024,7 @@ export const rates = [
       en: "Saint-Jean-Baptiste",
       fr: "Saint-Jean-Baptiste",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12325,6 +14033,7 @@ export const rates = [
       en: "Mont-Saint-Hilaire",
       fr: "Mont-Saint-Hilaire",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12333,6 +14042,7 @@ export const rates = [
       en: "Beloeil",
       fr: "Beloeil",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12341,6 +14051,7 @@ export const rates = [
       en: "Saint-Mathieu-de-Beloeil",
       fr: "Saint-Mathieu-de-Beloeil",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12349,6 +14060,7 @@ export const rates = [
       en: "Saint-Marc-sur-Richelieu",
       fr: "Saint-Marc-sur-Richelieu",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12357,6 +14069,7 @@ export const rates = [
       en: "Saint-Charles-sur-Richelieu",
       fr: "Saint-Charles-sur-Richelieu",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12365,6 +14078,7 @@ export const rates = [
       en: "Saint-Denis-sur-Richelieu",
       fr: "Saint-Denis-sur-Richelieu",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12373,6 +14087,7 @@ export const rates = [
       en: "Saint-Antoine-sur-Richelieu",
       fr: "Saint-Antoine-sur-Richelieu",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12381,6 +14096,7 @@ export const rates = [
       en: "Brossard",
       fr: "Brossard",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12389,6 +14105,7 @@ export const rates = [
       en: "Saint-Lambert",
       fr: "Saint-Lambert",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12397,6 +14114,7 @@ export const rates = [
       en: "Boucherville",
       fr: "Boucherville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12405,6 +14123,7 @@ export const rates = [
       en: "Saint-Bruno-de-Montarville",
       fr: "Saint-Bruno-de-Montarville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12413,6 +14132,7 @@ export const rates = [
       en: "Longueuil",
       fr: "Longueuil",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12421,6 +14141,7 @@ export const rates = [
       en: "Sainte-Julie",
       fr: "Sainte-Julie",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12429,6 +14150,7 @@ export const rates = [
       en: "Saint-Amable",
       fr: "Saint-Amable",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12437,6 +14159,7 @@ export const rates = [
       en: "Varennes",
       fr: "Varennes",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12445,6 +14168,7 @@ export const rates = [
       en: "Verchères",
       fr: "Verchères",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12453,6 +14177,7 @@ export const rates = [
       en: "Calixa-Lavallée",
       fr: "Calixa-Lavallée",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12461,6 +14186,7 @@ export const rates = [
       en: "Contrecoeur",
       fr: "Contrecoeur",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12469,6 +14195,7 @@ export const rates = [
       en: "Charlemagne",
       fr: "Charlemagne",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12477,6 +14204,7 @@ export const rates = [
       en: "Repentigny",
       fr: "Repentigny",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12485,6 +14213,7 @@ export const rates = [
       en: "Saint-Sulpice",
       fr: "Saint-Sulpice",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12493,6 +14222,7 @@ export const rates = [
       en: "L'Assomption",
       fr: "L'Assomption",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12501,6 +14231,7 @@ export const rates = [
       en: "L'Épiphanie",
       fr: "L'Épiphanie",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12509,6 +14240,7 @@ export const rates = [
       en: "Saint-Paul",
       fr: "Saint-Paul",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12517,6 +14249,7 @@ export const rates = [
       en: "Crabtree",
       fr: "Crabtree",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12525,6 +14258,7 @@ export const rates = [
       en: "Saint-Pierre",
       fr: "Saint-Pierre",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12533,6 +14267,7 @@ export const rates = [
       en: "Joliette",
       fr: "Joliette",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12541,6 +14276,7 @@ export const rates = [
       en: "Saint-Thomas",
       fr: "Saint-Thomas",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12549,6 +14285,7 @@ export const rates = [
       en: "Notre-Dame-des-Prairies",
       fr: "Notre-Dame-des-Prairies",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12557,6 +14294,7 @@ export const rates = [
       en: "Saint-Charles-Borromée",
       fr: "Saint-Charles-Borromée",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12565,6 +14303,7 @@ export const rates = [
       en: "Saint-Ambroise-de-Kildare",
       fr: "Saint-Ambroise-de-Kildare",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12573,6 +14312,7 @@ export const rates = [
       en: "Notre-Dame-de-Lourdes",
       fr: "Notre-Dame-de-Lourdes",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12581,6 +14321,7 @@ export const rates = [
       en: "Sainte-Mélanie",
       fr: "Sainte-Mélanie",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12589,6 +14330,7 @@ export const rates = [
       en: "Saint-Félix-de-Valois",
       fr: "Saint-Félix-de-Valois",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12597,6 +14339,7 @@ export const rates = [
       en: "Saint-Jean-de-Matha",
       fr: "Saint-Jean-de-Matha",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12605,6 +14348,7 @@ export const rates = [
       en: "Sainte-Béatrix",
       fr: "Sainte-Béatrix",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12613,6 +14357,7 @@ export const rates = [
       en: "Saint-Alphonse-Rodriguez",
       fr: "Saint-Alphonse-Rodriguez",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12621,6 +14366,7 @@ export const rates = [
       en: "Sainte-Marcelline-de-Kildare",
       fr: "Sainte-Marcelline-de-Kildare",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12629,6 +14375,7 @@ export const rates = [
       en: "Rawdon",
       fr: "Rawdon",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12637,6 +14384,7 @@ export const rates = [
       en: "Chertsey",
       fr: "Chertsey",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12645,6 +14393,7 @@ export const rates = [
       en: "Entrelacs",
       fr: "Entrelacs",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12653,6 +14402,7 @@ export const rates = [
       en: "Notre-Dame-de-la-Merci",
       fr: "Notre-Dame-de-la-Merci",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12661,6 +14411,7 @@ export const rates = [
       en: "Saint-Donat",
       fr: "Saint-Donat",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12669,6 +14420,7 @@ export const rates = [
       en: "Saint-Côme",
       fr: "Saint-Côme",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12677,6 +14429,7 @@ export const rates = [
       en: "Sainte-Émélie-de-l'Énergie",
       fr: "Sainte-Émélie-de-l'Énergie",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12685,6 +14438,7 @@ export const rates = [
       en: "Saint-Damien",
       fr: "Saint-Damien",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12693,6 +14447,7 @@ export const rates = [
       en: "Saint-Zénon",
       fr: "Saint-Zénon",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12701,6 +14456,7 @@ export const rates = [
       en: "Saint-Michel-des-Saints",
       fr: "Saint-Michel-des-Saints",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12709,6 +14465,7 @@ export const rates = [
       en: "Communauté Atikamekw de Manawan",
       fr: "Communauté Atikamekw de Manawan",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12717,6 +14474,7 @@ export const rates = [
       en: "Lac-Minaki",
       fr: "Lac-Minaki",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12725,6 +14483,7 @@ export const rates = [
       en: "Lac-Devenyns",
       fr: "Lac-Devenyns",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12733,6 +14492,7 @@ export const rates = [
       en: "Baie-de-la-Bouteille",
       fr: "Baie-de-la-Bouteille",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12741,6 +14501,7 @@ export const rates = [
       en: "Lac-Matawin",
       fr: "Lac-Matawin",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12749,6 +14510,7 @@ export const rates = [
       en: "Lac-Legendre",
       fr: "Lac-Legendre",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12757,6 +14519,7 @@ export const rates = [
       en: "Saint-Guillaume-Nord",
       fr: "Saint-Guillaume-Nord",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12765,6 +14528,7 @@ export const rates = [
       en: "Lac-des-Dix-Milles",
       fr: "Lac-des-Dix-Milles",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12773,6 +14537,7 @@ export const rates = [
       en: "Lac-Santé",
       fr: "Lac-Santé",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12781,6 +14546,7 @@ export const rates = [
       en: "Baie-Obaoca",
       fr: "Baie-Obaoca",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12789,6 +14555,7 @@ export const rates = [
       en: "Lac-Cabasta",
       fr: "Lac-Cabasta",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12797,6 +14564,7 @@ export const rates = [
       en: "Baie-Atibenne",
       fr: "Baie-Atibenne",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12805,6 +14573,7 @@ export const rates = [
       en: "Lac-du-Taureau",
       fr: "Lac-du-Taureau",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12813,6 +14582,7 @@ export const rates = [
       en: "Sainte-Marie-Salomé",
       fr: "Sainte-Marie-Salomé",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12821,6 +14591,7 @@ export const rates = [
       en: "Saint-Jacques",
       fr: "Saint-Jacques",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12829,6 +14600,7 @@ export const rates = [
       en: "Saint-Alexis",
       fr: "Saint-Alexis",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12837,6 +14609,7 @@ export const rates = [
       en: "Saint-Esprit",
       fr: "Saint-Esprit",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12845,6 +14618,7 @@ export const rates = [
       en: "Saint-Roch-de-l'Achigan",
       fr: "Saint-Roch-de-l'Achigan",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12853,6 +14627,7 @@ export const rates = [
       en: "Saint-Roch-Ouest",
       fr: "Saint-Roch-Ouest",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12861,6 +14636,7 @@ export const rates = [
       en: "Saint-Lin--Laurentides",
       fr: "Saint-Lin--Laurentides",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12869,6 +14645,7 @@ export const rates = [
       en: "Saint-Calixte",
       fr: "Saint-Calixte",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12877,6 +14654,7 @@ export const rates = [
       en: "Sainte-Julienne",
       fr: "Sainte-Julienne",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12885,6 +14663,7 @@ export const rates = [
       en: "Saint-Liguori",
       fr: "Saint-Liguori",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12893,6 +14672,7 @@ export const rates = [
       en: "Terrebonne",
       fr: "Terrebonne",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12901,6 +14681,7 @@ export const rates = [
       en: "Mascouche",
       fr: "Mascouche",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12909,6 +14690,7 @@ export const rates = [
       en: "Laval",
       fr: "Laval",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12917,6 +14699,7 @@ export const rates = [
       en: "Montréal-Est",
       fr: "Montréal-Est",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12925,6 +14708,7 @@ export const rates = [
       en: "Montréal",
       fr: "Montréal",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12933,6 +14717,7 @@ export const rates = [
       en: "Westmount",
       fr: "Westmount",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12941,6 +14726,7 @@ export const rates = [
       en: "Montréal-Ouest",
       fr: "Montréal-Ouest",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12949,6 +14735,7 @@ export const rates = [
       en: "Côte-Saint-Luc",
       fr: "Côte-Saint-Luc",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12957,6 +14744,7 @@ export const rates = [
       en: "Hampstead",
       fr: "Hampstead",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12965,6 +14753,7 @@ export const rates = [
       en: "Mont-Royal",
       fr: "Mont-Royal",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12973,6 +14762,7 @@ export const rates = [
       en: "Dorval",
       fr: "Dorval",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12981,6 +14771,7 @@ export const rates = [
       en: "L'Île-Dorval",
       fr: "L'Île-Dorval",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12989,6 +14780,7 @@ export const rates = [
       en: "Pointe-Claire",
       fr: "Pointe-Claire",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -12997,6 +14789,7 @@ export const rates = [
       en: "Kirkland",
       fr: "Kirkland",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13005,6 +14798,7 @@ export const rates = [
       en: "Beaconsfield",
       fr: "Beaconsfield",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13013,6 +14807,7 @@ export const rates = [
       en: "Baie-D'Urfé",
       fr: "Baie-D'Urfé",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13021,6 +14816,7 @@ export const rates = [
       en: "Sainte-Anne-de-Bellevue",
       fr: "Sainte-Anne-de-Bellevue",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13029,6 +14825,7 @@ export const rates = [
       en: "Senneville",
       fr: "Senneville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13037,6 +14834,7 @@ export const rates = [
       en: "Dollard-Des Ormeaux",
       fr: "Dollard-Des Ormeaux",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13045,6 +14843,7 @@ export const rates = [
       en: "Saint-Mathieu",
       fr: "Saint-Mathieu",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13053,6 +14852,7 @@ export const rates = [
       en: "Saint-Philippe",
       fr: "Saint-Philippe",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13061,6 +14861,7 @@ export const rates = [
       en: "La Prairie",
       fr: "La Prairie",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13069,6 +14870,7 @@ export const rates = [
       en: "Candiac",
       fr: "Candiac",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13077,6 +14879,7 @@ export const rates = [
       en: "Delson",
       fr: "Delson",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13085,6 +14888,7 @@ export const rates = [
       en: "Sainte-Catherine",
       fr: "Sainte-Catherine",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13093,6 +14897,7 @@ export const rates = [
       en: "Saint-Constant",
       fr: "Saint-Constant",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13101,6 +14906,7 @@ export const rates = [
       en: "Saint-Isidore",
       fr: "Saint-Isidore",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13109,6 +14915,7 @@ export const rates = [
       en: "Mercier",
       fr: "Mercier",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13117,6 +14924,7 @@ export const rates = [
       en: "Châteauguay",
       fr: "Châteauguay",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13125,6 +14933,7 @@ export const rates = [
       en: "Léry",
       fr: "Léry",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13133,6 +14942,7 @@ export const rates = [
       en: "Kahnawake",
       fr: "Kahnawake",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13141,6 +14951,7 @@ export const rates = [
       en: "Saint-Bernard-de-Lacolle",
       fr: "Saint-Bernard-de-Lacolle",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13149,6 +14960,7 @@ export const rates = [
       en: "Hemmingford",
       fr: "Hemmingford",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13157,6 +14969,7 @@ export const rates = [
       en: "Hemmingford",
       fr: "Hemmingford",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13165,6 +14978,7 @@ export const rates = [
       en: "Sainte-Clotilde",
       fr: "Sainte-Clotilde",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13173,6 +14987,7 @@ export const rates = [
       en: "Saint-Patrice-de-Sherrington",
       fr: "Saint-Patrice-de-Sherrington",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13181,6 +14996,7 @@ export const rates = [
       en: "Napierville",
       fr: "Napierville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13189,6 +15005,7 @@ export const rates = [
       en: "Saint-Cyprien-de-Napierville",
       fr: "Saint-Cyprien-de-Napierville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13197,6 +15014,7 @@ export const rates = [
       en: "Saint-Jacques-le-Mineur",
       fr: "Saint-Jacques-le-Mineur",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13205,6 +15023,7 @@ export const rates = [
       en: "Saint-Édouard",
       fr: "Saint-Édouard",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13213,6 +15032,7 @@ export const rates = [
       en: "Saint-Michel",
       fr: "Saint-Michel",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13221,6 +15041,7 @@ export const rates = [
       en: "Saint-Rémi",
       fr: "Saint-Rémi",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13229,6 +15050,7 @@ export const rates = [
       en: "Havelock",
       fr: "Havelock",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13237,6 +15059,7 @@ export const rates = [
       en: "Franklin",
       fr: "Franklin",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13245,6 +15068,7 @@ export const rates = [
       en: "Saint-Chrysostome",
       fr: "Saint-Chrysostome",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13253,6 +15077,7 @@ export const rates = [
       en: "Howick",
       fr: "Howick",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13261,6 +15086,7 @@ export const rates = [
       en: "Très-Saint-Sacrement",
       fr: "Très-Saint-Sacrement",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13269,6 +15095,7 @@ export const rates = [
       en: "Ormstown",
       fr: "Ormstown",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13277,6 +15104,7 @@ export const rates = [
       en: "Hinchinbrooke",
       fr: "Hinchinbrooke",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13285,6 +15113,7 @@ export const rates = [
       en: "Elgin",
       fr: "Elgin",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13293,6 +15122,7 @@ export const rates = [
       en: "Huntingdon",
       fr: "Huntingdon",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13301,6 +15131,7 @@ export const rates = [
       en: "Godmanchester",
       fr: "Godmanchester",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13309,6 +15140,7 @@ export const rates = [
       en: "Sainte-Barbe",
       fr: "Sainte-Barbe",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13317,6 +15149,7 @@ export const rates = [
       en: "Saint-Anicet",
       fr: "Saint-Anicet",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13325,6 +15158,7 @@ export const rates = [
       en: "Dundee",
       fr: "Dundee",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13333,6 +15167,7 @@ export const rates = [
       en: "Akwesasne",
       fr: "Akwesasne",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13341,6 +15176,7 @@ export const rates = [
       en: "Saint-Urbain-Premier",
       fr: "Saint-Urbain-Premier",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13349,6 +15185,7 @@ export const rates = [
       en: "Sainte-Martine",
       fr: "Sainte-Martine",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13357,6 +15194,7 @@ export const rates = [
       en: "Beauharnois",
       fr: "Beauharnois",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13365,6 +15203,7 @@ export const rates = [
       en: "Saint-Étienne-de-Beauharnois",
       fr: "Saint-Étienne-de-Beauharnois",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13373,6 +15212,7 @@ export const rates = [
       en: "Saint-Louis-de-Gonzague",
       fr: "Saint-Louis-de-Gonzague",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13381,6 +15221,7 @@ export const rates = [
       en: "Saint-Stanislas-de-Kostka",
       fr: "Saint-Stanislas-de-Kostka",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13389,6 +15230,7 @@ export const rates = [
       en: "Salaberry-de-Valleyfield",
       fr: "Salaberry-de-Valleyfield",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13397,6 +15239,7 @@ export const rates = [
       en: "Rivière-Beaudette",
       fr: "Rivière-Beaudette",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13405,6 +15248,7 @@ export const rates = [
       en: "Saint-Télesphore",
       fr: "Saint-Télesphore",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13413,6 +15257,7 @@ export const rates = [
       en: "Saint-Polycarpe",
       fr: "Saint-Polycarpe",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13421,6 +15266,7 @@ export const rates = [
       en: "Saint-Zotique",
       fr: "Saint-Zotique",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13429,6 +15275,7 @@ export const rates = [
       en: "Les Coteaux",
       fr: "Les Coteaux",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13437,6 +15284,7 @@ export const rates = [
       en: "Coteau-du-Lac",
       fr: "Coteau-du-Lac",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13445,6 +15293,7 @@ export const rates = [
       en: "Saint-Clet",
       fr: "Saint-Clet",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13453,6 +15302,7 @@ export const rates = [
       en: "Les Cèdres",
       fr: "Les Cèdres",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13461,6 +15311,7 @@ export const rates = [
       en: "Pointe-des-Cascades",
       fr: "Pointe-des-Cascades",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13469,6 +15320,7 @@ export const rates = [
       en: "L'Île-Perrot",
       fr: "L'Île-Perrot",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13477,6 +15329,7 @@ export const rates = [
       en: "Notre-Dame-de-l'Île-Perrot",
       fr: "Notre-Dame-de-l'Île-Perrot",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13485,6 +15338,7 @@ export const rates = [
       en: "Pincourt",
       fr: "Pincourt",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13493,6 +15347,7 @@ export const rates = [
       en: "Terrasse-Vaudreuil",
       fr: "Terrasse-Vaudreuil",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13501,6 +15356,7 @@ export const rates = [
       en: "Vaudreuil-Dorion",
       fr: "Vaudreuil-Dorion",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13509,6 +15365,7 @@ export const rates = [
       en: "Vaudreuil-sur-le-Lac",
       fr: "Vaudreuil-sur-le-Lac",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13517,6 +15374,7 @@ export const rates = [
       en: "L'Île-Cadieux",
       fr: "L'Île-Cadieux",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13525,6 +15383,7 @@ export const rates = [
       en: "Hudson",
       fr: "Hudson",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13533,6 +15392,7 @@ export const rates = [
       en: "Saint-Lazare",
       fr: "Saint-Lazare",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13541,6 +15401,7 @@ export const rates = [
       en: "Sainte-Marthe",
       fr: "Sainte-Marthe",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13549,6 +15410,7 @@ export const rates = [
       en: "Sainte-Justine-de-Newton",
       fr: "Sainte-Justine-de-Newton",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13557,6 +15419,7 @@ export const rates = [
       en: "Très-Saint-Rédempteur",
       fr: "Très-Saint-Rédempteur",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13565,6 +15428,7 @@ export const rates = [
       en: "Rigaud",
       fr: "Rigaud",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13573,6 +15437,7 @@ export const rates = [
       en: "Pointe-Fortune",
       fr: "Pointe-Fortune",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13581,6 +15446,7 @@ export const rates = [
       en: "Saint-Eustache",
       fr: "Saint-Eustache",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13589,6 +15455,7 @@ export const rates = [
       en: "Deux-Montagnes",
       fr: "Deux-Montagnes",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13597,6 +15464,7 @@ export const rates = [
       en: "Sainte-Marthe-sur-le-Lac",
       fr: "Sainte-Marthe-sur-le-Lac",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13605,6 +15473,7 @@ export const rates = [
       en: "Pointe-Calumet",
       fr: "Pointe-Calumet",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13613,6 +15482,7 @@ export const rates = [
       en: "Saint-Joseph-du-Lac",
       fr: "Saint-Joseph-du-Lac",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13621,6 +15491,7 @@ export const rates = [
       en: "Oka",
       fr: "Oka",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13629,6 +15500,7 @@ export const rates = [
       en: "Saint-Placide",
       fr: "Saint-Placide",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13637,6 +15509,7 @@ export const rates = [
       en: "Kanesatake",
       fr: "Kanesatake",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13645,6 +15518,7 @@ export const rates = [
       en: "Boisbriand",
       fr: "Boisbriand",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13653,6 +15527,7 @@ export const rates = [
       en: "Sainte-Thérèse",
       fr: "Sainte-Thérèse",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13661,6 +15536,7 @@ export const rates = [
       en: "Blainville",
       fr: "Blainville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13669,6 +15545,7 @@ export const rates = [
       en: "Rosemère",
       fr: "Rosemère",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13677,6 +15554,7 @@ export const rates = [
       en: "Lorraine",
       fr: "Lorraine",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13685,6 +15563,7 @@ export const rates = [
       en: "Bois-des-Filion",
       fr: "Bois-des-Filion",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13693,6 +15572,7 @@ export const rates = [
       en: "Sainte-Anne-des-Plaines",
       fr: "Sainte-Anne-des-Plaines",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13701,6 +15581,7 @@ export const rates = [
       en: "Mirabel",
       fr: "Mirabel",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13709,6 +15590,7 @@ export const rates = [
       en: "Saint-Colomban",
       fr: "Saint-Colomban",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13717,6 +15599,7 @@ export const rates = [
       en: "Saint-Jérôme",
       fr: "Saint-Jérôme",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13725,6 +15608,7 @@ export const rates = [
       en: "Sainte-Sophie",
       fr: "Sainte-Sophie",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13733,6 +15617,7 @@ export const rates = [
       en: "Prévost",
       fr: "Prévost",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13741,6 +15626,7 @@ export const rates = [
       en: "Saint-Hippolyte",
       fr: "Saint-Hippolyte",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13749,6 +15635,7 @@ export const rates = [
       en: "Saint-André-d'Argenteuil",
       fr: "Saint-André-d'Argenteuil",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13757,6 +15644,7 @@ export const rates = [
       en: "Lachute",
       fr: "Lachute",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13765,6 +15653,7 @@ export const rates = [
       en: "Gore",
       fr: "Gore",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13773,6 +15662,7 @@ export const rates = [
       en: "Mille-Isles",
       fr: "Mille-Isles",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13781,6 +15671,7 @@ export const rates = [
       en: "Wentworth",
       fr: "Wentworth",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13789,6 +15680,7 @@ export const rates = [
       en: "Brownsburg-Chatham",
       fr: "Brownsburg-Chatham",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13797,6 +15689,7 @@ export const rates = [
       en: "Grenville-sur-la-Rouge",
       fr: "Grenville-sur-la-Rouge",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13805,6 +15698,7 @@ export const rates = [
       en: "Grenville",
       fr: "Grenville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13813,6 +15707,7 @@ export const rates = [
       en: "Harrington",
       fr: "Harrington",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13821,6 +15716,7 @@ export const rates = [
       en: "Estérel",
       fr: "Estérel",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13829,6 +15725,7 @@ export const rates = [
       en: "Sainte-Marguerite-du-Lac-Masson",
       fr: "Sainte-Marguerite-du-Lac-Masson",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13837,6 +15734,7 @@ export const rates = [
       en: "Sainte-Adèle",
       fr: "Sainte-Adèle",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13845,6 +15743,7 @@ export const rates = [
       en: "Piedmont",
       fr: "Piedmont",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13853,6 +15752,7 @@ export const rates = [
       en: "Sainte-Anne-des-Lacs",
       fr: "Sainte-Anne-des-Lacs",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13861,6 +15761,7 @@ export const rates = [
       en: "Saint-Sauveur",
       fr: "Saint-Sauveur",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13869,6 +15770,7 @@ export const rates = [
       en: "Morin-Heights",
       fr: "Morin-Heights",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13877,6 +15779,7 @@ export const rates = [
       en: "Lac-des-Seize-Îles",
       fr: "Lac-des-Seize-Îles",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13885,6 +15788,7 @@ export const rates = [
       en: "Wentworth-Nord",
       fr: "Wentworth-Nord",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13893,6 +15797,7 @@ export const rates = [
       en: "Saint-Adolphe-d'Howard",
       fr: "Saint-Adolphe-d'Howard",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13901,6 +15806,7 @@ export const rates = [
       en: "Val-Morin",
       fr: "Val-Morin",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13909,6 +15815,7 @@ export const rates = [
       en: "Val-David",
       fr: "Val-David",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13917,6 +15824,7 @@ export const rates = [
       en: "Lantier",
       fr: "Lantier",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13925,6 +15833,7 @@ export const rates = [
       en: "Sainte-Lucie-des-Laurentides",
       fr: "Sainte-Lucie-des-Laurentides",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13933,6 +15842,7 @@ export const rates = [
       en: "Sainte-Agathe-des-Monts",
       fr: "Sainte-Agathe-des-Monts",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13941,6 +15851,7 @@ export const rates = [
       en: "Ivry-sur-le-Lac",
       fr: "Ivry-sur-le-Lac",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13949,6 +15860,7 @@ export const rates = [
       en: "Saint-Faustin--Lac-Carré",
       fr: "Saint-Faustin--Lac-Carré",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13957,6 +15869,7 @@ export const rates = [
       en: "Barkmere",
       fr: "Barkmere",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13965,6 +15878,7 @@ export const rates = [
       en: "Montcalm",
       fr: "Montcalm",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13973,6 +15887,7 @@ export const rates = [
       en: "Arundel",
       fr: "Arundel",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13981,6 +15896,7 @@ export const rates = [
       en: "Huberdeau",
       fr: "Huberdeau",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13989,6 +15905,7 @@ export const rates = [
       en: "Amherst",
       fr: "Amherst",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -13997,6 +15914,7 @@ export const rates = [
       en: "Brébeuf",
       fr: "Brébeuf",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14005,6 +15923,7 @@ export const rates = [
       en: "Lac-Supérieur",
       fr: "Lac-Supérieur",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14013,6 +15932,7 @@ export const rates = [
       en: "Val-des-Lacs",
       fr: "Val-des-Lacs",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14021,6 +15941,7 @@ export const rates = [
       en: "Mont-Tremblant",
       fr: "Mont-Tremblant",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14029,6 +15950,7 @@ export const rates = [
       en: "La Conception",
       fr: "La Conception",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14037,6 +15959,7 @@ export const rates = [
       en: "Labelle",
       fr: "Labelle",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14045,6 +15968,7 @@ export const rates = [
       en: "Lac-Tremblant-Nord",
       fr: "Lac-Tremblant-Nord",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14053,6 +15977,7 @@ export const rates = [
       en: "La Minerve",
       fr: "La Minerve",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14061,6 +15986,7 @@ export const rates = [
       en: "Doncaster",
       fr: "Doncaster",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14069,6 +15995,7 @@ export const rates = [
       en: "Notre-Dame-du-Laus",
       fr: "Notre-Dame-du-Laus",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14077,6 +16004,7 @@ export const rates = [
       en: "Notre-Dame-de-Pontmain",
       fr: "Notre-Dame-de-Pontmain",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14085,6 +16013,7 @@ export const rates = [
       en: "Lac-du-Cerf",
       fr: "Lac-du-Cerf",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14093,6 +16022,7 @@ export const rates = [
       en: "Saint-Aimé-du-Lac-des-Îles",
       fr: "Saint-Aimé-du-Lac-des-Îles",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14101,6 +16031,7 @@ export const rates = [
       en: "Kiamika",
       fr: "Kiamika",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14109,6 +16040,7 @@ export const rates = [
       en: "Nominingue",
       fr: "Nominingue",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14117,6 +16049,7 @@ export const rates = [
       en: "Rivière-Rouge",
       fr: "Rivière-Rouge",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14125,6 +16058,7 @@ export const rates = [
       en: "La Macaza",
       fr: "La Macaza",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14133,6 +16067,7 @@ export const rates = [
       en: "L'Ascension",
       fr: "L'Ascension",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14141,6 +16076,7 @@ export const rates = [
       en: "Lac-Saguay",
       fr: "Lac-Saguay",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14149,6 +16085,7 @@ export const rates = [
       en: "Chute-Saint-Philippe",
       fr: "Chute-Saint-Philippe",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14157,6 +16094,7 @@ export const rates = [
       en: "Lac-des-Écorces",
       fr: "Lac-des-Écorces",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14165,6 +16103,7 @@ export const rates = [
       en: "Mont-Laurier",
       fr: "Mont-Laurier",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14173,6 +16112,7 @@ export const rates = [
       en: "Ferme-Neuve",
       fr: "Ferme-Neuve",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14181,6 +16121,7 @@ export const rates = [
       en: "Lac-Saint-Paul",
       fr: "Lac-Saint-Paul",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14189,6 +16130,7 @@ export const rates = [
       en: "Mont-Saint-Michel",
       fr: "Mont-Saint-Michel",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14197,6 +16139,7 @@ export const rates = [
       en: "Sainte-Anne-du-Lac",
       fr: "Sainte-Anne-du-Lac",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14205,6 +16148,7 @@ export const rates = [
       en: "Lac-de-la-Pomme",
       fr: "Lac-de-la-Pomme",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14213,6 +16157,7 @@ export const rates = [
       en: "Lac-Akonapwehikan",
       fr: "Lac-Akonapwehikan",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14221,6 +16166,7 @@ export const rates = [
       en: "Lac-Wagwabika",
       fr: "Lac-Wagwabika",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14229,6 +16175,7 @@ export const rates = [
       en: "Lac-Bazinet",
       fr: "Lac-Bazinet",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14237,6 +16184,7 @@ export const rates = [
       en: "Lac-De La Bidière",
       fr: "Lac-De La Bidière",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14245,6 +16193,7 @@ export const rates = [
       en: "Lac-Oscar",
       fr: "Lac-Oscar",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14253,6 +16202,7 @@ export const rates = [
       en: "Lac-de-la-Maison-de-Pierre",
       fr: "Lac-de-la-Maison-de-Pierre",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14261,6 +16211,7 @@ export const rates = [
       en: "Baie-des-Chaloupes",
       fr: "Baie-des-Chaloupes",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14269,6 +16220,7 @@ export const rates = [
       en: "Lac-Douaire",
       fr: "Lac-Douaire",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14277,6 +16229,7 @@ export const rates = [
       en: "Lac-Ernest",
       fr: "Lac-Ernest",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14285,6 +16238,7 @@ export const rates = [
       en: "Lac-Marguerite",
       fr: "Lac-Marguerite",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14293,6 +16247,7 @@ export const rates = [
       en: "Fassett",
       fr: "Fassett",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14301,6 +16256,7 @@ export const rates = [
       en: "Montebello",
       fr: "Montebello",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14309,6 +16265,7 @@ export const rates = [
       en: "Notre-Dame-de-Bonsecours",
       fr: "Notre-Dame-de-Bonsecours",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14317,6 +16274,7 @@ export const rates = [
       en: "Notre-Dame-de-la-Paix",
       fr: "Notre-Dame-de-la-Paix",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14325,6 +16283,7 @@ export const rates = [
       en: "Saint-André-Avellin",
       fr: "Saint-André-Avellin",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14333,6 +16292,7 @@ export const rates = [
       en: "Papineauville",
       fr: "Papineauville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14341,6 +16301,7 @@ export const rates = [
       en: "Plaisance",
       fr: "Plaisance",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14349,6 +16310,7 @@ export const rates = [
       en: "Thurso",
       fr: "Thurso",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14357,6 +16319,7 @@ export const rates = [
       en: "Lochaber",
       fr: "Lochaber",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14365,6 +16328,7 @@ export const rates = [
       en: "Lochaber-Partie-Ouest",
       fr: "Lochaber-Partie-Ouest",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14373,6 +16337,7 @@ export const rates = [
       en: "Mayo",
       fr: "Mayo",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14381,6 +16346,7 @@ export const rates = [
       en: "Saint-Sixte",
       fr: "Saint-Sixte",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14389,6 +16355,7 @@ export const rates = [
       en: "Ripon",
       fr: "Ripon",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14397,6 +16364,7 @@ export const rates = [
       en: "Mulgrave-et-Derry",
       fr: "Mulgrave-et-Derry",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14405,6 +16373,7 @@ export const rates = [
       en: "Montpellier",
       fr: "Montpellier",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14413,6 +16382,7 @@ export const rates = [
       en: "Lac-Simon",
       fr: "Lac-Simon",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14421,6 +16391,7 @@ export const rates = [
       en: "Chénéville",
       fr: "Chénéville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14429,6 +16400,7 @@ export const rates = [
       en: "Namur",
       fr: "Namur",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14437,6 +16409,7 @@ export const rates = [
       en: "Boileau",
       fr: "Boileau",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14445,6 +16418,7 @@ export const rates = [
       en: "Saint-Émile-de-Suffolk",
       fr: "Saint-Émile-de-Suffolk",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14453,6 +16427,7 @@ export const rates = [
       en: "Lac-des-Plages",
       fr: "Lac-des-Plages",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14461,6 +16436,7 @@ export const rates = [
       en: "Duhamel",
       fr: "Duhamel",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14469,6 +16445,7 @@ export const rates = [
       en: "Val-des-Bois",
       fr: "Val-des-Bois",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14477,6 +16454,7 @@ export const rates = [
       en: "Bowman",
       fr: "Bowman",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14485,6 +16463,7 @@ export const rates = [
       en: "Gatineau",
       fr: "Gatineau",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14493,6 +16472,7 @@ export const rates = [
       en: "L'Ange-Gardien",
       fr: "L'Ange-Gardien",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14501,6 +16481,7 @@ export const rates = [
       en: "Notre-Dame-de-la-Salette",
       fr: "Notre-Dame-de-la-Salette",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14509,6 +16490,7 @@ export const rates = [
       en: "Val-des-Monts",
       fr: "Val-des-Monts",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14517,6 +16499,7 @@ export const rates = [
       en: "Cantley",
       fr: "Cantley",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14525,6 +16508,7 @@ export const rates = [
       en: "Chelsea",
       fr: "Chelsea",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14533,6 +16517,7 @@ export const rates = [
       en: "Pontiac",
       fr: "Pontiac",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14541,6 +16526,7 @@ export const rates = [
       en: "La Pêche",
       fr: "La Pêche",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14549,6 +16535,7 @@ export const rates = [
       en: "Denholm",
       fr: "Denholm",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14557,6 +16544,7 @@ export const rates = [
       en: "Low",
       fr: "Low",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14565,6 +16553,7 @@ export const rates = [
       en: "Kazabazua",
       fr: "Kazabazua",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14573,6 +16562,7 @@ export const rates = [
       en: "Lac-Sainte-Marie",
       fr: "Lac-Sainte-Marie",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14581,6 +16571,7 @@ export const rates = [
       en: "Gracefield",
       fr: "Gracefield",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14589,6 +16580,7 @@ export const rates = [
       en: "Cayamant",
       fr: "Cayamant",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14597,6 +16589,7 @@ export const rates = [
       en: "Blue Sea",
       fr: "Blue Sea",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14605,6 +16598,7 @@ export const rates = [
       en: "Bouchette",
       fr: "Bouchette",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14613,6 +16607,7 @@ export const rates = [
       en: "Sainte-Thérèse-de-la-Gatineau",
       fr: "Sainte-Thérèse-de-la-Gatineau",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14621,6 +16616,7 @@ export const rates = [
       en: "Messines",
       fr: "Messines",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14629,6 +16625,7 @@ export const rates = [
       en: "Maniwaki",
       fr: "Maniwaki",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14637,6 +16634,7 @@ export const rates = [
       en: "Déléage",
       fr: "Déléage",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14645,6 +16643,7 @@ export const rates = [
       en: "Egan-Sud",
       fr: "Egan-Sud",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14653,6 +16652,7 @@ export const rates = [
       en: "Bois-Franc",
       fr: "Bois-Franc",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14661,6 +16661,7 @@ export const rates = [
       en: "Montcerf-Lytton",
       fr: "Montcerf-Lytton",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14669,6 +16670,7 @@ export const rates = [
       en: "Aumond",
       fr: "Aumond",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14677,6 +16679,7 @@ export const rates = [
       en: "Grand-Remous",
       fr: "Grand-Remous",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14685,6 +16688,7 @@ export const rates = [
       en: "Kitigan Zibi",
       fr: "Kitigan Zibi",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14693,6 +16697,7 @@ export const rates = [
       en: "Lac-Rapide",
       fr: "Lac-Rapide",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14701,6 +16706,7 @@ export const rates = [
       en: "Lac-Pythonga",
       fr: "Lac-Pythonga",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14709,6 +16715,7 @@ export const rates = [
       en: "Cascades-Malignes",
       fr: "Cascades-Malignes",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14717,6 +16724,7 @@ export const rates = [
       en: "Lac-Lenôtre",
       fr: "Lac-Lenôtre",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14725,6 +16733,7 @@ export const rates = [
       en: "Lac-Moselle",
       fr: "Lac-Moselle",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14733,6 +16742,7 @@ export const rates = [
       en: "Dépôt-Échouani",
       fr: "Dépôt-Échouani",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14741,6 +16751,7 @@ export const rates = [
       en: "Bristol",
       fr: "Bristol",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14749,6 +16760,7 @@ export const rates = [
       en: "Shawville",
       fr: "Shawville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14757,6 +16769,7 @@ export const rates = [
       en: "Clarendon",
       fr: "Clarendon",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14765,6 +16778,7 @@ export const rates = [
       en: "Portage-du-Fort",
       fr: "Portage-du-Fort",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14773,6 +16787,7 @@ export const rates = [
       en: "Bryson",
       fr: "Bryson",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14781,6 +16796,7 @@ export const rates = [
       en: "Campbell's Bay",
       fr: "Campbell's Bay",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14789,6 +16805,7 @@ export const rates = [
       en: "L'Île-du-Grand-Calumet",
       fr: "L'Île-du-Grand-Calumet",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14797,6 +16814,7 @@ export const rates = [
       en: "Litchfield",
       fr: "Litchfield",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14805,6 +16823,7 @@ export const rates = [
       en: "Thorne",
       fr: "Thorne",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14813,6 +16832,7 @@ export const rates = [
       en: "Alleyn-et-Cawood",
       fr: "Alleyn-et-Cawood",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14821,6 +16841,7 @@ export const rates = [
       en: "Otter Lake",
       fr: "Otter Lake",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14829,6 +16850,7 @@ export const rates = [
       en: "Fort-Coulonge",
       fr: "Fort-Coulonge",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14837,6 +16859,7 @@ export const rates = [
       en: "Mansfield-et-Pontefract",
       fr: "Mansfield-et-Pontefract",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14845,6 +16868,7 @@ export const rates = [
       en: "Waltham",
       fr: "Waltham",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14853,6 +16877,7 @@ export const rates = [
       en: "L'Isle-aux-Allumettes",
       fr: "L'Isle-aux-Allumettes",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14861,6 +16886,7 @@ export const rates = [
       en: "Chichester",
       fr: "Chichester",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14869,6 +16895,7 @@ export const rates = [
       en: "Sheenboro",
       fr: "Sheenboro",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14877,6 +16904,7 @@ export const rates = [
       en: "Rapides-des-Joachims",
       fr: "Rapides-des-Joachims",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14885,6 +16913,7 @@ export const rates = [
       en: "Lac-Nilgaut",
       fr: "Lac-Nilgaut",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14893,6 +16922,7 @@ export const rates = [
       en: "Témiscaming",
       fr: "Témiscaming",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14901,6 +16931,7 @@ export const rates = [
       en: "Kipawa",
       fr: "Kipawa",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14909,6 +16940,7 @@ export const rates = [
       en: "Saint-Édouard-de-Fabre",
       fr: "Saint-Édouard-de-Fabre",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14917,6 +16949,7 @@ export const rates = [
       en: "Béarn",
       fr: "Béarn",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14925,6 +16958,7 @@ export const rates = [
       en: "Ville-Marie",
       fr: "Ville-Marie",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14933,6 +16967,7 @@ export const rates = [
       en: "Duhamel-Ouest",
       fr: "Duhamel-Ouest",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14941,6 +16976,7 @@ export const rates = [
       en: "Lorrainville",
       fr: "Lorrainville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14949,6 +16985,7 @@ export const rates = [
       en: "Saint-Bruno-de-Guigues",
       fr: "Saint-Bruno-de-Guigues",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14957,6 +16994,7 @@ export const rates = [
       en: "Laverlochère-Angliers",
       fr: "Laverlochère-Angliers",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14965,6 +17003,7 @@ export const rates = [
       en: "Fugèreville",
       fr: "Fugèreville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14973,6 +17012,7 @@ export const rates = [
       en: "Latulipe-et-Gaboury",
       fr: "Latulipe-et-Gaboury",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14981,6 +17021,7 @@ export const rates = [
       en: "Belleterre",
       fr: "Belleterre",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14989,6 +17030,7 @@ export const rates = [
       en: "Laforce",
       fr: "Laforce",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -14997,6 +17039,7 @@ export const rates = [
       en: "Moffet",
       fr: "Moffet",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15005,6 +17048,7 @@ export const rates = [
       en: "Saint-Eugène-de-Guigues",
       fr: "Saint-Eugène-de-Guigues",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15013,6 +17057,7 @@ export const rates = [
       en: "Notre-Dame-du-Nord",
       fr: "Notre-Dame-du-Nord",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15021,6 +17066,7 @@ export const rates = [
       en: "Guérin",
       fr: "Guérin",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15029,6 +17075,7 @@ export const rates = [
       en: "Nédélec",
       fr: "Nédélec",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15037,6 +17084,7 @@ export const rates = [
       en: "Rémigny",
       fr: "Rémigny",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15045,6 +17093,7 @@ export const rates = [
       en: "Kebaowek",
       fr: "Kebaowek",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15053,6 +17102,7 @@ export const rates = [
       en: "Hunter's Point",
       fr: "Hunter's Point",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15061,6 +17111,7 @@ export const rates = [
       en: "Winneway",
       fr: "Winneway",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15069,6 +17120,7 @@ export const rates = [
       en: "Timiskaming",
       fr: "Timiskaming",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15077,6 +17129,7 @@ export const rates = [
       en: "Laniel",
       fr: "Laniel",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15085,6 +17138,7 @@ export const rates = [
       en: "Les Lacs-du-Témiscamingue",
       fr: "Les Lacs-du-Témiscamingue",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15093,6 +17147,7 @@ export const rates = [
       en: "Rouyn-Noranda",
       fr: "Rouyn-Noranda",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15101,6 +17156,7 @@ export const rates = [
       en: "Duparquet",
       fr: "Duparquet",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15109,6 +17165,7 @@ export const rates = [
       en: "Rapide-Danseur",
       fr: "Rapide-Danseur",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15117,6 +17174,7 @@ export const rates = [
       en: "Roquemaure",
       fr: "Roquemaure",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15125,6 +17183,7 @@ export const rates = [
       en: "Gallichan",
       fr: "Gallichan",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15133,6 +17192,7 @@ export const rates = [
       en: "Palmarolle",
       fr: "Palmarolle",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15141,6 +17201,7 @@ export const rates = [
       en: "Sainte-Germaine-Boulé",
       fr: "Sainte-Germaine-Boulé",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15149,6 +17210,7 @@ export const rates = [
       en: "Poularies",
       fr: "Poularies",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15157,6 +17219,7 @@ export const rates = [
       en: "Taschereau",
       fr: "Taschereau",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15165,6 +17228,7 @@ export const rates = [
       en: "Authier",
       fr: "Authier",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15173,6 +17237,7 @@ export const rates = [
       en: "Macamic",
       fr: "Macamic",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15181,6 +17246,7 @@ export const rates = [
       en: "Sainte-Hélène-de-Mancebourg",
       fr: "Sainte-Hélène-de-Mancebourg",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15189,6 +17255,7 @@ export const rates = [
       en: "Clerval",
       fr: "Clerval",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15197,6 +17264,7 @@ export const rates = [
       en: "La Reine",
       fr: "La Reine",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15205,6 +17273,7 @@ export const rates = [
       en: "Dupuy",
       fr: "Dupuy",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15213,6 +17282,7 @@ export const rates = [
       en: "La Sarre",
       fr: "La Sarre",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15221,6 +17291,7 @@ export const rates = [
       en: "Chazel",
       fr: "Chazel",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15229,6 +17300,7 @@ export const rates = [
       en: "Authier-Nord",
       fr: "Authier-Nord",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15237,6 +17309,7 @@ export const rates = [
       en: "Val-Saint-Gilles",
       fr: "Val-Saint-Gilles",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15245,6 +17318,7 @@ export const rates = [
       en: "Clermont",
       fr: "Clermont",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15253,6 +17327,7 @@ export const rates = [
       en: "Normétal",
       fr: "Normétal",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15261,6 +17336,7 @@ export const rates = [
       en: "Saint-Lambert",
       fr: "Saint-Lambert",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15269,6 +17345,7 @@ export const rates = [
       en: "Lac-Duparquet",
       fr: "Lac-Duparquet",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15277,6 +17354,7 @@ export const rates = [
       en: "Rivière-Ojima",
       fr: "Rivière-Ojima",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15285,6 +17363,7 @@ export const rates = [
       en: "Champneuf",
       fr: "Champneuf",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15293,6 +17372,7 @@ export const rates = [
       en: "Rochebaucourt",
       fr: "Rochebaucourt",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15301,6 +17381,7 @@ export const rates = [
       en: "La Morandière",
       fr: "La Morandière",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15309,6 +17390,7 @@ export const rates = [
       en: "Barraute",
       fr: "Barraute",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15317,6 +17399,7 @@ export const rates = [
       en: "La Corne",
       fr: "La Corne",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15325,6 +17408,7 @@ export const rates = [
       en: "Landrienne",
       fr: "Landrienne",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15333,6 +17417,7 @@ export const rates = [
       en: "Saint-Marc-de-Figuery",
       fr: "Saint-Marc-de-Figuery",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15341,6 +17426,7 @@ export const rates = [
       en: "La Motte",
       fr: "La Motte",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15349,6 +17435,7 @@ export const rates = [
       en: "Saint-Mathieu-d'Harricana",
       fr: "Saint-Mathieu-d'Harricana",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15357,6 +17444,7 @@ export const rates = [
       en: "Amos",
       fr: "Amos",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15365,6 +17453,7 @@ export const rates = [
       en: "Saint-Félix-de-Dalquier",
       fr: "Saint-Félix-de-Dalquier",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15373,6 +17462,7 @@ export const rates = [
       en: "Saint-Dominique-du-Rosaire",
       fr: "Saint-Dominique-du-Rosaire",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15381,6 +17471,7 @@ export const rates = [
       en: "Berry",
       fr: "Berry",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15389,6 +17480,7 @@ export const rates = [
       en: "Trécesson",
       fr: "Trécesson",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15397,6 +17489,7 @@ export const rates = [
       en: "Launay",
       fr: "Launay",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15405,6 +17498,7 @@ export const rates = [
       en: "Sainte-Gertrude-Manneville",
       fr: "Sainte-Gertrude-Manneville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15413,6 +17507,7 @@ export const rates = [
       en: "Preissac",
       fr: "Preissac",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15421,6 +17516,7 @@ export const rates = [
       en: "Pikogan",
       fr: "Pikogan",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15429,6 +17525,7 @@ export const rates = [
       en: "Lac-Despinassy",
       fr: "Lac-Despinassy",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15437,6 +17534,7 @@ export const rates = [
       en: "Lac-Chicobi",
       fr: "Lac-Chicobi",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15445,6 +17543,7 @@ export const rates = [
       en: "Val-d'Or",
       fr: "Val-d'Or",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15453,6 +17552,7 @@ export const rates = [
       en: "Rivière-Héva",
       fr: "Rivière-Héva",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15461,6 +17561,7 @@ export const rates = [
       en: "Malartic",
       fr: "Malartic",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15469,6 +17570,7 @@ export const rates = [
       en: "Senneterre",
       fr: "Senneterre",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15477,6 +17579,7 @@ export const rates = [
       en: "Senneterre",
       fr: "Senneterre",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15485,6 +17588,7 @@ export const rates = [
       en: "Belcourt",
       fr: "Belcourt",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15493,6 +17597,7 @@ export const rates = [
       en: "Kitcisakik",
       fr: "Kitcisakik",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15501,6 +17606,7 @@ export const rates = [
       en: "Lac Simon",
       fr: "Lac Simon",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15509,6 +17615,7 @@ export const rates = [
       en: "Matchi-Manitou",
       fr: "Matchi-Manitou",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15517,6 +17624,7 @@ export const rates = [
       en: "Lac-Metei",
       fr: "Lac-Metei",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15525,6 +17633,7 @@ export const rates = [
       en: "Réservoir-Dozois",
       fr: "Réservoir-Dozois",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15533,6 +17642,7 @@ export const rates = [
       en: "Lac-Granet",
       fr: "Lac-Granet",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15541,6 +17651,7 @@ export const rates = [
       en: "La Tuque",
       fr: "La Tuque",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15549,6 +17660,7 @@ export const rates = [
       en: "La Bostonnais",
       fr: "La Bostonnais",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15557,6 +17669,7 @@ export const rates = [
       en: "Lac-Édouard",
       fr: "Lac-Édouard",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15565,6 +17678,7 @@ export const rates = [
       en: "Communauté de Wemotaci",
       fr: "Communauté de Wemotaci",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15573,6 +17687,7 @@ export const rates = [
       en: "Obedjiwan 28",
       fr: "Obedjiwan 28",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15581,6 +17696,7 @@ export const rates = [
       en: "Lac-Bouchette",
       fr: "Lac-Bouchette",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15589,6 +17705,7 @@ export const rates = [
       en: "Saint-André-du-Lac-Saint-Jean",
       fr: "Saint-André-du-Lac-Saint-Jean",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15597,6 +17714,7 @@ export const rates = [
       en: "Saint-François-de-Sales",
       fr: "Saint-François-de-Sales",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15605,6 +17723,7 @@ export const rates = [
       en: "Chambord",
       fr: "Chambord",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15613,6 +17732,7 @@ export const rates = [
       en: "Roberval",
       fr: "Roberval",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15621,6 +17741,7 @@ export const rates = [
       en: "Sainte-Hedwidge",
       fr: "Sainte-Hedwidge",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15629,6 +17750,7 @@ export const rates = [
       en: "Saint-Prime",
       fr: "Saint-Prime",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15637,6 +17759,7 @@ export const rates = [
       en: "Saint-Félicien",
       fr: "Saint-Félicien",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15645,6 +17768,7 @@ export const rates = [
       en: "La Doré",
       fr: "La Doré",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15653,6 +17777,7 @@ export const rates = [
       en: "Mashteuiatsh",
       fr: "Mashteuiatsh",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15661,6 +17786,7 @@ export const rates = [
       en: "Lac-Ashuapmushuan",
       fr: "Lac-Ashuapmushuan",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15669,6 +17795,7 @@ export const rates = [
       en: "Saint-Augustin",
       fr: "Saint-Augustin",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15677,6 +17804,7 @@ export const rates = [
       en: "Péribonka",
       fr: "Péribonka",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15685,6 +17813,7 @@ export const rates = [
       en: "Sainte-Jeanne-d'Arc",
       fr: "Sainte-Jeanne-d'Arc",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15693,6 +17822,7 @@ export const rates = [
       en: "Dolbeau-Mistassini",
       fr: "Dolbeau-Mistassini",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15701,6 +17831,7 @@ export const rates = [
       en: "Albanel",
       fr: "Albanel",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15709,6 +17840,7 @@ export const rates = [
       en: "Normandin",
       fr: "Normandin",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15717,6 +17849,7 @@ export const rates = [
       en: "Saint-Thomas-Didyme",
       fr: "Saint-Thomas-Didyme",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15725,6 +17858,7 @@ export const rates = [
       en: "Saint-Edmond-les-Plaines",
       fr: "Saint-Edmond-les-Plaines",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15733,6 +17867,7 @@ export const rates = [
       en: "Girardville",
       fr: "Girardville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15741,6 +17876,7 @@ export const rates = [
       en: "Notre-Dame-de-Lorette",
       fr: "Notre-Dame-de-Lorette",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15749,6 +17885,7 @@ export const rates = [
       en: "Saint-Eugène-d'Argentenay",
       fr: "Saint-Eugène-d'Argentenay",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15757,6 +17894,7 @@ export const rates = [
       en: "Saint-Stanislas",
       fr: "Saint-Stanislas",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15765,6 +17903,7 @@ export const rates = [
       en: "Passes-Dangereuses",
       fr: "Passes-Dangereuses",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15773,6 +17912,7 @@ export const rates = [
       en: "Rivière-Mistassini",
       fr: "Rivière-Mistassini",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15781,6 +17921,7 @@ export const rates = [
       en: "Desbiens",
       fr: "Desbiens",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15789,6 +17930,7 @@ export const rates = [
       en: "Métabetchouan--Lac-à-la-Croix",
       fr: "Métabetchouan--Lac-à-la-Croix",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15797,6 +17939,7 @@ export const rates = [
       en: "Hébertville",
       fr: "Hébertville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15805,6 +17948,7 @@ export const rates = [
       en: "Hébertville-Station",
       fr: "Hébertville-Station",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15813,6 +17957,7 @@ export const rates = [
       en: "Saint-Bruno",
       fr: "Saint-Bruno",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15821,6 +17966,7 @@ export const rates = [
       en: "Saint-Gédéon",
       fr: "Saint-Gédéon",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15829,6 +17975,7 @@ export const rates = [
       en: "Alma",
       fr: "Alma",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15837,6 +17984,7 @@ export const rates = [
       en: "Saint-Nazaire",
       fr: "Saint-Nazaire",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15845,6 +17993,7 @@ export const rates = [
       en: "Labrecque",
       fr: "Labrecque",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15853,6 +18002,7 @@ export const rates = [
       en: "Lamarche",
       fr: "Lamarche",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15861,6 +18011,7 @@ export const rates = [
       en: "L'Ascension-de-Notre-Seigneur",
       fr: "L'Ascension-de-Notre-Seigneur",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15869,6 +18020,7 @@ export const rates = [
       en: "Saint-Henri-de-Taillon",
       fr: "Saint-Henri-de-Taillon",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15877,6 +18029,7 @@ export const rates = [
       en: "Sainte-Monique",
       fr: "Sainte-Monique",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15885,6 +18038,7 @@ export const rates = [
       en: "Saint-Ludger-de-Milot",
       fr: "Saint-Ludger-de-Milot",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15893,6 +18047,7 @@ export const rates = [
       en: "Mont-Apica",
       fr: "Mont-Apica",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15901,6 +18056,7 @@ export const rates = [
       en: "Lac-Moncouche",
       fr: "Lac-Moncouche",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15909,6 +18065,7 @@ export const rates = [
       en: "Lac-Achouakan",
       fr: "Lac-Achouakan",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15917,6 +18074,7 @@ export const rates = [
       en: "Belle-Rivière",
       fr: "Belle-Rivière",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15925,6 +18083,7 @@ export const rates = [
       en: "Saguenay",
       fr: "Saguenay",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15933,6 +18092,7 @@ export const rates = [
       en: "Petit-Saguenay",
       fr: "Petit-Saguenay",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15941,6 +18101,7 @@ export const rates = [
       en: "L'Anse-Saint-Jean",
       fr: "L'Anse-Saint-Jean",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15949,6 +18110,7 @@ export const rates = [
       en: "Rivière-Éternité",
       fr: "Rivière-Éternité",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15957,6 +18119,7 @@ export const rates = [
       en: "Ferland-et-Boilleau",
       fr: "Ferland-et-Boilleau",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15965,6 +18128,7 @@ export const rates = [
       en: "Saint-Félix-d'Otis",
       fr: "Saint-Félix-d'Otis",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15973,6 +18137,7 @@ export const rates = [
       en: "Sainte-Rose-du-Nord",
       fr: "Sainte-Rose-du-Nord",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15981,6 +18146,7 @@ export const rates = [
       en: "Saint-Fulgence",
       fr: "Saint-Fulgence",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15989,6 +18155,7 @@ export const rates = [
       en: "Saint-Honoré",
       fr: "Saint-Honoré",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -15997,6 +18164,7 @@ export const rates = [
       en: "Saint-David-de-Falardeau",
       fr: "Saint-David-de-Falardeau",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16005,6 +18173,7 @@ export const rates = [
       en: "Bégin",
       fr: "Bégin",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16013,6 +18182,7 @@ export const rates = [
       en: "Saint-Ambroise",
       fr: "Saint-Ambroise",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16021,6 +18191,7 @@ export const rates = [
       en: "Saint-Charles-de-Bourget",
       fr: "Saint-Charles-de-Bourget",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16029,6 +18200,7 @@ export const rates = [
       en: "Larouche",
       fr: "Larouche",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16037,6 +18209,7 @@ export const rates = [
       en: "Lalemant",
       fr: "Lalemant",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16045,6 +18218,7 @@ export const rates = [
       en: "Lac-Ministuk",
       fr: "Lac-Ministuk",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16053,6 +18227,7 @@ export const rates = [
       en: "Mont-Valin",
       fr: "Mont-Valin",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16061,6 +18236,7 @@ export const rates = [
       en: "Tadoussac",
       fr: "Tadoussac",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16069,6 +18245,7 @@ export const rates = [
       en: "Sacré-Coeur",
       fr: "Sacré-Coeur",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16077,6 +18254,7 @@ export const rates = [
       en: "Les Bergeronnes",
       fr: "Les Bergeronnes",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16085,6 +18263,7 @@ export const rates = [
       en: "Les Escoumins",
       fr: "Les Escoumins",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16093,6 +18272,7 @@ export const rates = [
       en: "Longue-Rive",
       fr: "Longue-Rive",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16101,6 +18281,7 @@ export const rates = [
       en: "Portneuf-sur-Mer",
       fr: "Portneuf-sur-Mer",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16109,6 +18290,7 @@ export const rates = [
       en: "Forestville",
       fr: "Forestville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16117,6 +18299,7 @@ export const rates = [
       en: "Colombier",
       fr: "Colombier",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16125,6 +18308,7 @@ export const rates = [
       en: "Essipit",
       fr: "Essipit",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16133,6 +18317,7 @@ export const rates = [
       en: "Lac-au-Brochet",
       fr: "Lac-au-Brochet",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16141,6 +18326,7 @@ export const rates = [
       en: "Baie-Trinité",
       fr: "Baie-Trinité",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16149,6 +18335,7 @@ export const rates = [
       en: "Godbout",
       fr: "Godbout",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16157,6 +18344,7 @@ export const rates = [
       en: "Franquelin",
       fr: "Franquelin",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16165,6 +18353,7 @@ export const rates = [
       en: "Baie-Comeau",
       fr: "Baie-Comeau",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16173,6 +18362,7 @@ export const rates = [
       en: "Pointe-Lebel",
       fr: "Pointe-Lebel",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16181,6 +18371,7 @@ export const rates = [
       en: "Pointe-aux-Outardes",
       fr: "Pointe-aux-Outardes",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16189,6 +18380,7 @@ export const rates = [
       en: "Chute-aux-Outardes",
       fr: "Chute-aux-Outardes",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16197,6 +18389,7 @@ export const rates = [
       en: "Ragueneau",
       fr: "Ragueneau",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16205,6 +18398,7 @@ export const rates = [
       en: "Pessamit",
       fr: "Pessamit",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16213,6 +18407,7 @@ export const rates = [
       en: "Rivière-aux-Outardes",
       fr: "Rivière-aux-Outardes",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16221,6 +18416,7 @@ export const rates = [
       en: "Sept-Îles",
       fr: "Sept-Îles",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16229,6 +18425,7 @@ export const rates = [
       en: "Port-Cartier",
       fr: "Port-Cartier",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16237,6 +18434,7 @@ export const rates = [
       en: "Fermont",
       fr: "Fermont",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16245,6 +18443,7 @@ export const rates = [
       en: "Schefferville",
       fr: "Schefferville",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16253,6 +18452,7 @@ export const rates = [
       en: "Uashat 27",
       fr: "Uashat 27",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16261,6 +18461,7 @@ export const rates = [
       en: "Maliotenam",
       fr: "Maliotenam",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16269,6 +18470,7 @@ export const rates = [
       en: "Kawawachikamach",
       fr: "Kawawachikamach",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16277,6 +18479,7 @@ export const rates = [
       en: "Matimekosh",
       fr: "Matimekosh",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16285,6 +18488,7 @@ export const rates = [
       en: "Lac-John",
       fr: "Lac-John",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16293,6 +18497,7 @@ export const rates = [
       en: "Rivière-Nipissis",
       fr: "Rivière-Nipissis",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16301,6 +18506,7 @@ export const rates = [
       en: "Lac-Walker",
       fr: "Lac-Walker",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16309,6 +18515,7 @@ export const rates = [
       en: "Rivière-Mouchalagane",
       fr: "Rivière-Mouchalagane",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16317,6 +18524,7 @@ export const rates = [
       en: "Caniapiscau",
       fr: "Caniapiscau",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16325,6 +18533,7 @@ export const rates = [
       en: "Lac-Juillet",
       fr: "Lac-Juillet",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16333,6 +18542,7 @@ export const rates = [
       en: "Lac-Vacher",
       fr: "Lac-Vacher",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16341,6 +18551,7 @@ export const rates = [
       en: "Blanc-Sablon",
       fr: "Blanc-Sablon",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16349,6 +18560,7 @@ export const rates = [
       en: "Bonne-Espérance",
       fr: "Bonne-Espérance",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16357,6 +18569,7 @@ export const rates = [
       en: "Saint-Augustin",
       fr: "Saint-Augustin",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16365,6 +18578,7 @@ export const rates = [
       en: "Gros-Mécatina",
       fr: "Gros-Mécatina",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16373,6 +18587,7 @@ export const rates = [
       en: "Côte-Nord-du-Golfe-du-Saint-Laurent",
       fr: "Côte-Nord-du-Golfe-du-Saint-Laurent",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16381,6 +18596,7 @@ export const rates = [
       en: "L'Île-d'Anticosti",
       fr: "L'Île-d'Anticosti",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16389,6 +18605,7 @@ export const rates = [
       en: "Natashquan",
       fr: "Natashquan",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16397,6 +18614,7 @@ export const rates = [
       en: "Aguanish",
       fr: "Aguanish",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16405,6 +18623,7 @@ export const rates = [
       en: "Baie-Johan-Beetz",
       fr: "Baie-Johan-Beetz",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16413,6 +18632,7 @@ export const rates = [
       en: "Havre-Saint-Pierre",
       fr: "Havre-Saint-Pierre",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16421,6 +18641,7 @@ export const rates = [
       en: "Longue-Pointe-de-Mingan",
       fr: "Longue-Pointe-de-Mingan",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16429,6 +18650,7 @@ export const rates = [
       en: "Rivière-Saint-Jean",
       fr: "Rivière-Saint-Jean",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16437,6 +18659,7 @@ export const rates = [
       en: "Rivière-au-Tonnerre",
       fr: "Rivière-au-Tonnerre",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16445,6 +18668,7 @@ export const rates = [
       en: "Pakuashipi",
       fr: "Pakuashipi",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16453,6 +18677,7 @@ export const rates = [
       en: "Romaine 2",
       fr: "Romaine 2",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16461,6 +18686,7 @@ export const rates = [
       en: "Nutashkuan",
       fr: "Nutashkuan",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16469,6 +18695,7 @@ export const rates = [
       en: "Mingan",
       fr: "Mingan",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16477,6 +18704,7 @@ export const rates = [
       en: "Lac-Jérôme",
       fr: "Lac-Jérôme",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16485,6 +18713,7 @@ export const rates = [
       en: "Petit-Mécatina",
       fr: "Petit-Mécatina",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16493,6 +18722,7 @@ export const rates = [
       en: "Lebel-sur-Quévillon",
       fr: "Lebel-sur-Quévillon",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16501,6 +18731,7 @@ export const rates = [
       en: "Waswanipi",
       fr: "Waswanipi",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16509,6 +18740,7 @@ export const rates = [
       en: "Matagami",
       fr: "Matagami",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16517,6 +18749,7 @@ export const rates = [
       en: "Chapais",
       fr: "Chapais",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16525,6 +18758,7 @@ export const rates = [
       en: "Chibougamau",
       fr: "Chibougamau",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16533,6 +18767,7 @@ export const rates = [
       en: "Mistissini",
       fr: "Mistissini",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16541,6 +18776,7 @@ export const rates = [
       en: "Waskaganish",
       fr: "Waskaganish",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16549,6 +18785,7 @@ export const rates = [
       en: "Nemaska",
       fr: "Nemaska",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16557,6 +18794,7 @@ export const rates = [
       en: "Eastmain",
       fr: "Eastmain",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16565,6 +18803,7 @@ export const rates = [
       en: "Wemindji",
       fr: "Wemindji",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16573,6 +18812,7 @@ export const rates = [
       en: "Chisasibi",
       fr: "Chisasibi",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16581,6 +18821,7 @@ export const rates = [
       en: "Eeyou Istchee Baie-James",
       fr: "Eeyou Istchee Baie-James",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16589,6 +18830,7 @@ export const rates = [
       en: "Kawawachikamach",
       fr: "Kawawachikamach",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16597,6 +18839,7 @@ export const rates = [
       en: "Whapmagoostui",
       fr: "Whapmagoostui",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16605,6 +18848,7 @@ export const rates = [
       en: "Kuujjuarapik",
       fr: "Kuujjuarapik",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16613,6 +18857,7 @@ export const rates = [
       en: "Umiujaq",
       fr: "Umiujaq",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16621,6 +18866,7 @@ export const rates = [
       en: "Inukjuak",
       fr: "Inukjuak",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16629,6 +18875,7 @@ export const rates = [
       en: "Kangiqsualujjuaq",
       fr: "Kangiqsualujjuaq",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16637,6 +18884,7 @@ export const rates = [
       en: "Kuujjuaq",
       fr: "Kuujjuaq",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16645,6 +18893,7 @@ export const rates = [
       en: "Tasiujaq",
       fr: "Tasiujaq",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16653,6 +18902,7 @@ export const rates = [
       en: "Aupaluk",
       fr: "Aupaluk",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16661,6 +18911,7 @@ export const rates = [
       en: "Kangirsuk",
       fr: "Kangirsuk",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16669,6 +18920,7 @@ export const rates = [
       en: "Quaqtaq",
       fr: "Quaqtaq",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16677,6 +18929,7 @@ export const rates = [
       en: "Puvirnituq",
       fr: "Puvirnituq",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16685,6 +18938,7 @@ export const rates = [
       en: "Akulivik",
       fr: "Akulivik",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16693,6 +18947,7 @@ export const rates = [
       en: "Kangiqsujuaq",
       fr: "Kangiqsujuaq",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16701,6 +18956,7 @@ export const rates = [
       en: "Salluit",
       fr: "Salluit",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16709,6 +18965,7 @@ export const rates = [
       en: "Ivujivik",
       fr: "Ivujivik",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16717,6 +18974,7 @@ export const rates = [
       en: "Waswanipi",
       fr: "Waswanipi",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16725,6 +18983,7 @@ export const rates = [
       en: "Mistissini",
       fr: "Mistissini",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16733,6 +18992,7 @@ export const rates = [
       en: "Waskaganish",
       fr: "Waskaganish",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16741,6 +19001,7 @@ export const rates = [
       en: "Nemaska",
       fr: "Nemaska",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16749,6 +19010,7 @@ export const rates = [
       en: "Eastmain",
       fr: "Eastmain",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16757,6 +19019,7 @@ export const rates = [
       en: "Wemindji",
       fr: "Wemindji",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16765,6 +19028,7 @@ export const rates = [
       en: "Chisasibi",
       fr: "Chisasibi",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16773,6 +19037,7 @@ export const rates = [
       en: "Whapmagoostui",
       fr: "Whapmagoostui",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16781,6 +19046,7 @@ export const rates = [
       en: "Oujé-Bougoumou",
       fr: "Oujé-Bougoumou",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16789,6 +19055,7 @@ export const rates = [
       en: "Kuujjuarapik",
       fr: "Kuujjuarapik",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16797,6 +19064,7 @@ export const rates = [
       en: "Umiujaq",
       fr: "Umiujaq",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16805,6 +19073,7 @@ export const rates = [
       en: "Inukjuak",
       fr: "Inukjuak",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16813,6 +19082,7 @@ export const rates = [
       en: "Akulivik",
       fr: "Akulivik",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16821,6 +19091,7 @@ export const rates = [
       en: "Ivujivik",
       fr: "Ivujivik",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16829,6 +19100,7 @@ export const rates = [
       en: "Salluit",
       fr: "Salluit",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16837,6 +19109,7 @@ export const rates = [
       en: "Kangiqsujuaq",
       fr: "Kangiqsujuaq",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16845,6 +19118,7 @@ export const rates = [
       en: "Quaqtaq",
       fr: "Quaqtaq",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16853,6 +19127,7 @@ export const rates = [
       en: "Kangirsuk",
       fr: "Kangirsuk",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16861,6 +19136,7 @@ export const rates = [
       en: "Aupaluk",
       fr: "Aupaluk",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16869,6 +19145,7 @@ export const rates = [
       en: "Tasiujaq",
       fr: "Tasiujaq",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16877,6 +19154,7 @@ export const rates = [
       en: "Kuujjuaq",
       fr: "Kuujjuaq",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16885,6 +19163,7 @@ export const rates = [
       en: "Kangiqsualujjuaq",
       fr: "Kangiqsualujjuaq",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16893,6 +19172,7 @@ export const rates = [
       en: "Rivière-Koksoak",
       fr: "Rivière-Koksoak",
     },
+    province: "QC",
     rates: [],
   },
   {
@@ -16901,15 +19181,16 @@ export const rates = [
       en: "Baie-d'Hudson",
       fr: "Baie-d'Hudson",
     },
+    province: "QC",
     rates: [],
   },
   {
-    // Source: https://www.southglengarry.com/en/living-here/property-taxes.aspx#
     id: "2021A00053501005",
     name: {
       en: "South Glengarry",
       fr: "South Glengarry",
     },
+    province: "ON",
     rates: [
       { year: 2013, rate: 0.01324125 },
       { year: 2014, rate: 0.01302455 },
@@ -16931,26 +19212,27 @@ export const rates = [
       en: "Akwesasne (Part) 59",
       fr: "Akwesasne (Part) 59",
     },
+    province: "ON",
     rates: [],
   },
   {
-    // Source: https://www.southstormont.ca/en/living-here/property-taxes.aspx#Municipal-Tax-Rates
     id: "2021A00053501011",
     name: {
       en: "South Stormont",
       fr: "South Stormont",
     },
+    province: "ON",
     rates: [
-      { year: 2024, rate: 0.01350934 },
-      { year: 2023, rate: 0.01275652 },
-      { year: 2022, rate: 0.0122936 },
-      { year: 2021, rate: 0.01204619 },
-      { year: 2020, rate: 0.01200322 },
-      { year: 2019, rate: 0.01186871 },
-      { year: 2018, rate: 0.0118681 },
-      { year: 2017, rate: 0.0119791 },
-      { year: 2016, rate: 0.01191873 },
       { year: 2015, rate: 0.01220711 },
+      { year: 2016, rate: 0.01191873 },
+      { year: 2017, rate: 0.0119791 },
+      { year: 2018, rate: 0.0118681 },
+      { year: 2019, rate: 0.01186871 },
+      { year: 2020, rate: 0.01200322 },
+      { year: 2021, rate: 0.01204619 },
+      { year: 2022, rate: 0.0122936 },
+      { year: 2023, rate: 0.01275652 },
+      { year: 2024, rate: 0.01350934 },
     ],
   },
   {
@@ -16959,6 +19241,7 @@ export const rates = [
       en: "Cornwall",
       fr: "Cornwall",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -16967,6 +19250,7 @@ export const rates = [
       en: "South Dundas",
       fr: "South Dundas",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -16975,6 +19259,7 @@ export const rates = [
       en: "North Dundas",
       fr: "North Dundas",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -16983,6 +19268,7 @@ export const rates = [
       en: "North Stormont",
       fr: "North Stormont",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -16991,6 +19277,7 @@ export const rates = [
       en: "North Glengarry",
       fr: "North Glengarry",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -16999,6 +19286,7 @@ export const rates = [
       en: "East Hawkesbury",
       fr: "East Hawkesbury",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17007,6 +19295,7 @@ export const rates = [
       en: "Hawkesbury",
       fr: "Hawkesbury",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17015,6 +19304,7 @@ export const rates = [
       en: "Champlain",
       fr: "Champlain",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17023,6 +19313,7 @@ export const rates = [
       en: "Alfred and Plantagenet",
       fr: "Alfred and Plantagenet",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17031,6 +19322,7 @@ export const rates = [
       en: "The Nation / La Nation",
       fr: "The Nation / La Nation",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17039,6 +19331,7 @@ export const rates = [
       en: "Clarence-Rockland",
       fr: "Clarence-Rockland",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17047,6 +19340,7 @@ export const rates = [
       en: "Casselman",
       fr: "Casselman",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17055,6 +19349,7 @@ export const rates = [
       en: "Russell",
       fr: "Russell",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17063,6 +19358,7 @@ export const rates = [
       en: "Ottawa",
       fr: "Ottawa",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17071,6 +19367,7 @@ export const rates = [
       en: "Edwardsburgh/Cardinal",
       fr: "Edwardsburgh/Cardinal",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17079,6 +19376,7 @@ export const rates = [
       en: "Augusta",
       fr: "Augusta",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17087,6 +19385,7 @@ export const rates = [
       en: "Prescott",
       fr: "Prescott",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17095,6 +19394,7 @@ export const rates = [
       en: "Elizabethtown-Kitley",
       fr: "Elizabethtown-Kitley",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17103,6 +19403,7 @@ export const rates = [
       en: "Brockville",
       fr: "Brockville",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17111,6 +19412,7 @@ export const rates = [
       en: "Front of Yonge",
       fr: "Front of Yonge",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17119,6 +19421,7 @@ export const rates = [
       en: "Leeds and the Thousand Islands",
       fr: "Leeds and the Thousand Islands",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17127,6 +19430,7 @@ export const rates = [
       en: "Gananoque",
       fr: "Gananoque",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17135,6 +19439,7 @@ export const rates = [
       en: "Westport",
       fr: "Westport",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17143,6 +19448,7 @@ export const rates = [
       en: "Rideau Lakes",
       fr: "Rideau Lakes",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17151,6 +19457,7 @@ export const rates = [
       en: "Athens",
       fr: "Athens",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17159,6 +19466,7 @@ export const rates = [
       en: "Merrickville-Wolford",
       fr: "Merrickville-Wolford",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17167,6 +19475,7 @@ export const rates = [
       en: "North Grenville",
       fr: "North Grenville",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17175,6 +19484,7 @@ export const rates = [
       en: "Montague",
       fr: "Montague",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17183,6 +19493,7 @@ export const rates = [
       en: "Smiths Falls",
       fr: "Smiths Falls",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17191,6 +19502,7 @@ export const rates = [
       en: "Drummond/North Elmsley",
       fr: "Drummond/North Elmsley",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17199,6 +19511,7 @@ export const rates = [
       en: "Tay Valley",
       fr: "Tay Valley",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17207,6 +19520,7 @@ export const rates = [
       en: "Perth",
       fr: "Perth",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17215,6 +19529,7 @@ export const rates = [
       en: "Beckwith",
       fr: "Beckwith",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17223,6 +19538,7 @@ export const rates = [
       en: "Carleton Place",
       fr: "Carleton Place",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17231,6 +19547,7 @@ export const rates = [
       en: "Mississippi Mills",
       fr: "Mississippi Mills",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17239,6 +19556,7 @@ export const rates = [
       en: "Lanark Highlands",
       fr: "Lanark Highlands",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17247,6 +19565,7 @@ export const rates = [
       en: "Frontenac Islands",
       fr: "Frontenac Islands",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17255,6 +19574,7 @@ export const rates = [
       en: "Kingston",
       fr: "Kingston",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17263,6 +19583,7 @@ export const rates = [
       en: "South Frontenac",
       fr: "South Frontenac",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17271,6 +19592,7 @@ export const rates = [
       en: "Central Frontenac",
       fr: "Central Frontenac",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17279,6 +19601,7 @@ export const rates = [
       en: "North Frontenac",
       fr: "North Frontenac",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17287,6 +19610,7 @@ export const rates = [
       en: "Loyalist",
       fr: "Loyalist",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17295,6 +19619,7 @@ export const rates = [
       en: "Greater Napanee",
       fr: "Greater Napanee",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17303,6 +19628,7 @@ export const rates = [
       en: "Stone Mills",
       fr: "Stone Mills",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17311,6 +19637,7 @@ export const rates = [
       en: "Addington Highlands",
       fr: "Addington Highlands",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17319,6 +19646,7 @@ export const rates = [
       en: "Tyendinaga",
       fr: "Tyendinaga",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17327,6 +19655,7 @@ export const rates = [
       en: "Deseronto",
       fr: "Deseronto",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17335,6 +19664,7 @@ export const rates = [
       en: "Tyendinaga Mohawk Territory",
       fr: "Tyendinaga Mohawk Territory",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17343,6 +19673,7 @@ export const rates = [
       en: "Belleville",
       fr: "Belleville",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17351,6 +19682,7 @@ export const rates = [
       en: "Quinte West",
       fr: "Quinte West",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17359,6 +19691,7 @@ export const rates = [
       en: "Stirling-Rawdon",
       fr: "Stirling-Rawdon",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17367,6 +19700,7 @@ export const rates = [
       en: "Centre Hastings",
       fr: "Centre Hastings",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17375,6 +19709,7 @@ export const rates = [
       en: "Tweed",
       fr: "Tweed",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17383,6 +19718,7 @@ export const rates = [
       en: "Madoc",
       fr: "Madoc",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17391,6 +19727,7 @@ export const rates = [
       en: "Marmora and Lake",
       fr: "Marmora and Lake",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17399,6 +19736,7 @@ export const rates = [
       en: "Tudor and Cashel",
       fr: "Tudor and Cashel",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17407,6 +19745,7 @@ export const rates = [
       en: "Limerick",
       fr: "Limerick",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17415,6 +19754,7 @@ export const rates = [
       en: "Wollaston",
       fr: "Wollaston",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17423,6 +19763,7 @@ export const rates = [
       en: "Faraday",
       fr: "Faraday",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17431,6 +19772,7 @@ export const rates = [
       en: "Bancroft",
       fr: "Bancroft",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17439,6 +19781,7 @@ export const rates = [
       en: "Carlow/Mayo",
       fr: "Carlow/Mayo",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17447,6 +19790,7 @@ export const rates = [
       en: "Hastings Highlands",
       fr: "Hastings Highlands",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17455,6 +19799,7 @@ export const rates = [
       en: "Prince Edward County",
       fr: "Prince Edward County",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17463,6 +19808,7 @@ export const rates = [
       en: "Brighton",
       fr: "Brighton",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17471,6 +19817,7 @@ export const rates = [
       en: "Cramahe",
       fr: "Cramahe",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17479,6 +19826,7 @@ export const rates = [
       en: "Hamilton",
       fr: "Hamilton",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17487,6 +19835,7 @@ export const rates = [
       en: "Port Hope",
       fr: "Port Hope",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17495,6 +19844,7 @@ export const rates = [
       en: "Cobourg",
       fr: "Cobourg",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17503,6 +19853,7 @@ export const rates = [
       en: "Alnwick/Haldimand",
       fr: "Alnwick/Haldimand",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17511,6 +19862,7 @@ export const rates = [
       en: "Alderville First Nation",
       fr: "Alderville First Nation",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17519,6 +19871,7 @@ export const rates = [
       en: "Trent Hills",
       fr: "Trent Hills",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17527,6 +19880,7 @@ export const rates = [
       en: "Asphodel-Norwood",
       fr: "Asphodel-Norwood",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17535,6 +19889,7 @@ export const rates = [
       en: "Otonabee-South Monaghan",
       fr: "Otonabee-South Monaghan",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17543,6 +19898,7 @@ export const rates = [
       en: "Hiawatha First Nation",
       fr: "Hiawatha First Nation",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17551,6 +19907,7 @@ export const rates = [
       en: "Cavan Monaghan",
       fr: "Cavan Monaghan",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17559,6 +19916,7 @@ export const rates = [
       en: "Peterborough",
       fr: "Peterborough",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17567,6 +19925,7 @@ export const rates = [
       en: "Selwyn",
       fr: "Selwyn",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17575,6 +19934,7 @@ export const rates = [
       en: "Curve Lake First Nation 35",
       fr: "Curve Lake First Nation 35",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17583,6 +19943,7 @@ export const rates = [
       en: "Douro-Dummer",
       fr: "Douro-Dummer",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17591,6 +19952,7 @@ export const rates = [
       en: "Havelock-Belmont-Methuen",
       fr: "Havelock-Belmont-Methuen",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17599,6 +19961,7 @@ export const rates = [
       en: "North Kawartha",
       fr: "North Kawartha",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17607,6 +19970,7 @@ export const rates = [
       en: "Trent Lakes",
       fr: "Trent Lakes",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17615,6 +19979,7 @@ export const rates = [
       en: "Kawartha Lakes",
       fr: "Kawartha Lakes",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17623,6 +19988,7 @@ export const rates = [
       en: "Pickering",
       fr: "Pickering",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17631,6 +19997,7 @@ export const rates = [
       en: "Ajax",
       fr: "Ajax",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17639,6 +20006,7 @@ export const rates = [
       en: "Whitby",
       fr: "Whitby",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17647,6 +20015,7 @@ export const rates = [
       en: "Oshawa",
       fr: "Oshawa",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17655,6 +20024,7 @@ export const rates = [
       en: "Clarington",
       fr: "Clarington",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17663,6 +20033,7 @@ export const rates = [
       en: "Scugog",
       fr: "Scugog",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17671,6 +20042,7 @@ export const rates = [
       en: "Mississaugas of Scugog Island",
       fr: "Mississaugas of Scugog Island",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17679,6 +20051,7 @@ export const rates = [
       en: "Uxbridge",
       fr: "Uxbridge",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17687,6 +20060,7 @@ export const rates = [
       en: "Brock",
       fr: "Brock",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17695,6 +20069,7 @@ export const rates = [
       en: "Vaughan",
       fr: "Vaughan",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17703,6 +20078,7 @@ export const rates = [
       en: "Markham",
       fr: "Markham",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17711,6 +20087,7 @@ export const rates = [
       en: "Richmond Hill",
       fr: "Richmond Hill",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17719,6 +20096,7 @@ export const rates = [
       en: "Whitchurch-Stouffville",
       fr: "Whitchurch-Stouffville",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17727,6 +20105,7 @@ export const rates = [
       en: "Aurora",
       fr: "Aurora",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17735,6 +20114,7 @@ export const rates = [
       en: "Newmarket",
       fr: "Newmarket",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17743,6 +20123,7 @@ export const rates = [
       en: "King",
       fr: "King",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17751,6 +20132,7 @@ export const rates = [
       en: "East Gwillimbury",
       fr: "East Gwillimbury",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17759,6 +20141,7 @@ export const rates = [
       en: "Georgina",
       fr: "Georgina",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17767,6 +20150,7 @@ export const rates = [
       en: "Chippewas of Georgina Island First Nation",
       fr: "Chippewas of Georgina Island First Nation",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17775,6 +20159,7 @@ export const rates = [
       en: "Toronto",
       fr: "Toronto",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17783,6 +20168,7 @@ export const rates = [
       en: "Mississauga",
       fr: "Mississauga",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17791,6 +20177,7 @@ export const rates = [
       en: "Brampton",
       fr: "Brampton",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17799,6 +20186,7 @@ export const rates = [
       en: "Caledon",
       fr: "Caledon",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17807,6 +20195,7 @@ export const rates = [
       en: "East Garafraxa",
       fr: "East Garafraxa",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17815,6 +20204,7 @@ export const rates = [
       en: "Amaranth",
       fr: "Amaranth",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17823,6 +20213,7 @@ export const rates = [
       en: "Grand Valley",
       fr: "Grand Valley",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17831,6 +20222,7 @@ export const rates = [
       en: "Mono",
       fr: "Mono",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17839,6 +20231,7 @@ export const rates = [
       en: "Orangeville",
       fr: "Orangeville",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17847,6 +20240,7 @@ export const rates = [
       en: "Mulmur",
       fr: "Mulmur",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17855,6 +20249,7 @@ export const rates = [
       en: "Melancthon",
       fr: "Melancthon",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17863,6 +20258,7 @@ export const rates = [
       en: "Shelburne",
       fr: "Shelburne",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17871,6 +20267,7 @@ export const rates = [
       en: "Puslinch",
       fr: "Puslinch",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17879,6 +20276,7 @@ export const rates = [
       en: "Guelph",
       fr: "Guelph",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17887,6 +20285,7 @@ export const rates = [
       en: "Guelph/Eramosa",
       fr: "Guelph/Eramosa",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17895,6 +20294,7 @@ export const rates = [
       en: "Erin",
       fr: "Erin",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17903,6 +20303,7 @@ export const rates = [
       en: "Centre Wellington",
       fr: "Centre Wellington",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17911,6 +20312,7 @@ export const rates = [
       en: "Mapleton",
       fr: "Mapleton",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17919,6 +20321,7 @@ export const rates = [
       en: "Minto",
       fr: "Minto",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17927,6 +20330,7 @@ export const rates = [
       en: "Wellington North",
       fr: "Wellington North",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17935,6 +20339,7 @@ export const rates = [
       en: "Oakville",
       fr: "Oakville",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17943,6 +20348,7 @@ export const rates = [
       en: "Burlington",
       fr: "Burlington",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17951,6 +20357,7 @@ export const rates = [
       en: "Milton",
       fr: "Milton",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17959,6 +20366,7 @@ export const rates = [
       en: "Halton Hills",
       fr: "Halton Hills",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17967,6 +20375,7 @@ export const rates = [
       en: "Hamilton",
       fr: "Hamilton",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17975,6 +20384,7 @@ export const rates = [
       en: "Fort Erie",
       fr: "Fort Erie",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17983,6 +20393,7 @@ export const rates = [
       en: "Port Colborne",
       fr: "Port Colborne",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17991,6 +20402,7 @@ export const rates = [
       en: "Wainfleet",
       fr: "Wainfleet",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -17999,6 +20411,7 @@ export const rates = [
       en: "West Lincoln",
       fr: "West Lincoln",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18007,6 +20420,7 @@ export const rates = [
       en: "Pelham",
       fr: "Pelham",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18015,6 +20429,7 @@ export const rates = [
       en: "Welland",
       fr: "Welland",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18023,6 +20438,7 @@ export const rates = [
       en: "Thorold",
       fr: "Thorold",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18031,6 +20447,7 @@ export const rates = [
       en: "Niagara Falls",
       fr: "Niagara Falls",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18039,6 +20456,7 @@ export const rates = [
       en: "Niagara-on-the-Lake",
       fr: "Niagara-on-the-Lake",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18047,6 +20465,7 @@ export const rates = [
       en: "St. Catharines",
       fr: "St. Catharines",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18055,6 +20474,7 @@ export const rates = [
       en: "Lincoln",
       fr: "Lincoln",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18063,6 +20483,7 @@ export const rates = [
       en: "Grimsby",
       fr: "Grimsby",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18071,6 +20492,7 @@ export const rates = [
       en: "Haldimand County",
       fr: "Haldimand County",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18079,6 +20501,7 @@ export const rates = [
       en: "New Credit (Part) 40A",
       fr: "New Credit (Part) 40A",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18087,6 +20510,7 @@ export const rates = [
       en: "Six Nations (Part) 40",
       fr: "Six Nations (Part) 40",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18095,6 +20519,7 @@ export const rates = [
       en: "Norfolk County",
       fr: "Norfolk County",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18103,6 +20528,7 @@ export const rates = [
       en: "Brant",
       fr: "Brant",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18111,6 +20537,7 @@ export const rates = [
       en: "Brantford",
       fr: "Brantford",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18119,6 +20546,7 @@ export const rates = [
       en: "Six Nations (Part) 40",
       fr: "Six Nations (Part) 40",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18127,6 +20555,7 @@ export const rates = [
       en: "New Credit (Part) 40A",
       fr: "New Credit (Part) 40A",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18135,6 +20564,7 @@ export const rates = [
       en: "North Dumfries",
       fr: "North Dumfries",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18143,6 +20573,7 @@ export const rates = [
       en: "Cambridge",
       fr: "Cambridge",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18151,6 +20582,7 @@ export const rates = [
       en: "Kitchener",
       fr: "Kitchener",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18159,6 +20591,7 @@ export const rates = [
       en: "Waterloo",
       fr: "Waterloo",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18167,6 +20600,7 @@ export const rates = [
       en: "Wilmot",
       fr: "Wilmot",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18175,6 +20609,7 @@ export const rates = [
       en: "Wellesley",
       fr: "Wellesley",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18183,6 +20618,7 @@ export const rates = [
       en: "Woolwich",
       fr: "Woolwich",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18191,6 +20627,7 @@ export const rates = [
       en: "Stratford",
       fr: "Stratford",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18199,6 +20636,7 @@ export const rates = [
       en: "Perth South",
       fr: "Perth South",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18207,6 +20645,7 @@ export const rates = [
       en: "St. Marys",
       fr: "St. Marys",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18215,6 +20654,7 @@ export const rates = [
       en: "West Perth",
       fr: "West Perth",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18223,6 +20663,7 @@ export const rates = [
       en: "Perth East",
       fr: "Perth East",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18231,6 +20672,7 @@ export const rates = [
       en: "North Perth",
       fr: "North Perth",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18239,6 +20681,7 @@ export const rates = [
       en: "Norwich",
       fr: "Norwich",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18247,6 +20690,7 @@ export const rates = [
       en: "Tillsonburg",
       fr: "Tillsonburg",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18255,6 +20699,7 @@ export const rates = [
       en: "South-West Oxford",
       fr: "South-West Oxford",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18263,6 +20708,7 @@ export const rates = [
       en: "Ingersoll",
       fr: "Ingersoll",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18271,6 +20717,7 @@ export const rates = [
       en: "Zorra",
       fr: "Zorra",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18279,6 +20726,7 @@ export const rates = [
       en: "East Zorra-Tavistock",
       fr: "East Zorra-Tavistock",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18287,6 +20735,7 @@ export const rates = [
       en: "Woodstock",
       fr: "Woodstock",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18295,6 +20744,7 @@ export const rates = [
       en: "Blandford-Blenheim",
       fr: "Blandford-Blenheim",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18303,6 +20753,7 @@ export const rates = [
       en: "Bayham",
       fr: "Bayham",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18311,6 +20762,7 @@ export const rates = [
       en: "Malahide",
       fr: "Malahide",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18319,6 +20771,7 @@ export const rates = [
       en: "Aylmer",
       fr: "Aylmer",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18327,6 +20780,7 @@ export const rates = [
       en: "Central Elgin",
       fr: "Central Elgin",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18335,6 +20789,7 @@ export const rates = [
       en: "St. Thomas",
       fr: "St. Thomas",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18343,6 +20798,7 @@ export const rates = [
       en: "Southwold",
       fr: "Southwold",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18351,6 +20807,7 @@ export const rates = [
       en: "Dutton/Dunwich",
       fr: "Dutton/Dunwich",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18359,6 +20816,7 @@ export const rates = [
       en: "West Elgin",
       fr: "West Elgin",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18367,6 +20825,7 @@ export const rates = [
       en: "Chatham-Kent",
       fr: "Chatham-Kent",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18375,6 +20834,7 @@ export const rates = [
       en: "Moravian 47",
       fr: "Moravian 47",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18383,6 +20843,7 @@ export const rates = [
       en: "Pelee",
       fr: "Pelee",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18391,6 +20852,7 @@ export const rates = [
       en: "Leamington",
       fr: "Leamington",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18399,6 +20861,7 @@ export const rates = [
       en: "Kingsville",
       fr: "Kingsville",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18407,6 +20870,7 @@ export const rates = [
       en: "Essex",
       fr: "Essex",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18415,6 +20879,7 @@ export const rates = [
       en: "Amherstburg",
       fr: "Amherstburg",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18423,6 +20888,7 @@ export const rates = [
       en: "LaSalle",
       fr: "LaSalle",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18431,6 +20897,7 @@ export const rates = [
       en: "Windsor",
       fr: "Windsor",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18439,6 +20906,7 @@ export const rates = [
       en: "Tecumseh",
       fr: "Tecumseh",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18447,6 +20915,7 @@ export const rates = [
       en: "Lakeshore",
       fr: "Lakeshore",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18455,6 +20924,7 @@ export const rates = [
       en: "St. Clair",
       fr: "St. Clair",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18463,6 +20933,7 @@ export const rates = [
       en: "Walpole Island 46",
       fr: "Walpole Island 46",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18471,6 +20942,7 @@ export const rates = [
       en: "Dawn-Euphemia",
       fr: "Dawn-Euphemia",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18479,6 +20951,7 @@ export const rates = [
       en: "Brooke-Alvinston",
       fr: "Brooke-Alvinston",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18487,6 +20960,7 @@ export const rates = [
       en: "Enniskillen",
       fr: "Enniskillen",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18495,6 +20969,7 @@ export const rates = [
       en: "Oil Springs",
       fr: "Oil Springs",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18503,6 +20978,7 @@ export const rates = [
       en: "Petrolia",
       fr: "Petrolia",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18511,6 +20987,7 @@ export const rates = [
       en: "Sarnia 45",
       fr: "Sarnia 45",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18519,6 +20996,7 @@ export const rates = [
       en: "Sarnia",
       fr: "Sarnia",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18527,6 +21005,7 @@ export const rates = [
       en: "Point Edward",
       fr: "Point Edward",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18535,6 +21014,7 @@ export const rates = [
       en: "Plympton-Wyoming",
       fr: "Plympton-Wyoming",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18543,6 +21023,7 @@ export const rates = [
       en: "Lambton Shores",
       fr: "Lambton Shores",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18551,6 +21032,7 @@ export const rates = [
       en: "Warwick",
       fr: "Warwick",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18559,6 +21041,7 @@ export const rates = [
       en: "Kettle Point 44",
       fr: "Kettle Point 44",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18567,6 +21050,7 @@ export const rates = [
       en: "Newbury",
       fr: "Newbury",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18575,6 +21059,7 @@ export const rates = [
       en: "Southwest Middlesex",
       fr: "Southwest Middlesex",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18583,6 +21068,7 @@ export const rates = [
       en: "Strathroy-Caradoc",
       fr: "Strathroy-Caradoc",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18591,6 +21077,7 @@ export const rates = [
       en: "Chippewas of the Thames First Nation 42",
       fr: "Chippewas of the Thames First Nation 42",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18599,6 +21086,7 @@ export const rates = [
       en: "Munsee-Delaware Nation 1",
       fr: "Munsee-Delaware Nation 1",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18607,6 +21095,7 @@ export const rates = [
       en: "Oneida 41",
       fr: "Oneida 41",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18615,6 +21104,7 @@ export const rates = [
       en: "Thames Centre",
       fr: "Thames Centre",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18623,6 +21113,7 @@ export const rates = [
       en: "Middlesex Centre",
       fr: "Middlesex Centre",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18631,6 +21122,7 @@ export const rates = [
       en: "London",
       fr: "London",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18639,6 +21131,7 @@ export const rates = [
       en: "North Middlesex",
       fr: "North Middlesex",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18647,6 +21140,7 @@ export const rates = [
       en: "Adelaide-Metcalfe",
       fr: "Adelaide-Metcalfe",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18655,6 +21149,7 @@ export const rates = [
       en: "Lucan Biddulph",
       fr: "Lucan Biddulph",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18663,6 +21158,7 @@ export const rates = [
       en: "South Huron",
       fr: "South Huron",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18671,6 +21167,7 @@ export const rates = [
       en: "Bluewater",
       fr: "Bluewater",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18679,6 +21176,7 @@ export const rates = [
       en: "Central Huron",
       fr: "Central Huron",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18687,6 +21185,7 @@ export const rates = [
       en: "Goderich",
       fr: "Goderich",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18695,6 +21194,7 @@ export const rates = [
       en: "Huron East",
       fr: "Huron East",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18703,6 +21203,7 @@ export const rates = [
       en: "Howick",
       fr: "Howick",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18711,6 +21212,7 @@ export const rates = [
       en: "Morris-Turnberry",
       fr: "Morris-Turnberry",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18719,6 +21221,7 @@ export const rates = [
       en: "North Huron",
       fr: "North Huron",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18727,6 +21230,7 @@ export const rates = [
       en: "Ashfield-Colborne-Wawanosh",
       fr: "Ashfield-Colborne-Wawanosh",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18735,6 +21239,7 @@ export const rates = [
       en: "South Bruce",
       fr: "South Bruce",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18743,6 +21248,7 @@ export const rates = [
       en: "Huron-Kinloss",
       fr: "Huron-Kinloss",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18751,6 +21257,7 @@ export const rates = [
       en: "Kincardine",
       fr: "Kincardine",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18759,6 +21266,7 @@ export const rates = [
       en: "Brockton",
       fr: "Brockton",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18767,6 +21275,7 @@ export const rates = [
       en: "Arran-Elderslie",
       fr: "Arran-Elderslie",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18775,6 +21284,7 @@ export const rates = [
       en: "Saugeen Shores",
       fr: "Saugeen Shores",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18783,6 +21293,7 @@ export const rates = [
       en: "South Bruce Peninsula",
       fr: "South Bruce Peninsula",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18791,6 +21302,7 @@ export const rates = [
       en: "Chief's Point No. 28",
       fr: "Chief's Point No. 28",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18799,6 +21311,7 @@ export const rates = [
       en: "Saugeen 29",
       fr: "Saugeen 29",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18807,6 +21320,7 @@ export const rates = [
       en: "Neyaashiinigmiing 27",
       fr: "Neyaashiinigmiing 27",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18815,6 +21329,7 @@ export const rates = [
       en: "Northern Bruce Peninsula",
       fr: "Northern Bruce Peninsula",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18823,6 +21338,7 @@ export const rates = [
       en: "West Grey",
       fr: "West Grey",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18831,6 +21347,7 @@ export const rates = [
       en: "Southgate",
       fr: "Southgate",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18839,6 +21356,7 @@ export const rates = [
       en: "Grey Highlands",
       fr: "Grey Highlands",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18847,6 +21365,7 @@ export const rates = [
       en: "Hanover",
       fr: "Hanover",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18855,6 +21374,7 @@ export const rates = [
       en: "Chatsworth",
       fr: "Chatsworth",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18863,6 +21383,7 @@ export const rates = [
       en: "The Blue Mountains",
       fr: "The Blue Mountains",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18871,6 +21392,7 @@ export const rates = [
       en: "Meaford",
       fr: "Meaford",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18879,6 +21401,7 @@ export const rates = [
       en: "Georgian Bluffs",
       fr: "Georgian Bluffs",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18887,6 +21410,7 @@ export const rates = [
       en: "Owen Sound",
       fr: "Owen Sound",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18895,6 +21419,7 @@ export const rates = [
       en: "Adjala-Tosorontio",
       fr: "Adjala-Tosorontio",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18903,6 +21428,7 @@ export const rates = [
       en: "Clearview",
       fr: "Clearview",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18911,6 +21437,7 @@ export const rates = [
       en: "New Tecumseth",
       fr: "New Tecumseth",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18919,6 +21446,7 @@ export const rates = [
       en: "Springwater",
       fr: "Springwater",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18927,6 +21455,7 @@ export const rates = [
       en: "Bradford West Gwillimbury",
       fr: "Bradford West Gwillimbury",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18935,6 +21464,7 @@ export const rates = [
       en: "Severn",
       fr: "Severn",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18943,6 +21473,7 @@ export const rates = [
       en: "Innisfil",
       fr: "Innisfil",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18951,6 +21482,7 @@ export const rates = [
       en: "Ramara",
       fr: "Ramara",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18959,6 +21491,7 @@ export const rates = [
       en: "Essa",
       fr: "Essa",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18967,6 +21500,7 @@ export const rates = [
       en: "Oro-Medonte",
       fr: "Oro-Medonte",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18975,6 +21509,7 @@ export const rates = [
       en: "Collingwood",
       fr: "Collingwood",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18983,6 +21518,7 @@ export const rates = [
       en: "Barrie",
       fr: "Barrie",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18991,6 +21527,7 @@ export const rates = [
       en: "Chippewas of Rama First Nation",
       fr: "Chippewas of Rama First Nation",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -18999,6 +21536,7 @@ export const rates = [
       en: "Orillia",
       fr: "Orillia",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19007,6 +21545,7 @@ export const rates = [
       en: "Wasaga Beach",
       fr: "Wasaga Beach",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19015,6 +21554,7 @@ export const rates = [
       en: "Tiny",
       fr: "Tiny",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19023,6 +21563,7 @@ export const rates = [
       en: "Christian Island 30",
       fr: "Christian Island 30",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19031,6 +21572,7 @@ export const rates = [
       en: "Christian Island 30A",
       fr: "Christian Island 30A",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19039,6 +21581,7 @@ export const rates = [
       en: "Tay",
       fr: "Tay",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19047,6 +21590,7 @@ export const rates = [
       en: "Penetanguishene",
       fr: "Penetanguishene",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19055,6 +21599,7 @@ export const rates = [
       en: "Midland",
       fr: "Midland",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19063,6 +21608,7 @@ export const rates = [
       en: "Gravenhurst",
       fr: "Gravenhurst",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19071,6 +21617,7 @@ export const rates = [
       en: "Bracebridge",
       fr: "Bracebridge",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19079,6 +21626,7 @@ export const rates = [
       en: "Lake of Bays",
       fr: "Lake of Bays",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19087,6 +21635,7 @@ export const rates = [
       en: "Huntsville",
       fr: "Huntsville",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19095,6 +21644,7 @@ export const rates = [
       en: "Muskoka Lakes",
       fr: "Muskoka Lakes",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19103,6 +21653,7 @@ export const rates = [
       en: "Georgian Bay",
       fr: "Georgian Bay",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19111,6 +21662,7 @@ export const rates = [
       en: "Wahta Mohawk Territory",
       fr: "Wahta Mohawk Territory",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19119,6 +21671,7 @@ export const rates = [
       en: "Moose Point 79",
       fr: "Moose Point 79",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19127,6 +21680,7 @@ export const rates = [
       en: "Highlands East",
       fr: "Highlands East",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19135,6 +21689,7 @@ export const rates = [
       en: "Minden Hills",
       fr: "Minden Hills",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19143,6 +21698,7 @@ export const rates = [
       en: "Algonquin Highlands",
       fr: "Algonquin Highlands",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19151,6 +21707,7 @@ export const rates = [
       en: "Dysart et al",
       fr: "Dysart et al",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19159,6 +21716,7 @@ export const rates = [
       en: "Arnprior",
       fr: "Arnprior",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19167,6 +21725,7 @@ export const rates = [
       en: "McNab/Braeside",
       fr: "McNab/Braeside",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19175,6 +21734,7 @@ export const rates = [
       en: "Greater Madawaska",
       fr: "Greater Madawaska",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19183,6 +21743,7 @@ export const rates = [
       en: "Brudenell, Lyndoch and Raglan",
       fr: "Brudenell, Lyndoch and Raglan",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19191,6 +21752,7 @@ export const rates = [
       en: "Madawaska Valley",
       fr: "Madawaska Valley",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19199,6 +21761,7 @@ export const rates = [
       en: "Killaloe, Hagarty and Richards",
       fr: "Killaloe, Hagarty and Richards",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19207,6 +21770,7 @@ export const rates = [
       en: "Bonnechere Valley",
       fr: "Bonnechere Valley",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19215,6 +21779,7 @@ export const rates = [
       en: "Pikwakanagan (Golden Lake 39)",
       fr: "Pikwakanagan (Golden Lake 39)",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19223,6 +21788,7 @@ export const rates = [
       en: "Admaston/Bromley",
       fr: "Admaston/Bromley",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19231,6 +21797,7 @@ export const rates = [
       en: "Horton",
       fr: "Horton",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19239,6 +21806,7 @@ export const rates = [
       en: "Renfrew",
       fr: "Renfrew",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19247,6 +21815,7 @@ export const rates = [
       en: "Whitewater Region",
       fr: "Whitewater Region",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19255,6 +21824,7 @@ export const rates = [
       en: "Pembroke",
       fr: "Pembroke",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19263,6 +21833,7 @@ export const rates = [
       en: "North Algona Wilberforce",
       fr: "North Algona Wilberforce",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19271,6 +21842,7 @@ export const rates = [
       en: "Laurentian Valley",
       fr: "Laurentian Valley",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19279,6 +21851,7 @@ export const rates = [
       en: "Petawawa",
       fr: "Petawawa",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19287,6 +21860,7 @@ export const rates = [
       en: "Laurentian Hills",
       fr: "Laurentian Hills",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19295,6 +21869,7 @@ export const rates = [
       en: "Deep River",
       fr: "Deep River",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19303,6 +21878,7 @@ export const rates = [
       en: "Head, Clara and Maria",
       fr: "Head, Clara and Maria",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19311,6 +21887,7 @@ export const rates = [
       en: "South Algonquin",
       fr: "South Algonquin",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19319,6 +21896,7 @@ export const rates = [
       en: "Papineau-Cameron",
       fr: "Papineau-Cameron",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19327,6 +21905,7 @@ export const rates = [
       en: "Mattawan",
       fr: "Mattawan",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19335,6 +21914,7 @@ export const rates = [
       en: "Mattawa",
       fr: "Mattawa",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19343,6 +21923,7 @@ export const rates = [
       en: "Calvin",
       fr: "Calvin",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19351,6 +21932,7 @@ export const rates = [
       en: "Bonfield",
       fr: "Bonfield",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19359,6 +21941,7 @@ export const rates = [
       en: "Chisholm",
       fr: "Chisholm",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19367,6 +21950,7 @@ export const rates = [
       en: "East Ferris",
       fr: "East Ferris",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19375,6 +21959,7 @@ export const rates = [
       en: "North Bay",
       fr: "North Bay",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19383,6 +21968,7 @@ export const rates = [
       en: "West Nipissing / Nipissing Ouest",
       fr: "West Nipissing / Nipissing Ouest",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19391,6 +21977,7 @@ export const rates = [
       en: "Temagami",
       fr: "Temagami",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19399,6 +21986,7 @@ export const rates = [
       en: "Bear Island 1",
       fr: "Bear Island 1",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19407,6 +21995,7 @@ export const rates = [
       en: "Nipissing 10",
       fr: "Nipissing 10",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19415,6 +22004,7 @@ export const rates = [
       en: "Nipissing, Unorganized, South Part",
       fr: "Nipissing, Unorganized, South Part",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19423,6 +22013,7 @@ export const rates = [
       en: "Nipissing, Unorganized, North Part",
       fr: "Nipissing, Unorganized, North Part",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19431,6 +22022,7 @@ export const rates = [
       en: "Seguin",
       fr: "Seguin",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19439,6 +22031,7 @@ export const rates = [
       en: "The Archipelago",
       fr: "The Archipelago",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19447,6 +22040,7 @@ export const rates = [
       en: "McMurrich/Monteith",
       fr: "McMurrich/Monteith",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19455,6 +22049,7 @@ export const rates = [
       en: "Perry",
       fr: "Perry",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19463,6 +22058,7 @@ export const rates = [
       en: "Kearney",
       fr: "Kearney",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19471,6 +22067,7 @@ export const rates = [
       en: "Armour",
       fr: "Armour",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19479,6 +22076,7 @@ export const rates = [
       en: "Burk's Falls",
       fr: "Burk's Falls",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19487,6 +22085,7 @@ export const rates = [
       en: "Ryerson",
       fr: "Ryerson",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19495,6 +22094,7 @@ export const rates = [
       en: "McKellar",
       fr: "McKellar",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19503,6 +22103,7 @@ export const rates = [
       en: "McDougall",
       fr: "McDougall",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19511,6 +22112,7 @@ export const rates = [
       en: "Parry Sound",
       fr: "Parry Sound",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19519,6 +22121,7 @@ export const rates = [
       en: "Carling",
       fr: "Carling",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19527,6 +22130,7 @@ export const rates = [
       en: "Whitestone",
       fr: "Whitestone",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19535,6 +22139,7 @@ export const rates = [
       en: "Magnetawan",
       fr: "Magnetawan",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19543,6 +22148,7 @@ export const rates = [
       en: "Strong",
       fr: "Strong",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19551,6 +22157,7 @@ export const rates = [
       en: "Sundridge",
       fr: "Sundridge",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19559,6 +22166,7 @@ export const rates = [
       en: "Joly",
       fr: "Joly",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19567,6 +22175,7 @@ export const rates = [
       en: "Machar",
       fr: "Machar",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19575,6 +22184,7 @@ export const rates = [
       en: "South River",
       fr: "South River",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19583,6 +22193,7 @@ export const rates = [
       en: "Powassan",
       fr: "Powassan",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19591,6 +22202,7 @@ export const rates = [
       en: "Callander",
       fr: "Callander",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19599,6 +22211,7 @@ export const rates = [
       en: "Nipissing",
       fr: "Nipissing",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19607,6 +22220,7 @@ export const rates = [
       en: "Shawanaga 17",
       fr: "Shawanaga 17",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19615,6 +22229,7 @@ export const rates = [
       en: "Parry Island First Nation",
       fr: "Parry Island First Nation",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19623,6 +22238,7 @@ export const rates = [
       en: "Henvey Inlet 2",
       fr: "Henvey Inlet 2",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19631,6 +22247,7 @@ export const rates = [
       en: "French River 13",
       fr: "French River 13",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19639,6 +22256,7 @@ export const rates = [
       en: "Dokis 9",
       fr: "Dokis 9",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19647,6 +22265,7 @@ export const rates = [
       en: "Magnetewan 1",
       fr: "Magnetewan 1",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19655,6 +22274,7 @@ export const rates = [
       en: "Naiscoutaing 17A",
       fr: "Naiscoutaing 17A",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19663,6 +22283,7 @@ export const rates = [
       en: "Parry Sound, Unorganized, North East Part",
       fr: "Parry Sound, Unorganized, North East Part",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19671,6 +22292,7 @@ export const rates = [
       en: "Parry Sound, Unorganized, Centre Part",
       fr: "Parry Sound, Unorganized, Centre Part",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19679,6 +22301,7 @@ export const rates = [
       en: "Tehkummah",
       fr: "Tehkummah",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19687,6 +22310,7 @@ export const rates = [
       en: "Central Manitoulin",
       fr: "Central Manitoulin",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19695,6 +22319,7 @@ export const rates = [
       en: "Assiginack",
       fr: "Assiginack",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19703,6 +22328,7 @@ export const rates = [
       en: "Northeastern Manitoulin and the Islands",
       fr: "Northeastern Manitoulin and the Islands",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19711,6 +22337,7 @@ export const rates = [
       en: "Billings",
       fr: "Billings",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19719,6 +22346,7 @@ export const rates = [
       en: "Gore Bay",
       fr: "Gore Bay",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19727,6 +22355,7 @@ export const rates = [
       en: "Gordon/Barrie Island",
       fr: "Gordon/Barrie Island",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19735,6 +22364,7 @@ export const rates = [
       en: "Burpee and Mills",
       fr: "Burpee and Mills",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19743,6 +22373,7 @@ export const rates = [
       en: "Cockburn Island",
       fr: "Cockburn Island",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19751,6 +22382,7 @@ export const rates = [
       en: "Whitefish River 4",
       fr: "Whitefish River 4",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19759,6 +22391,7 @@ export const rates = [
       en: "Sucker Creek 23",
       fr: "Sucker Creek 23",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19767,6 +22400,7 @@ export const rates = [
       en: "Sheguiandah 24",
       fr: "Sheguiandah 24",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19775,6 +22409,7 @@ export const rates = [
       en: "Wikwemikong Unceded",
       fr: "Wikwemikong Unceded",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19783,6 +22418,7 @@ export const rates = [
       en: "Sheshegwaning 20",
       fr: "Sheshegwaning 20",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19791,6 +22427,7 @@ export const rates = [
       en: "M'Chigeeng 22",
       fr: "M'Chigeeng 22",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19799,6 +22436,7 @@ export const rates = [
       en: "Manitoulin, Unorganized, West Part",
       fr: "Manitoulin, Unorganized, West Part",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19807,6 +22445,7 @@ export const rates = [
       en: "Zhiibaahaasing 19A",
       fr: "Zhiibaahaasing 19A",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19815,6 +22454,7 @@ export const rates = [
       en: "French River / Rivière des Français",
       fr: "French River / Rivière des Français",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19823,6 +22463,7 @@ export const rates = [
       en: "St.-Charles",
       fr: "St.-Charles",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19831,6 +22472,7 @@ export const rates = [
       en: "Markstay-Warren",
       fr: "Markstay-Warren",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19839,6 +22481,7 @@ export const rates = [
       en: "Sables-Spanish Rivers",
       fr: "Sables-Spanish Rivers",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19847,6 +22490,7 @@ export const rates = [
       en: "Espanola",
       fr: "Espanola",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19855,6 +22499,7 @@ export const rates = [
       en: "Baldwin",
       fr: "Baldwin",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19863,6 +22508,7 @@ export const rates = [
       en: "Nairn and Hyman",
       fr: "Nairn and Hyman",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19871,6 +22517,7 @@ export const rates = [
       en: "Killarney",
       fr: "Killarney",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19879,6 +22526,7 @@ export const rates = [
       en: "Point Grondine 3",
       fr: "Point Grondine 3",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19887,6 +22535,7 @@ export const rates = [
       en: "Whitefish Lake 6",
       fr: "Whitefish Lake 6",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19895,6 +22544,7 @@ export const rates = [
       en: "Mattagami 71",
       fr: "Mattagami 71",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19903,6 +22553,7 @@ export const rates = [
       en: "Chapleau 74A",
       fr: "Chapleau 74A",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19911,6 +22562,7 @@ export const rates = [
       en: "Duck Lake 76B",
       fr: "Duck Lake 76B",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19919,6 +22571,7 @@ export const rates = [
       en: "Chapleau Cree Fox Lake",
       fr: "Chapleau Cree Fox Lake",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19927,6 +22580,7 @@ export const rates = [
       en: "Chapleau 75",
       fr: "Chapleau 75",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19935,6 +22589,7 @@ export const rates = [
       en: "Chapleau",
       fr: "Chapleau",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19943,6 +22598,7 @@ export const rates = [
       en: "Sudbury, Unorganized, North Part",
       fr: "Sudbury, Unorganized, North Part",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19951,6 +22607,7 @@ export const rates = [
       en: "Greater Sudbury / Grand Sudbury",
       fr: "Greater Sudbury / Grand Sudbury",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19959,6 +22616,7 @@ export const rates = [
       en: "Wahnapitei 11",
       fr: "Wahnapitei 11",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19967,6 +22625,7 @@ export const rates = [
       en: "Coleman",
       fr: "Coleman",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19975,6 +22634,7 @@ export const rates = [
       en: "Latchford",
       fr: "Latchford",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19983,6 +22643,7 @@ export const rates = [
       en: "Cobalt",
       fr: "Cobalt",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19991,6 +22652,7 @@ export const rates = [
       en: "Harris",
       fr: "Harris",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -19999,6 +22661,7 @@ export const rates = [
       en: "Temiskaming Shores",
       fr: "Temiskaming Shores",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20007,6 +22670,7 @@ export const rates = [
       en: "Hudson",
       fr: "Hudson",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20015,6 +22679,7 @@ export const rates = [
       en: "Kerns",
       fr: "Kerns",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20023,6 +22688,7 @@ export const rates = [
       en: "Harley",
       fr: "Harley",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20031,6 +22697,7 @@ export const rates = [
       en: "Casey",
       fr: "Casey",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20039,6 +22706,7 @@ export const rates = [
       en: "Brethour",
       fr: "Brethour",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20047,6 +22715,7 @@ export const rates = [
       en: "Hilliard",
       fr: "Hilliard",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20055,6 +22724,7 @@ export const rates = [
       en: "Armstrong",
       fr: "Armstrong",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20063,6 +22733,7 @@ export const rates = [
       en: "Thornloe",
       fr: "Thornloe",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20071,6 +22742,7 @@ export const rates = [
       en: "James",
       fr: "James",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20079,6 +22751,7 @@ export const rates = [
       en: "Charlton and Dack",
       fr: "Charlton and Dack",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20087,6 +22760,7 @@ export const rates = [
       en: "Evanturel",
       fr: "Evanturel",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20095,6 +22769,7 @@ export const rates = [
       en: "Englehart",
       fr: "Englehart",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20103,6 +22778,7 @@ export const rates = [
       en: "Chamberlain",
       fr: "Chamberlain",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20111,6 +22787,7 @@ export const rates = [
       en: "Matachewan",
       fr: "Matachewan",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20119,6 +22796,7 @@ export const rates = [
       en: "Matachewan 72",
       fr: "Matachewan 72",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20127,6 +22805,7 @@ export const rates = [
       en: "McGarry",
       fr: "McGarry",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20135,6 +22814,7 @@ export const rates = [
       en: "Larder Lake",
       fr: "Larder Lake",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20143,6 +22823,7 @@ export const rates = [
       en: "Gauthier",
       fr: "Gauthier",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20151,6 +22832,7 @@ export const rates = [
       en: "Kirkland Lake",
       fr: "Kirkland Lake",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20159,6 +22841,7 @@ export const rates = [
       en: "Timiskaming, Unorganized, East Part",
       fr: "Timiskaming, Unorganized, East Part",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20167,6 +22850,7 @@ export const rates = [
       en: "Timiskaming, Unorganized, West Part",
       fr: "Timiskaming, Unorganized, West Part",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20175,6 +22859,7 @@ export const rates = [
       en: "Black River-Matheson",
       fr: "Black River-Matheson",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20183,6 +22868,7 @@ export const rates = [
       en: "Timmins",
       fr: "Timmins",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20191,6 +22877,7 @@ export const rates = [
       en: "Iroquois Falls",
       fr: "Iroquois Falls",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20199,6 +22886,7 @@ export const rates = [
       en: "Abitibi 70",
       fr: "Abitibi 70",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20207,6 +22895,7 @@ export const rates = [
       en: "Cochrane",
       fr: "Cochrane",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20215,6 +22904,7 @@ export const rates = [
       en: "Smooth Rock Falls",
       fr: "Smooth Rock Falls",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20223,6 +22913,7 @@ export const rates = [
       en: "Fauquier-Strickland",
       fr: "Fauquier-Strickland",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20231,6 +22922,7 @@ export const rates = [
       en: "Moonbeam",
       fr: "Moonbeam",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20239,6 +22931,7 @@ export const rates = [
       en: "Kapuskasing",
       fr: "Kapuskasing",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20247,6 +22940,7 @@ export const rates = [
       en: "Val Rita-Harty",
       fr: "Val Rita-Harty",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20255,6 +22949,7 @@ export const rates = [
       en: "Opasatika",
       fr: "Opasatika",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20263,6 +22958,7 @@ export const rates = [
       en: "Hearst",
       fr: "Hearst",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20271,6 +22967,7 @@ export const rates = [
       en: "Mattice-Val Côté",
       fr: "Mattice-Val Côté",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20279,6 +22976,7 @@ export const rates = [
       en: "Cochrane, Unorganized, South West Part",
       fr: "Cochrane, Unorganized, South West Part",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20287,6 +22985,7 @@ export const rates = [
       en: "Cochrane, Unorganized, North Part",
       fr: "Cochrane, Unorganized, North Part",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20295,6 +22994,7 @@ export const rates = [
       en: "Fort Albany (Part) 67",
       fr: "Fort Albany (Part) 67",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20303,6 +23003,7 @@ export const rates = [
       en: "Factory Island 1",
       fr: "Factory Island 1",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20311,6 +23012,7 @@ export const rates = [
       en: "Constance Lake 92",
       fr: "Constance Lake 92",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20319,6 +23021,7 @@ export const rates = [
       en: "Moose Factory 68",
       fr: "Moose Factory 68",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20327,6 +23030,7 @@ export const rates = [
       en: "Cochrane, Unorganized, South East Part",
       fr: "Cochrane, Unorganized, South East Part",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20335,6 +23039,7 @@ export const rates = [
       en: "Flying Post 73",
       fr: "Flying Post 73",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20343,6 +23048,7 @@ export const rates = [
       en: "New Post 69A",
       fr: "New Post 69A",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20351,6 +23057,7 @@ export const rates = [
       en: "Moosonee",
       fr: "Moosonee",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20359,6 +23066,7 @@ export const rates = [
       en: "Jocelyn",
       fr: "Jocelyn",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20367,6 +23075,7 @@ export const rates = [
       en: "Hilton",
       fr: "Hilton",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20375,6 +23084,7 @@ export const rates = [
       en: "Hilton Beach",
       fr: "Hilton Beach",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20383,6 +23093,7 @@ export const rates = [
       en: "St. Joseph",
       fr: "St. Joseph",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20391,6 +23102,7 @@ export const rates = [
       en: "Laird",
       fr: "Laird",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20399,6 +23111,7 @@ export const rates = [
       en: "Tarbutt and Tarbutt Additional",
       fr: "Tarbutt and Tarbutt Additional",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20407,6 +23120,7 @@ export const rates = [
       en: "Johnson",
       fr: "Johnson",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20415,6 +23129,7 @@ export const rates = [
       en: "Plummer Additional",
       fr: "Plummer Additional",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20423,6 +23138,7 @@ export const rates = [
       en: "Bruce Mines",
       fr: "Bruce Mines",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20431,6 +23147,7 @@ export const rates = [
       en: "Thessalon 12",
       fr: "Thessalon 12",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20439,6 +23156,7 @@ export const rates = [
       en: "Thessalon",
       fr: "Thessalon",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20447,6 +23165,7 @@ export const rates = [
       en: "Huron Shores",
       fr: "Huron Shores",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20455,6 +23174,7 @@ export const rates = [
       en: "Blind River",
       fr: "Blind River",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20463,6 +23183,7 @@ export const rates = [
       en: "Spanish",
       fr: "Spanish",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20471,6 +23192,7 @@ export const rates = [
       en: "The North Shore",
       fr: "The North Shore",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20479,6 +23201,7 @@ export const rates = [
       en: "Elliot Lake",
       fr: "Elliot Lake",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20487,6 +23210,7 @@ export const rates = [
       en: "Macdonald, Meredith and Aberdeen Additional",
       fr: "Macdonald, Meredith and Aberdeen Additional",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20495,6 +23219,7 @@ export const rates = [
       en: "Sault Ste. Marie",
       fr: "Sault Ste. Marie",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20503,6 +23228,7 @@ export const rates = [
       en: "Prince",
       fr: "Prince",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20511,6 +23237,7 @@ export const rates = [
       en: "Sagamok",
       fr: "Sagamok",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20519,6 +23246,7 @@ export const rates = [
       en: "Serpent River 7",
       fr: "Serpent River 7",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20527,6 +23255,7 @@ export const rates = [
       en: "Mississagi River 8",
       fr: "Mississagi River 8",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20535,6 +23264,7 @@ export const rates = [
       en: "Garden River 14",
       fr: "Garden River 14",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20543,6 +23273,7 @@ export const rates = [
       en: "Rankin Location 15D",
       fr: "Rankin Location 15D",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20551,6 +23282,7 @@ export const rates = [
       en: "Wawa",
       fr: "Wawa",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20559,6 +23291,7 @@ export const rates = [
       en: "Goulais Bay 15A",
       fr: "Goulais Bay 15A",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20567,6 +23300,7 @@ export const rates = [
       en: "Gros Cap 49",
       fr: "Gros Cap 49",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20575,6 +23309,7 @@ export const rates = [
       en: "Dubreuilville",
       fr: "Dubreuilville",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20583,6 +23318,7 @@ export const rates = [
       en: "White River",
       fr: "White River",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20591,6 +23327,7 @@ export const rates = [
       en: "Obadjiwan 15E",
       fr: "Obadjiwan 15E",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20599,6 +23336,7 @@ export const rates = [
       en: "Algoma, Unorganized, South East Part",
       fr: "Algoma, Unorganized, South East Part",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20607,6 +23345,7 @@ export const rates = [
       en: "Algoma, Unorganized, North Part",
       fr: "Algoma, Unorganized, North Part",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20615,6 +23354,7 @@ export const rates = [
       en: "Hornepayne",
       fr: "Hornepayne",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20623,6 +23363,7 @@ export const rates = [
       en: "Neebing",
       fr: "Neebing",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20631,6 +23372,7 @@ export const rates = [
       en: "Fort William 52",
       fr: "Fort William 52",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20639,6 +23381,7 @@ export const rates = [
       en: "Thunder Bay",
       fr: "Thunder Bay",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20647,6 +23390,7 @@ export const rates = [
       en: "Oliver Paipoonge",
       fr: "Oliver Paipoonge",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20655,6 +23399,7 @@ export const rates = [
       en: "Gillies",
       fr: "Gillies",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20663,6 +23408,7 @@ export const rates = [
       en: "O'Connor",
       fr: "O'Connor",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20671,6 +23417,7 @@ export const rates = [
       en: "Conmee",
       fr: "Conmee",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20679,6 +23426,7 @@ export const rates = [
       en: "Shuniah",
       fr: "Shuniah",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20687,6 +23435,7 @@ export const rates = [
       en: "Dorion",
       fr: "Dorion",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20695,6 +23444,7 @@ export const rates = [
       en: "Red Rock",
       fr: "Red Rock",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20703,6 +23453,7 @@ export const rates = [
       en: "Nipigon",
       fr: "Nipigon",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20711,6 +23462,7 @@ export const rates = [
       en: "Schreiber",
       fr: "Schreiber",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20719,6 +23471,7 @@ export const rates = [
       en: "Terrace Bay",
       fr: "Terrace Bay",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20727,6 +23480,7 @@ export const rates = [
       en: "Marathon",
       fr: "Marathon",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20735,6 +23489,7 @@ export const rates = [
       en: "Pic Mobert North",
       fr: "Pic Mobert North",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20743,6 +23498,7 @@ export const rates = [
       en: "Pic Mobert South",
       fr: "Pic Mobert South",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20751,6 +23507,7 @@ export const rates = [
       en: "Pic River 50",
       fr: "Pic River 50",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20759,6 +23516,7 @@ export const rates = [
       en: "Pays Plat 51",
       fr: "Pays Plat 51",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20767,6 +23525,7 @@ export const rates = [
       en: "Lake Helen 53A",
       fr: "Lake Helen 53A",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20775,6 +23534,7 @@ export const rates = [
       en: "Gull River 55",
       fr: "Gull River 55",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20783,6 +23543,7 @@ export const rates = [
       en: "Manitouwadge",
       fr: "Manitouwadge",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20791,6 +23552,7 @@ export const rates = [
       en: "Ginoogaming First Nation",
       fr: "Ginoogaming First Nation",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20799,6 +23561,7 @@ export const rates = [
       en: "Long Lake 58",
       fr: "Long Lake 58",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20807,6 +23570,7 @@ export const rates = [
       en: "Rocky Bay 1",
       fr: "Rocky Bay 1",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20815,6 +23579,7 @@ export const rates = [
       en: "Sand Point First Nation",
       fr: "Sand Point First Nation",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20823,6 +23588,7 @@ export const rates = [
       en: "Greenstone",
       fr: "Greenstone",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20831,6 +23597,7 @@ export const rates = [
       en: "Aroland",
       fr: "Aroland",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20839,6 +23606,7 @@ export const rates = [
       en: "Lake Nipigon",
       fr: "Lake Nipigon",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20847,6 +23615,7 @@ export const rates = [
       en: "Ojibway Nation of Saugeen (Savant Lake)",
       fr: "Ojibway Nation of Saugeen (Savant Lake)",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20855,6 +23624,7 @@ export const rates = [
       en: "Osnaburgh 63A",
       fr: "Osnaburgh 63A",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20863,6 +23633,7 @@ export const rates = [
       en: "Thunder Bay, Unorganized",
       fr: "Thunder Bay, Unorganized",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20871,6 +23642,7 @@ export const rates = [
       en: "Red Rock 53",
       fr: "Red Rock 53",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20879,6 +23651,7 @@ export const rates = [
       en: "Whitesand",
       fr: "Whitesand",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20887,6 +23660,7 @@ export const rates = [
       en: "Lac des Mille Lacs 22A1",
       fr: "Lac des Mille Lacs 22A1",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20895,6 +23669,7 @@ export const rates = [
       en: "Atikokan",
       fr: "Atikokan",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20903,6 +23678,7 @@ export const rates = [
       en: "Alberton",
       fr: "Alberton",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20911,6 +23687,7 @@ export const rates = [
       en: "Fort Frances",
       fr: "Fort Frances",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20919,6 +23696,7 @@ export const rates = [
       en: "La Vallee",
       fr: "La Vallee",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20927,6 +23705,7 @@ export const rates = [
       en: "Emo",
       fr: "Emo",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20935,6 +23714,7 @@ export const rates = [
       en: "Chapple",
       fr: "Chapple",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20943,6 +23723,7 @@ export const rates = [
       en: "Manitou Rapids 11",
       fr: "Manitou Rapids 11",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20951,6 +23732,7 @@ export const rates = [
       en: "Morley",
       fr: "Morley",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20959,6 +23741,7 @@ export const rates = [
       en: "Dawson",
       fr: "Dawson",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20967,6 +23750,7 @@ export const rates = [
       en: "Rainy River",
       fr: "Rainy River",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20975,6 +23759,7 @@ export const rates = [
       en: "Assabaska",
       fr: "Assabaska",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20983,6 +23768,7 @@ export const rates = [
       en: "Lake of the Woods",
       fr: "Lake of the Woods",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20991,6 +23777,7 @@ export const rates = [
       en: "Big Grassy River 35G",
       fr: "Big Grassy River 35G",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -20999,6 +23786,7 @@ export const rates = [
       en: "Big Island Mainland 93",
       fr: "Big Island Mainland 93",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21007,6 +23795,7 @@ export const rates = [
       en: "Saug-A-Gaw-Sing 1",
       fr: "Saug-A-Gaw-Sing 1",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21015,6 +23804,7 @@ export const rates = [
       en: "Neguaguon Lake 25D",
       fr: "Neguaguon Lake 25D",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21023,6 +23813,7 @@ export const rates = [
       en: "Rainy Lake 18C",
       fr: "Rainy Lake 18C",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21031,6 +23822,7 @@ export const rates = [
       en: "Agency 1",
       fr: "Agency 1",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21039,6 +23831,7 @@ export const rates = [
       en: "Couchiching 16A",
       fr: "Couchiching 16A",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21047,6 +23840,7 @@ export const rates = [
       en: "Rainy Lake 26A",
       fr: "Rainy Lake 26A",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21055,6 +23849,7 @@ export const rates = [
       en: "Seine River 23A",
       fr: "Seine River 23A",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21063,6 +23858,7 @@ export const rates = [
       en: "Rainy Lake 17A",
       fr: "Rainy Lake 17A",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21071,6 +23867,7 @@ export const rates = [
       en: "Rainy Lake 17B",
       fr: "Rainy Lake 17B",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21079,6 +23876,7 @@ export const rates = [
       en: "Sturgeon Falls 23",
       fr: "Sturgeon Falls 23",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21087,6 +23885,7 @@ export const rates = [
       en: "Rainy River, Unorganized",
       fr: "Rainy River, Unorganized",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21095,6 +23894,7 @@ export const rates = [
       en: "Ignace",
       fr: "Ignace",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21103,6 +23903,7 @@ export const rates = [
       en: "Whitefish Bay 32A",
       fr: "Whitefish Bay 32A",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21111,6 +23912,7 @@ export const rates = [
       en: "Whitefish Bay 33A",
       fr: "Whitefish Bay 33A",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21119,6 +23921,7 @@ export const rates = [
       en: "Sioux Narrows-Nestor Falls",
       fr: "Sioux Narrows-Nestor Falls",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21127,6 +23930,7 @@ export const rates = [
       en: "Kenora",
       fr: "Kenora",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21135,6 +23939,7 @@ export const rates = [
       en: "Machin",
       fr: "Machin",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21143,6 +23948,7 @@ export const rates = [
       en: "Eagle Lake 27",
       fr: "Eagle Lake 27",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21151,6 +23957,7 @@ export const rates = [
       en: "Dryden",
       fr: "Dryden",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21159,6 +23966,7 @@ export const rates = [
       en: "Ear Falls",
       fr: "Ear Falls",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21167,6 +23975,7 @@ export const rates = [
       en: "Sioux Lookout",
       fr: "Sioux Lookout",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21175,6 +23984,7 @@ export const rates = [
       en: "Red Lake",
       fr: "Red Lake",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21183,6 +23993,7 @@ export const rates = [
       en: "Slate Falls",
       fr: "Slate Falls",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21191,6 +24002,7 @@ export const rates = [
       en: "Pickle Lake",
       fr: "Pickle Lake",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21199,6 +24011,7 @@ export const rates = [
       en: "Fort Albany (Part) 67",
       fr: "Fort Albany (Part) 67",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21207,6 +24020,7 @@ export const rates = [
       en: "Attawapiskat 91A",
       fr: "Attawapiskat 91A",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21215,6 +24029,7 @@ export const rates = [
       en: "Marten Falls 65",
       fr: "Marten Falls 65",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21223,6 +24038,7 @@ export const rates = [
       en: "Fort Hope 64",
       fr: "Fort Hope 64",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21231,6 +24047,7 @@ export const rates = [
       en: "Cat Lake 63C",
       fr: "Cat Lake 63C",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21239,6 +24056,7 @@ export const rates = [
       en: "Osnaburgh 63B",
       fr: "Osnaburgh 63B",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21247,6 +24065,7 @@ export const rates = [
       en: "Lac Seul 28",
       fr: "Lac Seul 28",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21255,6 +24074,7 @@ export const rates = [
       en: "Wabigoon Lake 27",
       fr: "Wabigoon Lake 27",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21263,6 +24083,7 @@ export const rates = [
       en: "English River 21",
       fr: "English River 21",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21271,6 +24092,7 @@ export const rates = [
       en: "Weagamow Lake 87",
       fr: "Weagamow Lake 87",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21279,6 +24101,7 @@ export const rates = [
       en: "Northwest Angle 33B",
       fr: "Northwest Angle 33B",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21287,6 +24110,7 @@ export const rates = [
       en: "Wabaseemoong",
       fr: "Wabaseemoong",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21295,6 +24119,7 @@ export const rates = [
       en: "Sabaskong Bay 35D",
       fr: "Sabaskong Bay 35D",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21303,6 +24128,7 @@ export const rates = [
       en: "Shoal Lake 34B2",
       fr: "Shoal Lake 34B2",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21311,6 +24137,7 @@ export const rates = [
       en: "Lake of the Woods 37",
       fr: "Lake of the Woods 37",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21319,6 +24146,7 @@ export const rates = [
       en: "Kenora 38B",
       fr: "Kenora 38B",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21327,6 +24155,7 @@ export const rates = [
       en: "Poplar Hill",
       fr: "Poplar Hill",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21335,6 +24164,7 @@ export const rates = [
       en: "Shoal Lake 39A",
       fr: "Shoal Lake 39A",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21343,6 +24173,7 @@ export const rates = [
       en: "Rat Portage 38A",
       fr: "Rat Portage 38A",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21351,6 +24182,7 @@ export const rates = [
       en: "Deer Lake",
       fr: "Deer Lake",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21359,6 +24191,7 @@ export const rates = [
       en: "Sandy Lake 88",
       fr: "Sandy Lake 88",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21367,6 +24200,7 @@ export const rates = [
       en: "Kitchenuhmaykoosib Aaki 84",
       fr: "Kitchenuhmaykoosib Aaki 84",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21375,6 +24209,7 @@ export const rates = [
       en: "Sachigo Lake 1",
       fr: "Sachigo Lake 1",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21383,6 +24218,7 @@ export const rates = [
       en: "Pikangikum 14",
       fr: "Pikangikum 14",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21391,6 +24227,7 @@ export const rates = [
       en: "Fort Severn 89",
       fr: "Fort Severn 89",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21399,6 +24236,7 @@ export const rates = [
       en: "Webequie",
       fr: "Webequie",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21407,6 +24245,7 @@ export const rates = [
       en: "North Spirit Lake",
       fr: "North Spirit Lake",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21415,6 +24254,7 @@ export const rates = [
       en: "Lansdowne House",
       fr: "Lansdowne House",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21423,6 +24263,7 @@ export const rates = [
       en: "Shoal Lake (Part) 40",
       fr: "Shoal Lake (Part) 40",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21431,6 +24272,7 @@ export const rates = [
       en: "Whitefish Bay 34A",
       fr: "Whitefish Bay 34A",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21439,6 +24281,7 @@ export const rates = [
       en: "Wabauskang 21",
       fr: "Wabauskang 21",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21447,6 +24290,7 @@ export const rates = [
       en: "Wunnumin 1",
       fr: "Wunnumin 1",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21455,6 +24299,7 @@ export const rates = [
       en: "Summer Beaver",
       fr: "Summer Beaver",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21463,6 +24308,7 @@ export const rates = [
       en: "Wapekeka 2",
       fr: "Wapekeka 2",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21471,6 +24317,7 @@ export const rates = [
       en: "The Dalles 38C",
       fr: "The Dalles 38C",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21479,6 +24326,7 @@ export const rates = [
       en: "Kenora, Unorganized",
       fr: "Kenora, Unorganized",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21487,6 +24335,7 @@ export const rates = [
       en: "Peawanuck",
       fr: "Peawanuck",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21495,6 +24344,7 @@ export const rates = [
       en: "Neskantaga",
       fr: "Neskantaga",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21503,6 +24353,7 @@ export const rates = [
       en: "Bearskin Lake",
       fr: "Bearskin Lake",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21511,6 +24362,7 @@ export const rates = [
       en: "Kasabonika Lake",
       fr: "Kasabonika Lake",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21519,6 +24371,7 @@ export const rates = [
       en: "Muskrat Dam Lake",
       fr: "Muskrat Dam Lake",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21527,6 +24380,7 @@ export const rates = [
       en: "Kingfisher Lake 1",
       fr: "Kingfisher Lake 1",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21535,6 +24389,7 @@ export const rates = [
       en: "Wawakapewin",
       fr: "Wawakapewin",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21543,6 +24398,7 @@ export const rates = [
       en: "Kee-Way-Win",
       fr: "Kee-Way-Win",
     },
+    province: "ON",
     rates: [],
   },
   {
@@ -21551,6 +24407,7 @@ export const rates = [
       en: "Stuartburn",
       fr: "Stuartburn",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21559,6 +24416,7 @@ export const rates = [
       en: "Piney",
       fr: "Piney",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21567,6 +24425,7 @@ export const rates = [
       en: "Reynolds",
       fr: "Reynolds",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21575,6 +24434,7 @@ export const rates = [
       en: "Whitemouth",
       fr: "Whitemouth",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21583,6 +24443,7 @@ export const rates = [
       en: "Pinawa",
       fr: "Pinawa",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21591,6 +24452,7 @@ export const rates = [
       en: "Lac du Bonnet",
       fr: "Lac du Bonnet",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21599,6 +24461,7 @@ export const rates = [
       en: "Lac du Bonnet",
       fr: "Lac du Bonnet",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21607,6 +24470,7 @@ export const rates = [
       en: "Buffalo Point 36",
       fr: "Buffalo Point 36",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21615,6 +24479,7 @@ export const rates = [
       en: "Alexander",
       fr: "Alexander",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21623,6 +24488,7 @@ export const rates = [
       en: "Powerview-Pine Falls",
       fr: "Powerview-Pine Falls",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21631,6 +24497,7 @@ export const rates = [
       en: "Victoria Beach",
       fr: "Victoria Beach",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21639,6 +24506,7 @@ export const rates = [
       en: "Shoal Lake (Part) 40",
       fr: "Shoal Lake (Part) 40",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21647,6 +24515,7 @@ export const rates = [
       en: "Division No.  1, Unorganized",
       fr: "Division No.  1, Unorganized",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21655,6 +24524,7 @@ export const rates = [
       en: "Emerson-Franklin",
       fr: "Emerson-Franklin",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21663,6 +24533,7 @@ export const rates = [
       en: "Roseau Rapids 2A",
       fr: "Roseau Rapids 2A",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21671,6 +24542,7 @@ export const rates = [
       en: "Roseau River 2",
       fr: "Roseau River 2",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21679,6 +24551,7 @@ export const rates = [
       en: "De Salaberry",
       fr: "De Salaberry",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21687,6 +24560,7 @@ export const rates = [
       en: "St-Pierre-Jolys",
       fr: "St-Pierre-Jolys",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21695,6 +24569,7 @@ export const rates = [
       en: "Hanover",
       fr: "Hanover",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21703,6 +24578,7 @@ export const rates = [
       en: "Steinbach",
       fr: "Steinbach",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21711,6 +24587,7 @@ export const rates = [
       en: "Niverville",
       fr: "Niverville",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21719,6 +24596,7 @@ export const rates = [
       en: "La Broquerie",
       fr: "La Broquerie",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21727,6 +24605,7 @@ export const rates = [
       en: "Ste. Anne",
       fr: "Ste. Anne",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21735,6 +24614,7 @@ export const rates = [
       en: "Ste. Anne",
       fr: "Ste. Anne",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21743,6 +24623,7 @@ export const rates = [
       en: "Taché",
       fr: "Taché",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21751,6 +24632,7 @@ export const rates = [
       en: "Ritchot",
       fr: "Ritchot",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21759,6 +24641,7 @@ export const rates = [
       en: "Montcalm",
       fr: "Montcalm",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21767,6 +24650,7 @@ export const rates = [
       en: "Altona",
       fr: "Altona",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21775,6 +24659,7 @@ export const rates = [
       en: "Rhineland",
       fr: "Rhineland",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21783,6 +24668,7 @@ export const rates = [
       en: "Stanley",
       fr: "Stanley",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21791,6 +24677,7 @@ export const rates = [
       en: "Winkler",
       fr: "Winkler",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21799,6 +24686,7 @@ export const rates = [
       en: "Morden",
       fr: "Morden",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21807,6 +24695,7 @@ export const rates = [
       en: "Thompson",
       fr: "Thompson",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21815,6 +24704,7 @@ export const rates = [
       en: "Roland",
       fr: "Roland",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21823,6 +24713,7 @@ export const rates = [
       en: "Morris",
       fr: "Morris",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21831,6 +24722,7 @@ export const rates = [
       en: "Morris",
       fr: "Morris",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21839,6 +24731,7 @@ export const rates = [
       en: "Dufferin",
       fr: "Dufferin",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21847,6 +24740,7 @@ export const rates = [
       en: "Carman",
       fr: "Carman",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21855,6 +24749,7 @@ export const rates = [
       en: "Pembina",
       fr: "Pembina",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21863,6 +24758,7 @@ export const rates = [
       en: "Louise",
       fr: "Louise",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21871,6 +24767,7 @@ export const rates = [
       en: "Cartwright-Roblin",
       fr: "Cartwright-Roblin",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21879,6 +24776,7 @@ export const rates = [
       en: "Argyle",
       fr: "Argyle",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21887,6 +24785,7 @@ export const rates = [
       en: "Lorne",
       fr: "Lorne",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21895,6 +24794,7 @@ export const rates = [
       en: "Swan Lake 7",
       fr: "Swan Lake 7",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21903,6 +24803,7 @@ export const rates = [
       en: "Killarney - Turtle Mountain",
       fr: "Killarney - Turtle Mountain",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21911,6 +24812,7 @@ export const rates = [
       en: "Boissevain-Morton",
       fr: "Boissevain-Morton",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21919,6 +24821,7 @@ export const rates = [
       en: "Deloraine-Winchester",
       fr: "Deloraine-Winchester",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21927,6 +24830,7 @@ export const rates = [
       en: "Brenda-Waskada",
       fr: "Brenda-Waskada",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21935,6 +24839,7 @@ export const rates = [
       en: "Melita",
       fr: "Melita",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21943,6 +24848,7 @@ export const rates = [
       en: "Two Borders",
       fr: "Two Borders",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21951,6 +24857,7 @@ export const rates = [
       en: "Grassland",
       fr: "Grassland",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21959,6 +24866,7 @@ export const rates = [
       en: "Prairie Lakes",
       fr: "Prairie Lakes",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21967,6 +24875,7 @@ export const rates = [
       en: "Sifton",
       fr: "Sifton",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21975,6 +24884,7 @@ export const rates = [
       en: "Pipestone",
       fr: "Pipestone",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21983,6 +24893,7 @@ export const rates = [
       en: "Canupawakpa Dakota First Nation (Oak Lake 59)",
       fr: "Canupawakpa Dakota First Nation (Oak Lake 59)",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21991,6 +24902,7 @@ export const rates = [
       en: "Wallace-Woodworth",
       fr: "Wallace-Woodworth",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -21999,6 +24911,7 @@ export const rates = [
       en: "Virden",
       fr: "Virden",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22007,6 +24920,7 @@ export const rates = [
       en: "Sioux Valley Dakota Nation",
       fr: "Sioux Valley Dakota Nation",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22015,6 +24929,7 @@ export const rates = [
       en: "Glenboro-South Cypress",
       fr: "Glenboro-South Cypress",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22023,6 +24938,7 @@ export const rates = [
       en: "Swan Lake 7A",
       fr: "Swan Lake 7A",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22031,6 +24947,7 @@ export const rates = [
       en: "Oakland-Wawanesa",
       fr: "Oakland-Wawanesa",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22039,6 +24956,7 @@ export const rates = [
       en: "Souris-Glenwood",
       fr: "Souris-Glenwood",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22047,6 +24965,7 @@ export const rates = [
       en: "Whitehead",
       fr: "Whitehead",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22055,6 +24974,7 @@ export const rates = [
       en: "Cornwallis",
       fr: "Cornwallis",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22063,6 +24983,7 @@ export const rates = [
       en: "Brandon",
       fr: "Brandon",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22071,6 +24992,7 @@ export const rates = [
       en: "North Cypress-Langford",
       fr: "North Cypress-Langford",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22079,6 +25001,7 @@ export const rates = [
       en: "Carberry",
       fr: "Carberry",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22087,6 +25010,7 @@ export const rates = [
       en: "Elton",
       fr: "Elton",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22095,6 +25019,7 @@ export const rates = [
       en: "Waywayseecappo Highway 10",
       fr: "Waywayseecappo Highway 10",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22103,6 +25028,7 @@ export const rates = [
       en: "Riverdale",
       fr: "Riverdale",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22111,6 +25037,7 @@ export const rates = [
       en: "Norfolk-Treherne",
       fr: "Norfolk-Treherne",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22119,6 +25046,7 @@ export const rates = [
       en: "Victoria",
       fr: "Victoria",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22127,6 +25055,7 @@ export const rates = [
       en: "North Norfolk",
       fr: "North Norfolk",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22135,6 +25064,7 @@ export const rates = [
       en: "Glenella-Lansdowne",
       fr: "Glenella-Lansdowne",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22143,6 +25073,7 @@ export const rates = [
       en: "WestLake-Gladstone",
       fr: "WestLake-Gladstone",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22151,6 +25082,7 @@ export const rates = [
       en: "Sandy Bay 5",
       fr: "Sandy Bay 5",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22159,6 +25091,7 @@ export const rates = [
       en: "Grey",
       fr: "Grey",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22167,6 +25100,7 @@ export const rates = [
       en: "Portage la Prairie",
       fr: "Portage la Prairie",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22175,6 +25109,7 @@ export const rates = [
       en: "Long Plain 6",
       fr: "Long Plain 6",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22183,6 +25118,7 @@ export const rates = [
       en: "Dakota Plains 6A",
       fr: "Dakota Plains 6A",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22191,6 +25127,7 @@ export const rates = [
       en: "Dakota Tipi 1",
       fr: "Dakota Tipi 1",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22199,6 +25136,7 @@ export const rates = [
       en: "Portage la Prairie",
       fr: "Portage la Prairie",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22207,6 +25145,7 @@ export const rates = [
       en: "Long Plain",
       fr: "Long Plain",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22215,6 +25154,7 @@ export const rates = [
       en: "Macdonald",
       fr: "Macdonald",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22223,6 +25163,7 @@ export const rates = [
       en: "Cartier",
       fr: "Cartier",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22231,6 +25172,7 @@ export const rates = [
       en: "St. François Xavier",
       fr: "St. François Xavier",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22239,6 +25181,7 @@ export const rates = [
       en: "Winnipeg",
       fr: "Winnipeg",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22247,6 +25190,7 @@ export const rates = [
       en: "Headingley",
       fr: "Headingley",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22255,6 +25199,7 @@ export const rates = [
       en: "Springfield",
       fr: "Springfield",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22263,6 +25208,7 @@ export const rates = [
       en: "Brokenhead",
       fr: "Brokenhead",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22271,6 +25217,7 @@ export const rates = [
       en: "Beausejour",
       fr: "Beausejour",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22279,6 +25226,7 @@ export const rates = [
       en: "East St. Paul",
       fr: "East St. Paul",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22287,6 +25235,7 @@ export const rates = [
       en: "West St. Paul",
       fr: "West St. Paul",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22295,6 +25244,7 @@ export const rates = [
       en: "St. Andrews",
       fr: "St. Andrews",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22303,6 +25253,7 @@ export const rates = [
       en: "Selkirk",
       fr: "Selkirk",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22311,6 +25262,7 @@ export const rates = [
       en: "Dunnottar",
       fr: "Dunnottar",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22319,6 +25271,7 @@ export const rates = [
       en: "St. Clements",
       fr: "St. Clements",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22327,6 +25280,7 @@ export const rates = [
       en: "Brokenhead 4",
       fr: "Brokenhead 4",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22335,6 +25289,7 @@ export const rates = [
       en: "Rosser",
       fr: "Rosser",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22343,6 +25298,7 @@ export const rates = [
       en: "Woodlands",
       fr: "Woodlands",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22351,6 +25307,7 @@ export const rates = [
       en: "Rockwood",
       fr: "Rockwood",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22359,6 +25316,7 @@ export const rates = [
       en: "Stonewall",
       fr: "Stonewall",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22367,6 +25325,7 @@ export const rates = [
       en: "Teulon",
       fr: "Teulon",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22375,6 +25334,7 @@ export const rates = [
       en: "Neepawa",
       fr: "Neepawa",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22383,6 +25343,7 @@ export const rates = [
       en: "Oakview",
       fr: "Oakview",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22391,6 +25352,7 @@ export const rates = [
       en: "Hamiota",
       fr: "Hamiota",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22399,6 +25361,7 @@ export const rates = [
       en: "Birdtail Creek 57",
       fr: "Birdtail Creek 57",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22407,6 +25370,7 @@ export const rates = [
       en: "Ellice-Archie",
       fr: "Ellice-Archie",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22415,6 +25379,7 @@ export const rates = [
       en: "Gambler 63 (Part)",
       fr: "Gambler 63 (Part)",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22423,6 +25388,7 @@ export const rates = [
       en: "Prairie View",
       fr: "Prairie View",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22431,6 +25397,7 @@ export const rates = [
       en: "Yellowhead",
       fr: "Yellowhead",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22439,6 +25406,7 @@ export const rates = [
       en: "Keeseekoowenin 61",
       fr: "Keeseekoowenin 61",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22447,6 +25415,7 @@ export const rates = [
       en: "Harrison Park",
       fr: "Harrison Park",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22455,6 +25424,7 @@ export const rates = [
       en: "Rolling River 67",
       fr: "Rolling River 67",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22463,6 +25433,7 @@ export const rates = [
       en: "Rolling River 67B",
       fr: "Rolling River 67B",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22471,6 +25442,7 @@ export const rates = [
       en: "Minto-Odanah",
       fr: "Minto-Odanah",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22479,6 +25451,7 @@ export const rates = [
       en: "Minnedosa",
       fr: "Minnedosa",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22487,6 +25460,7 @@ export const rates = [
       en: "Rosedale",
       fr: "Rosedale",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22495,6 +25469,7 @@ export const rates = [
       en: "Clanwilliam-Erickson",
       fr: "Clanwilliam-Erickson",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22503,6 +25478,7 @@ export const rates = [
       en: "Rossburn",
       fr: "Rossburn",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22511,6 +25487,7 @@ export const rates = [
       en: "Waywayseecappo First Nation",
       fr: "Waywayseecappo First Nation",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22519,6 +25496,7 @@ export const rates = [
       en: "Riding Mountain West",
       fr: "Riding Mountain West",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22527,6 +25505,7 @@ export const rates = [
       en: "Gambler 63 (Part)",
       fr: "Gambler 63 (Part)",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22535,6 +25514,7 @@ export const rates = [
       en: "Russell-Binscarth",
       fr: "Russell-Binscarth",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22543,6 +25523,7 @@ export const rates = [
       en: "Valley River 63A",
       fr: "Valley River 63A",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22551,6 +25532,7 @@ export const rates = [
       en: "Hillsburg-Roblin-Shell River",
       fr: "Hillsburg-Roblin-Shell River",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22559,6 +25541,7 @@ export const rates = [
       en: "Alonsa",
       fr: "Alonsa",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22567,6 +25550,7 @@ export const rates = [
       en: "Ebb and Flow 52",
       fr: "Ebb and Flow 52",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22575,6 +25559,7 @@ export const rates = [
       en: "McCreary",
       fr: "McCreary",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22583,6 +25568,7 @@ export const rates = [
       en: "Ste. Rose",
       fr: "Ste. Rose",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22591,6 +25577,7 @@ export const rates = [
       en: "Dauphin",
       fr: "Dauphin",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22599,6 +25586,7 @@ export const rates = [
       en: "Dauphin",
       fr: "Dauphin",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22607,6 +25595,7 @@ export const rates = [
       en: "Gilbert Plains",
       fr: "Gilbert Plains",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22615,6 +25604,7 @@ export const rates = [
       en: "Grandview",
       fr: "Grandview",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22623,6 +25613,7 @@ export const rates = [
       en: "Ethelbert",
       fr: "Ethelbert",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22631,6 +25622,7 @@ export const rates = [
       en: "Mossey River",
       fr: "Mossey River",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22639,6 +25631,7 @@ export const rates = [
       en: "Lakeshore",
       fr: "Lakeshore",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22647,6 +25640,7 @@ export const rates = [
       en: "Division No. 17, Unorganized",
       fr: "Division No. 17, Unorganized",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22655,6 +25649,7 @@ export const rates = [
       en: "Gimli",
       fr: "Gimli",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22663,6 +25658,7 @@ export const rates = [
       en: "Winnipeg Beach",
       fr: "Winnipeg Beach",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22671,6 +25667,7 @@ export const rates = [
       en: "Armstrong",
       fr: "Armstrong",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22679,6 +25676,7 @@ export const rates = [
       en: "St. Laurent",
       fr: "St. Laurent",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22687,6 +25685,7 @@ export const rates = [
       en: "Coldwell",
       fr: "Coldwell",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22695,6 +25694,7 @@ export const rates = [
       en: "Dog Creek 46",
       fr: "Dog Creek 46",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22703,6 +25703,7 @@ export const rates = [
       en: "West Interlake",
       fr: "West Interlake",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22711,6 +25712,7 @@ export const rates = [
       en: "Grahamdale",
       fr: "Grahamdale",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22719,6 +25721,7 @@ export const rates = [
       en: "Obushkudayang",
       fr: "Obushkudayang",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22727,6 +25730,7 @@ export const rates = [
       en: "Little Saskatchewan 48",
       fr: "Little Saskatchewan 48",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22735,6 +25739,7 @@ export const rates = [
       en: "Fairford 50",
       fr: "Fairford 50",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22743,6 +25748,7 @@ export const rates = [
       en: "Fisher",
       fr: "Fisher",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22751,6 +25757,7 @@ export const rates = [
       en: "Arborg",
       fr: "Arborg",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22759,6 +25766,7 @@ export const rates = [
       en: "Bifrost-Riverton",
       fr: "Bifrost-Riverton",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22767,6 +25775,7 @@ export const rates = [
       en: "Division No. 18, Unorganized, East Part",
       fr: "Division No. 18, Unorganized, East Part",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22775,6 +25784,7 @@ export const rates = [
       en: "Division No. 18, Unorganized, West Part",
       fr: "Division No. 18, Unorganized, West Part",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22783,6 +25793,7 @@ export const rates = [
       en: "Shoal River 65B",
       fr: "Shoal River 65B",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22791,6 +25802,7 @@ export const rates = [
       en: "Division No. 19, Unorganized",
       fr: "Division No. 19, Unorganized",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22799,6 +25811,7 @@ export const rates = [
       en: "Fort Alexander 3",
       fr: "Fort Alexander 3",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22807,6 +25820,7 @@ export const rates = [
       en: "Little Grand Rapids 14",
       fr: "Little Grand Rapids 14",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22815,6 +25829,7 @@ export const rates = [
       en: "Bloodvein 12",
       fr: "Bloodvein 12",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22823,6 +25838,7 @@ export const rates = [
       en: "Hole or Hollow Water 10",
       fr: "Hole or Hollow Water 10",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22831,6 +25847,7 @@ export const rates = [
       en: "Black River 9",
       fr: "Black River 9",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22839,6 +25856,7 @@ export const rates = [
       en: "Fisher River 44",
       fr: "Fisher River 44",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22847,6 +25865,7 @@ export const rates = [
       en: "Fisher River 44A",
       fr: "Fisher River 44A",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22855,6 +25874,7 @@ export const rates = [
       en: "Peguis 1B",
       fr: "Peguis 1B",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22863,6 +25883,7 @@ export const rates = [
       en: "Jackhead 43",
       fr: "Jackhead 43",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22871,6 +25892,7 @@ export const rates = [
       en: "Dauphin River 48A",
       fr: "Dauphin River 48A",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22879,6 +25901,7 @@ export const rates = [
       en: "The Narrows 49",
       fr: "The Narrows 49",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22887,6 +25910,7 @@ export const rates = [
       en: "Crane River 51",
       fr: "Crane River 51",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22895,6 +25919,7 @@ export const rates = [
       en: "Waterhen 45",
       fr: "Waterhen 45",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22903,6 +25928,7 @@ export const rates = [
       en: "Pine Creek 66A",
       fr: "Pine Creek 66A",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22911,6 +25937,7 @@ export const rates = [
       en: "Swan Lake 65C",
       fr: "Swan Lake 65C",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22919,6 +25946,7 @@ export const rates = [
       en: "Shoal River Indian Reserve 65A",
       fr: "Shoal River Indian Reserve 65A",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22927,6 +25955,7 @@ export const rates = [
       en: "Poplar River 16",
       fr: "Poplar River 16",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22935,6 +25964,7 @@ export const rates = [
       en: "Berens River 13",
       fr: "Berens River 13",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22943,6 +25973,7 @@ export const rates = [
       en: "Pauingassi First Nation",
       fr: "Pauingassi First Nation",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22951,6 +25982,7 @@ export const rates = [
       en: "Chemawawin 3",
       fr: "Chemawawin 3",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22959,6 +25991,7 @@ export const rates = [
       en: "Mountain (South)",
       fr: "Mountain (South)",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22967,6 +26000,7 @@ export const rates = [
       en: "Swan Valley West",
       fr: "Swan Valley West",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22975,6 +26009,7 @@ export const rates = [
       en: "Swan River",
       fr: "Swan River",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22983,6 +26018,7 @@ export const rates = [
       en: "Minitonas-Bowsman",
       fr: "Minitonas-Bowsman",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22991,6 +26027,7 @@ export const rates = [
       en: "Mountain (North)",
       fr: "Mountain (North)",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -22999,6 +26036,7 @@ export const rates = [
       en: "Wuskwi Sipihk First Nation 2",
       fr: "Wuskwi Sipihk First Nation 2",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23007,6 +26045,7 @@ export const rates = [
       en: "Division No. 20, Unorganized, South Part",
       fr: "Division No. 20, Unorganized, South Part",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23015,6 +26054,7 @@ export const rates = [
       en: "Division No. 20, Unorganized, North Part",
       fr: "Division No. 20, Unorganized, North Part",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23023,6 +26063,7 @@ export const rates = [
       en: "Grand Rapids",
       fr: "Grand Rapids",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23031,6 +26072,7 @@ export const rates = [
       en: "Grand Rapids 33",
       fr: "Grand Rapids 33",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23039,6 +26081,7 @@ export const rates = [
       en: "Chemawawin 2",
       fr: "Chemawawin 2",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23047,6 +26090,7 @@ export const rates = [
       en: "Opaskwayak Cree Nation 21A",
       fr: "Opaskwayak Cree Nation 21A",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23055,6 +26099,7 @@ export const rates = [
       en: "Opaskwayak Cree Nation 21B",
       fr: "Opaskwayak Cree Nation 21B",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23063,6 +26108,7 @@ export const rates = [
       en: "Opaskwayak Cree Nation 21C",
       fr: "Opaskwayak Cree Nation 21C",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23071,6 +26117,7 @@ export const rates = [
       en: "Opaskwayak Cree Nation 21D",
       fr: "Opaskwayak Cree Nation 21D",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23079,6 +26126,7 @@ export const rates = [
       en: "Opaskwayak Cree Nation 21N",
       fr: "Opaskwayak Cree Nation 21N",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23087,6 +26135,7 @@ export const rates = [
       en: "Opaskwayak Cree Nation 21I",
       fr: "Opaskwayak Cree Nation 21I",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23095,6 +26144,7 @@ export const rates = [
       en: "Opaskwayak Cree Nation 21E",
       fr: "Opaskwayak Cree Nation 21E",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23103,6 +26153,7 @@ export const rates = [
       en: "The Pas",
       fr: "The Pas",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23111,6 +26162,7 @@ export const rates = [
       en: "Kelsey",
       fr: "Kelsey",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23119,6 +26171,7 @@ export const rates = [
       en: "Moose Lake 31A",
       fr: "Moose Lake 31A",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23127,6 +26180,7 @@ export const rates = [
       en: "Moose Lake 31G",
       fr: "Moose Lake 31G",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23135,6 +26189,7 @@ export const rates = [
       en: "Flin Flon (Part)",
       fr: "Flin Flon (Part)",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23143,6 +26198,7 @@ export const rates = [
       en: "Snow Lake",
       fr: "Snow Lake",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23151,6 +26207,7 @@ export const rates = [
       en: "Division No. 21, Unorganized",
       fr: "Division No. 21, Unorganized",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23159,6 +26216,7 @@ export const rates = [
       en: "Moose Lake 31D",
       fr: "Moose Lake 31D",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23167,6 +26225,7 @@ export const rates = [
       en: "Mystery Lake",
       fr: "Mystery Lake",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23175,6 +26234,7 @@ export const rates = [
       en: "Thompson",
       fr: "Thompson",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23183,6 +26243,7 @@ export const rates = [
       en: "Red Sucker Lake 1976A",
       fr: "Red Sucker Lake 1976A",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23191,6 +26252,7 @@ export const rates = [
       en: "Division No. 22, Unorganized",
       fr: "Division No. 22, Unorganized",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23199,6 +26261,7 @@ export const rates = [
       en: "Garden Hill First Nation",
       fr: "Garden Hill First Nation",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23207,6 +26270,7 @@ export const rates = [
       en: "God's Lake 23",
       fr: "God's Lake 23",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23215,6 +26279,7 @@ export const rates = [
       en: "Oxford House 24",
       fr: "Oxford House 24",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23223,6 +26288,7 @@ export const rates = [
       en: "Cross Lake 19",
       fr: "Cross Lake 19",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23231,6 +26297,7 @@ export const rates = [
       en: "Cross Lake 19A",
       fr: "Cross Lake 19A",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23239,6 +26306,7 @@ export const rates = [
       en: "God's River 86A",
       fr: "God's River 86A",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23247,6 +26315,7 @@ export const rates = [
       en: "Red Sucker Lake 1976",
       fr: "Red Sucker Lake 1976",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23255,6 +26324,7 @@ export const rates = [
       en: "Norway House 17",
       fr: "Norway House 17",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23263,6 +26333,7 @@ export const rates = [
       en: "Nelson House 170",
       fr: "Nelson House 170",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23271,6 +26342,7 @@ export const rates = [
       en: "Split Lake 171",
       fr: "Split Lake 171",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23279,6 +26351,7 @@ export const rates = [
       en: "Ilford",
       fr: "Ilford",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23287,6 +26360,7 @@ export const rates = [
       en: "York Landing",
       fr: "York Landing",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23295,6 +26369,7 @@ export const rates = [
       en: "Mooseocoot 4",
       fr: "Mooseocoot 4",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23303,6 +26378,7 @@ export const rates = [
       en: "Cross Lake 19E",
       fr: "Cross Lake 19E",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23311,6 +26387,7 @@ export const rates = [
       en: "Wasagamack",
       fr: "Wasagamack",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23319,6 +26396,7 @@ export const rates = [
       en: "St. Theresa Point",
       fr: "St. Theresa Point",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23327,6 +26405,7 @@ export const rates = [
       en: "Mooseocoot",
       fr: "Mooseocoot",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23335,6 +26414,7 @@ export const rates = [
       en: "Gillam",
       fr: "Gillam",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23343,6 +26423,7 @@ export const rates = [
       en: "A Kwis Ki Mahka",
       fr: "A Kwis Ki Mahka",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23351,6 +26432,7 @@ export const rates = [
       en: "Fox Lake 2",
       fr: "Fox Lake 2",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23359,6 +26441,7 @@ export const rates = [
       en: "Leaf Rapids",
       fr: "Leaf Rapids",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23367,6 +26450,7 @@ export const rates = [
       en: "South Indian Lake",
       fr: "South Indian Lake",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23375,6 +26459,7 @@ export const rates = [
       en: "Granville Lake",
       fr: "Granville Lake",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23383,6 +26468,7 @@ export const rates = [
       en: "O-Pipon-Na-Piwin Cree Nation 1",
       fr: "O-Pipon-Na-Piwin Cree Nation 1",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23391,6 +26477,7 @@ export const rates = [
       en: "Lynn Lake",
       fr: "Lynn Lake",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23399,6 +26486,7 @@ export const rates = [
       en: "Churchill",
       fr: "Churchill",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23407,6 +26495,7 @@ export const rates = [
       en: "Churchill 1",
       fr: "Churchill 1",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23415,6 +26504,7 @@ export const rates = [
       en: "Division No. 23, Unorganized",
       fr: "Division No. 23, Unorganized",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23423,6 +26513,7 @@ export const rates = [
       en: "Pukatawagan 198",
       fr: "Pukatawagan 198",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23431,6 +26522,7 @@ export const rates = [
       en: "Brochet 197",
       fr: "Brochet 197",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23439,6 +26531,7 @@ export const rates = [
       en: "Lac Brochet 197A",
       fr: "Lac Brochet 197A",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23447,6 +26540,7 @@ export const rates = [
       en: "Shamattawa 1",
       fr: "Shamattawa 1",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23455,6 +26549,7 @@ export const rates = [
       en: "Black Sturgeon",
       fr: "Black Sturgeon",
     },
+    province: "MB",
     rates: [],
   },
   {
@@ -23463,6 +26558,7 @@ export const rates = [
       en: "Argyle No. 1",
       fr: "Argyle No. 1",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23471,6 +26567,7 @@ export const rates = [
       en: "Gainsborough",
       fr: "Gainsborough",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23479,6 +26576,7 @@ export const rates = [
       en: "Carievale",
       fr: "Carievale",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23487,6 +26585,7 @@ export const rates = [
       en: "Mount Pleasant No. 2",
       fr: "Mount Pleasant No. 2",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23495,6 +26594,7 @@ export const rates = [
       en: "Carnduff",
       fr: "Carnduff",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23503,6 +26603,7 @@ export const rates = [
       en: "Enniskillen No. 3",
       fr: "Enniskillen No. 3",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23511,6 +26612,7 @@ export const rates = [
       en: "Glen Ewen",
       fr: "Glen Ewen",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23519,6 +26621,7 @@ export const rates = [
       en: "Oxbow",
       fr: "Oxbow",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23527,6 +26630,7 @@ export const rates = [
       en: "Coalfields No. 4",
       fr: "Coalfields No. 4",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23535,6 +26639,7 @@ export const rates = [
       en: "Frobisher",
       fr: "Frobisher",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23543,6 +26648,7 @@ export const rates = [
       en: "North Portal",
       fr: "North Portal",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23551,6 +26657,7 @@ export const rates = [
       en: "Roche Percée",
       fr: "Roche Percée",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23559,6 +26666,7 @@ export const rates = [
       en: "Bienfait",
       fr: "Bienfait",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23567,6 +26675,7 @@ export const rates = [
       en: "Estevan No. 5",
       fr: "Estevan No. 5",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23575,6 +26684,7 @@ export const rates = [
       en: "Estevan",
       fr: "Estevan",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23583,6 +26693,7 @@ export const rates = [
       en: "Benson No. 35",
       fr: "Benson No. 35",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23591,6 +26702,7 @@ export const rates = [
       en: "Browning No. 34",
       fr: "Browning No. 34",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23599,6 +26711,7 @@ export const rates = [
       en: "Lampman",
       fr: "Lampman",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23607,6 +26720,7 @@ export const rates = [
       en: "Moose Creek No. 33",
       fr: "Moose Creek No. 33",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23615,6 +26729,7 @@ export const rates = [
       en: "Alameda",
       fr: "Alameda",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23623,6 +26738,7 @@ export const rates = [
       en: "Reciprocity No. 32",
       fr: "Reciprocity No. 32",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23631,6 +26747,7 @@ export const rates = [
       en: "Alida",
       fr: "Alida",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23639,6 +26756,7 @@ export const rates = [
       en: "Storthoaks No. 31",
       fr: "Storthoaks No. 31",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23647,6 +26765,7 @@ export const rates = [
       en: "Storthoaks",
       fr: "Storthoaks",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23655,6 +26774,7 @@ export const rates = [
       en: "Antler No. 61",
       fr: "Antler No. 61",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23663,6 +26783,7 @@ export const rates = [
       en: "Redvers",
       fr: "Redvers",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23671,6 +26792,7 @@ export const rates = [
       en: "Moose Mountain No. 63",
       fr: "Moose Mountain No. 63",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23679,6 +26801,7 @@ export const rates = [
       en: "Manor",
       fr: "Manor",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23687,6 +26810,7 @@ export const rates = [
       en: "Carlyle",
       fr: "Carlyle",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23695,6 +26819,7 @@ export const rates = [
       en: "Brock No. 64",
       fr: "Brock No. 64",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23703,6 +26828,7 @@ export const rates = [
       en: "Arcola",
       fr: "Arcola",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23711,6 +26837,7 @@ export const rates = [
       en: "Kisbey",
       fr: "Kisbey",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23719,6 +26846,7 @@ export const rates = [
       en: "Tecumseh No. 65",
       fr: "Tecumseh No. 65",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23727,6 +26855,7 @@ export const rates = [
       en: "Forget",
       fr: "Forget",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23735,6 +26864,7 @@ export const rates = [
       en: "Stoughton",
       fr: "Stoughton",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23743,6 +26873,7 @@ export const rates = [
       en: "Heward",
       fr: "Heward",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23751,6 +26882,7 @@ export const rates = [
       en: "Golden West No. 95",
       fr: "Golden West No. 95",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23759,6 +26891,7 @@ export const rates = [
       en: "Hazelwood No. 94",
       fr: "Hazelwood No. 94",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23767,6 +26900,7 @@ export const rates = [
       en: "Wawken No. 93",
       fr: "Wawken No. 93",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23775,6 +26909,7 @@ export const rates = [
       en: "Kennedy",
       fr: "Kennedy",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23783,6 +26918,7 @@ export const rates = [
       en: "Wawota",
       fr: "Wawota",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23791,6 +26927,7 @@ export const rates = [
       en: "Kenosee Lake",
       fr: "Kenosee Lake",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23799,6 +26936,7 @@ export const rates = [
       en: "Walpole No. 92",
       fr: "Walpole No. 92",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23807,6 +26945,7 @@ export const rates = [
       en: "Maryfield No. 91",
       fr: "Maryfield No. 91",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23815,6 +26954,7 @@ export const rates = [
       en: "Maryfield",
       fr: "Maryfield",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23823,6 +26963,7 @@ export const rates = [
       en: "Fairlight",
       fr: "Fairlight",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23831,6 +26972,7 @@ export const rates = [
       en: "White Bear 70",
       fr: "White Bear 70",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23839,6 +26981,7 @@ export const rates = [
       en: "Ocean Man 69",
       fr: "Ocean Man 69",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23847,6 +26990,7 @@ export const rates = [
       en: "Ocean Man 69A",
       fr: "Ocean Man 69A",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23855,6 +26999,7 @@ export const rates = [
       en: "Ocean Man 69C",
       fr: "Ocean Man 69C",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23863,6 +27008,7 @@ export const rates = [
       en: "Ocean Man 69E",
       fr: "Ocean Man 69E",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23871,6 +27017,7 @@ export const rates = [
       en: "Ocean Man 69F",
       fr: "Ocean Man 69F",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23879,6 +27026,7 @@ export const rates = [
       en: "Ocean Man 69G",
       fr: "Ocean Man 69G",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23887,6 +27035,7 @@ export const rates = [
       en: "Ocean Man 69I",
       fr: "Ocean Man 69I",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23895,6 +27044,7 @@ export const rates = [
       en: "Ocean Man 69H",
       fr: "Ocean Man 69H",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23903,6 +27053,7 @@ export const rates = [
       en: "Ocean Man 69D",
       fr: "Ocean Man 69D",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23911,6 +27062,7 @@ export const rates = [
       en: "Pheasant Rump Nakota 68",
       fr: "Pheasant Rump Nakota 68",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23919,6 +27071,7 @@ export const rates = [
       en: "Cambria No. 6",
       fr: "Cambria No. 6",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23927,6 +27080,7 @@ export const rates = [
       en: "Torquay",
       fr: "Torquay",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23935,6 +27089,7 @@ export const rates = [
       en: "Souris Valley No. 7",
       fr: "Souris Valley No. 7",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23943,6 +27098,7 @@ export const rates = [
       en: "Tribune",
       fr: "Tribune",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23951,6 +27107,7 @@ export const rates = [
       en: "Lake Alma No. 8",
       fr: "Lake Alma No. 8",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23959,6 +27116,7 @@ export const rates = [
       en: "Surprise Valley No. 9",
       fr: "Surprise Valley No. 9",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23967,6 +27125,7 @@ export const rates = [
       en: "Minton",
       fr: "Minton",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23975,6 +27134,7 @@ export const rates = [
       en: "Happy Valley No. 10",
       fr: "Happy Valley No. 10",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23983,6 +27143,7 @@ export const rates = [
       en: "Bengough",
       fr: "Bengough",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23991,6 +27152,7 @@ export const rates = [
       en: "Bengough No. 40",
       fr: "Bengough No. 40",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -23999,6 +27161,7 @@ export const rates = [
       en: "The Gap No. 39",
       fr: "The Gap No. 39",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24007,6 +27170,7 @@ export const rates = [
       en: "Ceylon",
       fr: "Ceylon",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24015,6 +27179,7 @@ export const rates = [
       en: "Laurier No. 38",
       fr: "Laurier No. 38",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24023,6 +27188,7 @@ export const rates = [
       en: "Radville",
       fr: "Radville",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24031,6 +27197,7 @@ export const rates = [
       en: "Lomond No. 37",
       fr: "Lomond No. 37",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24039,6 +27206,7 @@ export const rates = [
       en: "Goodwater",
       fr: "Goodwater",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24047,6 +27215,7 @@ export const rates = [
       en: "Cymri No. 36",
       fr: "Cymri No. 36",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24055,6 +27224,7 @@ export const rates = [
       en: "Halbrite",
       fr: "Halbrite",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24063,6 +27233,7 @@ export const rates = [
       en: "Midale",
       fr: "Midale",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24071,6 +27242,7 @@ export const rates = [
       en: "Macoun",
       fr: "Macoun",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24079,6 +27251,7 @@ export const rates = [
       en: "Griffin No. 66",
       fr: "Griffin No. 66",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24087,6 +27260,7 @@ export const rates = [
       en: "Weyburn No. 67",
       fr: "Weyburn No. 67",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24095,6 +27269,7 @@ export const rates = [
       en: "Weyburn",
       fr: "Weyburn",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24103,6 +27278,7 @@ export const rates = [
       en: "McTaggart",
       fr: "McTaggart",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24111,6 +27287,7 @@ export const rates = [
       en: "Brokenshell No. 68",
       fr: "Brokenshell No. 68",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24119,6 +27296,7 @@ export const rates = [
       en: "Norton No. 69",
       fr: "Norton No. 69",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24127,6 +27305,7 @@ export const rates = [
       en: "Pangman",
       fr: "Pangman",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24135,6 +27314,7 @@ export const rates = [
       en: "Key West No. 70",
       fr: "Key West No. 70",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24143,6 +27323,7 @@ export const rates = [
       en: "Ogema",
       fr: "Ogema",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24151,6 +27332,7 @@ export const rates = [
       en: "Elmsthorpe No. 100",
       fr: "Elmsthorpe No. 100",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24159,6 +27341,7 @@ export const rates = [
       en: "Avonlea",
       fr: "Avonlea",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24167,6 +27350,7 @@ export const rates = [
       en: "Caledonia No. 99",
       fr: "Caledonia No. 99",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24175,6 +27359,7 @@ export const rates = [
       en: "Milestone",
       fr: "Milestone",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24183,6 +27368,7 @@ export const rates = [
       en: "Scott No. 98",
       fr: "Scott No. 98",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24191,6 +27377,7 @@ export const rates = [
       en: "Lang",
       fr: "Lang",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24199,6 +27386,7 @@ export const rates = [
       en: "Yellow Grass",
       fr: "Yellow Grass",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24207,6 +27395,7 @@ export const rates = [
       en: "Wellington No. 97",
       fr: "Wellington No. 97",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24215,6 +27404,7 @@ export const rates = [
       en: "Fillmore No. 96",
       fr: "Fillmore No. 96",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24223,6 +27413,7 @@ export const rates = [
       en: "Osage",
       fr: "Osage",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24231,6 +27422,7 @@ export const rates = [
       en: "Fillmore",
       fr: "Fillmore",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24239,6 +27431,7 @@ export const rates = [
       en: "Creelman",
       fr: "Creelman",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24247,6 +27440,7 @@ export const rates = [
       en: "Hart Butte No. 11",
       fr: "Hart Butte No. 11",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24255,6 +27449,7 @@ export const rates = [
       en: "Coronach",
       fr: "Coronach",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24263,6 +27458,7 @@ export const rates = [
       en: "Poplar Valley No. 12",
       fr: "Poplar Valley No. 12",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24271,6 +27467,7 @@ export const rates = [
       en: "Rockglen",
       fr: "Rockglen",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24279,6 +27476,7 @@ export const rates = [
       en: "Old Post No. 43",
       fr: "Old Post No. 43",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24287,6 +27485,7 @@ export const rates = [
       en: "Wood Mountain",
       fr: "Wood Mountain",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24295,6 +27494,7 @@ export const rates = [
       en: "Glen McPherson No. 46",
       fr: "Glen McPherson No. 46",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24303,6 +27503,7 @@ export const rates = [
       en: "Mankota No. 45",
       fr: "Mankota No. 45",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24311,6 +27512,7 @@ export const rates = [
       en: "Mankota",
       fr: "Mankota",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24319,6 +27521,7 @@ export const rates = [
       en: "Waverley No. 44",
       fr: "Waverley No. 44",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24327,6 +27530,7 @@ export const rates = [
       en: "Willow Bunch No. 42",
       fr: "Willow Bunch No. 42",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24335,6 +27539,7 @@ export const rates = [
       en: "Willow Bunch",
       fr: "Willow Bunch",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24343,6 +27548,7 @@ export const rates = [
       en: "Excel No. 71",
       fr: "Excel No. 71",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24351,6 +27557,7 @@ export const rates = [
       en: "Lake of the Rivers No. 72",
       fr: "Lake of the Rivers No. 72",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24359,6 +27566,7 @@ export const rates = [
       en: "Assiniboia",
       fr: "Assiniboia",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24367,6 +27575,7 @@ export const rates = [
       en: "Stonehenge No. 73",
       fr: "Stonehenge No. 73",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24375,6 +27584,7 @@ export const rates = [
       en: "Limerick",
       fr: "Limerick",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24383,6 +27593,7 @@ export const rates = [
       en: "Wood River No. 74",
       fr: "Wood River No. 74",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24391,6 +27602,7 @@ export const rates = [
       en: "Lafleche",
       fr: "Lafleche",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24399,6 +27611,7 @@ export const rates = [
       en: "Pinto Creek No. 75",
       fr: "Pinto Creek No. 75",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24407,6 +27620,7 @@ export const rates = [
       en: "Kincaid",
       fr: "Kincaid",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24415,6 +27629,7 @@ export const rates = [
       en: "Hazenmore",
       fr: "Hazenmore",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24423,6 +27638,7 @@ export const rates = [
       en: "Auvergne No. 76",
       fr: "Auvergne No. 76",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24431,6 +27647,7 @@ export const rates = [
       en: "Ponteix",
       fr: "Ponteix",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24439,6 +27656,7 @@ export const rates = [
       en: "Whiska Creek No. 106",
       fr: "Whiska Creek No. 106",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24447,6 +27665,7 @@ export const rates = [
       en: "Neville",
       fr: "Neville",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24455,6 +27674,7 @@ export const rates = [
       en: "Vanguard",
       fr: "Vanguard",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24463,6 +27683,7 @@ export const rates = [
       en: "Glen Bain No. 105",
       fr: "Glen Bain No. 105",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24471,6 +27692,7 @@ export const rates = [
       en: "Gravelbourg No. 104",
       fr: "Gravelbourg No. 104",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24479,6 +27701,7 @@ export const rates = [
       en: "Gravelbourg",
       fr: "Gravelbourg",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24487,6 +27710,7 @@ export const rates = [
       en: "Sutton No. 103",
       fr: "Sutton No. 103",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24495,6 +27719,7 @@ export const rates = [
       en: "Mossbank",
       fr: "Mossbank",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24503,6 +27728,7 @@ export const rates = [
       en: "Lake Johnston No. 102",
       fr: "Lake Johnston No. 102",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24511,6 +27737,7 @@ export const rates = [
       en: "Terrell No. 101",
       fr: "Terrell No. 101",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24519,6 +27746,7 @@ export const rates = [
       en: "Wood Mountain 160",
       fr: "Wood Mountain 160",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24527,6 +27755,7 @@ export const rates = [
       en: "Val Marie",
       fr: "Val Marie",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24535,6 +27764,7 @@ export const rates = [
       en: "Val Marie No. 17",
       fr: "Val Marie No. 17",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24543,6 +27773,7 @@ export const rates = [
       en: "Lone Tree No. 18",
       fr: "Lone Tree No. 18",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24551,6 +27782,7 @@ export const rates = [
       en: "Bracken",
       fr: "Bracken",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24559,6 +27791,7 @@ export const rates = [
       en: "Climax",
       fr: "Climax",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24567,6 +27800,7 @@ export const rates = [
       en: "Frontier No. 19",
       fr: "Frontier No. 19",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24575,6 +27809,7 @@ export const rates = [
       en: "Frontier",
       fr: "Frontier",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24583,6 +27818,7 @@ export const rates = [
       en: "Reno No. 51",
       fr: "Reno No. 51",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24591,6 +27827,7 @@ export const rates = [
       en: "Consul",
       fr: "Consul",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24599,6 +27836,7 @@ export const rates = [
       en: "White Valley No. 49",
       fr: "White Valley No. 49",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24607,6 +27845,7 @@ export const rates = [
       en: "Eastend",
       fr: "Eastend",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24615,6 +27854,7 @@ export const rates = [
       en: "Wise Creek No. 77",
       fr: "Wise Creek No. 77",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24623,6 +27863,7 @@ export const rates = [
       en: "Cadillac",
       fr: "Cadillac",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24631,6 +27872,7 @@ export const rates = [
       en: "Grassy Creek No. 78",
       fr: "Grassy Creek No. 78",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24639,6 +27881,7 @@ export const rates = [
       en: "Shaunavon",
       fr: "Shaunavon",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24647,6 +27890,7 @@ export const rates = [
       en: "Arlington No. 79",
       fr: "Arlington No. 79",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24655,6 +27899,7 @@ export const rates = [
       en: "Maple Creek No. 111",
       fr: "Maple Creek No. 111",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24663,6 +27908,7 @@ export const rates = [
       en: "Maple Creek",
       fr: "Maple Creek",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24671,6 +27917,7 @@ export const rates = [
       en: "Piapot No. 110",
       fr: "Piapot No. 110",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24679,6 +27926,7 @@ export const rates = [
       en: "Carmichael No. 109",
       fr: "Carmichael No. 109",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24687,6 +27935,7 @@ export const rates = [
       en: "Bone Creek No. 108",
       fr: "Bone Creek No. 108",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24695,6 +27944,7 @@ export const rates = [
       en: "Lac Pelletier No. 107",
       fr: "Lac Pelletier No. 107",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24703,6 +27953,7 @@ export const rates = [
       en: "Nekaneet Cree Nation",
       fr: "Nekaneet Cree Nation",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24711,6 +27962,7 @@ export const rates = [
       en: "Moosomin No. 121",
       fr: "Moosomin No. 121",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24719,6 +27971,7 @@ export const rates = [
       en: "Fleming",
       fr: "Fleming",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24727,6 +27980,7 @@ export const rates = [
       en: "Moosomin",
       fr: "Moosomin",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24735,6 +27989,7 @@ export const rates = [
       en: "Martin No. 122",
       fr: "Martin No. 122",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24743,6 +27998,7 @@ export const rates = [
       en: "Wapella",
       fr: "Wapella",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24751,6 +28007,7 @@ export const rates = [
       en: "Silverwood No. 123",
       fr: "Silverwood No. 123",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24759,6 +28016,7 @@ export const rates = [
       en: "Kingsley No. 124",
       fr: "Kingsley No. 124",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24767,6 +28025,7 @@ export const rates = [
       en: "Kipling",
       fr: "Kipling",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24775,6 +28034,7 @@ export const rates = [
       en: "Chester No. 125",
       fr: "Chester No. 125",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24783,6 +28043,7 @@ export const rates = [
       en: "Windthorst",
       fr: "Windthorst",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24791,6 +28052,7 @@ export const rates = [
       en: "Glenavon",
       fr: "Glenavon",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24799,6 +28061,7 @@ export const rates = [
       en: "Wolseley",
       fr: "Wolseley",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24807,6 +28070,7 @@ export const rates = [
       en: "Wolseley No. 155",
       fr: "Wolseley No. 155",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24815,6 +28079,7 @@ export const rates = [
       en: "Elcapo No. 154",
       fr: "Elcapo No. 154",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24823,6 +28088,7 @@ export const rates = [
       en: "Grenfell",
       fr: "Grenfell",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24831,6 +28097,7 @@ export const rates = [
       en: "Broadview",
       fr: "Broadview",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24839,6 +28106,7 @@ export const rates = [
       en: "Willowdale No. 153",
       fr: "Willowdale No. 153",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24847,6 +28115,7 @@ export const rates = [
       en: "Whitewood",
       fr: "Whitewood",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24855,6 +28124,7 @@ export const rates = [
       en: "Rocanville No. 151",
       fr: "Rocanville No. 151",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24863,6 +28133,7 @@ export const rates = [
       en: "Rocanville",
       fr: "Rocanville",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24871,6 +28142,7 @@ export const rates = [
       en: "Spy Hill No. 152",
       fr: "Spy Hill No. 152",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24879,6 +28151,7 @@ export const rates = [
       en: "Tantallon",
       fr: "Tantallon",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24887,6 +28160,7 @@ export const rates = [
       en: "Spy Hill",
       fr: "Spy Hill",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24895,6 +28169,7 @@ export const rates = [
       en: "Gerald",
       fr: "Gerald",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24903,6 +28178,7 @@ export const rates = [
       en: "Langenburg No. 181",
       fr: "Langenburg No. 181",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24911,6 +28187,7 @@ export const rates = [
       en: "Langenburg",
       fr: "Langenburg",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24919,6 +28196,7 @@ export const rates = [
       en: "Yarbo",
       fr: "Yarbo",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24927,6 +28205,7 @@ export const rates = [
       en: "West End",
       fr: "West End",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24935,6 +28214,7 @@ export const rates = [
       en: "Fertile Belt No. 183",
       fr: "Fertile Belt No. 183",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24943,6 +28223,7 @@ export const rates = [
       en: "Esterhazy",
       fr: "Esterhazy",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24951,6 +28232,7 @@ export const rates = [
       en: "Atwater",
       fr: "Atwater",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24959,6 +28241,7 @@ export const rates = [
       en: "Bangor",
       fr: "Bangor",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24967,6 +28250,7 @@ export const rates = [
       en: "Bird's Point",
       fr: "Bird's Point",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24975,6 +28259,7 @@ export const rates = [
       en: "Stockholm",
       fr: "Stockholm",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24983,6 +28268,7 @@ export const rates = [
       en: "Grayson No. 184",
       fr: "Grayson No. 184",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24991,6 +28277,7 @@ export const rates = [
       en: "Dubuc",
       fr: "Dubuc",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -24999,6 +28286,7 @@ export const rates = [
       en: "Grayson",
       fr: "Grayson",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25007,6 +28295,7 @@ export const rates = [
       en: "Melville Beach",
       fr: "Melville Beach",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25015,6 +28304,7 @@ export const rates = [
       en: "Waldron",
       fr: "Waldron",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25023,6 +28313,7 @@ export const rates = [
       en: "Killaly",
       fr: "Killaly",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25031,6 +28322,7 @@ export const rates = [
       en: "McLeod No. 185",
       fr: "McLeod No. 185",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25039,6 +28331,7 @@ export const rates = [
       en: "Neudorf",
       fr: "Neudorf",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25047,6 +28340,7 @@ export const rates = [
       en: "Lemberg",
       fr: "Lemberg",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25055,6 +28349,7 @@ export const rates = [
       en: "Stanley No. 215",
       fr: "Stanley No. 215",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25063,6 +28358,7 @@ export const rates = [
       en: "Duff",
       fr: "Duff",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25071,6 +28367,7 @@ export const rates = [
       en: "Goodeve",
       fr: "Goodeve",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25079,6 +28376,7 @@ export const rates = [
       en: "Fenwood",
       fr: "Fenwood",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25087,6 +28385,7 @@ export const rates = [
       en: "Cana No. 214",
       fr: "Cana No. 214",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25095,6 +28394,7 @@ export const rates = [
       en: "Melville",
       fr: "Melville",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25103,6 +28403,7 @@ export const rates = [
       en: "Saltcoats No. 213",
       fr: "Saltcoats No. 213",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25111,6 +28412,7 @@ export const rates = [
       en: "Saltcoats",
       fr: "Saltcoats",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25119,6 +28421,7 @@ export const rates = [
       en: "Bredenbury",
       fr: "Bredenbury",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25127,6 +28430,7 @@ export const rates = [
       en: "Churchbridge No. 211",
       fr: "Churchbridge No. 211",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25135,6 +28439,7 @@ export const rates = [
       en: "Churchbridge",
       fr: "Churchbridge",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25143,6 +28448,7 @@ export const rates = [
       en: "MacNutt",
       fr: "MacNutt",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25151,6 +28457,7 @@ export const rates = [
       en: "Cowessess 73",
       fr: "Cowessess 73",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25159,6 +28466,7 @@ export const rates = [
       en: "Kahkewistahaw 72",
       fr: "Kahkewistahaw 72",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25167,6 +28475,7 @@ export const rates = [
       en: "Sakimay 74",
       fr: "Sakimay 74",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25175,6 +28484,7 @@ export const rates = [
       en: "Ochapowace 71",
       fr: "Ochapowace 71",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25183,6 +28493,7 @@ export const rates = [
       en: "Shesheep 74A",
       fr: "Shesheep 74A",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25191,6 +28502,7 @@ export const rates = [
       en: "Little Bone 74B",
       fr: "Little Bone 74B",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25199,6 +28511,7 @@ export const rates = [
       en: "Ochapowace 71-10",
       fr: "Ochapowace 71-10",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25207,6 +28520,7 @@ export const rates = [
       en: "Kahkewistahaw No. 72-W",
       fr: "Kahkewistahaw No. 72-W",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25215,6 +28529,7 @@ export const rates = [
       en: "Ochapowace 71-54",
       fr: "Ochapowace 71-54",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25223,6 +28538,7 @@ export const rates = [
       en: "Ochapowace 71-7",
       fr: "Ochapowace 71-7",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25231,6 +28547,7 @@ export const rates = [
       en: "Ochapowace 71-18",
       fr: "Ochapowace 71-18",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25239,6 +28556,7 @@ export const rates = [
       en: "Kahkewistahaw No. 72-Q",
       fr: "Kahkewistahaw No. 72-Q",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25247,6 +28565,7 @@ export const rates = [
       en: "Montmartre No. 126",
       fr: "Montmartre No. 126",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25255,6 +28574,7 @@ export const rates = [
       en: "Montmartre",
       fr: "Montmartre",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25263,6 +28583,7 @@ export const rates = [
       en: "Kendal",
       fr: "Kendal",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25271,6 +28592,7 @@ export const rates = [
       en: "Francis No. 127",
       fr: "Francis No. 127",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25279,6 +28601,7 @@ export const rates = [
       en: "Odessa",
       fr: "Odessa",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25287,6 +28610,7 @@ export const rates = [
       en: "Vibank",
       fr: "Vibank",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25295,6 +28619,7 @@ export const rates = [
       en: "Sedley",
       fr: "Sedley",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25303,6 +28628,7 @@ export const rates = [
       en: "Francis",
       fr: "Francis",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25311,6 +28637,7 @@ export const rates = [
       en: "Lajord No. 128",
       fr: "Lajord No. 128",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25319,6 +28646,7 @@ export const rates = [
       en: "Bratt's Lake No. 129",
       fr: "Bratt's Lake No. 129",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25327,6 +28655,7 @@ export const rates = [
       en: "Wilcox",
       fr: "Wilcox",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25335,6 +28664,7 @@ export const rates = [
       en: "Redburn No. 130",
       fr: "Redburn No. 130",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25343,6 +28673,7 @@ export const rates = [
       en: "Rouleau",
       fr: "Rouleau",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25351,6 +28682,7 @@ export const rates = [
       en: "Briercrest",
       fr: "Briercrest",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25359,6 +28691,7 @@ export const rates = [
       en: "Drinkwater",
       fr: "Drinkwater",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25367,6 +28700,7 @@ export const rates = [
       en: "Pense No. 160",
       fr: "Pense No. 160",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25375,6 +28709,7 @@ export const rates = [
       en: "Belle Plaine",
       fr: "Belle Plaine",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25383,6 +28718,7 @@ export const rates = [
       en: "Pense",
       fr: "Pense",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25391,6 +28727,7 @@ export const rates = [
       en: "Sherwood No. 159",
       fr: "Sherwood No. 159",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25399,6 +28736,7 @@ export const rates = [
       en: "Regina",
       fr: "Regina",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25407,6 +28745,7 @@ export const rates = [
       en: "Grand Coulee",
       fr: "Grand Coulee",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25415,6 +28754,7 @@ export const rates = [
       en: "Edenwold No. 158",
       fr: "Edenwold No. 158",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25423,6 +28763,7 @@ export const rates = [
       en: "White City",
       fr: "White City",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25431,6 +28772,7 @@ export const rates = [
       en: "Pilot Butte",
       fr: "Pilot Butte",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25439,6 +28781,7 @@ export const rates = [
       en: "Balgonie",
       fr: "Balgonie",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25447,6 +28790,7 @@ export const rates = [
       en: "Edenwold",
       fr: "Edenwold",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25455,6 +28799,7 @@ export const rates = [
       en: "South Qu'Appelle No. 157",
       fr: "South Qu'Appelle No. 157",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25463,6 +28808,7 @@ export const rates = [
       en: "Qu'Appelle",
       fr: "Qu'Appelle",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25471,6 +28817,7 @@ export const rates = [
       en: "McLean",
       fr: "McLean",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25479,6 +28826,7 @@ export const rates = [
       en: "Indian Head No. 156",
       fr: "Indian Head No. 156",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25487,6 +28835,7 @@ export const rates = [
       en: "Indian Head",
       fr: "Indian Head",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25495,6 +28844,7 @@ export const rates = [
       en: "Sintaluta",
       fr: "Sintaluta",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25503,6 +28853,7 @@ export const rates = [
       en: "Abernethy No. 186",
       fr: "Abernethy No. 186",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25511,6 +28862,7 @@ export const rates = [
       en: "Fort San",
       fr: "Fort San",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25519,6 +28871,7 @@ export const rates = [
       en: "Abernethy",
       fr: "Abernethy",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25527,6 +28880,7 @@ export const rates = [
       en: "Balcarres",
       fr: "Balcarres",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25535,6 +28889,7 @@ export const rates = [
       en: "North Qu'Appelle No. 187",
       fr: "North Qu'Appelle No. 187",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25543,6 +28898,7 @@ export const rates = [
       en: "Lebret",
       fr: "Lebret",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25551,6 +28907,7 @@ export const rates = [
       en: "Katepwa",
       fr: "Katepwa",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25559,6 +28916,7 @@ export const rates = [
       en: "Fort Qu'Appelle",
       fr: "Fort Qu'Appelle",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25567,6 +28925,7 @@ export const rates = [
       en: "B-Say-Tah",
       fr: "B-Say-Tah",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25575,6 +28934,7 @@ export const rates = [
       en: "Lumsden No. 189",
       fr: "Lumsden No. 189",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25583,6 +28943,7 @@ export const rates = [
       en: "Disley",
       fr: "Disley",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25591,6 +28952,7 @@ export const rates = [
       en: "Buena Vista",
       fr: "Buena Vista",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25599,6 +28961,7 @@ export const rates = [
       en: "Lumsden",
       fr: "Lumsden",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25607,6 +28970,7 @@ export const rates = [
       en: "Lumsden Beach",
       fr: "Lumsden Beach",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25615,6 +28979,7 @@ export const rates = [
       en: "Regina Beach",
       fr: "Regina Beach",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25623,6 +28988,7 @@ export const rates = [
       en: "Dufferin No. 190",
       fr: "Dufferin No. 190",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25631,6 +28997,7 @@ export const rates = [
       en: "Wee Too Beach",
       fr: "Wee Too Beach",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25639,6 +29006,7 @@ export const rates = [
       en: "Bethune",
       fr: "Bethune",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25647,6 +29015,7 @@ export const rates = [
       en: "Findlater",
       fr: "Findlater",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25655,6 +29024,7 @@ export const rates = [
       en: "Sarnia No. 221",
       fr: "Sarnia No. 221",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25663,6 +29033,7 @@ export const rates = [
       en: "Chamberlain",
       fr: "Chamberlain",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25671,6 +29042,7 @@ export const rates = [
       en: "Alice Beach",
       fr: "Alice Beach",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25679,6 +29051,7 @@ export const rates = [
       en: "Holdfast",
       fr: "Holdfast",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25687,6 +29060,7 @@ export const rates = [
       en: "Dilke",
       fr: "Dilke",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25695,6 +29069,7 @@ export const rates = [
       en: "Grandview Beach",
       fr: "Grandview Beach",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25703,6 +29078,7 @@ export const rates = [
       en: "Longlaketon No. 219",
       fr: "Longlaketon No. 219",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25711,6 +29087,7 @@ export const rates = [
       en: "McKillop No. 220",
       fr: "McKillop No. 220",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25719,6 +29096,7 @@ export const rates = [
       en: "Saskatchewan Beach",
       fr: "Saskatchewan Beach",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25727,6 +29105,7 @@ export const rates = [
       en: "Bulyea",
       fr: "Bulyea",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25735,6 +29114,7 @@ export const rates = [
       en: "Strasbourg",
       fr: "Strasbourg",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25743,6 +29123,7 @@ export const rates = [
       en: "Kannata Valley",
       fr: "Kannata Valley",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25751,6 +29132,7 @@ export const rates = [
       en: "Sunset Cove",
       fr: "Sunset Cove",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25759,6 +29141,7 @@ export const rates = [
       en: "Silton",
       fr: "Silton",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25767,6 +29150,7 @@ export const rates = [
       en: "Craven",
       fr: "Craven",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25775,6 +29159,7 @@ export const rates = [
       en: "Earl Grey",
       fr: "Earl Grey",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25783,6 +29168,7 @@ export const rates = [
       en: "Glen Harbour",
       fr: "Glen Harbour",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25791,6 +29177,7 @@ export const rates = [
       en: "North Grove",
       fr: "North Grove",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25799,6 +29186,7 @@ export const rates = [
       en: "Pelican Pointe",
       fr: "Pelican Pointe",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25807,6 +29195,7 @@ export const rates = [
       en: "Island View",
       fr: "Island View",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25815,6 +29204,7 @@ export const rates = [
       en: "Cupar No. 218",
       fr: "Cupar No. 218",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25823,6 +29213,7 @@ export const rates = [
       en: "Southey",
       fr: "Southey",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25831,6 +29222,7 @@ export const rates = [
       en: "Markinch",
       fr: "Markinch",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25839,6 +29231,7 @@ export const rates = [
       en: "Cupar",
       fr: "Cupar",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25847,6 +29240,7 @@ export const rates = [
       en: "Lipton No. 217",
       fr: "Lipton No. 217",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25855,6 +29249,7 @@ export const rates = [
       en: "Dysart",
       fr: "Dysart",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25863,6 +29258,7 @@ export const rates = [
       en: "Lipton",
       fr: "Lipton",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25871,6 +29267,7 @@ export const rates = [
       en: "Tullymet No. 216",
       fr: "Tullymet No. 216",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25879,6 +29276,7 @@ export const rates = [
       en: "Piapot 75",
       fr: "Piapot 75",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25887,6 +29285,7 @@ export const rates = [
       en: "Assiniboine 76",
       fr: "Assiniboine 76",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25895,6 +29294,7 @@ export const rates = [
       en: "Standing Buffalo 78",
       fr: "Standing Buffalo 78",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25903,6 +29303,7 @@ export const rates = [
       en: "Pasqua 79",
       fr: "Pasqua 79",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25911,6 +29312,7 @@ export const rates = [
       en: "Muscowpetung 80",
       fr: "Muscowpetung 80",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25919,6 +29321,7 @@ export const rates = [
       en: "Little Black Bear 84",
       fr: "Little Black Bear 84",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25927,6 +29330,7 @@ export const rates = [
       en: "Okanese 82",
       fr: "Okanese 82",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25935,6 +29339,7 @@ export const rates = [
       en: "Peepeekisis 81",
       fr: "Peepeekisis 81",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25943,6 +29348,7 @@ export const rates = [
       en: "Star Blanket 83",
       fr: "Star Blanket 83",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25951,6 +29357,7 @@ export const rates = [
       en: "Wa-Pii Moos-Toosis (White Calf) 83A",
       fr: "Wa-Pii Moos-Toosis (White Calf) 83A",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25959,6 +29366,7 @@ export const rates = [
       en: "Star Blanket 83C",
       fr: "Star Blanket 83C",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25967,6 +29375,7 @@ export const rates = [
       en: "Treaty Four Reserve Grounds 77",
       fr: "Treaty Four Reserve Grounds 77",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25975,6 +29384,7 @@ export const rates = [
       en: "Carry the Kettle 76-19",
       fr: "Carry the Kettle 76-19",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25983,6 +29393,7 @@ export const rates = [
       en: "Carry the Kettle 76-110",
       fr: "Carry the Kettle 76-110",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25991,6 +29402,7 @@ export const rates = [
       en: "Baildon No. 131",
       fr: "Baildon No. 131",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -25999,6 +29411,7 @@ export const rates = [
       en: "Hillsborough No. 132",
       fr: "Hillsborough No. 132",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26007,6 +29420,7 @@ export const rates = [
       en: "Rodgers No. 133",
       fr: "Rodgers No. 133",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26015,6 +29429,7 @@ export const rates = [
       en: "Coderre",
       fr: "Coderre",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26023,6 +29438,7 @@ export const rates = [
       en: "Shamrock No. 134",
       fr: "Shamrock No. 134",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26031,6 +29447,7 @@ export const rates = [
       en: "Shamrock",
       fr: "Shamrock",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26039,6 +29456,7 @@ export const rates = [
       en: "Lawtonia No. 135",
       fr: "Lawtonia No. 135",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26047,6 +29465,7 @@ export const rates = [
       en: "Hodgeville",
       fr: "Hodgeville",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26055,6 +29474,7 @@ export const rates = [
       en: "Coulee No. 136",
       fr: "Coulee No. 136",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26063,6 +29483,7 @@ export const rates = [
       en: "Beaver Flat",
       fr: "Beaver Flat",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26071,6 +29492,7 @@ export const rates = [
       en: "Excelsior No. 166",
       fr: "Excelsior No. 166",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26079,6 +29501,7 @@ export const rates = [
       en: "Waldeck",
       fr: "Waldeck",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26087,6 +29510,7 @@ export const rates = [
       en: "Rush Lake",
       fr: "Rush Lake",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26095,6 +29519,7 @@ export const rates = [
       en: "Morse No. 165",
       fr: "Morse No. 165",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26103,6 +29528,7 @@ export const rates = [
       en: "Herbert",
       fr: "Herbert",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26111,6 +29537,7 @@ export const rates = [
       en: "Morse",
       fr: "Morse",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26119,6 +29546,7 @@ export const rates = [
       en: "Ernfold",
       fr: "Ernfold",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26127,6 +29555,7 @@ export const rates = [
       en: "Chaplin No. 164",
       fr: "Chaplin No. 164",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26135,6 +29564,7 @@ export const rates = [
       en: "Chaplin",
       fr: "Chaplin",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26143,6 +29573,7 @@ export const rates = [
       en: "Wheatlands No. 163",
       fr: "Wheatlands No. 163",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26151,6 +29582,7 @@ export const rates = [
       en: "Mortlach",
       fr: "Mortlach",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26159,6 +29591,7 @@ export const rates = [
       en: "Caron No. 162",
       fr: "Caron No. 162",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26167,6 +29600,7 @@ export const rates = [
       en: "Caronport",
       fr: "Caronport",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26175,6 +29609,7 @@ export const rates = [
       en: "Moose Jaw No. 161",
       fr: "Moose Jaw No. 161",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26183,6 +29618,7 @@ export const rates = [
       en: "Moose Jaw",
       fr: "Moose Jaw",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26191,6 +29627,7 @@ export const rates = [
       en: "Marquis No. 191",
       fr: "Marquis No. 191",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26199,6 +29636,7 @@ export const rates = [
       en: "Tuxford",
       fr: "Tuxford",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26207,6 +29645,7 @@ export const rates = [
       en: "Marquis",
       fr: "Marquis",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26215,6 +29654,7 @@ export const rates = [
       en: "Sun Valley",
       fr: "Sun Valley",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26223,6 +29663,7 @@ export const rates = [
       en: "Eyebrow No. 193",
       fr: "Eyebrow No. 193",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26231,6 +29672,7 @@ export const rates = [
       en: "Brownlee",
       fr: "Brownlee",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26239,6 +29681,7 @@ export const rates = [
       en: "Eyebrow",
       fr: "Eyebrow",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26247,6 +29690,7 @@ export const rates = [
       en: "South Lake",
       fr: "South Lake",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26255,6 +29699,7 @@ export const rates = [
       en: "Enfield No. 194",
       fr: "Enfield No. 194",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26263,6 +29708,7 @@ export const rates = [
       en: "Central Butte",
       fr: "Central Butte",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26271,6 +29717,7 @@ export const rates = [
       en: "Canaan No. 225",
       fr: "Canaan No. 225",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26279,6 +29726,7 @@ export const rates = [
       en: "Lucky Lake",
       fr: "Lucky Lake",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26287,6 +29735,7 @@ export const rates = [
       en: "Beechy",
       fr: "Beechy",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26295,6 +29744,7 @@ export const rates = [
       en: "Victory No. 226",
       fr: "Victory No. 226",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26303,6 +29753,7 @@ export const rates = [
       en: "King George No. 256",
       fr: "King George No. 256",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26311,6 +29762,7 @@ export const rates = [
       en: "Coteau No. 255",
       fr: "Coteau No. 255",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26319,6 +29771,7 @@ export const rates = [
       en: "Coteau Beach",
       fr: "Coteau Beach",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26327,6 +29780,7 @@ export const rates = [
       en: "Maple Bush No. 224",
       fr: "Maple Bush No. 224",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26335,6 +29789,7 @@ export const rates = [
       en: "Riverhurst",
       fr: "Riverhurst",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26343,6 +29798,7 @@ export const rates = [
       en: "Mistusinne",
       fr: "Mistusinne",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26351,6 +29807,7 @@ export const rates = [
       en: "Huron No. 223",
       fr: "Huron No. 223",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26359,6 +29816,7 @@ export const rates = [
       en: "Tugaske",
       fr: "Tugaske",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26367,6 +29825,7 @@ export const rates = [
       en: "Craik No. 222",
       fr: "Craik No. 222",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26375,6 +29834,7 @@ export const rates = [
       en: "Craik",
       fr: "Craik",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26383,6 +29843,7 @@ export const rates = [
       en: "Aylesbury",
       fr: "Aylesbury",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26391,6 +29852,7 @@ export const rates = [
       en: "Swift Current No. 137",
       fr: "Swift Current No. 137",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26399,6 +29861,7 @@ export const rates = [
       en: "Swift Current",
       fr: "Swift Current",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26407,6 +29870,7 @@ export const rates = [
       en: "Webb No. 138",
       fr: "Webb No. 138",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26415,6 +29879,7 @@ export const rates = [
       en: "Webb",
       fr: "Webb",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26423,6 +29888,7 @@ export const rates = [
       en: "Gull Lake No. 139",
       fr: "Gull Lake No. 139",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26431,6 +29897,7 @@ export const rates = [
       en: "Gull Lake",
       fr: "Gull Lake",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26439,6 +29906,7 @@ export const rates = [
       en: "Tompkins",
       fr: "Tompkins",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26447,6 +29915,7 @@ export const rates = [
       en: "Big Stick No. 141",
       fr: "Big Stick No. 141",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26455,6 +29924,7 @@ export const rates = [
       en: "Golden Prairie",
       fr: "Golden Prairie",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26463,6 +29933,7 @@ export const rates = [
       en: "Enterprise No. 142",
       fr: "Enterprise No. 142",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26471,6 +29942,7 @@ export const rates = [
       en: "Richmound",
       fr: "Richmound",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26479,6 +29951,7 @@ export const rates = [
       en: "Fox Valley No. 171",
       fr: "Fox Valley No. 171",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26487,6 +29960,7 @@ export const rates = [
       en: "Fox Valley",
       fr: "Fox Valley",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26495,6 +29969,7 @@ export const rates = [
       en: "Pittville No. 169",
       fr: "Pittville No. 169",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26503,6 +29978,7 @@ export const rates = [
       en: "Hazlet",
       fr: "Hazlet",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26511,6 +29987,7 @@ export const rates = [
       en: "Riverside No. 168",
       fr: "Riverside No. 168",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26519,6 +29996,7 @@ export const rates = [
       en: "Cabri",
       fr: "Cabri",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26527,6 +30005,7 @@ export const rates = [
       en: "Pennant",
       fr: "Pennant",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26535,6 +30014,7 @@ export const rates = [
       en: "Success",
       fr: "Success",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26543,6 +30023,7 @@ export const rates = [
       en: "Saskatchewan Landing No. 167",
       fr: "Saskatchewan Landing No. 167",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26551,6 +30032,7 @@ export const rates = [
       en: "Stewart Valley",
       fr: "Stewart Valley",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26559,6 +30041,7 @@ export const rates = [
       en: "Lacadena No. 228",
       fr: "Lacadena No. 228",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26567,6 +30050,7 @@ export const rates = [
       en: "Kyle",
       fr: "Kyle",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26575,6 +30059,7 @@ export const rates = [
       en: "Miry Creek No. 229",
       fr: "Miry Creek No. 229",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26583,6 +30068,7 @@ export const rates = [
       en: "Abbey",
       fr: "Abbey",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26591,6 +30077,7 @@ export const rates = [
       en: "Lancer",
       fr: "Lancer",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26599,6 +30086,7 @@ export const rates = [
       en: "Clinworth No. 230",
       fr: "Clinworth No. 230",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26607,6 +30095,7 @@ export const rates = [
       en: "Sceptre",
       fr: "Sceptre",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26615,6 +30104,7 @@ export const rates = [
       en: "Happyland No. 231",
       fr: "Happyland No. 231",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26623,6 +30113,7 @@ export const rates = [
       en: "Prelate",
       fr: "Prelate",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26631,6 +30122,7 @@ export const rates = [
       en: "Leader",
       fr: "Leader",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26639,6 +30131,7 @@ export const rates = [
       en: "Mendham",
       fr: "Mendham",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26647,6 +30140,7 @@ export const rates = [
       en: "Deer Forks No. 232",
       fr: "Deer Forks No. 232",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26655,6 +30149,7 @@ export const rates = [
       en: "Burstall",
       fr: "Burstall",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26663,6 +30158,7 @@ export const rates = [
       en: "Chesterfield No. 261",
       fr: "Chesterfield No. 261",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26671,6 +30167,7 @@ export const rates = [
       en: "Eatonia",
       fr: "Eatonia",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26679,6 +30176,7 @@ export const rates = [
       en: "Newcombe No. 260",
       fr: "Newcombe No. 260",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26687,6 +30185,7 @@ export const rates = [
       en: "Snipe Lake No. 259",
       fr: "Snipe Lake No. 259",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26695,6 +30194,7 @@ export const rates = [
       en: "Eston",
       fr: "Eston",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26703,6 +30203,7 @@ export const rates = [
       en: "Monet No. 257",
       fr: "Monet No. 257",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26711,6 +30212,7 @@ export const rates = [
       en: "Elrose",
       fr: "Elrose",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26719,6 +30221,7 @@ export const rates = [
       en: "Calder No. 241",
       fr: "Calder No. 241",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26727,6 +30230,7 @@ export const rates = [
       en: "Calder",
       fr: "Calder",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26735,6 +30239,7 @@ export const rates = [
       en: "Wallace No. 243",
       fr: "Wallace No. 243",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26743,6 +30248,7 @@ export const rates = [
       en: "Rhein",
       fr: "Rhein",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26751,6 +30257,7 @@ export const rates = [
       en: "Orkney No. 244",
       fr: "Orkney No. 244",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26759,6 +30266,7 @@ export const rates = [
       en: "Yorkton",
       fr: "Yorkton",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26767,6 +30275,7 @@ export const rates = [
       en: "Ebenezer",
       fr: "Ebenezer",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26775,6 +30284,7 @@ export const rates = [
       en: "Springside",
       fr: "Springside",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26783,6 +30293,7 @@ export const rates = [
       en: "Garry No. 245",
       fr: "Garry No. 245",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26791,6 +30302,7 @@ export const rates = [
       en: "Insinger No. 275",
       fr: "Insinger No. 275",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26799,6 +30311,7 @@ export const rates = [
       en: "Sheho",
       fr: "Sheho",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26807,6 +30320,7 @@ export const rates = [
       en: "Theodore",
       fr: "Theodore",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26815,6 +30329,7 @@ export const rates = [
       en: "Good Lake No. 274",
       fr: "Good Lake No. 274",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26823,6 +30338,7 @@ export const rates = [
       en: "Canora",
       fr: "Canora",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26831,6 +30347,7 @@ export const rates = [
       en: "Sliding Hills No. 273",
       fr: "Sliding Hills No. 273",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26839,6 +30356,7 @@ export const rates = [
       en: "Cote No. 271",
       fr: "Cote No. 271",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26847,6 +30365,7 @@ export const rates = [
       en: "Togo",
       fr: "Togo",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26855,6 +30374,7 @@ export const rates = [
       en: "Kamsack",
       fr: "Kamsack",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26863,6 +30383,7 @@ export const rates = [
       en: "St. Philips No. 301",
       fr: "St. Philips No. 301",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26871,6 +30392,7 @@ export const rates = [
       en: "Pelly",
       fr: "Pelly",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26879,6 +30401,7 @@ export const rates = [
       en: "Keys No. 303",
       fr: "Keys No. 303",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26887,6 +30410,7 @@ export const rates = [
       en: "Buchanan No. 304",
       fr: "Buchanan No. 304",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26895,6 +30419,7 @@ export const rates = [
       en: "Buchanan",
       fr: "Buchanan",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26903,6 +30428,7 @@ export const rates = [
       en: "Invermay No. 305",
       fr: "Invermay No. 305",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26911,6 +30437,7 @@ export const rates = [
       en: "Rama",
       fr: "Rama",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26919,6 +30446,7 @@ export const rates = [
       en: "Invermay",
       fr: "Invermay",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26927,6 +30455,7 @@ export const rates = [
       en: "Hazel Dell No. 335",
       fr: "Hazel Dell No. 335",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26935,6 +30464,7 @@ export const rates = [
       en: "Lintlaw",
       fr: "Lintlaw",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26943,6 +30473,7 @@ export const rates = [
       en: "Preeceville No. 334",
       fr: "Preeceville No. 334",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26951,6 +30482,7 @@ export const rates = [
       en: "Preeceville",
       fr: "Preeceville",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26959,6 +30491,7 @@ export const rates = [
       en: "Endeavour",
       fr: "Endeavour",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26967,6 +30500,7 @@ export const rates = [
       en: "Sturgis",
       fr: "Sturgis",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26975,6 +30509,7 @@ export const rates = [
       en: "Clayton No. 333",
       fr: "Clayton No. 333",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26983,6 +30518,7 @@ export const rates = [
       en: "Stenen",
       fr: "Stenen",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26991,6 +30527,7 @@ export const rates = [
       en: "Hyas",
       fr: "Hyas",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -26999,6 +30536,7 @@ export const rates = [
       en: "Norquay",
       fr: "Norquay",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27007,6 +30545,7 @@ export const rates = [
       en: "Livingston No. 331",
       fr: "Livingston No. 331",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27015,6 +30554,7 @@ export const rates = [
       en: "Arran",
       fr: "Arran",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27023,6 +30563,7 @@ export const rates = [
       en: "Cote 64",
       fr: "Cote 64",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27031,6 +30572,7 @@ export const rates = [
       en: "Keeseekoose 66",
       fr: "Keeseekoose 66",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27039,6 +30581,7 @@ export const rates = [
       en: "The Key 65",
       fr: "The Key 65",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27047,6 +30590,7 @@ export const rates = [
       en: "Keeseekoose 66A",
       fr: "Keeseekoose 66A",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27055,6 +30599,7 @@ export const rates = [
       en: "Keeseekoose 66-CA-04",
       fr: "Keeseekoose 66-CA-04",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27063,6 +30608,7 @@ export const rates = [
       en: "Keeseekoose 66-CA-05",
       fr: "Keeseekoose 66-CA-05",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27071,6 +30617,7 @@ export const rates = [
       en: "Keeseekoose 66-CA-06",
       fr: "Keeseekoose 66-CA-06",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27079,6 +30626,7 @@ export const rates = [
       en: "Keeseekoose 66-KE-04",
       fr: "Keeseekoose 66-KE-04",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27087,6 +30635,7 @@ export const rates = [
       en: "Keeseekoose 66-KE-05",
       fr: "Keeseekoose 66-KE-05",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27095,6 +30644,7 @@ export const rates = [
       en: "Hubbard",
       fr: "Hubbard",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27103,6 +30653,7 @@ export const rates = [
       en: "Ituna Bon Accord No. 246",
       fr: "Ituna Bon Accord No. 246",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27111,6 +30662,7 @@ export const rates = [
       en: "Ituna",
       fr: "Ituna",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27119,6 +30671,7 @@ export const rates = [
       en: "Kellross No. 247",
       fr: "Kellross No. 247",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27127,6 +30680,7 @@ export const rates = [
       en: "Kelliher",
       fr: "Kelliher",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27135,6 +30689,7 @@ export const rates = [
       en: "Leross",
       fr: "Leross",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27143,6 +30698,7 @@ export const rates = [
       en: "Touchwood No. 248",
       fr: "Touchwood No. 248",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27151,6 +30707,7 @@ export const rates = [
       en: "Semans",
       fr: "Semans",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27159,6 +30716,7 @@ export const rates = [
       en: "Mount Hope No. 279",
       fr: "Mount Hope No. 279",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27167,6 +30725,7 @@ export const rates = [
       en: "Raymore",
       fr: "Raymore",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27175,6 +30734,7 @@ export const rates = [
       en: "Quinton",
       fr: "Quinton",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27183,6 +30743,7 @@ export const rates = [
       en: "Punnichy",
       fr: "Punnichy",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27191,6 +30752,7 @@ export const rates = [
       en: "Emerald No. 277",
       fr: "Emerald No. 277",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27199,6 +30761,7 @@ export const rates = [
       en: "Chorney Beach",
       fr: "Chorney Beach",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27207,6 +30770,7 @@ export const rates = [
       en: "Leslie Beach",
       fr: "Leslie Beach",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27215,6 +30779,7 @@ export const rates = [
       en: "Foam Lake No. 276",
       fr: "Foam Lake No. 276",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27223,6 +30788,7 @@ export const rates = [
       en: "Foam Lake",
       fr: "Foam Lake",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27231,6 +30797,7 @@ export const rates = [
       en: "Elfros No. 307",
       fr: "Elfros No. 307",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27239,6 +30806,7 @@ export const rates = [
       en: "Elfros",
       fr: "Elfros",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27247,6 +30815,7 @@ export const rates = [
       en: "Big Quill No. 308",
       fr: "Big Quill No. 308",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27255,6 +30824,7 @@ export const rates = [
       en: "Wynyard",
       fr: "Wynyard",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27263,6 +30833,7 @@ export const rates = [
       en: "Prairie Rose No. 309",
       fr: "Prairie Rose No. 309",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27271,6 +30842,7 @@ export const rates = [
       en: "Jansen",
       fr: "Jansen",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27279,6 +30851,7 @@ export const rates = [
       en: "Leroy No. 339",
       fr: "Leroy No. 339",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27287,6 +30860,7 @@ export const rates = [
       en: "Leroy",
       fr: "Leroy",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27295,6 +30869,7 @@ export const rates = [
       en: "Lakeside No. 338",
       fr: "Lakeside No. 338",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27303,6 +30878,7 @@ export const rates = [
       en: "Watson",
       fr: "Watson",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27311,6 +30887,7 @@ export const rates = [
       en: "Quill Lake",
       fr: "Quill Lake",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27319,6 +30896,7 @@ export const rates = [
       en: "Lakeview No. 337",
       fr: "Lakeview No. 337",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27327,6 +30905,7 @@ export const rates = [
       en: "Wadena",
       fr: "Wadena",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27335,6 +30914,7 @@ export const rates = [
       en: "Sasman No. 336",
       fr: "Sasman No. 336",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27343,6 +30923,7 @@ export const rates = [
       en: "Margo",
       fr: "Margo",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27351,6 +30932,7 @@ export const rates = [
       en: "Muskowekwan 85-4",
       fr: "Muskowekwan 85-4",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27359,6 +30941,7 @@ export const rates = [
       en: "Muskowekwan 85",
       fr: "Muskowekwan 85",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27367,6 +30950,7 @@ export const rates = [
       en: "Gordon 86",
       fr: "Gordon 86",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27375,6 +30959,7 @@ export const rates = [
       en: "Day Star 87",
       fr: "Day Star 87",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27383,6 +30968,7 @@ export const rates = [
       en: "Poorman 88",
       fr: "Poorman 88",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27391,6 +30977,7 @@ export const rates = [
       en: "Fishing Lake 89",
       fr: "Fishing Lake 89",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27399,6 +30986,7 @@ export const rates = [
       en: "Beardy's and Okemasis 96 and 97A",
       fr: "Beardy's and Okemasis 96 and 97A",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27407,6 +30995,7 @@ export const rates = [
       en: "Muskowekwan 85-17",
       fr: "Muskowekwan 85-17",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27415,6 +31004,7 @@ export const rates = [
       en: "Muskowekwan 85-26",
       fr: "Muskowekwan 85-26",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27423,6 +31013,7 @@ export const rates = [
       en: "Muskowekwan 85-33",
       fr: "Muskowekwan 85-33",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27431,6 +31022,7 @@ export const rates = [
       en: "Muskowekwan 85-28",
       fr: "Muskowekwan 85-28",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27439,6 +31031,7 @@ export const rates = [
       en: "Muskowekwan 85-29",
       fr: "Muskowekwan 85-29",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27447,6 +31040,7 @@ export const rates = [
       en: "Muskowekwan 85-23",
       fr: "Muskowekwan 85-23",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27455,6 +31049,7 @@ export const rates = [
       en: "Muskowekwan 85-12",
       fr: "Muskowekwan 85-12",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27463,6 +31058,7 @@ export const rates = [
       en: "Muskowekwan 85-22",
       fr: "Muskowekwan 85-22",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27471,6 +31067,7 @@ export const rates = [
       en: "Muskowekwan 85-27",
       fr: "Muskowekwan 85-27",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27479,6 +31076,7 @@ export const rates = [
       en: "Muskowekwan 85-10",
       fr: "Muskowekwan 85-10",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27487,6 +31085,7 @@ export const rates = [
       en: "Muskowekwan 85-1",
       fr: "Muskowekwan 85-1",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27495,6 +31094,7 @@ export const rates = [
       en: "Muskowekwan 85-8",
       fr: "Muskowekwan 85-8",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27503,6 +31103,7 @@ export const rates = [
       en: "Muskowekwan 85-15",
       fr: "Muskowekwan 85-15",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27511,6 +31112,7 @@ export const rates = [
       en: "Muskowekwan 85-2A",
       fr: "Muskowekwan 85-2A",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27519,6 +31121,7 @@ export const rates = [
       en: "Muskowekwan 85-31",
       fr: "Muskowekwan 85-31",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27527,6 +31130,7 @@ export const rates = [
       en: "Duval",
       fr: "Duval",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27535,6 +31139,7 @@ export const rates = [
       en: "Last Mountain Valley No. 250",
       fr: "Last Mountain Valley No. 250",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27543,6 +31148,7 @@ export const rates = [
       en: "Govan",
       fr: "Govan",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27551,6 +31157,7 @@ export const rates = [
       en: "Big Arm No. 251",
       fr: "Big Arm No. 251",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27559,6 +31166,7 @@ export const rates = [
       en: "Etters Beach",
       fr: "Etters Beach",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27567,6 +31175,7 @@ export const rates = [
       en: "Imperial",
       fr: "Imperial",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27575,6 +31184,7 @@ export const rates = [
       en: "Liberty",
       fr: "Liberty",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27583,6 +31193,7 @@ export const rates = [
       en: "Arm River No. 252",
       fr: "Arm River No. 252",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27591,6 +31202,7 @@ export const rates = [
       en: "Davidson",
       fr: "Davidson",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27599,6 +31211,7 @@ export const rates = [
       en: "Willner No. 253",
       fr: "Willner No. 253",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27607,6 +31220,7 @@ export const rates = [
       en: "Loreburn No. 254",
       fr: "Loreburn No. 254",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27615,6 +31229,7 @@ export const rates = [
       en: "Elbow",
       fr: "Elbow",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27623,6 +31238,7 @@ export const rates = [
       en: "Loreburn",
       fr: "Loreburn",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27631,6 +31247,7 @@ export const rates = [
       en: "Strongfield",
       fr: "Strongfield",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27639,6 +31256,7 @@ export const rates = [
       en: "Hawarden",
       fr: "Hawarden",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27647,6 +31265,7 @@ export const rates = [
       en: "Rudy No. 284",
       fr: "Rudy No. 284",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27655,6 +31274,7 @@ export const rates = [
       en: "Outlook",
       fr: "Outlook",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27663,6 +31283,7 @@ export const rates = [
       en: "Broderick",
       fr: "Broderick",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27671,6 +31292,7 @@ export const rates = [
       en: "Glenside",
       fr: "Glenside",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27679,6 +31301,7 @@ export const rates = [
       en: "Rosedale No. 283",
       fr: "Rosedale No. 283",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27687,6 +31310,7 @@ export const rates = [
       en: "Hanley",
       fr: "Hanley",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27695,6 +31319,7 @@ export const rates = [
       en: "McCraney No. 282",
       fr: "McCraney No. 282",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27703,6 +31328,7 @@ export const rates = [
       en: "Kenaston",
       fr: "Kenaston",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27711,6 +31337,7 @@ export const rates = [
       en: "Bladworth",
       fr: "Bladworth",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27719,6 +31346,7 @@ export const rates = [
       en: "Wood Creek No. 281",
       fr: "Wood Creek No. 281",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27727,6 +31355,7 @@ export const rates = [
       en: "Simpson",
       fr: "Simpson",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27735,6 +31364,7 @@ export const rates = [
       en: "Wreford No. 280",
       fr: "Wreford No. 280",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27743,6 +31373,7 @@ export const rates = [
       en: "Nokomis",
       fr: "Nokomis",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27751,6 +31382,7 @@ export const rates = [
       en: "Usborne No. 310",
       fr: "Usborne No. 310",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27759,6 +31391,7 @@ export const rates = [
       en: "Drake",
       fr: "Drake",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27767,6 +31400,7 @@ export const rates = [
       en: "Lanigan",
       fr: "Lanigan",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27775,6 +31409,7 @@ export const rates = [
       en: "Morris No. 312",
       fr: "Morris No. 312",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27783,6 +31418,7 @@ export const rates = [
       en: "Watrous",
       fr: "Watrous",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27791,6 +31427,7 @@ export const rates = [
       en: "Manitou Beach",
       fr: "Manitou Beach",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27799,6 +31436,7 @@ export const rates = [
       en: "Young",
       fr: "Young",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27807,6 +31445,7 @@ export const rates = [
       en: "Zelma",
       fr: "Zelma",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27815,6 +31454,7 @@ export const rates = [
       en: "Lost River No. 313",
       fr: "Lost River No. 313",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27823,6 +31463,7 @@ export const rates = [
       en: "Thode",
       fr: "Thode",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27831,6 +31472,7 @@ export const rates = [
       en: "Dundurn No. 314",
       fr: "Dundurn No. 314",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27839,6 +31481,7 @@ export const rates = [
       en: "Dundurn",
       fr: "Dundurn",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27847,6 +31490,7 @@ export const rates = [
       en: "Shields",
       fr: "Shields",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27855,6 +31499,7 @@ export const rates = [
       en: "Corman Park No. 344",
       fr: "Corman Park No. 344",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27863,6 +31508,7 @@ export const rates = [
       en: "Saskatoon",
       fr: "Saskatoon",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27871,6 +31517,7 @@ export const rates = [
       en: "Langham",
       fr: "Langham",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27879,6 +31526,7 @@ export const rates = [
       en: "Warman",
       fr: "Warman",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27887,6 +31535,7 @@ export const rates = [
       en: "Blucher No. 343",
       fr: "Blucher No. 343",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27895,6 +31544,7 @@ export const rates = [
       en: "Martensville",
       fr: "Martensville",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27903,6 +31553,7 @@ export const rates = [
       en: "Bradwell",
       fr: "Bradwell",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27911,6 +31562,7 @@ export const rates = [
       en: "Allan",
       fr: "Allan",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27919,6 +31571,7 @@ export const rates = [
       en: "Dalmeny",
       fr: "Dalmeny",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27927,6 +31580,7 @@ export const rates = [
       en: "Osler",
       fr: "Osler",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27935,6 +31589,7 @@ export const rates = [
       en: "Colonsay No. 342",
       fr: "Colonsay No. 342",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27943,6 +31598,7 @@ export const rates = [
       en: "Clavet",
       fr: "Clavet",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27951,6 +31607,7 @@ export const rates = [
       en: "Meacham",
       fr: "Meacham",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27959,6 +31616,7 @@ export const rates = [
       en: "Colonsay",
       fr: "Colonsay",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27967,6 +31625,7 @@ export const rates = [
       en: "Viscount No. 341",
       fr: "Viscount No. 341",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27975,6 +31634,7 @@ export const rates = [
       en: "Viscount",
       fr: "Viscount",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27983,6 +31643,7 @@ export const rates = [
       en: "Plunkett",
       fr: "Plunkett",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27991,6 +31652,7 @@ export const rates = [
       en: "Wolverine No. 340",
       fr: "Wolverine No. 340",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -27999,6 +31661,7 @@ export const rates = [
       en: "Whitecap",
       fr: "Whitecap",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28007,6 +31670,7 @@ export const rates = [
       en: "Pleasant Valley No. 288",
       fr: "Pleasant Valley No. 288",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28015,6 +31679,7 @@ export const rates = [
       en: "St. Andrews No. 287",
       fr: "St. Andrews No. 287",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28023,6 +31688,7 @@ export const rates = [
       en: "Rosetown",
       fr: "Rosetown",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28031,6 +31697,7 @@ export const rates = [
       en: "Zealandia",
       fr: "Zealandia",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28039,6 +31706,7 @@ export const rates = [
       en: "Milden No. 286",
       fr: "Milden No. 286",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28047,6 +31715,7 @@ export const rates = [
       en: "Milden",
       fr: "Milden",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28055,6 +31724,7 @@ export const rates = [
       en: "Wiseton",
       fr: "Wiseton",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28063,6 +31733,7 @@ export const rates = [
       en: "Dinsmore",
       fr: "Dinsmore",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28071,6 +31742,7 @@ export const rates = [
       en: "Macrorie",
       fr: "Macrorie",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28079,6 +31751,7 @@ export const rates = [
       en: "Fertile Valley No. 285",
       fr: "Fertile Valley No. 285",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28087,6 +31760,7 @@ export const rates = [
       en: "Conquest",
       fr: "Conquest",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28095,6 +31769,7 @@ export const rates = [
       en: "Montrose No. 315",
       fr: "Montrose No. 315",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28103,6 +31778,7 @@ export const rates = [
       en: "Harris No. 316",
       fr: "Harris No. 316",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28111,6 +31787,7 @@ export const rates = [
       en: "Tessier",
       fr: "Tessier",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28119,6 +31796,7 @@ export const rates = [
       en: "Harris",
       fr: "Harris",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28127,6 +31805,7 @@ export const rates = [
       en: "Marriott No. 317",
       fr: "Marriott No. 317",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28135,6 +31814,7 @@ export const rates = [
       en: "Mountain View No. 318",
       fr: "Mountain View No. 318",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28143,6 +31823,7 @@ export const rates = [
       en: "Biggar No. 347",
       fr: "Biggar No. 347",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28151,6 +31832,7 @@ export const rates = [
       en: "Biggar",
       fr: "Biggar",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28159,6 +31841,7 @@ export const rates = [
       en: "Perdue No. 346",
       fr: "Perdue No. 346",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28167,6 +31850,7 @@ export const rates = [
       en: "Perdue",
       fr: "Perdue",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28175,6 +31859,7 @@ export const rates = [
       en: "Kinley",
       fr: "Kinley",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28183,6 +31868,7 @@ export const rates = [
       en: "Vanscoy No. 345",
       fr: "Vanscoy No. 345",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28191,6 +31877,7 @@ export const rates = [
       en: "Delisle",
       fr: "Delisle",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28199,6 +31886,7 @@ export const rates = [
       en: "Vanscoy",
       fr: "Vanscoy",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28207,6 +31895,7 @@ export const rates = [
       en: "Asquith",
       fr: "Asquith",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28215,6 +31904,7 @@ export const rates = [
       en: "Eagle Creek No. 376",
       fr: "Eagle Creek No. 376",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28223,6 +31913,7 @@ export const rates = [
       en: "Glenside No. 377",
       fr: "Glenside No. 377",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28231,6 +31922,7 @@ export const rates = [
       en: "Rosemount No. 378",
       fr: "Rosemount No. 378",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28239,6 +31931,7 @@ export const rates = [
       en: "Battle River No. 438",
       fr: "Battle River No. 438",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28247,6 +31940,7 @@ export const rates = [
       en: "Battleford",
       fr: "Battleford",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28255,6 +31949,7 @@ export const rates = [
       en: "Red Pheasant 108",
       fr: "Red Pheasant 108",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28263,6 +31958,7 @@ export const rates = [
       en: "Mosquito 109",
       fr: "Mosquito 109",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28271,6 +31967,7 @@ export const rates = [
       en: "Grizzly Bear's Head 110 and Lean Man 111",
       fr: "Grizzly Bear's Head 110 and Lean Man 111",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28279,6 +31976,7 @@ export const rates = [
       en: "Sweet Grass 113",
       fr: "Sweet Grass 113",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28287,6 +31985,7 @@ export const rates = [
       en: "Sweet Grass 113-M16",
       fr: "Sweet Grass 113-M16",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28295,6 +31994,7 @@ export const rates = [
       en: "Poundmaker 114-18B",
       fr: "Poundmaker 114-18B",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28303,6 +32003,7 @@ export const rates = [
       en: "Brock",
       fr: "Brock",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28311,6 +32012,7 @@ export const rates = [
       en: "Netherhill",
       fr: "Netherhill",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28319,6 +32021,7 @@ export const rates = [
       en: "Kindersley No. 290",
       fr: "Kindersley No. 290",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28327,6 +32030,7 @@ export const rates = [
       en: "Kindersley",
       fr: "Kindersley",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28335,6 +32039,7 @@ export const rates = [
       en: "Flaxcombe",
       fr: "Flaxcombe",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28343,6 +32048,7 @@ export const rates = [
       en: "Milton No. 292",
       fr: "Milton No. 292",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28351,6 +32057,7 @@ export const rates = [
       en: "Marengo",
       fr: "Marengo",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28359,6 +32066,7 @@ export const rates = [
       en: "Antelope Park No. 322",
       fr: "Antelope Park No. 322",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28367,6 +32075,7 @@ export const rates = [
       en: "Prairiedale No. 321",
       fr: "Prairiedale No. 321",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28375,6 +32084,7 @@ export const rates = [
       en: "Major",
       fr: "Major",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28383,6 +32093,7 @@ export const rates = [
       en: "Smiley",
       fr: "Smiley",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28391,6 +32102,7 @@ export const rates = [
       en: "Oakdale No. 320",
       fr: "Oakdale No. 320",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28399,6 +32111,7 @@ export const rates = [
       en: "Coleville",
       fr: "Coleville",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28407,6 +32120,7 @@ export const rates = [
       en: "Winslow No. 319",
       fr: "Winslow No. 319",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28415,6 +32129,7 @@ export const rates = [
       en: "Dodsland",
       fr: "Dodsland",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28423,6 +32138,7 @@ export const rates = [
       en: "Plenty",
       fr: "Plenty",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28431,6 +32147,7 @@ export const rates = [
       en: "Grandview No. 349",
       fr: "Grandview No. 349",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28439,6 +32156,7 @@ export const rates = [
       en: "Mariposa No. 350",
       fr: "Mariposa No. 350",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28447,6 +32165,7 @@ export const rates = [
       en: "Tramping Lake",
       fr: "Tramping Lake",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28455,6 +32174,7 @@ export const rates = [
       en: "Progress No. 351",
       fr: "Progress No. 351",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28463,6 +32183,7 @@ export const rates = [
       en: "Kerrobert",
       fr: "Kerrobert",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28471,6 +32192,7 @@ export const rates = [
       en: "Luseland",
       fr: "Luseland",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28479,6 +32201,7 @@ export const rates = [
       en: "Heart's Hill No. 352",
       fr: "Heart's Hill No. 352",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28487,6 +32210,7 @@ export const rates = [
       en: "Eye Hill No. 382",
       fr: "Eye Hill No. 382",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28495,6 +32219,7 @@ export const rates = [
       en: "Macklin",
       fr: "Macklin",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28503,6 +32228,7 @@ export const rates = [
       en: "Primate",
       fr: "Primate",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28511,6 +32237,7 @@ export const rates = [
       en: "Denzil",
       fr: "Denzil",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28519,6 +32246,7 @@ export const rates = [
       en: "Grass Lake No. 381",
       fr: "Grass Lake No. 381",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28527,6 +32255,7 @@ export const rates = [
       en: "Tramping Lake No. 380",
       fr: "Tramping Lake No. 380",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28535,6 +32264,7 @@ export const rates = [
       en: "Scott",
       fr: "Scott",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28543,6 +32273,7 @@ export const rates = [
       en: "Reford No. 379",
       fr: "Reford No. 379",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28551,6 +32282,7 @@ export const rates = [
       en: "Landis",
       fr: "Landis",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28559,6 +32291,7 @@ export const rates = [
       en: "Buffalo No. 409",
       fr: "Buffalo No. 409",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28567,6 +32300,7 @@ export const rates = [
       en: "Wilkie",
       fr: "Wilkie",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28575,6 +32309,7 @@ export const rates = [
       en: "Round Valley No. 410",
       fr: "Round Valley No. 410",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28583,6 +32318,7 @@ export const rates = [
       en: "Unity",
       fr: "Unity",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28591,6 +32327,7 @@ export const rates = [
       en: "Senlac No. 411",
       fr: "Senlac No. 411",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28599,6 +32336,7 @@ export const rates = [
       en: "Senlac",
       fr: "Senlac",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28607,6 +32345,7 @@ export const rates = [
       en: "Manitou Lake No. 442",
       fr: "Manitou Lake No. 442",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28615,6 +32354,7 @@ export const rates = [
       en: "Marsden",
       fr: "Marsden",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28623,6 +32363,7 @@ export const rates = [
       en: "Hillsdale No. 440",
       fr: "Hillsdale No. 440",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28631,6 +32372,7 @@ export const rates = [
       en: "Neilburg",
       fr: "Neilburg",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28639,6 +32381,7 @@ export const rates = [
       en: "Cut Knife No. 439",
       fr: "Cut Knife No. 439",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28647,6 +32390,7 @@ export const rates = [
       en: "Cut Knife",
       fr: "Cut Knife",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28655,6 +32399,7 @@ export const rates = [
       en: "Poundmaker 114",
       fr: "Poundmaker 114",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28663,6 +32408,7 @@ export const rates = [
       en: "Little Pine 116",
       fr: "Little Pine 116",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28671,6 +32417,7 @@ export const rates = [
       en: "Hudson Bay No. 394",
       fr: "Hudson Bay No. 394",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28679,6 +32426,7 @@ export const rates = [
       en: "Hudson Bay",
       fr: "Hudson Bay",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28687,6 +32435,7 @@ export const rates = [
       en: "Porcupine No. 395",
       fr: "Porcupine No. 395",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28695,6 +32444,7 @@ export const rates = [
       en: "Porcupine Plain",
       fr: "Porcupine Plain",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28703,6 +32453,7 @@ export const rates = [
       en: "Weekes",
       fr: "Weekes",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28711,6 +32462,7 @@ export const rates = [
       en: "Kelvington No. 366",
       fr: "Kelvington No. 366",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28719,6 +32471,7 @@ export const rates = [
       en: "Kelvington",
       fr: "Kelvington",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28727,6 +32480,7 @@ export const rates = [
       en: "Ponass Lake No. 367",
       fr: "Ponass Lake No. 367",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28735,6 +32489,7 @@ export const rates = [
       en: "Rose Valley",
       fr: "Rose Valley",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28743,6 +32498,7 @@ export const rates = [
       en: "Fosston",
       fr: "Fosston",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28751,6 +32507,7 @@ export const rates = [
       en: "Spalding No. 368",
       fr: "Spalding No. 368",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28759,6 +32516,7 @@ export const rates = [
       en: "Spalding",
       fr: "Spalding",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28767,6 +32525,7 @@ export const rates = [
       en: "Pleasantdale",
       fr: "Pleasantdale",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28775,6 +32534,7 @@ export const rates = [
       en: "Naicam",
       fr: "Naicam",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28783,6 +32543,7 @@ export const rates = [
       en: "Barrier Valley No. 397",
       fr: "Barrier Valley No. 397",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28791,6 +32552,7 @@ export const rates = [
       en: "Pleasantdale No. 398",
       fr: "Pleasantdale No. 398",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28799,6 +32561,7 @@ export const rates = [
       en: "Archerwill",
       fr: "Archerwill",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28807,6 +32570,7 @@ export const rates = [
       en: "Bjorkdale No. 426",
       fr: "Bjorkdale No. 426",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28815,6 +32579,7 @@ export const rates = [
       en: "Mistatim",
       fr: "Mistatim",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28823,6 +32588,7 @@ export const rates = [
       en: "Bjorkdale",
       fr: "Bjorkdale",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28831,6 +32597,7 @@ export const rates = [
       en: "Tisdale No. 427",
       fr: "Tisdale No. 427",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28839,6 +32606,7 @@ export const rates = [
       en: "Tisdale",
       fr: "Tisdale",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28847,6 +32615,7 @@ export const rates = [
       en: "Star City No. 428",
       fr: "Star City No. 428",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28855,6 +32624,7 @@ export const rates = [
       en: "Valparaiso",
       fr: "Valparaiso",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28863,6 +32633,7 @@ export const rates = [
       en: "Star City",
       fr: "Star City",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28871,6 +32642,7 @@ export const rates = [
       en: "Melfort",
       fr: "Melfort",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28879,6 +32651,7 @@ export const rates = [
       en: "Willow Creek No. 458",
       fr: "Willow Creek No. 458",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28887,6 +32660,7 @@ export const rates = [
       en: "Connaught No. 457",
       fr: "Connaught No. 457",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28895,6 +32669,7 @@ export const rates = [
       en: "Ridgedale",
       fr: "Ridgedale",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28903,6 +32678,7 @@ export const rates = [
       en: "Arborfield No. 456",
       fr: "Arborfield No. 456",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28911,6 +32687,7 @@ export const rates = [
       en: "Zenon Park",
       fr: "Zenon Park",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28919,6 +32696,7 @@ export const rates = [
       en: "Arborfield",
       fr: "Arborfield",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28927,6 +32705,7 @@ export const rates = [
       en: "Moose Range No. 486",
       fr: "Moose Range No. 486",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28935,6 +32714,7 @@ export const rates = [
       en: "Tobin Lake",
       fr: "Tobin Lake",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28943,6 +32723,7 @@ export const rates = [
       en: "Carrot River",
       fr: "Carrot River",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28951,6 +32732,7 @@ export const rates = [
       en: "Nipawin No. 487",
       fr: "Nipawin No. 487",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28959,6 +32741,7 @@ export const rates = [
       en: "Aylsham",
       fr: "Aylsham",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28967,6 +32750,7 @@ export const rates = [
       en: "Codette",
       fr: "Codette",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28975,6 +32759,7 @@ export const rates = [
       en: "Nipawin",
       fr: "Nipawin",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28983,6 +32768,7 @@ export const rates = [
       en: "Torch River No. 488",
       fr: "Torch River No. 488",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28991,6 +32777,7 @@ export const rates = [
       en: "White Fox",
       fr: "White Fox",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -28999,6 +32786,7 @@ export const rates = [
       en: "Love",
       fr: "Love",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29007,6 +32795,7 @@ export const rates = [
       en: "Choiceland",
       fr: "Choiceland",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29015,6 +32804,7 @@ export const rates = [
       en: "Smeaton",
       fr: "Smeaton",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29023,6 +32813,7 @@ export const rates = [
       en: "Shoal Lake 28A",
       fr: "Shoal Lake 28A",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29031,6 +32822,7 @@ export const rates = [
       en: "Red Earth 29",
       fr: "Red Earth 29",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29039,6 +32831,7 @@ export const rates = [
       en: "Yellowquill 90",
       fr: "Yellowquill 90",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29047,6 +32840,7 @@ export const rates = [
       en: "Kinistin 91",
       fr: "Kinistin 91",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29055,6 +32849,7 @@ export const rates = [
       en: "Yellow Quill 90-9",
       fr: "Yellow Quill 90-9",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29063,6 +32858,7 @@ export const rates = [
       en: "Carrot River 29A",
       fr: "Carrot River 29A",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29071,6 +32867,7 @@ export const rates = [
       en: "Opaskwayak Cree Nation 27A",
       fr: "Opaskwayak Cree Nation 27A",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29079,6 +32876,7 @@ export const rates = [
       en: "St. Peter No. 369",
       fr: "St. Peter No. 369",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29087,6 +32885,7 @@ export const rates = [
       en: "Englefeld",
       fr: "Englefeld",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29095,6 +32894,7 @@ export const rates = [
       en: "St. Gregor",
       fr: "St. Gregor",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29103,6 +32903,7 @@ export const rates = [
       en: "Muenster",
       fr: "Muenster",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29111,6 +32912,7 @@ export const rates = [
       en: "Annaheim",
       fr: "Annaheim",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29119,6 +32921,7 @@ export const rates = [
       en: "Lake Lenore",
       fr: "Lake Lenore",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29127,6 +32930,7 @@ export const rates = [
       en: "Humboldt No. 370",
       fr: "Humboldt No. 370",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29135,6 +32939,7 @@ export const rates = [
       en: "Humboldt",
       fr: "Humboldt",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29143,6 +32948,7 @@ export const rates = [
       en: "Bayne No. 371",
       fr: "Bayne No. 371",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29151,6 +32957,7 @@ export const rates = [
       en: "Bruno",
       fr: "Bruno",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29159,6 +32966,7 @@ export const rates = [
       en: "Grant No. 372",
       fr: "Grant No. 372",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29167,6 +32975,7 @@ export const rates = [
       en: "Prud'homme",
       fr: "Prud'homme",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29175,6 +32984,7 @@ export const rates = [
       en: "Vonda",
       fr: "Vonda",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29183,6 +32993,7 @@ export const rates = [
       en: "Aberdeen No. 373",
       fr: "Aberdeen No. 373",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29191,6 +33002,7 @@ export const rates = [
       en: "Aberdeen",
       fr: "Aberdeen",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29199,6 +33011,7 @@ export const rates = [
       en: "Laird No. 404",
       fr: "Laird No. 404",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29207,6 +33020,7 @@ export const rates = [
       en: "Hepburn",
       fr: "Hepburn",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29215,6 +33029,7 @@ export const rates = [
       en: "Waldheim",
       fr: "Waldheim",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29223,6 +33038,7 @@ export const rates = [
       en: "Laird",
       fr: "Laird",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29231,6 +33047,7 @@ export const rates = [
       en: "Rosthern No. 403",
       fr: "Rosthern No. 403",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29239,6 +33056,7 @@ export const rates = [
       en: "Rosthern",
       fr: "Rosthern",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29247,6 +33065,7 @@ export const rates = [
       en: "Hague",
       fr: "Hague",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29255,6 +33074,7 @@ export const rates = [
       en: "Fish Creek No. 402",
       fr: "Fish Creek No. 402",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29263,6 +33083,7 @@ export const rates = [
       en: "Alvena",
       fr: "Alvena",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29271,6 +33092,7 @@ export const rates = [
       en: "Hoodoo No. 401",
       fr: "Hoodoo No. 401",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29279,6 +33101,7 @@ export const rates = [
       en: "Cudworth",
       fr: "Cudworth",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29287,6 +33110,7 @@ export const rates = [
       en: "Wakaw",
       fr: "Wakaw",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29295,6 +33119,7 @@ export const rates = [
       en: "Wakaw Lake",
       fr: "Wakaw Lake",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29303,6 +33128,7 @@ export const rates = [
       en: "Three Lakes No. 400",
       fr: "Three Lakes No. 400",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29311,6 +33137,7 @@ export const rates = [
       en: "Pilger",
       fr: "Pilger",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29319,6 +33146,7 @@ export const rates = [
       en: "St. Benedict",
       fr: "St. Benedict",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29327,6 +33155,7 @@ export const rates = [
       en: "Middle Lake",
       fr: "Middle Lake",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29335,6 +33164,7 @@ export const rates = [
       en: "Lake Lenore No. 399",
       fr: "Lake Lenore No. 399",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29343,6 +33173,7 @@ export const rates = [
       en: "St. Brieux",
       fr: "St. Brieux",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29351,6 +33182,7 @@ export const rates = [
       en: "Flett's Springs No. 429",
       fr: "Flett's Springs No. 429",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29359,6 +33191,7 @@ export const rates = [
       en: "Beatty",
       fr: "Beatty",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29367,6 +33200,7 @@ export const rates = [
       en: "Invergordon No. 430",
       fr: "Invergordon No. 430",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29375,6 +33209,7 @@ export const rates = [
       en: "St. Louis No. 431",
       fr: "St. Louis No. 431",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29383,6 +33218,7 @@ export const rates = [
       en: "St. Louis",
       fr: "St. Louis",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29391,6 +33227,7 @@ export const rates = [
       en: "Duck Lake No. 463",
       fr: "Duck Lake No. 463",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29399,6 +33236,7 @@ export const rates = [
       en: "Duck Lake",
       fr: "Duck Lake",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29407,6 +33245,7 @@ export const rates = [
       en: "Prince Albert No. 461",
       fr: "Prince Albert No. 461",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29415,6 +33254,7 @@ export const rates = [
       en: "Prince Albert",
       fr: "Prince Albert",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29423,6 +33263,7 @@ export const rates = [
       en: "Birch Hills No. 460",
       fr: "Birch Hills No. 460",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29431,6 +33272,7 @@ export const rates = [
       en: "Birch Hills",
       fr: "Birch Hills",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29439,6 +33281,7 @@ export const rates = [
       en: "Candle Lake",
       fr: "Candle Lake",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29447,6 +33290,7 @@ export const rates = [
       en: "Kinistino No. 459",
       fr: "Kinistino No. 459",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29455,6 +33299,7 @@ export const rates = [
       en: "Weldon",
       fr: "Weldon",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29463,6 +33308,7 @@ export const rates = [
       en: "Kinistino",
       fr: "Kinistino",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29471,6 +33317,7 @@ export const rates = [
       en: "Lakeland No. 521",
       fr: "Lakeland No. 521",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29479,6 +33326,7 @@ export const rates = [
       en: "Christopher Lake",
       fr: "Christopher Lake",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29487,6 +33335,7 @@ export const rates = [
       en: "Garden River No. 490",
       fr: "Garden River No. 490",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29495,6 +33344,7 @@ export const rates = [
       en: "Albertville",
       fr: "Albertville",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29503,6 +33353,7 @@ export const rates = [
       en: "Weirdale",
       fr: "Weirdale",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29511,6 +33362,7 @@ export const rates = [
       en: "Meath Park",
       fr: "Meath Park",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29519,6 +33371,7 @@ export const rates = [
       en: "Buckland No. 491",
       fr: "Buckland No. 491",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29527,6 +33380,7 @@ export const rates = [
       en: "Paddockwood",
       fr: "Paddockwood",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29535,6 +33389,7 @@ export const rates = [
       en: "Paddockwood No. 520",
       fr: "Paddockwood No. 520",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29543,6 +33398,7 @@ export const rates = [
       en: "Kiskaciwan No. 208",
       fr: "Kiskaciwan No. 208",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29551,6 +33407,7 @@ export const rates = [
       en: "One Arrow 95",
       fr: "One Arrow 95",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29559,6 +33416,7 @@ export const rates = [
       en: "Beardy's 97 and Okemasis 96",
       fr: "Beardy's 97 and Okemasis 96",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29567,6 +33425,7 @@ export const rates = [
       en: "Muskoday First Nation",
       fr: "Muskoday First Nation",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29575,6 +33434,7 @@ export const rates = [
       en: "Wahpaton 94A",
       fr: "Wahpaton 94A",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29583,6 +33443,7 @@ export const rates = [
       en: "James Smith 100",
       fr: "James Smith 100",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29591,6 +33452,7 @@ export const rates = [
       en: "Cumberland 100A",
       fr: "Cumberland 100A",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29599,6 +33461,7 @@ export const rates = [
       en: "Little Red River 106C",
       fr: "Little Red River 106C",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29607,6 +33470,7 @@ export const rates = [
       en: "Montreal Lake 106B",
       fr: "Montreal Lake 106B",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29615,6 +33479,7 @@ export const rates = [
       en: "One Arrow 95-1C",
       fr: "One Arrow 95-1C",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29623,6 +33488,7 @@ export const rates = [
       en: "Beardy's and Okemasis 96 and 97B",
       fr: "Beardy's and Okemasis 96 and 97B",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29631,6 +33497,7 @@ export const rates = [
       en: "Willow Cree",
       fr: "Willow Cree",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29639,6 +33506,7 @@ export const rates = [
       en: "One Arrow 95-1D",
       fr: "One Arrow 95-1D",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29647,6 +33515,7 @@ export const rates = [
       en: "One Arrow 95-1A",
       fr: "One Arrow 95-1A",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29655,6 +33524,7 @@ export const rates = [
       en: "Denholm",
       fr: "Denholm",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29663,6 +33533,7 @@ export const rates = [
       en: "Ruddell",
       fr: "Ruddell",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29671,6 +33542,7 @@ export const rates = [
       en: "Maymont",
       fr: "Maymont",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29679,6 +33551,7 @@ export const rates = [
       en: "Mayfield No. 406",
       fr: "Mayfield No. 406",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29687,6 +33560,7 @@ export const rates = [
       en: "Great Bend No. 405",
       fr: "Great Bend No. 405",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29695,6 +33569,7 @@ export const rates = [
       en: "Radisson",
       fr: "Radisson",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29703,6 +33578,7 @@ export const rates = [
       en: "Borden",
       fr: "Borden",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29711,6 +33587,7 @@ export const rates = [
       en: "Blaine Lake No. 434",
       fr: "Blaine Lake No. 434",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29719,6 +33596,7 @@ export const rates = [
       en: "Marcelin",
       fr: "Marcelin",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29727,6 +33605,7 @@ export const rates = [
       en: "Blaine Lake",
       fr: "Blaine Lake",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29735,6 +33614,7 @@ export const rates = [
       en: "Redberry No. 435",
       fr: "Redberry No. 435",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29743,6 +33623,7 @@ export const rates = [
       en: "Krydor",
       fr: "Krydor",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29751,6 +33632,7 @@ export const rates = [
       en: "Hafford",
       fr: "Hafford",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29759,6 +33641,7 @@ export const rates = [
       en: "Douglas No. 436",
       fr: "Douglas No. 436",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29767,6 +33650,7 @@ export const rates = [
       en: "Speers",
       fr: "Speers",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29775,6 +33659,7 @@ export const rates = [
       en: "Richard",
       fr: "Richard",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29783,6 +33668,7 @@ export const rates = [
       en: "North Battleford",
       fr: "North Battleford",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29791,6 +33677,7 @@ export const rates = [
       en: "North Battleford No. 437",
       fr: "North Battleford No. 437",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29799,6 +33686,7 @@ export const rates = [
       en: "North Battleford",
       fr: "North Battleford",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29807,6 +33695,7 @@ export const rates = [
       en: "Round Hill No. 467",
       fr: "Round Hill No. 467",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29815,6 +33704,7 @@ export const rates = [
       en: "Meeting Lake No. 466",
       fr: "Meeting Lake No. 466",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29823,6 +33713,7 @@ export const rates = [
       en: "Leask No. 464",
       fr: "Leask No. 464",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29831,6 +33722,7 @@ export const rates = [
       en: "Leask",
       fr: "Leask",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29839,6 +33731,7 @@ export const rates = [
       en: "Pebble Baye",
       fr: "Pebble Baye",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29847,6 +33740,7 @@ export const rates = [
       en: "Parkside",
       fr: "Parkside",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29855,6 +33749,7 @@ export const rates = [
       en: "Shellbrook No. 493",
       fr: "Shellbrook No. 493",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29863,6 +33758,7 @@ export const rates = [
       en: "Shellbrook",
       fr: "Shellbrook",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29871,6 +33767,7 @@ export const rates = [
       en: "Canwood No. 494",
       fr: "Canwood No. 494",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29879,6 +33776,7 @@ export const rates = [
       en: "Canwood",
       fr: "Canwood",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29887,6 +33785,7 @@ export const rates = [
       en: "Prince Albert National Park",
       fr: "Prince Albert National Park",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29895,6 +33794,7 @@ export const rates = [
       en: "Debden",
       fr: "Debden",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29903,6 +33803,7 @@ export const rates = [
       en: "Spiritwood No. 496",
       fr: "Spiritwood No. 496",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29911,6 +33812,7 @@ export const rates = [
       en: "Shell Lake",
       fr: "Shell Lake",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29919,6 +33821,7 @@ export const rates = [
       en: "Spiritwood",
       fr: "Spiritwood",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29927,6 +33830,7 @@ export const rates = [
       en: "Big Shell",
       fr: "Big Shell",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29935,6 +33839,7 @@ export const rates = [
       en: "Echo Bay",
       fr: "Echo Bay",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29943,6 +33848,7 @@ export const rates = [
       en: "Leoville",
       fr: "Leoville",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29951,6 +33857,7 @@ export const rates = [
       en: "Medstead No. 497",
       fr: "Medstead No. 497",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29959,6 +33866,7 @@ export const rates = [
       en: "Medstead",
       fr: "Medstead",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29967,6 +33875,7 @@ export const rates = [
       en: "Big River",
       fr: "Big River",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29975,6 +33884,7 @@ export const rates = [
       en: "Big River No. 555",
       fr: "Big River No. 555",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29983,6 +33893,7 @@ export const rates = [
       en: "Chitek Lake",
       fr: "Chitek Lake",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29991,6 +33902,7 @@ export const rates = [
       en: "Beardy's and Okemasis 96 & 97C",
       fr: "Beardy's and Okemasis 96 & 97C",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -29999,6 +33911,7 @@ export const rates = [
       en: "Muskeg Lake Cree Nation 102",
       fr: "Muskeg Lake Cree Nation 102",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30007,6 +33920,7 @@ export const rates = [
       en: "Mistawasis 103",
       fr: "Mistawasis 103",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30015,6 +33929,7 @@ export const rates = [
       en: "Sturgeon Lake 101",
       fr: "Sturgeon Lake 101",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30023,6 +33938,7 @@ export const rates = [
       en: "Little Red River 106D",
       fr: "Little Red River 106D",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30031,6 +33947,7 @@ export const rates = [
       en: "Big River 118",
       fr: "Big River 118",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30039,6 +33956,7 @@ export const rates = [
       en: "Big River 118A",
       fr: "Big River 118A",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30047,6 +33965,7 @@ export const rates = [
       en: "Ahtahkakoop 104",
       fr: "Ahtahkakoop 104",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30055,6 +33974,7 @@ export const rates = [
       en: "Saulteaux 159A",
       fr: "Saulteaux 159A",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30063,6 +33983,7 @@ export const rates = [
       en: "Witchekan Lake 117",
       fr: "Witchekan Lake 117",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30071,6 +33992,7 @@ export const rates = [
       en: "Chitek Lake 191",
       fr: "Chitek Lake 191",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30079,6 +34001,7 @@ export const rates = [
       en: "Lucky Man",
       fr: "Lucky Man",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30087,6 +34010,7 @@ export const rates = [
       en: "Muskeg Lake 102B",
       fr: "Muskeg Lake 102B",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30095,6 +34019,7 @@ export const rates = [
       en: "Pelican Lake 191B",
       fr: "Pelican Lake 191B",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30103,6 +34028,7 @@ export const rates = [
       en: "Witchekan Lake 117D",
       fr: "Witchekan Lake 117D",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30111,6 +34037,7 @@ export const rates = [
       en: "Muskeg Lake 102E",
       fr: "Muskeg Lake 102E",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30119,6 +34046,7 @@ export const rates = [
       en: "Muskeg Lake 102F",
       fr: "Muskeg Lake 102F",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30127,6 +34055,7 @@ export const rates = [
       en: "Muskeg Lake 102D",
       fr: "Muskeg Lake 102D",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30135,6 +34064,7 @@ export const rates = [
       en: "Pelican Lake 191A",
       fr: "Pelican Lake 191A",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30143,6 +34073,7 @@ export const rates = [
       en: "Meota No. 468",
       fr: "Meota No. 468",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30151,6 +34082,7 @@ export const rates = [
       en: "Cochin",
       fr: "Cochin",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30159,6 +34091,7 @@ export const rates = [
       en: "Metinota",
       fr: "Metinota",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30167,6 +34100,7 @@ export const rates = [
       en: "Aquadeo",
       fr: "Aquadeo",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30175,6 +34109,7 @@ export const rates = [
       en: "Meota",
       fr: "Meota",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30183,6 +34118,7 @@ export const rates = [
       en: "Turtle River No. 469",
       fr: "Turtle River No. 469",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30191,6 +34127,7 @@ export const rates = [
       en: "Edam",
       fr: "Edam",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30199,6 +34136,7 @@ export const rates = [
       en: "Paynton No. 470",
       fr: "Paynton No. 470",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30207,6 +34145,7 @@ export const rates = [
       en: "Paynton",
       fr: "Paynton",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30215,6 +34154,7 @@ export const rates = [
       en: "Eldon No. 471",
       fr: "Eldon No. 471",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30223,6 +34163,7 @@ export const rates = [
       en: "Maidstone",
       fr: "Maidstone",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30231,6 +34172,7 @@ export const rates = [
       en: "Waseca",
       fr: "Waseca",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30239,6 +34181,7 @@ export const rates = [
       en: "Wilton No. 472",
       fr: "Wilton No. 472",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30247,6 +34190,7 @@ export const rates = [
       en: "Lashburn",
       fr: "Lashburn",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30255,6 +34199,7 @@ export const rates = [
       en: "Marshall",
       fr: "Marshall",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30263,6 +34208,7 @@ export const rates = [
       en: "Britannia No. 502",
       fr: "Britannia No. 502",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30271,6 +34217,7 @@ export const rates = [
       en: "Lloydminster (Part)",
       fr: "Lloydminster (Part)",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30279,6 +34226,7 @@ export const rates = [
       en: "Frenchman Butte No. 501",
       fr: "Frenchman Butte No. 501",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30287,6 +34235,7 @@ export const rates = [
       en: "Paradise Hill",
       fr: "Paradise Hill",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30295,6 +34244,7 @@ export const rates = [
       en: "St. Walburg",
       fr: "St. Walburg",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30303,6 +34253,7 @@ export const rates = [
       en: "Mervin",
       fr: "Mervin",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30311,6 +34262,7 @@ export const rates = [
       en: "Turtleford",
       fr: "Turtleford",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30319,6 +34271,7 @@ export const rates = [
       en: "Kivimaa-Moonlight Bay",
       fr: "Kivimaa-Moonlight Bay",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30327,6 +34280,7 @@ export const rates = [
       en: "Mervin No. 499",
       fr: "Mervin No. 499",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30335,6 +34289,7 @@ export const rates = [
       en: "Parkdale No. 498",
       fr: "Parkdale No. 498",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30343,6 +34298,7 @@ export const rates = [
       en: "Glaslyn",
       fr: "Glaslyn",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30351,6 +34307,7 @@ export const rates = [
       en: "Meadow Lake",
       fr: "Meadow Lake",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30359,6 +34316,7 @@ export const rates = [
       en: "Greig Lake",
       fr: "Greig Lake",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30367,6 +34325,7 @@ export const rates = [
       en: "Meadow Lake No. 588",
       fr: "Meadow Lake No. 588",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30375,6 +34334,7 @@ export const rates = [
       en: "Dorintosh",
       fr: "Dorintosh",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30383,6 +34343,7 @@ export const rates = [
       en: "Loon Lake No. 561",
       fr: "Loon Lake No. 561",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30391,6 +34352,7 @@ export const rates = [
       en: "Makwa",
       fr: "Makwa",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30399,6 +34361,7 @@ export const rates = [
       en: "Loon Lake",
       fr: "Loon Lake",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30407,6 +34370,7 @@ export const rates = [
       en: "Beaver River No. 622",
       fr: "Beaver River No. 622",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30415,6 +34379,7 @@ export const rates = [
       en: "Goodsoil",
       fr: "Goodsoil",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30423,6 +34388,7 @@ export const rates = [
       en: "Pierceland",
       fr: "Pierceland",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30431,6 +34397,7 @@ export const rates = [
       en: "Seekaskootch 119",
       fr: "Seekaskootch 119",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30439,6 +34406,7 @@ export const rates = [
       en: "Makaoo (Part) 120",
       fr: "Makaoo (Part) 120",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30447,6 +34415,7 @@ export const rates = [
       en: "Thunderchild First Nation 115B",
       fr: "Thunderchild First Nation 115B",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30455,6 +34424,7 @@ export const rates = [
       en: "Thunderchild First Nation 115C",
       fr: "Thunderchild First Nation 115C",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30463,6 +34433,7 @@ export const rates = [
       en: "Flying Dust First Nation 105",
       fr: "Flying Dust First Nation 105",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30471,6 +34442,7 @@ export const rates = [
       en: "Waterhen 130",
       fr: "Waterhen 130",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30479,6 +34451,7 @@ export const rates = [
       en: "Makwa Lake 129B",
       fr: "Makwa Lake 129B",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30487,6 +34460,7 @@ export const rates = [
       en: "Makwa Lake 129",
       fr: "Makwa Lake 129",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30495,6 +34469,7 @@ export const rates = [
       en: "Ministikwan 161",
       fr: "Ministikwan 161",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30503,6 +34478,7 @@ export const rates = [
       en: "Ministikwan 161A",
       fr: "Ministikwan 161A",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30511,6 +34487,7 @@ export const rates = [
       en: "Big Island Lake Cree Territory",
       fr: "Big Island Lake Cree Territory",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30519,6 +34496,7 @@ export const rates = [
       en: "Moosomin 112B",
       fr: "Moosomin 112B",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30527,6 +34505,7 @@ export const rates = [
       en: "Saulteaux 159",
       fr: "Saulteaux 159",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30535,6 +34514,7 @@ export const rates = [
       en: "Makwa Lake 129C",
       fr: "Makwa Lake 129C",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30543,6 +34523,7 @@ export const rates = [
       en: "Eagles Lake 165C",
       fr: "Eagles Lake 165C",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30551,6 +34532,7 @@ export const rates = [
       en: "Gladue Lake 105B",
       fr: "Gladue Lake 105B",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30559,6 +34541,7 @@ export const rates = [
       en: "Meadow Lake 105A",
       fr: "Meadow Lake 105A",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30567,6 +34550,7 @@ export const rates = [
       en: "Flying Dust First Nation 105D",
       fr: "Flying Dust First Nation 105D",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30575,6 +34559,7 @@ export const rates = [
       en: "Flying Dust First Nation 105E",
       fr: "Flying Dust First Nation 105E",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30583,6 +34568,7 @@ export const rates = [
       en: "Flying Dust First Nation 105F",
       fr: "Flying Dust First Nation 105F",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30591,6 +34577,7 @@ export const rates = [
       en: "Cumberland House",
       fr: "Cumberland House",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30599,6 +34586,7 @@ export const rates = [
       en: "Timber Bay",
       fr: "Timber Bay",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30607,6 +34595,7 @@ export const rates = [
       en: "Weyakwin",
       fr: "Weyakwin",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30615,6 +34604,7 @@ export const rates = [
       en: "Green Lake",
       fr: "Green Lake",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30623,6 +34613,7 @@ export const rates = [
       en: "Dore Lake",
       fr: "Dore Lake",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30631,6 +34622,7 @@ export const rates = [
       en: "Cole Bay",
       fr: "Cole Bay",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30639,6 +34631,7 @@ export const rates = [
       en: "Jans Bay",
       fr: "Jans Bay",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30647,6 +34640,7 @@ export const rates = [
       en: "Beauval",
       fr: "Beauval",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30655,6 +34649,7 @@ export const rates = [
       en: "La Ronge",
       fr: "La Ronge",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30663,6 +34658,7 @@ export const rates = [
       en: "Air Ronge",
       fr: "Air Ronge",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30671,6 +34667,7 @@ export const rates = [
       en: "Denare Beach",
       fr: "Denare Beach",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30679,6 +34676,7 @@ export const rates = [
       en: "Creighton",
       fr: "Creighton",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30687,6 +34685,7 @@ export const rates = [
       en: "Flin Flon (Part)",
       fr: "Flin Flon (Part)",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30695,6 +34694,7 @@ export const rates = [
       en: "Pelican Narrows",
       fr: "Pelican Narrows",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30703,6 +34703,7 @@ export const rates = [
       en: "Sandy Bay",
       fr: "Sandy Bay",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30711,6 +34712,7 @@ export const rates = [
       en: "Pinehouse",
       fr: "Pinehouse",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30719,6 +34721,7 @@ export const rates = [
       en: "Île-à-la-Crosse",
       fr: "Île-à-la-Crosse",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30727,6 +34730,7 @@ export const rates = [
       en: "Patuanak",
       fr: "Patuanak",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30735,6 +34739,7 @@ export const rates = [
       en: "Buffalo Narrows",
       fr: "Buffalo Narrows",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30743,6 +34748,7 @@ export const rates = [
       en: "St. George's Hill",
       fr: "St. George's Hill",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30751,6 +34757,7 @@ export const rates = [
       en: "Michel Village",
       fr: "Michel Village",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30759,6 +34766,7 @@ export const rates = [
       en: "La Loche",
       fr: "La Loche",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30767,6 +34775,7 @@ export const rates = [
       en: "Turnor Lake",
       fr: "Turnor Lake",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30775,6 +34784,7 @@ export const rates = [
       en: "Black Point",
       fr: "Black Point",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30783,6 +34793,7 @@ export const rates = [
       en: "Division No. 18, Unorganized",
       fr: "Division No. 18, Unorganized",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30791,6 +34802,7 @@ export const rates = [
       en: "Stony Rapids",
       fr: "Stony Rapids",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30799,6 +34811,7 @@ export const rates = [
       en: "Cumberland House Cree Nation 20",
       fr: "Cumberland House Cree Nation 20",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30807,6 +34820,7 @@ export const rates = [
       en: "Montreal Lake 106",
       fr: "Montreal Lake 106",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30815,6 +34829,7 @@ export const rates = [
       en: "Stanley 157",
       fr: "Stanley 157",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30823,6 +34838,7 @@ export const rates = [
       en: "Wapaskokimaw 202",
       fr: "Wapaskokimaw 202",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30831,6 +34847,7 @@ export const rates = [
       en: "La Plonge 192",
       fr: "La Plonge 192",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30839,6 +34856,7 @@ export const rates = [
       en: "Morin Lake 217",
       fr: "Morin Lake 217",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30847,6 +34865,7 @@ export const rates = [
       en: "Lac La Ronge 156",
       fr: "Lac La Ronge 156",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30855,6 +34874,7 @@ export const rates = [
       en: "Sucker River 156C (Nemebien River 156C)",
       fr: "Sucker River 156C (Nemebien River 156C)",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30863,6 +34883,7 @@ export const rates = [
       en: "Kitsakie 156B",
       fr: "Kitsakie 156B",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30871,6 +34892,7 @@ export const rates = [
       en: "Four Portages 157C",
       fr: "Four Portages 157C",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30879,6 +34901,7 @@ export const rates = [
       en: "Wapachewunak 192D",
       fr: "Wapachewunak 192D",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30887,6 +34910,7 @@ export const rates = [
       en: "Sturgeon Weir 205",
       fr: "Sturgeon Weir 205",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30895,6 +34919,7 @@ export const rates = [
       en: "Canoe Lake 165",
       fr: "Canoe Lake 165",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30903,6 +34928,7 @@ export const rates = [
       en: "Buffalo River Dene Nation",
       fr: "Buffalo River Dene Nation",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30911,6 +34937,7 @@ export const rates = [
       en: "Turnor Lake 193B",
       fr: "Turnor Lake 193B",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30919,6 +34946,7 @@ export const rates = [
       en: "Pelican Narrows 184B",
       fr: "Pelican Narrows 184B",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30927,6 +34955,7 @@ export const rates = [
       en: "Sturgeon Weir 184F",
       fr: "Sturgeon Weir 184F",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30935,6 +34964,7 @@ export const rates = [
       en: "Southend 200",
       fr: "Southend 200",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30943,6 +34973,7 @@ export const rates = [
       en: "Chicken 225",
       fr: "Chicken 225",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30951,6 +34982,7 @@ export const rates = [
       en: "Fond du Lac 227",
       fr: "Fond du Lac 227",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30959,6 +34991,7 @@ export const rates = [
       en: "Brabant Lake",
       fr: "Brabant Lake",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30967,6 +35000,7 @@ export const rates = [
       en: "Southend No. 200A",
       fr: "Southend No. 200A",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30975,6 +35009,7 @@ export const rates = [
       en: "Pelican Narrows 206",
       fr: "Pelican Narrows 206",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30983,6 +35018,7 @@ export const rates = [
       en: "Chicken 224",
       fr: "Chicken 224",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30991,6 +35027,7 @@ export const rates = [
       en: "Clearwater River Dene Band 223",
       fr: "Clearwater River Dene Band 223",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -30999,6 +35036,7 @@ export const rates = [
       en: "Grandmother's Bay 219",
       fr: "Grandmother's Bay 219",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -31007,6 +35045,7 @@ export const rates = [
       en: "Lac La Hache 220",
       fr: "Lac La Hache 220",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -31015,6 +35054,7 @@ export const rates = [
       en: "Clearwater River Dene 222",
       fr: "Clearwater River Dene 222",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -31023,6 +35063,7 @@ export const rates = [
       en: "Little Hills 158",
       fr: "Little Hills 158",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -31031,6 +35072,7 @@ export const rates = [
       en: "Little Hills 158B",
       fr: "Little Hills 158B",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -31039,6 +35081,7 @@ export const rates = [
       en: "Kimosom Pwatinahk 203",
       fr: "Kimosom Pwatinahk 203",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -31047,6 +35090,7 @@ export const rates = [
       en: "Kinoosao-Thomas Clark 204",
       fr: "Kinoosao-Thomas Clark 204",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -31055,6 +35099,7 @@ export const rates = [
       en: "Amiskosakahikan 210",
       fr: "Amiskosakahikan 210",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -31063,6 +35108,7 @@ export const rates = [
       en: "Wepuskow Sahgaiechan 165D",
       fr: "Wepuskow Sahgaiechan 165D",
     },
+    province: "SK",
     rates: [],
   },
   {
@@ -31071,6 +35117,7 @@ export const rates = [
       en: "Cypress County",
       fr: "Cypress County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31079,6 +35126,7 @@ export const rates = [
       en: "Medicine Hat",
       fr: "Medicine Hat",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31087,6 +35135,7 @@ export const rates = [
       en: "Forty Mile County No. 8",
       fr: "Forty Mile County No. 8",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31095,6 +35144,7 @@ export const rates = [
       en: "Foremost",
       fr: "Foremost",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31103,6 +35153,7 @@ export const rates = [
       en: "Bow Island",
       fr: "Bow Island",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31111,6 +35162,7 @@ export const rates = [
       en: "Redcliff",
       fr: "Redcliff",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31119,6 +35171,7 @@ export const rates = [
       en: "Warner County No. 5",
       fr: "Warner County No. 5",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31127,6 +35180,7 @@ export const rates = [
       en: "Coutts",
       fr: "Coutts",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31135,6 +35189,7 @@ export const rates = [
       en: "Milk River",
       fr: "Milk River",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31143,6 +35198,7 @@ export const rates = [
       en: "Warner",
       fr: "Warner",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31151,6 +35207,7 @@ export const rates = [
       en: "Raymond",
       fr: "Raymond",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31159,6 +35216,7 @@ export const rates = [
       en: "Stirling",
       fr: "Stirling",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31167,6 +35225,7 @@ export const rates = [
       en: "Lethbridge County",
       fr: "Lethbridge County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31175,6 +35234,7 @@ export const rates = [
       en: "Lethbridge",
       fr: "Lethbridge",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31183,6 +35243,7 @@ export const rates = [
       en: "Coalhurst",
       fr: "Coalhurst",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31191,6 +35252,7 @@ export const rates = [
       en: "Nobleford",
       fr: "Nobleford",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31199,6 +35261,7 @@ export const rates = [
       en: "Barons",
       fr: "Barons",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31207,6 +35270,7 @@ export const rates = [
       en: "Picture Butte",
       fr: "Picture Butte",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31215,6 +35279,7 @@ export const rates = [
       en: "Coaldale",
       fr: "Coaldale",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31223,6 +35288,7 @@ export const rates = [
       en: "Taber",
       fr: "Taber",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31231,6 +35297,7 @@ export const rates = [
       en: "Taber",
       fr: "Taber",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31239,6 +35306,7 @@ export const rates = [
       en: "Barnwell",
       fr: "Barnwell",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31247,6 +35315,7 @@ export const rates = [
       en: "Vauxhall",
       fr: "Vauxhall",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31255,6 +35324,7 @@ export const rates = [
       en: "Newell County",
       fr: "Newell County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31263,6 +35333,7 @@ export const rates = [
       en: "Brooks",
       fr: "Brooks",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31271,6 +35342,7 @@ export const rates = [
       en: "Duchess",
       fr: "Duchess",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31279,6 +35351,7 @@ export const rates = [
       en: "Rosemary",
       fr: "Rosemary",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31287,6 +35360,7 @@ export const rates = [
       en: "Bassano",
       fr: "Bassano",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31295,6 +35369,7 @@ export const rates = [
       en: "Cardston County",
       fr: "Cardston County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31303,6 +35378,7 @@ export const rates = [
       en: "Magrath",
       fr: "Magrath",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31311,6 +35387,7 @@ export const rates = [
       en: "Improvement District No. 4 Waterton",
       fr: "Improvement District No. 4 Waterton",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31319,6 +35396,7 @@ export const rates = [
       en: "Cardston",
       fr: "Cardston",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31327,6 +35405,7 @@ export const rates = [
       en: "Glenwood",
       fr: "Glenwood",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31335,6 +35414,7 @@ export const rates = [
       en: "Hill Spring",
       fr: "Hill Spring",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31343,6 +35423,7 @@ export const rates = [
       en: "Pincher Creek No. 9",
       fr: "Pincher Creek No. 9",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31351,6 +35432,7 @@ export const rates = [
       en: "Pincher Creek",
       fr: "Pincher Creek",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31359,6 +35441,7 @@ export const rates = [
       en: "Cowley",
       fr: "Cowley",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31367,6 +35450,7 @@ export const rates = [
       en: "Willow Creek No. 26",
       fr: "Willow Creek No. 26",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31375,6 +35459,7 @@ export const rates = [
       en: "Fort Macleod",
       fr: "Fort Macleod",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31383,6 +35468,7 @@ export const rates = [
       en: "Claresholm",
       fr: "Claresholm",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31391,6 +35477,7 @@ export const rates = [
       en: "Stavely",
       fr: "Stavely",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31399,6 +35486,7 @@ export const rates = [
       en: "Nanton",
       fr: "Nanton",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31407,6 +35495,7 @@ export const rates = [
       en: "Piikani 147",
       fr: "Piikani 147",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31415,6 +35504,7 @@ export const rates = [
       en: "Blood 148",
       fr: "Blood 148",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31423,6 +35513,7 @@ export const rates = [
       en: "Blood 148A",
       fr: "Blood 148A",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31431,6 +35522,7 @@ export const rates = [
       en: '"Peigan Timber Limit ""B"""',
       fr: '"Peigan Timber Limit ""B"""',
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31439,6 +35531,7 @@ export const rates = [
       en: "Acadia No. 34",
       fr: "Acadia No. 34",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31447,6 +35540,7 @@ export const rates = [
       en: "Special Area No. 2",
       fr: "Special Area No. 2",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31455,6 +35549,7 @@ export const rates = [
       en: "Empress",
       fr: "Empress",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31463,6 +35558,7 @@ export const rates = [
       en: "Hanna",
       fr: "Hanna",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31471,6 +35567,7 @@ export const rates = [
       en: "Special Area No. 3",
       fr: "Special Area No. 3",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31479,6 +35576,7 @@ export const rates = [
       en: "Oyen",
       fr: "Oyen",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31487,6 +35585,7 @@ export const rates = [
       en: "Youngstown",
       fr: "Youngstown",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31495,6 +35594,7 @@ export const rates = [
       en: "Special Area No. 4",
       fr: "Special Area No. 4",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31503,6 +35603,7 @@ export const rates = [
       en: "Veteran",
       fr: "Veteran",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31511,6 +35612,7 @@ export const rates = [
       en: "Consort",
       fr: "Consort",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31519,6 +35621,7 @@ export const rates = [
       en: "Vulcan County",
       fr: "Vulcan County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31527,6 +35630,7 @@ export const rates = [
       en: "Carmangay",
       fr: "Carmangay",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31535,6 +35639,7 @@ export const rates = [
       en: "Champion",
       fr: "Champion",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31543,6 +35648,7 @@ export const rates = [
       en: "Vulcan",
       fr: "Vulcan",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31551,6 +35657,7 @@ export const rates = [
       en: "Lomond",
       fr: "Lomond",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31559,6 +35666,7 @@ export const rates = [
       en: "Milo",
       fr: "Milo",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31567,6 +35675,7 @@ export const rates = [
       en: "Arrowwood",
       fr: "Arrowwood",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31575,6 +35684,7 @@ export const rates = [
       en: "Wheatland County",
       fr: "Wheatland County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31583,6 +35693,7 @@ export const rates = [
       en: "Strathmore",
       fr: "Strathmore",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31591,6 +35702,7 @@ export const rates = [
       en: "Hussar",
       fr: "Hussar",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31599,6 +35711,7 @@ export const rates = [
       en: "Standard",
       fr: "Standard",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31607,6 +35720,7 @@ export const rates = [
       en: "Rockyford",
       fr: "Rockyford",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31615,6 +35729,7 @@ export const rates = [
       en: "Drumheller",
       fr: "Drumheller",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31623,6 +35738,7 @@ export const rates = [
       en: "Starland County",
       fr: "Starland County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31631,6 +35747,7 @@ export const rates = [
       en: "Delia",
       fr: "Delia",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31639,6 +35756,7 @@ export const rates = [
       en: "Munson",
       fr: "Munson",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31647,6 +35765,7 @@ export const rates = [
       en: "Morrin",
       fr: "Morrin",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31655,6 +35774,7 @@ export const rates = [
       en: "Kneehill County",
       fr: "Kneehill County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31663,6 +35783,7 @@ export const rates = [
       en: "Carbon",
       fr: "Carbon",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31671,6 +35792,7 @@ export const rates = [
       en: "Acme",
       fr: "Acme",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31679,6 +35801,7 @@ export const rates = [
       en: "Linden",
       fr: "Linden",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31687,6 +35810,7 @@ export const rates = [
       en: "Three Hills",
       fr: "Three Hills",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31695,6 +35819,7 @@ export const rates = [
       en: "Trochu",
       fr: "Trochu",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31703,6 +35828,7 @@ export const rates = [
       en: "Siksika 146",
       fr: "Siksika 146",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31711,6 +35837,7 @@ export const rates = [
       en: "Foothills County",
       fr: "Foothills County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31719,6 +35846,7 @@ export const rates = [
       en: "High River",
       fr: "High River",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31727,6 +35855,7 @@ export const rates = [
       en: "Longview",
       fr: "Longview",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31735,6 +35864,7 @@ export const rates = [
       en: "Turner Valley",
       fr: "Turner Valley",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31743,6 +35873,7 @@ export const rates = [
       en: "Black Diamond",
       fr: "Black Diamond",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31751,6 +35882,7 @@ export const rates = [
       en: "Okotoks",
       fr: "Okotoks",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31759,6 +35891,7 @@ export const rates = [
       en: "Rocky View County",
       fr: "Rocky View County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31767,6 +35900,7 @@ export const rates = [
       en: "Calgary",
       fr: "Calgary",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31775,6 +35909,7 @@ export const rates = [
       en: "Chestermere",
       fr: "Chestermere",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31783,6 +35918,7 @@ export const rates = [
       en: "Cochrane",
       fr: "Cochrane",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31791,6 +35927,7 @@ export const rates = [
       en: "Airdrie",
       fr: "Airdrie",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31799,6 +35936,7 @@ export const rates = [
       en: "Irricana",
       fr: "Irricana",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31807,6 +35945,7 @@ export const rates = [
       en: "Beiseker",
       fr: "Beiseker",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31815,6 +35954,7 @@ export const rates = [
       en: "Crossfield",
       fr: "Crossfield",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31823,6 +35963,7 @@ export const rates = [
       en: "Mountain View County",
       fr: "Mountain View County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31831,6 +35972,7 @@ export const rates = [
       en: "Carstairs",
       fr: "Carstairs",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31839,6 +35981,7 @@ export const rates = [
       en: "Cremona",
       fr: "Cremona",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31847,6 +35990,7 @@ export const rates = [
       en: "Didsbury",
       fr: "Didsbury",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31855,6 +35999,7 @@ export const rates = [
       en: "Olds",
       fr: "Olds",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31863,6 +36008,7 @@ export const rates = [
       en: "Sundre",
       fr: "Sundre",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31871,6 +36017,7 @@ export const rates = [
       en: "Eden Valley 216",
       fr: "Eden Valley 216",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31879,6 +36026,7 @@ export const rates = [
       en: "Tsuu T'ina Nation 145",
       fr: "Tsuu T'ina Nation 145",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31887,6 +36035,7 @@ export const rates = [
       en: "Provost No. 52",
       fr: "Provost No. 52",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31895,6 +36044,7 @@ export const rates = [
       en: "Provost",
       fr: "Provost",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31903,6 +36053,7 @@ export const rates = [
       en: "Czar",
       fr: "Czar",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31911,6 +36062,7 @@ export const rates = [
       en: "Hughenden",
       fr: "Hughenden",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31919,6 +36071,7 @@ export const rates = [
       en: "Amisk",
       fr: "Amisk",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31927,6 +36080,7 @@ export const rates = [
       en: "Paintearth County No. 18",
       fr: "Paintearth County No. 18",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31935,6 +36089,7 @@ export const rates = [
       en: "Coronation",
       fr: "Coronation",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31943,6 +36098,7 @@ export const rates = [
       en: "Castor",
       fr: "Castor",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31951,6 +36107,7 @@ export const rates = [
       en: "Halkirk",
       fr: "Halkirk",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31959,6 +36116,7 @@ export const rates = [
       en: "Stettler County No. 6",
       fr: "Stettler County No. 6",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31967,6 +36125,7 @@ export const rates = [
       en: "Big Valley",
       fr: "Big Valley",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31975,6 +36134,7 @@ export const rates = [
       en: "Stettler",
       fr: "Stettler",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31983,6 +36143,7 @@ export const rates = [
       en: "White Sands",
       fr: "White Sands",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31991,6 +36152,7 @@ export const rates = [
       en: "Rochon Sands",
       fr: "Rochon Sands",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -31999,6 +36161,7 @@ export const rates = [
       en: "Donalda",
       fr: "Donalda",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32007,6 +36170,7 @@ export const rates = [
       en: "Flagstaff County",
       fr: "Flagstaff County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32015,6 +36179,7 @@ export const rates = [
       en: "Alliance",
       fr: "Alliance",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32023,6 +36188,7 @@ export const rates = [
       en: "Forestburg",
       fr: "Forestburg",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32031,6 +36197,7 @@ export const rates = [
       en: "Heisler",
       fr: "Heisler",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32039,6 +36206,7 @@ export const rates = [
       en: "Daysland",
       fr: "Daysland",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32047,6 +36215,7 @@ export const rates = [
       en: "Killam",
       fr: "Killam",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32055,6 +36224,7 @@ export const rates = [
       en: "Sedgewick",
       fr: "Sedgewick",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32063,6 +36233,7 @@ export const rates = [
       en: "Lougheed",
       fr: "Lougheed",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32071,6 +36242,7 @@ export const rates = [
       en: "Hardisty",
       fr: "Hardisty",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32079,6 +36251,7 @@ export const rates = [
       en: "Wainwright No. 61",
       fr: "Wainwright No. 61",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32087,6 +36260,7 @@ export const rates = [
       en: "Chauvin",
       fr: "Chauvin",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32095,6 +36269,7 @@ export const rates = [
       en: "Edgerton",
       fr: "Edgerton",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32103,6 +36278,7 @@ export const rates = [
       en: "Wainwright",
       fr: "Wainwright",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32111,6 +36287,7 @@ export const rates = [
       en: "Irma",
       fr: "Irma",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32119,6 +36296,7 @@ export const rates = [
       en: "Red Deer County",
       fr: "Red Deer County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32127,6 +36305,7 @@ export const rates = [
       en: "Elnora",
       fr: "Elnora",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32135,6 +36314,7 @@ export const rates = [
       en: "Delburne",
       fr: "Delburne",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32143,6 +36323,7 @@ export const rates = [
       en: "Jarvis Bay",
       fr: "Jarvis Bay",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32151,6 +36332,7 @@ export const rates = [
       en: "Bowden",
       fr: "Bowden",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32159,6 +36341,7 @@ export const rates = [
       en: "Innisfail",
       fr: "Innisfail",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32167,6 +36350,7 @@ export const rates = [
       en: "Penhold",
       fr: "Penhold",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32175,6 +36359,7 @@ export const rates = [
       en: "Red Deer",
       fr: "Red Deer",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32183,6 +36368,7 @@ export const rates = [
       en: "Sylvan Lake",
       fr: "Sylvan Lake",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32191,6 +36377,7 @@ export const rates = [
       en: "Norglenwold",
       fr: "Norglenwold",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32199,6 +36386,7 @@ export const rates = [
       en: "Lacombe County",
       fr: "Lacombe County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32207,6 +36395,7 @@ export const rates = [
       en: "Birchcliff",
       fr: "Birchcliff",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32215,6 +36404,7 @@ export const rates = [
       en: "Eckville",
       fr: "Eckville",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32223,6 +36413,7 @@ export const rates = [
       en: "Half Moon Bay",
       fr: "Half Moon Bay",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32231,6 +36422,7 @@ export const rates = [
       en: "Bentley",
       fr: "Bentley",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32239,6 +36431,7 @@ export const rates = [
       en: "Sunbreaker Cove",
       fr: "Sunbreaker Cove",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32247,6 +36440,7 @@ export const rates = [
       en: "Gull Lake",
       fr: "Gull Lake",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32255,6 +36449,7 @@ export const rates = [
       en: "Blackfalds",
       fr: "Blackfalds",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32263,6 +36458,7 @@ export const rates = [
       en: "Lacombe",
       fr: "Lacombe",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32271,6 +36467,7 @@ export const rates = [
       en: "Clive",
       fr: "Clive",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32279,6 +36476,7 @@ export const rates = [
       en: "Alix",
       fr: "Alix",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32287,6 +36485,7 @@ export const rates = [
       en: "Ponoka County",
       fr: "Ponoka County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32295,6 +36494,7 @@ export const rates = [
       en: "Ponoka",
       fr: "Ponoka",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32303,6 +36503,7 @@ export const rates = [
       en: "Parkland Beach",
       fr: "Parkland Beach",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32311,6 +36512,7 @@ export const rates = [
       en: "Rimbey",
       fr: "Rimbey",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32319,6 +36521,7 @@ export const rates = [
       en: "Samson 137",
       fr: "Samson 137",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32327,6 +36530,7 @@ export const rates = [
       en: "Samson 137A",
       fr: "Samson 137A",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32335,6 +36539,7 @@ export const rates = [
       en: "Montana 139",
       fr: "Montana 139",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32343,6 +36548,7 @@ export const rates = [
       en: "Clearwater County",
       fr: "Clearwater County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32351,6 +36557,7 @@ export const rates = [
       en: "Burnstick Lake",
       fr: "Burnstick Lake",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32359,6 +36566,7 @@ export const rates = [
       en: "Caroline",
       fr: "Caroline",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32367,6 +36575,7 @@ export const rates = [
       en: "Rocky Mountain House",
       fr: "Rocky Mountain House",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32375,6 +36584,7 @@ export const rates = [
       en: "O'Chiese 203",
       fr: "O'Chiese 203",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32383,6 +36593,7 @@ export const rates = [
       en: "Sunchild 202",
       fr: "Sunchild 202",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32391,6 +36602,7 @@ export const rates = [
       en: "Big Horn 144A",
       fr: "Big Horn 144A",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32399,6 +36611,7 @@ export const rates = [
       en: "Camrose County",
       fr: "Camrose County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32407,6 +36620,7 @@ export const rates = [
       en: "Bashaw",
       fr: "Bashaw",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32415,6 +36629,7 @@ export const rates = [
       en: "Rosalind",
       fr: "Rosalind",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32423,6 +36638,7 @@ export const rates = [
       en: "Edberg",
       fr: "Edberg",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32431,6 +36647,7 @@ export const rates = [
       en: "Bawlf",
       fr: "Bawlf",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32439,6 +36656,7 @@ export const rates = [
       en: "Camrose",
       fr: "Camrose",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32447,6 +36665,7 @@ export const rates = [
       en: "Bittern Lake",
       fr: "Bittern Lake",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32455,6 +36674,7 @@ export const rates = [
       en: "Hay Lakes",
       fr: "Hay Lakes",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32463,6 +36683,7 @@ export const rates = [
       en: "Beaver County",
       fr: "Beaver County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32471,6 +36692,7 @@ export const rates = [
       en: "Tofield",
       fr: "Tofield",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32479,6 +36701,7 @@ export const rates = [
       en: "Ryley",
       fr: "Ryley",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32487,6 +36710,7 @@ export const rates = [
       en: "Holden",
       fr: "Holden",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32495,6 +36719,7 @@ export const rates = [
       en: "Viking",
       fr: "Viking",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32503,6 +36728,7 @@ export const rates = [
       en: "Minburn County No. 27",
       fr: "Minburn County No. 27",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32511,6 +36737,7 @@ export const rates = [
       en: "Vegreville",
       fr: "Vegreville",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32519,6 +36746,7 @@ export const rates = [
       en: "Innisfree",
       fr: "Innisfree",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32527,6 +36755,7 @@ export const rates = [
       en: "Mannville",
       fr: "Mannville",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32535,6 +36764,7 @@ export const rates = [
       en: "Vermilion River County",
       fr: "Vermilion River County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32543,6 +36773,7 @@ export const rates = [
       en: "Paradise Valley",
       fr: "Paradise Valley",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32551,6 +36782,7 @@ export const rates = [
       en: "Lloydminster (Part)",
       fr: "Lloydminster (Part)",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32559,6 +36791,7 @@ export const rates = [
       en: "Kitscoty",
       fr: "Kitscoty",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32567,6 +36800,7 @@ export const rates = [
       en: "Vermilion",
       fr: "Vermilion",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32575,6 +36809,7 @@ export const rates = [
       en: "Marwayne",
       fr: "Marwayne",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32583,6 +36818,7 @@ export const rates = [
       en: "Two Hills County No. 21",
       fr: "Two Hills County No. 21",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32591,6 +36827,7 @@ export const rates = [
       en: "Myrnam",
       fr: "Myrnam",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32599,6 +36836,7 @@ export const rates = [
       en: "Two Hills",
       fr: "Two Hills",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32607,6 +36845,7 @@ export const rates = [
       en: "Lamont County",
       fr: "Lamont County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32615,6 +36854,7 @@ export const rates = [
       en: "Andrew",
       fr: "Andrew",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32623,6 +36863,7 @@ export const rates = [
       en: "Mundare",
       fr: "Mundare",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32631,6 +36872,7 @@ export const rates = [
       en: "Chipman",
       fr: "Chipman",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32639,6 +36881,7 @@ export const rates = [
       en: "Lamont",
       fr: "Lamont",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32647,6 +36890,7 @@ export const rates = [
       en: "Bruderheim",
       fr: "Bruderheim",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32655,6 +36899,7 @@ export const rates = [
       en: "Improvement District No. 13 Elk Island",
       fr: "Improvement District No. 13 Elk Island",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32663,6 +36908,7 @@ export const rates = [
       en: "Makaoo (Part) 120",
       fr: "Makaoo (Part) 120",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32671,6 +36917,7 @@ export const rates = [
       en: "Wetaskiwin County No. 10",
       fr: "Wetaskiwin County No. 10",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32679,6 +36926,7 @@ export const rates = [
       en: "Wetaskiwin",
       fr: "Wetaskiwin",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32687,6 +36935,7 @@ export const rates = [
       en: "Argentia Beach",
       fr: "Argentia Beach",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32695,6 +36944,7 @@ export const rates = [
       en: "Grandview",
       fr: "Grandview",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32703,6 +36953,7 @@ export const rates = [
       en: "Poplar Bay",
       fr: "Poplar Bay",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32711,6 +36962,7 @@ export const rates = [
       en: "Crystal Springs",
       fr: "Crystal Springs",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32719,6 +36971,7 @@ export const rates = [
       en: "Norris Beach",
       fr: "Norris Beach",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32727,6 +36980,7 @@ export const rates = [
       en: "Ma-Me-O Beach",
       fr: "Ma-Me-O Beach",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32735,6 +36989,7 @@ export const rates = [
       en: "Silver Beach",
       fr: "Silver Beach",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32743,6 +36998,7 @@ export const rates = [
       en: "Millet",
       fr: "Millet",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32751,6 +37007,7 @@ export const rates = [
       en: "Leduc County",
       fr: "Leduc County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32759,6 +37016,7 @@ export const rates = [
       en: "Beaumont",
       fr: "Beaumont",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32767,6 +37025,7 @@ export const rates = [
       en: "Leduc",
       fr: "Leduc",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32775,6 +37034,7 @@ export const rates = [
       en: "Devon",
       fr: "Devon",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32783,6 +37043,7 @@ export const rates = [
       en: "Calmar",
       fr: "Calmar",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32791,6 +37052,7 @@ export const rates = [
       en: "Sundance Beach",
       fr: "Sundance Beach",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32799,6 +37061,7 @@ export const rates = [
       en: "Thorsby",
       fr: "Thorsby",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32807,6 +37070,7 @@ export const rates = [
       en: "Itaska Beach",
       fr: "Itaska Beach",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32815,6 +37079,7 @@ export const rates = [
       en: "Golden Days",
       fr: "Golden Days",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32823,6 +37088,7 @@ export const rates = [
       en: "Warburg",
       fr: "Warburg",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32831,6 +37097,7 @@ export const rates = [
       en: "Breton",
       fr: "Breton",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32839,6 +37106,7 @@ export const rates = [
       en: "Drayton Valley",
       fr: "Drayton Valley",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32847,6 +37115,7 @@ export const rates = [
       en: "Brazeau County",
       fr: "Brazeau County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32855,6 +37124,7 @@ export const rates = [
       en: "Parkland County",
       fr: "Parkland County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32863,6 +37133,7 @@ export const rates = [
       en: "Seba Beach",
       fr: "Seba Beach",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32871,6 +37142,7 @@ export const rates = [
       en: "Betula Beach",
       fr: "Betula Beach",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32879,6 +37151,7 @@ export const rates = [
       en: "Point Alison",
       fr: "Point Alison",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32887,6 +37160,7 @@ export const rates = [
       en: "Lakeview",
       fr: "Lakeview",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32895,6 +37169,7 @@ export const rates = [
       en: "Kapasiwin",
       fr: "Kapasiwin",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32903,6 +37178,7 @@ export const rates = [
       en: "Spring Lake",
       fr: "Spring Lake",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32911,6 +37187,7 @@ export const rates = [
       en: "Stony Plain",
       fr: "Stony Plain",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32919,6 +37196,7 @@ export const rates = [
       en: "Spruce Grove",
       fr: "Spruce Grove",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32927,6 +37205,7 @@ export const rates = [
       en: "Strathcona County",
       fr: "Strathcona County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32935,6 +37214,7 @@ export const rates = [
       en: "Fort Saskatchewan",
       fr: "Fort Saskatchewan",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32943,6 +37223,7 @@ export const rates = [
       en: "Sturgeon County",
       fr: "Sturgeon County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32951,6 +37232,7 @@ export const rates = [
       en: "Edmonton",
       fr: "Edmonton",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32959,6 +37241,7 @@ export const rates = [
       en: "St. Albert",
       fr: "St. Albert",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32967,6 +37250,7 @@ export const rates = [
       en: "Gibbons",
       fr: "Gibbons",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32975,6 +37259,7 @@ export const rates = [
       en: "Redwater",
       fr: "Redwater",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32983,6 +37268,7 @@ export const rates = [
       en: "Bon Accord",
       fr: "Bon Accord",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32991,6 +37277,7 @@ export const rates = [
       en: "Morinville",
       fr: "Morinville",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -32999,6 +37286,7 @@ export const rates = [
       en: "Legal",
       fr: "Legal",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33007,6 +37295,7 @@ export const rates = [
       en: "Ermineskin 138",
       fr: "Ermineskin 138",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33015,6 +37304,7 @@ export const rates = [
       en: "Pigeon Lake 138A",
       fr: "Pigeon Lake 138A",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33023,6 +37313,7 @@ export const rates = [
       en: "Louis Bull 138B",
       fr: "Louis Bull 138B",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33031,6 +37322,7 @@ export const rates = [
       en: "Enoch Cree Nation",
       fr: "Enoch Cree Nation",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33039,6 +37331,7 @@ export const rates = [
       en: "Alexander 134",
       fr: "Alexander 134",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33047,6 +37340,7 @@ export const rates = [
       en: "Wabamun 133A",
       fr: "Wabamun 133A",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33055,6 +37349,7 @@ export const rates = [
       en: "Wabamun 133B",
       fr: "Wabamun 133B",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33063,6 +37358,7 @@ export const rates = [
       en: "Cold Lake",
       fr: "Cold Lake",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33071,6 +37367,7 @@ export const rates = [
       en: "Bonnyville No. 87",
       fr: "Bonnyville No. 87",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33079,6 +37376,7 @@ export const rates = [
       en: "Bonnyville",
       fr: "Bonnyville",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33087,6 +37385,7 @@ export const rates = [
       en: "Bonnyville Beach",
       fr: "Bonnyville Beach",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33095,6 +37394,7 @@ export const rates = [
       en: "Glendon",
       fr: "Glendon",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33103,6 +37403,7 @@ export const rates = [
       en: "Pelican Narrows",
       fr: "Pelican Narrows",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33111,6 +37412,7 @@ export const rates = [
       en: "St. Paul County No. 19",
       fr: "St. Paul County No. 19",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33119,6 +37421,7 @@ export const rates = [
       en: "Elk Point",
       fr: "Elk Point",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33127,6 +37430,7 @@ export const rates = [
       en: "St. Paul",
       fr: "St. Paul",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33135,6 +37439,7 @@ export const rates = [
       en: "Horseshoe Bay",
       fr: "Horseshoe Bay",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33143,6 +37448,7 @@ export const rates = [
       en: "Smoky Lake County",
       fr: "Smoky Lake County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33151,6 +37457,7 @@ export const rates = [
       en: "Vilna",
       fr: "Vilna",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33159,6 +37466,7 @@ export const rates = [
       en: "Waskatenau",
       fr: "Waskatenau",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33167,6 +37475,7 @@ export const rates = [
       en: "Smoky Lake",
       fr: "Smoky Lake",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33175,6 +37484,7 @@ export const rates = [
       en: "Lac la Biche County",
       fr: "Lac la Biche County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33183,6 +37493,7 @@ export const rates = [
       en: "Improvement District No. 349",
       fr: "Improvement District No. 349",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33191,6 +37502,7 @@ export const rates = [
       en: "Unipouheos 121",
       fr: "Unipouheos 121",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33199,6 +37511,7 @@ export const rates = [
       en: "Puskiakiwenin 122",
       fr: "Puskiakiwenin 122",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33207,6 +37520,7 @@ export const rates = [
       en: "Saddle Lake 125",
       fr: "Saddle Lake 125",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33215,6 +37529,7 @@ export const rates = [
       en: "White Fish Lake 128",
       fr: "White Fish Lake 128",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33223,6 +37538,7 @@ export const rates = [
       en: "Cold Lake 149",
       fr: "Cold Lake 149",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33231,6 +37547,7 @@ export const rates = [
       en: "Kehewin 123",
       fr: "Kehewin 123",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33239,6 +37556,7 @@ export const rates = [
       en: "Cold Lake 149A",
       fr: "Cold Lake 149A",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33247,6 +37565,7 @@ export const rates = [
       en: "Cold Lake 149B",
       fr: "Cold Lake 149B",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33255,6 +37574,7 @@ export const rates = [
       en: "Beaver Lake 131",
       fr: "Beaver Lake 131",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33263,6 +37583,7 @@ export const rates = [
       en: "Heart Lake 167",
       fr: "Heart Lake 167",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33271,6 +37592,7 @@ export const rates = [
       en: "Lac Ste. Anne County",
       fr: "Lac Ste. Anne County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33279,6 +37601,7 @@ export const rates = [
       en: "Mayerthorpe",
       fr: "Mayerthorpe",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33287,6 +37610,7 @@ export const rates = [
       en: "Nakamun Park",
       fr: "Nakamun Park",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33295,6 +37619,7 @@ export const rates = [
       en: "Val Quentin",
       fr: "Val Quentin",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33303,6 +37628,7 @@ export const rates = [
       en: "West Cove",
       fr: "West Cove",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33311,6 +37637,7 @@ export const rates = [
       en: "Yellowstone",
       fr: "Yellowstone",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33319,6 +37646,7 @@ export const rates = [
       en: "Ross Haven",
       fr: "Ross Haven",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33327,6 +37655,7 @@ export const rates = [
       en: "Castle Island",
       fr: "Castle Island",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33335,6 +37664,7 @@ export const rates = [
       en: "Silver Sands",
       fr: "Silver Sands",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33343,6 +37673,7 @@ export const rates = [
       en: "Sunset Point",
       fr: "Sunset Point",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33351,6 +37682,7 @@ export const rates = [
       en: "Alberta Beach",
       fr: "Alberta Beach",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33359,6 +37691,7 @@ export const rates = [
       en: "Birch Cove",
       fr: "Birch Cove",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33367,6 +37700,7 @@ export const rates = [
       en: "Onoway",
       fr: "Onoway",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33375,6 +37709,7 @@ export const rates = [
       en: "South View",
       fr: "South View",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33383,6 +37718,7 @@ export const rates = [
       en: "Sandy Beach",
       fr: "Sandy Beach",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33391,6 +37727,7 @@ export const rates = [
       en: "Sunrise Beach",
       fr: "Sunrise Beach",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33399,6 +37736,7 @@ export const rates = [
       en: "Barrhead County No. 11",
       fr: "Barrhead County No. 11",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33407,6 +37745,7 @@ export const rates = [
       en: "Barrhead",
       fr: "Barrhead",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33415,6 +37754,7 @@ export const rates = [
       en: "Westlock County",
       fr: "Westlock County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33423,6 +37763,7 @@ export const rates = [
       en: "Woodlands County",
       fr: "Woodlands County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33431,6 +37772,7 @@ export const rates = [
       en: "Whitecourt",
       fr: "Whitecourt",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33439,6 +37781,7 @@ export const rates = [
       en: "Westlock",
       fr: "Westlock",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33447,6 +37790,7 @@ export const rates = [
       en: "Clyde",
       fr: "Clyde",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33455,6 +37799,7 @@ export const rates = [
       en: "Larkspur",
       fr: "Larkspur",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33463,6 +37808,7 @@ export const rates = [
       en: "Thorhild County",
       fr: "Thorhild County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33471,6 +37817,7 @@ export const rates = [
       en: "Athabasca County",
       fr: "Athabasca County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33479,6 +37826,7 @@ export const rates = [
       en: "Mewatha Beach",
       fr: "Mewatha Beach",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33487,6 +37835,7 @@ export const rates = [
       en: "Boyle",
       fr: "Boyle",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33495,6 +37844,7 @@ export const rates = [
       en: "Sunset Beach",
       fr: "Sunset Beach",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33503,6 +37853,7 @@ export const rates = [
       en: "Athabasca",
       fr: "Athabasca",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33511,6 +37862,7 @@ export const rates = [
       en: "Island Lake",
       fr: "Island Lake",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33519,6 +37871,7 @@ export const rates = [
       en: "Island Lake South",
       fr: "Island Lake South",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33527,6 +37880,7 @@ export const rates = [
       en: "Bondiss",
       fr: "Bondiss",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33535,6 +37889,7 @@ export const rates = [
       en: "South Baptiste",
       fr: "South Baptiste",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33543,6 +37898,7 @@ export const rates = [
       en: "West Baptiste",
       fr: "West Baptiste",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33551,6 +37907,7 @@ export const rates = [
       en: "Whispering Hills",
       fr: "Whispering Hills",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33559,6 +37916,7 @@ export const rates = [
       en: "Alexis 133",
       fr: "Alexis 133",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33567,6 +37925,7 @@ export const rates = [
       en: "Alexander 134B",
       fr: "Alexander 134B",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33575,6 +37934,7 @@ export const rates = [
       en: "Alexis Whitecourt 232",
       fr: "Alexis Whitecourt 232",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33583,6 +37943,7 @@ export const rates = [
       en: "Yellowhead County",
       fr: "Yellowhead County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33591,6 +37952,7 @@ export const rates = [
       en: "Hinton",
       fr: "Hinton",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33599,6 +37961,7 @@ export const rates = [
       en: "Edson",
       fr: "Edson",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33607,6 +37970,7 @@ export const rates = [
       en: "Improvement District No. 25 Willmore Wilderness",
       fr: "Improvement District No. 25 Willmore Wilderness",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33615,6 +37979,7 @@ export const rates = [
       en: "Crowsnest Pass",
       fr: "Crowsnest Pass",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33623,6 +37988,7 @@ export const rates = [
       en: "Kananaskis",
       fr: "Kananaskis",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33631,6 +37997,7 @@ export const rates = [
       en: "Bighorn No. 8",
       fr: "Bighorn No. 8",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33639,6 +38006,7 @@ export const rates = [
       en: "Canmore",
       fr: "Canmore",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33647,6 +38015,7 @@ export const rates = [
       en: "Ghost Lake",
       fr: "Ghost Lake",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33655,6 +38024,7 @@ export const rates = [
       en: "Waiparous",
       fr: "Waiparous",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33663,6 +38033,7 @@ export const rates = [
       en: "Improvement District No. 9 Banff",
       fr: "Improvement District No. 9 Banff",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33671,6 +38042,7 @@ export const rates = [
       en: "Jasper",
       fr: "Jasper",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33679,6 +38051,7 @@ export const rates = [
       en: "Banff",
       fr: "Banff",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33687,6 +38060,7 @@ export const rates = [
       en: "Improvement District No. 12 Jasper Park",
       fr: "Improvement District No. 12 Jasper Park",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33695,6 +38069,7 @@ export const rates = [
       en: "Ranchland No. 66",
       fr: "Ranchland No. 66",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33703,6 +38078,7 @@ export const rates = [
       en: "Stoney 142, 143, 144",
       fr: "Stoney 142, 143, 144",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33711,6 +38087,7 @@ export const rates = [
       en: "Stoney 142B",
       fr: "Stoney 142B",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33719,6 +38096,7 @@ export const rates = [
       en: "Wood Buffalo",
       fr: "Wood Buffalo",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33727,6 +38105,7 @@ export const rates = [
       en: "Improvement District No. 24 Wood Buffalo",
       fr: "Improvement District No. 24 Wood Buffalo",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33735,6 +38114,7 @@ export const rates = [
       en: "Fort Mckay 174",
       fr: "Fort Mckay 174",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33743,6 +38123,7 @@ export const rates = [
       en: "Janvier 194",
       fr: "Janvier 194",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33751,6 +38132,7 @@ export const rates = [
       en: "Gregoire Lake 176",
       fr: "Gregoire Lake 176",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33759,6 +38141,7 @@ export const rates = [
       en: "Gregoire Lake 176A",
       fr: "Gregoire Lake 176A",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33767,6 +38150,7 @@ export const rates = [
       en: "Old Fort 217",
       fr: "Old Fort 217",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33775,6 +38159,7 @@ export const rates = [
       en: "Allison Bay 219",
       fr: "Allison Bay 219",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33783,6 +38168,7 @@ export const rates = [
       en: "Dog Head 218",
       fr: "Dog Head 218",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33791,6 +38177,7 @@ export const rates = [
       en: "Thebathi 196",
       fr: "Thebathi 196",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33799,6 +38186,7 @@ export const rates = [
       en: "Thabacha Náre 196A",
       fr: "Thabacha Náre 196A",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33807,6 +38195,7 @@ export const rates = [
       en: "High Prairie",
       fr: "High Prairie",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33815,6 +38204,7 @@ export const rates = [
       en: "Swan Hills",
       fr: "Swan Hills",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33823,6 +38213,7 @@ export const rates = [
       en: "Northern Sunrise County",
       fr: "Northern Sunrise County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33831,6 +38222,7 @@ export const rates = [
       en: "Big Lakes County",
       fr: "Big Lakes County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33839,6 +38231,7 @@ export const rates = [
       en: "Slave Lake",
       fr: "Slave Lake",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33847,6 +38240,7 @@ export const rates = [
       en: "Opportunity No. 17",
       fr: "Opportunity No. 17",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33855,6 +38249,7 @@ export const rates = [
       en: "Lesser Slave River No. 124",
       fr: "Lesser Slave River No. 124",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33863,6 +38258,7 @@ export const rates = [
       en: "Nampa",
       fr: "Nampa",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33871,6 +38267,7 @@ export const rates = [
       en: "Clear Hills",
       fr: "Clear Hills",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33879,6 +38276,7 @@ export const rates = [
       en: "Hines Creek",
       fr: "Hines Creek",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33887,6 +38285,7 @@ export const rates = [
       en: "Northern Lights County",
       fr: "Northern Lights County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33895,6 +38294,7 @@ export const rates = [
       en: "Manning",
       fr: "Manning",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33903,6 +38303,7 @@ export const rates = [
       en: "High Level",
       fr: "High Level",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33911,6 +38312,7 @@ export const rates = [
       en: "Mackenzie County",
       fr: "Mackenzie County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33919,6 +38321,7 @@ export const rates = [
       en: "Rainbow Lake",
       fr: "Rainbow Lake",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33927,6 +38330,7 @@ export const rates = [
       en: "Jean Baptiste Gambler 183",
       fr: "Jean Baptiste Gambler 183",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33935,6 +38339,7 @@ export const rates = [
       en: "Wabasca 166",
       fr: "Wabasca 166",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33943,6 +38348,7 @@ export const rates = [
       en: "Wabasca 166A",
       fr: "Wabasca 166A",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33951,6 +38357,7 @@ export const rates = [
       en: "Wabasca 166B",
       fr: "Wabasca 166B",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33959,6 +38366,7 @@ export const rates = [
       en: "Wabasca 166C",
       fr: "Wabasca 166C",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33967,6 +38375,7 @@ export const rates = [
       en: "Wabasca 166D",
       fr: "Wabasca 166D",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33975,6 +38384,7 @@ export const rates = [
       en: "Utikoomak Lake 155",
       fr: "Utikoomak Lake 155",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33983,6 +38393,7 @@ export const rates = [
       en: "Clear Hills 152C",
       fr: "Clear Hills 152C",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33991,6 +38402,7 @@ export const rates = [
       en: "Kapawe'no First Nation 231",
       fr: "Kapawe'no First Nation 231",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -33999,6 +38411,7 @@ export const rates = [
       en: "Utikoomak Lake 155A",
       fr: "Utikoomak Lake 155A",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34007,6 +38420,7 @@ export const rates = [
       en: "Drift Pile River 150",
       fr: "Drift Pile River 150",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34015,6 +38429,7 @@ export const rates = [
       en: "Sucker Creek 150A",
       fr: "Sucker Creek 150A",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34023,6 +38438,7 @@ export const rates = [
       en: "Kapawe'no First Nation 150D",
       fr: "Kapawe'no First Nation 150D",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34031,6 +38447,7 @@ export const rates = [
       en: "Swan River 150E",
       fr: "Swan River 150E",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34039,6 +38456,7 @@ export const rates = [
       en: "Sawridge 150G",
       fr: "Sawridge 150G",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34047,6 +38465,7 @@ export const rates = [
       en: "Sawridge 150H",
       fr: "Sawridge 150H",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34055,6 +38474,7 @@ export const rates = [
       en: "Peerless Trout 238",
       fr: "Peerless Trout 238",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34063,6 +38483,7 @@ export const rates = [
       en: "Fox Lake 162",
       fr: "Fox Lake 162",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34071,6 +38492,7 @@ export const rates = [
       en: "Kapawe'no First Nation 150B",
       fr: "Kapawe'no First Nation 150B",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34079,6 +38501,7 @@ export const rates = [
       en: "John D'Or Prairie 215",
       fr: "John D'Or Prairie 215",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34087,6 +38510,7 @@ export const rates = [
       en: "Tall Cree 173",
       fr: "Tall Cree 173",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34095,6 +38519,7 @@ export const rates = [
       en: "Tall Cree 173A",
       fr: "Tall Cree 173A",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34103,6 +38528,7 @@ export const rates = [
       en: "Beaver Ranch 163",
       fr: "Beaver Ranch 163",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34111,6 +38537,7 @@ export const rates = [
       en: "Boyer 164",
       fr: "Boyer 164",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34119,6 +38546,7 @@ export const rates = [
       en: "Child Lake 164A",
       fr: "Child Lake 164A",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34127,6 +38555,7 @@ export const rates = [
       en: "Hay Lake 209",
       fr: "Hay Lake 209",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34135,6 +38564,7 @@ export const rates = [
       en: "Bushe River 207",
       fr: "Bushe River 207",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34143,6 +38573,7 @@ export const rates = [
       en: "Upper Hay River 212",
       fr: "Upper Hay River 212",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34151,6 +38582,7 @@ export const rates = [
       en: "Woodland Cree 227",
       fr: "Woodland Cree 227",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34159,6 +38591,7 @@ export const rates = [
       en: "Little Buffalo",
       fr: "Little Buffalo",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34167,6 +38600,7 @@ export const rates = [
       en: "Carcajou 187",
       fr: "Carcajou 187",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34175,6 +38609,7 @@ export const rates = [
       en: "Desmarais",
       fr: "Desmarais",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34183,6 +38618,7 @@ export const rates = [
       en: "Woodland Cree 226",
       fr: "Woodland Cree 226",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34191,6 +38627,7 @@ export const rates = [
       en: "Woodland Cree 228",
       fr: "Woodland Cree 228",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34199,6 +38636,7 @@ export const rates = [
       en: "Fort Vermilion 173B",
       fr: "Fort Vermilion 173B",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34207,6 +38645,7 @@ export const rates = [
       en: "Loon Lake 235",
       fr: "Loon Lake 235",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34215,6 +38654,7 @@ export const rates = [
       en: "Kapawe'no First Nation 229",
       fr: "Kapawe'no First Nation 229",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34223,6 +38663,7 @@ export const rates = [
       en: "Fox Creek",
       fr: "Fox Creek",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34231,6 +38672,7 @@ export const rates = [
       en: "Greenview No. 16",
       fr: "Greenview No. 16",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34239,6 +38681,7 @@ export const rates = [
       en: "Valleyview",
       fr: "Valleyview",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34247,6 +38690,7 @@ export const rates = [
       en: "Sturgeon Lake 154",
       fr: "Sturgeon Lake 154",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34255,6 +38699,7 @@ export const rates = [
       en: "Sturgeon Lake 154A",
       fr: "Sturgeon Lake 154A",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34263,6 +38708,7 @@ export const rates = [
       en: "Grande Prairie County No. 1",
       fr: "Grande Prairie County No. 1",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34271,6 +38717,7 @@ export const rates = [
       en: "Hythe",
       fr: "Hythe",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34279,6 +38726,7 @@ export const rates = [
       en: "Beaverlodge",
       fr: "Beaverlodge",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34287,6 +38735,7 @@ export const rates = [
       en: "Wembley",
       fr: "Wembley",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34295,6 +38744,7 @@ export const rates = [
       en: "Grande Prairie",
       fr: "Grande Prairie",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34303,6 +38753,7 @@ export const rates = [
       en: "Sexsmith",
       fr: "Sexsmith",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34311,6 +38762,7 @@ export const rates = [
       en: "Peace River",
       fr: "Peace River",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34319,6 +38771,7 @@ export const rates = [
       en: "Smoky River No. 130",
       fr: "Smoky River No. 130",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34327,6 +38780,7 @@ export const rates = [
       en: "McLennan",
       fr: "McLennan",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34335,6 +38789,7 @@ export const rates = [
       en: "Donnelly",
       fr: "Donnelly",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34343,6 +38798,7 @@ export const rates = [
       en: "Falher",
       fr: "Falher",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34351,6 +38807,7 @@ export const rates = [
       en: "Girouxville",
       fr: "Girouxville",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34359,6 +38816,7 @@ export const rates = [
       en: "Birch Hills County",
       fr: "Birch Hills County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34367,6 +38825,7 @@ export const rates = [
       en: "Spirit River No. 133",
       fr: "Spirit River No. 133",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34375,6 +38834,7 @@ export const rates = [
       en: "Rycroft",
       fr: "Rycroft",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34383,6 +38843,7 @@ export const rates = [
       en: "Spirit River",
       fr: "Spirit River",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34391,6 +38852,7 @@ export const rates = [
       en: "Saddle Hills County",
       fr: "Saddle Hills County",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34399,6 +38861,7 @@ export const rates = [
       en: "Fairview No. 136",
       fr: "Fairview No. 136",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34407,6 +38870,7 @@ export const rates = [
       en: "Fairview",
       fr: "Fairview",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34415,6 +38879,7 @@ export const rates = [
       en: "Peace No. 135",
       fr: "Peace No. 135",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34423,6 +38888,7 @@ export const rates = [
       en: "Berwyn",
       fr: "Berwyn",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34431,6 +38897,7 @@ export const rates = [
       en: "Grimshaw",
       fr: "Grimshaw",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34439,6 +38906,7 @@ export const rates = [
       en: "Horse Lakes 152B",
       fr: "Horse Lakes 152B",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34447,6 +38915,7 @@ export const rates = [
       en: "Duncan's 151A",
       fr: "Duncan's 151A",
     },
+    province: "AB",
     rates: [],
   },
   {
@@ -34455,6 +38924,7 @@ export const rates = [
       en: "Elkford",
       fr: "Elkford",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34463,6 +38933,7 @@ export const rates = [
       en: "Sparwood",
       fr: "Sparwood",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34471,6 +38942,7 @@ export const rates = [
       en: "Fernie",
       fr: "Fernie",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34479,6 +38951,7 @@ export const rates = [
       en: "East Kootenay A",
       fr: "East Kootenay A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34487,6 +38960,7 @@ export const rates = [
       en: "East Kootenay B",
       fr: "East Kootenay B",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34495,6 +38969,7 @@ export const rates = [
       en: "Cranbrook",
       fr: "Cranbrook",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34503,6 +38978,7 @@ export const rates = [
       en: "Kimberley",
       fr: "Kimberley",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34511,6 +38987,7 @@ export const rates = [
       en: "East Kootenay C",
       fr: "East Kootenay C",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34519,6 +38996,7 @@ export const rates = [
       en: "East Kootenay E",
       fr: "East Kootenay E",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34527,6 +39005,7 @@ export const rates = [
       en: "Invermere",
       fr: "Invermere",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34535,6 +39014,7 @@ export const rates = [
       en: "Radium Hot Springs",
       fr: "Radium Hot Springs",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34543,6 +39023,7 @@ export const rates = [
       en: "Canal Flats",
       fr: "Canal Flats",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34551,6 +39032,7 @@ export const rates = [
       en: "East Kootenay F",
       fr: "East Kootenay F",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34559,6 +39041,7 @@ export const rates = [
       en: "East Kootenay G",
       fr: "East Kootenay G",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34567,6 +39050,7 @@ export const rates = [
       en: "Tobacco Plains 2",
       fr: "Tobacco Plains 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34575,6 +39059,7 @@ export const rates = [
       en: "Isidore's Ranch 4",
       fr: "Isidore's Ranch 4",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34583,6 +39068,7 @@ export const rates = [
       en: "Kootenay 1",
       fr: "Kootenay 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34591,6 +39077,7 @@ export const rates = [
       en: "Columbia Lake 3",
       fr: "Columbia Lake 3",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34599,6 +39086,7 @@ export const rates = [
       en: "Cassimayooks (Mayook) 5",
       fr: "Cassimayooks (Mayook) 5",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34607,6 +39095,7 @@ export const rates = [
       en: "Shuswap",
       fr: "Shuswap",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34615,6 +39104,7 @@ export const rates = [
       en: "St. Mary's",
       fr: "St. Mary's",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34623,6 +39113,7 @@ export const rates = [
       en: "Creston",
       fr: "Creston",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34631,6 +39122,7 @@ export const rates = [
       en: "Central Kootenay A",
       fr: "Central Kootenay A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34639,6 +39131,7 @@ export const rates = [
       en: "Salmo",
       fr: "Salmo",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34647,6 +39140,7 @@ export const rates = [
       en: "Central Kootenay B",
       fr: "Central Kootenay B",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34655,6 +39149,7 @@ export const rates = [
       en: "Nelson",
       fr: "Nelson",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34663,6 +39158,7 @@ export const rates = [
       en: "Central Kootenay C",
       fr: "Central Kootenay C",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34671,6 +39167,7 @@ export const rates = [
       en: "Slocan",
       fr: "Slocan",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34679,6 +39176,7 @@ export const rates = [
       en: "Kaslo",
       fr: "Kaslo",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34687,6 +39185,7 @@ export const rates = [
       en: "Silverton",
       fr: "Silverton",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34695,6 +39194,7 @@ export const rates = [
       en: "New Denver",
       fr: "New Denver",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34703,6 +39203,7 @@ export const rates = [
       en: "Central Kootenay D",
       fr: "Central Kootenay D",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34711,6 +39212,7 @@ export const rates = [
       en: "Central Kootenay E",
       fr: "Central Kootenay E",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34719,6 +39221,7 @@ export const rates = [
       en: "Central Kootenay F",
       fr: "Central Kootenay F",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34727,6 +39230,7 @@ export const rates = [
       en: "Castlegar",
       fr: "Castlegar",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34735,6 +39239,7 @@ export const rates = [
       en: "Central Kootenay G",
       fr: "Central Kootenay G",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34743,6 +39248,7 @@ export const rates = [
       en: "Nakusp",
       fr: "Nakusp",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34751,6 +39257,7 @@ export const rates = [
       en: "Central Kootenay H",
       fr: "Central Kootenay H",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34759,6 +39266,7 @@ export const rates = [
       en: "Central Kootenay I",
       fr: "Central Kootenay I",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34767,6 +39275,7 @@ export const rates = [
       en: "Central Kootenay J",
       fr: "Central Kootenay J",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34775,6 +39284,7 @@ export const rates = [
       en: "Central Kootenay K",
       fr: "Central Kootenay K",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34783,6 +39293,7 @@ export const rates = [
       en: "Creston 1",
       fr: "Creston 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34791,6 +39302,7 @@ export const rates = [
       en: "Fruitvale",
       fr: "Fruitvale",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34799,6 +39311,7 @@ export const rates = [
       en: "Montrose",
       fr: "Montrose",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34807,6 +39320,7 @@ export const rates = [
       en: "Trail",
       fr: "Trail",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34815,6 +39329,7 @@ export const rates = [
       en: "Warfield",
       fr: "Warfield",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34823,6 +39338,7 @@ export const rates = [
       en: "Rossland",
       fr: "Rossland",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34831,6 +39347,7 @@ export const rates = [
       en: "Kootenay Boundary A",
       fr: "Kootenay Boundary A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34839,6 +39356,7 @@ export const rates = [
       en: "Kootenay Boundary B / Lower Columbia-Old-Glory",
       fr: "Kootenay Boundary B / Lower Columbia-Old-Glory",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34847,6 +39365,7 @@ export const rates = [
       en: "Grand Forks",
       fr: "Grand Forks",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34855,6 +39374,7 @@ export const rates = [
       en: "Midway",
       fr: "Midway",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34863,6 +39383,7 @@ export const rates = [
       en: "Greenwood",
       fr: "Greenwood",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34871,6 +39392,7 @@ export const rates = [
       en: "Kootenay Boundary C / Christina Lake",
       fr: "Kootenay Boundary C / Christina Lake",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34879,6 +39401,7 @@ export const rates = [
       en: "Kootenay Boundary D / Rural Grand Forks",
       fr: "Kootenay Boundary D / Rural Grand Forks",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34887,6 +39410,7 @@ export const rates = [
       en: "Kootenay Boundary E / West Boundary",
       fr: "Kootenay Boundary E / West Boundary",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34895,6 +39419,7 @@ export const rates = [
       en: "Osoyoos",
       fr: "Osoyoos",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34903,6 +39428,7 @@ export const rates = [
       en: "Keremeos",
       fr: "Keremeos",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34911,6 +39437,7 @@ export const rates = [
       en: "Oliver",
       fr: "Oliver",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34919,6 +39446,7 @@ export const rates = [
       en: "Okanagan-Similkameen A",
       fr: "Okanagan-Similkameen A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34927,6 +39455,7 @@ export const rates = [
       en: "Princeton",
       fr: "Princeton",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34935,6 +39464,7 @@ export const rates = [
       en: "Okanagan-Similkameen B",
       fr: "Okanagan-Similkameen B",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34943,6 +39473,7 @@ export const rates = [
       en: "Okanagan-Similkameen C",
       fr: "Okanagan-Similkameen C",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34951,6 +39482,7 @@ export const rates = [
       en: "Summerland",
       fr: "Summerland",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34959,6 +39491,7 @@ export const rates = [
       en: "Penticton",
       fr: "Penticton",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34967,6 +39500,7 @@ export const rates = [
       en: "Okanagan-Similkameen D",
       fr: "Okanagan-Similkameen D",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34975,6 +39509,7 @@ export const rates = [
       en: "Okanagan-Similkameen I",
       fr: "Okanagan-Similkameen I",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34983,6 +39518,7 @@ export const rates = [
       en: "Okanagan-Similkameen E",
       fr: "Okanagan-Similkameen E",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34991,6 +39527,7 @@ export const rates = [
       en: "Okanagan-Similkameen F",
       fr: "Okanagan-Similkameen F",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -34999,6 +39536,7 @@ export const rates = [
       en: "Okanagan-Similkameen G",
       fr: "Okanagan-Similkameen G",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35007,6 +39545,7 @@ export const rates = [
       en: "Okanagan-Similkameen H",
       fr: "Okanagan-Similkameen H",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35015,6 +39554,7 @@ export const rates = [
       en: "Lower Similkameen 2",
       fr: "Lower Similkameen 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35023,6 +39563,7 @@ export const rates = [
       en: "Osoyoos 1",
       fr: "Osoyoos 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35031,6 +39572,7 @@ export const rates = [
       en: "Penticton 1",
       fr: "Penticton 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35039,6 +39581,7 @@ export const rates = [
       en: "Chopaka 7 & 8",
       fr: "Chopaka 7 & 8",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35047,6 +39590,7 @@ export const rates = [
       en: "Blind Creek 6",
       fr: "Blind Creek 6",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35055,6 +39599,7 @@ export const rates = [
       en: "Chuchuwayha 2",
       fr: "Chuchuwayha 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35063,6 +39608,7 @@ export const rates = [
       en: "Alexis 9",
       fr: "Alexis 9",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35071,6 +39617,7 @@ export const rates = [
       en: "Ashnola 10",
       fr: "Ashnola 10",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35079,6 +39626,7 @@ export const rates = [
       en: "Lulu 5",
       fr: "Lulu 5",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35087,6 +39635,7 @@ export const rates = [
       en: "Hope",
       fr: "Hope",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35095,6 +39644,7 @@ export const rates = [
       en: "Fraser Valley A",
       fr: "Fraser Valley A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35103,6 +39653,7 @@ export const rates = [
       en: "Fraser Valley B",
       fr: "Fraser Valley B",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35111,6 +39662,7 @@ export const rates = [
       en: "Chilliwack",
       fr: "Chilliwack",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35119,6 +39671,7 @@ export const rates = [
       en: "Harrison Hot Springs",
       fr: "Harrison Hot Springs",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35127,6 +39680,7 @@ export const rates = [
       en: "Kent",
       fr: "Kent",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35135,6 +39689,7 @@ export const rates = [
       en: "Fraser Valley D",
       fr: "Fraser Valley D",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35143,6 +39698,7 @@ export const rates = [
       en: "Fraser Valley H",
       fr: "Fraser Valley H",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35151,6 +39707,7 @@ export const rates = [
       en: "Fraser Valley E",
       fr: "Fraser Valley E",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35159,6 +39716,7 @@ export const rates = [
       en: "Fraser Valley C",
       fr: "Fraser Valley C",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35167,6 +39725,7 @@ export const rates = [
       en: "Abbotsford",
       fr: "Abbotsford",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35175,6 +39734,7 @@ export const rates = [
       en: "Mission",
       fr: "Mission",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35183,6 +39743,7 @@ export const rates = [
       en: "Fraser Valley F",
       fr: "Fraser Valley F",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35191,6 +39752,7 @@ export const rates = [
       en: "Fraser Valley G",
       fr: "Fraser Valley G",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35199,6 +39761,7 @@ export const rates = [
       en: "Chawathil 4",
       fr: "Chawathil 4",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35207,6 +39770,7 @@ export const rates = [
       en: "Inkahtsaph 6",
       fr: "Inkahtsaph 6",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35215,6 +39779,7 @@ export const rates = [
       en: "Kopchitchin 2",
       fr: "Kopchitchin 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35223,6 +39788,7 @@ export const rates = [
       en: "Ohamil 1",
       fr: "Ohamil 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35231,6 +39797,7 @@ export const rates = [
       en: "Puckatholetchin 11",
       fr: "Puckatholetchin 11",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35239,6 +39806,7 @@ export const rates = [
       en: "Saddle Rock 9",
       fr: "Saddle Rock 9",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35247,6 +39815,7 @@ export const rates = [
       en: "Lukseetsissum 9",
       fr: "Lukseetsissum 9",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35255,6 +39824,7 @@ export const rates = [
       en: "Schkam 2",
       fr: "Schkam 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35263,6 +39833,7 @@ export const rates = [
       en: "Skawahlook 1",
       fr: "Skawahlook 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35271,6 +39842,7 @@ export const rates = [
       en: "Speyum 3",
       fr: "Speyum 3",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35279,6 +39851,7 @@ export const rates = [
       en: "Spuzzum 1",
       fr: "Spuzzum 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35287,6 +39860,7 @@ export const rates = [
       en: "Tuckkwiowhum 1",
       fr: "Tuckkwiowhum 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35295,6 +39869,7 @@ export const rates = [
       en: "Yale Town 1",
       fr: "Yale Town 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35303,6 +39878,7 @@ export const rates = [
       en: "Kahmoose 4",
       fr: "Kahmoose 4",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35311,6 +39887,7 @@ export const rates = [
       en: "Kwawkwawapilt 6",
       fr: "Kwawkwawapilt 6",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35319,6 +39896,7 @@ export const rates = [
       en: "Skwah 4",
       fr: "Skwah 4",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35327,6 +39905,7 @@ export const rates = [
       en: "Skwali 3",
       fr: "Skwali 3",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35335,6 +39914,7 @@ export const rates = [
       en: "Skway 5",
       fr: "Skway 5",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35343,6 +39923,7 @@ export const rates = [
       en: "Soowahlie 14",
       fr: "Soowahlie 14",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35351,6 +39932,7 @@ export const rates = [
       en: "Tzeachten 13",
       fr: "Tzeachten 13",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35359,6 +39941,7 @@ export const rates = [
       en: "Yakweakwioose 12",
       fr: "Yakweakwioose 12",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35367,6 +39950,7 @@ export const rates = [
       en: "Seabird Island",
       fr: "Seabird Island",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35375,6 +39959,7 @@ export const rates = [
       en: "Scowlitz 1",
       fr: "Scowlitz 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35383,6 +39968,7 @@ export const rates = [
       en: "Tseatah 2",
       fr: "Tseatah 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35391,6 +39977,7 @@ export const rates = [
       en: "Aitchelitch 9",
       fr: "Aitchelitch 9",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35399,6 +39986,7 @@ export const rates = [
       en: "Boston Bar 1A",
       fr: "Boston Bar 1A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35407,6 +39995,7 @@ export const rates = [
       en: "Cheam 1",
       fr: "Cheam 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35415,6 +40004,7 @@ export const rates = [
       en: "Schelowat 1",
       fr: "Schelowat 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35423,6 +40013,7 @@ export const rates = [
       en: "Chehalis 5",
       fr: "Chehalis 5",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35431,6 +40022,7 @@ export const rates = [
       en: "Stullawheets 8",
       fr: "Stullawheets 8",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35439,6 +40031,7 @@ export const rates = [
       en: "Douglas 8",
       fr: "Douglas 8",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35447,6 +40040,7 @@ export const rates = [
       en: "Peters 1",
       fr: "Peters 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35455,6 +40049,7 @@ export const rates = [
       en: "Popkum 1",
       fr: "Popkum 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35463,6 +40058,7 @@ export const rates = [
       en: "Skookumchuck 4",
       fr: "Skookumchuck 4",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35471,6 +40067,7 @@ export const rates = [
       en: "Bucktum 4",
       fr: "Bucktum 4",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35479,6 +40076,7 @@ export const rates = [
       en: "Tipella 7",
       fr: "Tipella 7",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35487,6 +40085,7 @@ export const rates = [
       en: "Boothroyd 13",
       fr: "Boothroyd 13",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35495,6 +40094,7 @@ export const rates = [
       en: "Ruby Creek 2",
       fr: "Ruby Creek 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35503,6 +40103,7 @@ export const rates = [
       en: "Paqulh",
       fr: "Paqulh",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35511,6 +40112,7 @@ export const rates = [
       en: "Langley 2",
       fr: "Langley 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35519,6 +40121,7 @@ export const rates = [
       en: "Q'alatkú7em",
       fr: "Q'alatkú7em",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35527,6 +40130,7 @@ export const rates = [
       en: "Albert Flat 5",
       fr: "Albert Flat 5",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35535,6 +40139,7 @@ export const rates = [
       en: "Upper Sumas 6",
       fr: "Upper Sumas 6",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35543,6 +40148,7 @@ export const rates = [
       en: "Matsqui Main 2",
       fr: "Matsqui Main 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35551,6 +40157,7 @@ export const rates = [
       en: "Holachten 8",
       fr: "Holachten 8",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35559,6 +40166,7 @@ export const rates = [
       en: "Lakahahmen 11",
       fr: "Lakahahmen 11",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35567,6 +40175,7 @@ export const rates = [
       en: "Skweahm 10",
       fr: "Skweahm 10",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35575,6 +40184,7 @@ export const rates = [
       en: "Squawkum Creek 3",
       fr: "Squawkum Creek 3",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35583,6 +40193,7 @@ export const rates = [
       en: "Sachteen",
       fr: "Sachteen",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35591,6 +40202,7 @@ export const rates = [
       en: "Skowkale",
       fr: "Skowkale",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35599,6 +40211,7 @@ export const rates = [
       en: "Squiaala",
       fr: "Squiaala",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35607,6 +40220,7 @@ export const rates = [
       en: "Langley",
       fr: "Langley",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35615,6 +40229,7 @@ export const rates = [
       en: "Langley",
       fr: "Langley",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35623,6 +40238,7 @@ export const rates = [
       en: "Surrey",
       fr: "Surrey",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35631,6 +40247,7 @@ export const rates = [
       en: "White Rock",
       fr: "White Rock",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35639,6 +40256,7 @@ export const rates = [
       en: "Delta",
       fr: "Delta",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35647,6 +40265,7 @@ export const rates = [
       en: "Richmond",
       fr: "Richmond",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35655,6 +40274,7 @@ export const rates = [
       en: "Metro Vancouver A",
       fr: "Metro Vancouver A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35663,6 +40283,7 @@ export const rates = [
       en: "Vancouver",
       fr: "Vancouver",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35671,6 +40292,7 @@ export const rates = [
       en: "Burnaby",
       fr: "Burnaby",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35679,6 +40301,7 @@ export const rates = [
       en: "New Westminster",
       fr: "New Westminster",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35687,6 +40310,7 @@ export const rates = [
       en: "Coquitlam",
       fr: "Coquitlam",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35695,6 +40319,7 @@ export const rates = [
       en: "Belcarra",
       fr: "Belcarra",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35703,6 +40328,7 @@ export const rates = [
       en: "Anmore",
       fr: "Anmore",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35711,6 +40337,7 @@ export const rates = [
       en: "Port Coquitlam",
       fr: "Port Coquitlam",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35719,6 +40346,7 @@ export const rates = [
       en: "Port Moody",
       fr: "Port Moody",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35727,6 +40355,7 @@ export const rates = [
       en: "North Vancouver",
       fr: "North Vancouver",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35735,6 +40364,7 @@ export const rates = [
       en: "North Vancouver",
       fr: "North Vancouver",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35743,6 +40373,7 @@ export const rates = [
       en: "West Vancouver",
       fr: "West Vancouver",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35751,6 +40382,7 @@ export const rates = [
       en: "Bowen Island",
       fr: "Bowen Island",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35759,6 +40391,7 @@ export const rates = [
       en: "Lions Bay",
       fr: "Lions Bay",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35767,6 +40400,7 @@ export const rates = [
       en: "Pitt Meadows",
       fr: "Pitt Meadows",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35775,6 +40409,7 @@ export const rates = [
       en: "Maple Ridge",
       fr: "Maple Ridge",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35783,6 +40418,7 @@ export const rates = [
       en: "Semiahmoo",
       fr: "Semiahmoo",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35791,6 +40427,7 @@ export const rates = [
       en: "Tsawwassen",
       fr: "Tsawwassen",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35799,6 +40436,7 @@ export const rates = [
       en: "Musqueam 2",
       fr: "Musqueam 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35807,6 +40445,7 @@ export const rates = [
       en: "Coquitlam 2",
       fr: "Coquitlam 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35815,6 +40454,7 @@ export const rates = [
       en: "Coquitlam 1",
       fr: "Coquitlam 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35823,6 +40463,7 @@ export const rates = [
       en: "Burrard Inlet 3",
       fr: "Burrard Inlet 3",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35831,6 +40472,7 @@ export const rates = [
       en: "Mission 1",
       fr: "Mission 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35839,6 +40481,7 @@ export const rates = [
       en: "Capilano 5",
       fr: "Capilano 5",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35847,6 +40490,7 @@ export const rates = [
       en: "Barnston Island 3",
       fr: "Barnston Island 3",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35855,6 +40499,7 @@ export const rates = [
       en: "Musqueam 4",
       fr: "Musqueam 4",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35863,6 +40508,7 @@ export const rates = [
       en: "Seymour Creek 2",
       fr: "Seymour Creek 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35871,6 +40517,7 @@ export const rates = [
       en: "Katzie 2",
       fr: "Katzie 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35879,6 +40526,7 @@ export const rates = [
       en: "McMillan Island 6",
       fr: "McMillan Island 6",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35887,6 +40535,7 @@ export const rates = [
       en: "Matsqui 4",
       fr: "Matsqui 4",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35895,6 +40544,7 @@ export const rates = [
       en: "Katzie 1",
       fr: "Katzie 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35903,6 +40553,7 @@ export const rates = [
       en: "Whonnock 1",
       fr: "Whonnock 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35911,6 +40562,7 @@ export const rates = [
       en: "North Saanich",
       fr: "North Saanich",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35919,6 +40571,7 @@ export const rates = [
       en: "Sidney",
       fr: "Sidney",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35927,6 +40580,7 @@ export const rates = [
       en: "Central Saanich",
       fr: "Central Saanich",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35935,6 +40589,7 @@ export const rates = [
       en: "Saanich",
       fr: "Saanich",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35943,6 +40598,7 @@ export const rates = [
       en: "Saltspring Island",
       fr: "Saltspring Island",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35951,6 +40607,7 @@ export const rates = [
       en: "Southern Gulf Islands",
       fr: "Southern Gulf Islands",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35959,6 +40616,7 @@ export const rates = [
       en: "Oak Bay",
       fr: "Oak Bay",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35967,6 +40625,7 @@ export const rates = [
       en: "Victoria",
       fr: "Victoria",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35975,6 +40634,7 @@ export const rates = [
       en: "Esquimalt",
       fr: "Esquimalt",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35983,6 +40643,7 @@ export const rates = [
       en: "Colwood",
       fr: "Colwood",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35991,6 +40652,7 @@ export const rates = [
       en: "Metchosin",
       fr: "Metchosin",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -35999,6 +40661,7 @@ export const rates = [
       en: "Langford",
       fr: "Langford",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36007,6 +40670,7 @@ export const rates = [
       en: "View Royal",
       fr: "View Royal",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36015,6 +40679,7 @@ export const rates = [
       en: "Highlands",
       fr: "Highlands",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36023,6 +40688,7 @@ export const rates = [
       en: "Sooke",
       fr: "Sooke",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36031,6 +40697,7 @@ export const rates = [
       en: "Juan de Fuca (Part 1)",
       fr: "Juan de Fuca (Part 1)",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36039,6 +40706,7 @@ export const rates = [
       en: "Juan de Fuca (Part 2)",
       fr: "Juan de Fuca (Part 2)",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36047,6 +40715,7 @@ export const rates = [
       en: "Cole Bay 3",
       fr: "Cole Bay 3",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36055,6 +40724,7 @@ export const rates = [
       en: "Union Bay 4",
       fr: "Union Bay 4",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36063,6 +40733,7 @@ export const rates = [
       en: "East Saanich 2",
       fr: "East Saanich 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36071,6 +40742,7 @@ export const rates = [
       en: "South Saanich 1",
       fr: "South Saanich 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36079,6 +40751,7 @@ export const rates = [
       en: "Galiano Island 9",
       fr: "Galiano Island 9",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36087,6 +40760,7 @@ export const rates = [
       en: "Becher Bay 1",
       fr: "Becher Bay 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36095,6 +40769,7 @@ export const rates = [
       en: "Esquimalt",
       fr: "Esquimalt",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36103,6 +40778,7 @@ export const rates = [
       en: "New Songhees 1A",
       fr: "New Songhees 1A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36111,6 +40787,7 @@ export const rates = [
       en: "Gordon River 2",
       fr: "Gordon River 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36119,6 +40796,7 @@ export const rates = [
       en: "T'Sou-ke",
       fr: "T'Sou-ke",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36127,6 +40805,7 @@ export const rates = [
       en: "North Cowichan",
       fr: "North Cowichan",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36135,6 +40814,7 @@ export const rates = [
       en: "Duncan",
       fr: "Duncan",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36143,6 +40823,7 @@ export const rates = [
       en: "Cowichan Valley D",
       fr: "Cowichan Valley D",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36151,6 +40832,7 @@ export const rates = [
       en: "Cowichan Valley G",
       fr: "Cowichan Valley G",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36159,6 +40841,7 @@ export const rates = [
       en: "Lake Cowichan",
       fr: "Lake Cowichan",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36167,6 +40850,7 @@ export const rates = [
       en: "Cowichan Valley H",
       fr: "Cowichan Valley H",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36175,6 +40859,7 @@ export const rates = [
       en: "Ladysmith",
       fr: "Ladysmith",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36183,6 +40868,7 @@ export const rates = [
       en: "Cowichan Valley F",
       fr: "Cowichan Valley F",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36191,6 +40877,7 @@ export const rates = [
       en: "Cowichan Valley I",
       fr: "Cowichan Valley I",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36199,6 +40886,7 @@ export const rates = [
       en: "Cowichan Valley A",
       fr: "Cowichan Valley A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36207,6 +40895,7 @@ export const rates = [
       en: "Cowichan Valley B",
       fr: "Cowichan Valley B",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36215,6 +40904,7 @@ export const rates = [
       en: "Cowichan Valley C",
       fr: "Cowichan Valley C",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36223,6 +40913,7 @@ export const rates = [
       en: "Cowichan Valley E",
       fr: "Cowichan Valley E",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36231,6 +40922,7 @@ export const rates = [
       en: "Halalt 2",
       fr: "Halalt 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36239,6 +40931,7 @@ export const rates = [
       en: "Squaw-Hay-One 11",
       fr: "Squaw-Hay-One 11",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36247,6 +40940,7 @@ export const rates = [
       en: "Tsussie 6",
       fr: "Tsussie 6",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36255,6 +40949,7 @@ export const rates = [
       en: "Chemainus 13",
       fr: "Chemainus 13",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36263,6 +40958,7 @@ export const rates = [
       en: "Kil-pah-las 3",
       fr: "Kil-pah-las 3",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36271,6 +40967,7 @@ export const rates = [
       en: "Penelakut Island 7",
       fr: "Penelakut Island 7",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36279,6 +40976,7 @@ export const rates = [
       en: "Shingle Point 4",
       fr: "Shingle Point 4",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36287,6 +40985,7 @@ export const rates = [
       en: "Cowichan Lake",
       fr: "Cowichan Lake",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36295,6 +40994,7 @@ export const rates = [
       en: "Lyacksun 3",
       fr: "Lyacksun 3",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36303,6 +41003,7 @@ export const rates = [
       en: "Malachan 11",
       fr: "Malachan 11",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36311,6 +41012,7 @@ export const rates = [
       en: "Malahat 11",
       fr: "Malahat 11",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36319,6 +41021,7 @@ export const rates = [
       en: "Oyster Bay 12",
       fr: "Oyster Bay 12",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36327,6 +41030,7 @@ export const rates = [
       en: "Portier Pass 5",
       fr: "Portier Pass 5",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36335,6 +41039,7 @@ export const rates = [
       en: "Theik 2",
       fr: "Theik 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36343,6 +41048,7 @@ export const rates = [
       en: "Est-Patrolas 4",
       fr: "Est-Patrolas 4",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36351,6 +41057,7 @@ export const rates = [
       en: "Tzart-Lam 5",
       fr: "Tzart-Lam 5",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36359,6 +41066,7 @@ export const rates = [
       en: "Cowichan",
       fr: "Cowichan",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36367,6 +41075,7 @@ export const rates = [
       en: "Nanaimo",
       fr: "Nanaimo",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36375,6 +41084,7 @@ export const rates = [
       en: "Lantzville",
       fr: "Lantzville",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36383,6 +41093,7 @@ export const rates = [
       en: "Nanaimo A",
       fr: "Nanaimo A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36391,6 +41102,7 @@ export const rates = [
       en: "Nanaimo B",
       fr: "Nanaimo B",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36399,6 +41111,7 @@ export const rates = [
       en: "Nanaimo C",
       fr: "Nanaimo C",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36407,6 +41120,7 @@ export const rates = [
       en: "Parksville",
       fr: "Parksville",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36415,6 +41129,7 @@ export const rates = [
       en: "Qualicum Beach",
       fr: "Qualicum Beach",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36423,6 +41138,7 @@ export const rates = [
       en: "Nanaimo E",
       fr: "Nanaimo E",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36431,6 +41147,7 @@ export const rates = [
       en: "Nanaimo F",
       fr: "Nanaimo F",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36439,6 +41156,7 @@ export const rates = [
       en: "Nanaimo G",
       fr: "Nanaimo G",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36447,6 +41165,7 @@ export const rates = [
       en: "Nanaimo H",
       fr: "Nanaimo H",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36455,6 +41174,7 @@ export const rates = [
       en: "Nanaimo Town 1",
       fr: "Nanaimo Town 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36463,6 +41183,7 @@ export const rates = [
       en: "Nanoose",
       fr: "Nanoose",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36471,6 +41192,7 @@ export const rates = [
       en: "Qualicum",
       fr: "Qualicum",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36479,6 +41201,7 @@ export const rates = [
       en: "Nanaimo River",
       fr: "Nanaimo River",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36487,6 +41210,7 @@ export const rates = [
       en: "Port Alberni",
       fr: "Port Alberni",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36495,6 +41219,7 @@ export const rates = [
       en: "Ucluelet",
       fr: "Ucluelet",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36503,6 +41228,7 @@ export const rates = [
       en: "Tofino",
       fr: "Tofino",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36511,6 +41237,7 @@ export const rates = [
       en: "Alberni-Clayoquot B",
       fr: "Alberni-Clayoquot B",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36519,6 +41246,7 @@ export const rates = [
       en: "Alberni-Clayoquot D",
       fr: "Alberni-Clayoquot D",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36527,6 +41255,7 @@ export const rates = [
       en: "Alberni-Clayoquot E",
       fr: "Alberni-Clayoquot E",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36535,6 +41264,7 @@ export const rates = [
       en: "Alberni-Clayoquot F",
       fr: "Alberni-Clayoquot F",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36543,6 +41273,7 @@ export const rates = [
       en: "Alberni-Clayoquot A",
       fr: "Alberni-Clayoquot A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36551,6 +41282,7 @@ export const rates = [
       en: "Alberni-Clayoquot C",
       fr: "Alberni-Clayoquot C",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36559,6 +41291,7 @@ export const rates = [
       en: "Ahahswinis 1",
       fr: "Ahahswinis 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36567,6 +41300,7 @@ export const rates = [
       en: "Alberni 2",
       fr: "Alberni 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36575,6 +41309,7 @@ export const rates = [
       en: "Anacla 12",
       fr: "Anacla 12",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36583,6 +41318,7 @@ export const rates = [
       en: "Clakamucus 2",
       fr: "Clakamucus 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36591,6 +41327,7 @@ export const rates = [
       en: "Elhlateese 2",
       fr: "Elhlateese 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36599,6 +41336,7 @@ export const rates = [
       en: "Hesquiat 1",
       fr: "Hesquiat 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36607,6 +41345,7 @@ export const rates = [
       en: "Ittatsoo 1",
       fr: "Ittatsoo 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36615,6 +41354,7 @@ export const rates = [
       en: "Marktosis 15",
       fr: "Marktosis 15",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36623,6 +41363,7 @@ export const rates = [
       en: "Numukamis 1",
       fr: "Numukamis 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36631,6 +41372,7 @@ export const rates = [
       en: "Macoah 1",
       fr: "Macoah 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36639,6 +41381,7 @@ export const rates = [
       en: "Opitsat 1",
       fr: "Opitsat 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36647,6 +41390,7 @@ export const rates = [
       en: "Sachsa 4",
       fr: "Sachsa 4",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36655,6 +41399,7 @@ export const rates = [
       en: "Tsahaheh 1",
       fr: "Tsahaheh 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36663,6 +41408,7 @@ export const rates = [
       en: "Klehkoot 2",
       fr: "Klehkoot 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36671,6 +41417,7 @@ export const rates = [
       en: "Esowista 3",
       fr: "Esowista 3",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36679,6 +41426,7 @@ export const rates = [
       en: "Refuge Cove 6",
       fr: "Refuge Cove 6",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36687,6 +41435,7 @@ export const rates = [
       en: "Tin Wis 11",
       fr: "Tin Wis 11",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36695,6 +41444,7 @@ export const rates = [
       en: "Gold River",
       fr: "Gold River",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36703,6 +41453,7 @@ export const rates = [
       en: "Zeballos",
       fr: "Zeballos",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36711,6 +41462,7 @@ export const rates = [
       en: "Tahsis",
       fr: "Tahsis",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36719,6 +41471,7 @@ export const rates = [
       en: "Campbell River",
       fr: "Campbell River",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36727,6 +41480,7 @@ export const rates = [
       en: "Sayward",
       fr: "Sayward",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36735,6 +41489,7 @@ export const rates = [
       en: "Strathcona D (Oyster Bay - Buttle Lake)",
       fr: "Strathcona D (Oyster Bay - Buttle Lake)",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36743,6 +41498,7 @@ export const rates = [
       en: "Strathcona A",
       fr: "Strathcona A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36751,6 +41507,7 @@ export const rates = [
       en: "Strathcona B",
       fr: "Strathcona B",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36759,6 +41516,7 @@ export const rates = [
       en: "Strathcona C",
       fr: "Strathcona C",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36767,6 +41525,7 @@ export const rates = [
       en: "Ahaminaquus 12",
       fr: "Ahaminaquus 12",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36775,6 +41534,7 @@ export const rates = [
       en: "Campbell River 11",
       fr: "Campbell River 11",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36783,6 +41543,7 @@ export const rates = [
       en: "Chenahkint 12",
       fr: "Chenahkint 12",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36791,6 +41552,7 @@ export const rates = [
       en: "Houpsitas 6",
       fr: "Houpsitas 6",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36799,6 +41561,7 @@ export const rates = [
       en: "Quinsam 12",
       fr: "Quinsam 12",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36807,6 +41570,7 @@ export const rates = [
       en: "Village Island 1",
       fr: "Village Island 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36815,6 +41579,7 @@ export const rates = [
       en: "Yuquot 1",
       fr: "Yuquot 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36823,6 +41588,7 @@ export const rates = [
       en: "Cape Mudge 10",
       fr: "Cape Mudge 10",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36831,6 +41597,7 @@ export const rates = [
       en: "Squirrel Cove 8",
       fr: "Squirrel Cove 8",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36839,6 +41606,7 @@ export const rates = [
       en: "Tork 7",
       fr: "Tork 7",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36847,6 +41615,7 @@ export const rates = [
       en: "Oclucje 7",
       fr: "Oclucje 7",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36855,6 +41624,7 @@ export const rates = [
       en: "Tsa Xana 18",
       fr: "Tsa Xana 18",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36863,6 +41633,7 @@ export const rates = [
       en: "Ehatis 11",
       fr: "Ehatis 11",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36871,6 +41642,7 @@ export const rates = [
       en: "Homalco 9",
       fr: "Homalco 9",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36879,6 +41651,7 @@ export const rates = [
       en: "Nenagwas 12",
       fr: "Nenagwas 12",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36887,6 +41660,7 @@ export const rates = [
       en: "Comox",
       fr: "Comox",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36895,6 +41669,7 @@ export const rates = [
       en: "Courtenay",
       fr: "Courtenay",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36903,6 +41678,7 @@ export const rates = [
       en: "Cumberland",
       fr: "Cumberland",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36911,6 +41687,7 @@ export const rates = [
       en: "Comox Valley A",
       fr: "Comox Valley A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36919,6 +41696,7 @@ export const rates = [
       en: "Comox Valley B (Lazo North)",
       fr: "Comox Valley B (Lazo North)",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36927,6 +41705,7 @@ export const rates = [
       en: "Comox Valley C (Puntledge - Black Creek)",
       fr: "Comox Valley C (Puntledge - Black Creek)",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36935,6 +41714,7 @@ export const rates = [
       en: "Comox 1",
       fr: "Comox 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36943,6 +41723,7 @@ export const rates = [
       en: "Pentledge 2",
       fr: "Pentledge 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36951,6 +41732,7 @@ export const rates = [
       en: "Powell River",
       fr: "Powell River",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36959,6 +41741,7 @@ export const rates = [
       en: "qathet A",
       fr: "qathet A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36967,6 +41750,7 @@ export const rates = [
       en: "qathet B",
       fr: "qathet B",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36975,6 +41759,7 @@ export const rates = [
       en: "qathet C",
       fr: "qathet C",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36983,6 +41768,7 @@ export const rates = [
       en: "qathet D",
       fr: "qathet D",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36991,6 +41777,7 @@ export const rates = [
       en: "qathet E",
       fr: "qathet E",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -36999,6 +41786,7 @@ export const rates = [
       en: "Sliammon 1",
       fr: "Sliammon 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37007,6 +41795,7 @@ export const rates = [
       en: "Sechelt (Part)",
       fr: "Sechelt (Part)",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37015,6 +41804,7 @@ export const rates = [
       en: "Gibsons",
       fr: "Gibsons",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37023,6 +41813,7 @@ export const rates = [
       en: "Sechelt",
       fr: "Sechelt",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37031,6 +41822,7 @@ export const rates = [
       en: "Sunshine Coast A",
       fr: "Sunshine Coast A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37039,6 +41831,7 @@ export const rates = [
       en: "Sunshine Coast B",
       fr: "Sunshine Coast B",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37047,6 +41840,7 @@ export const rates = [
       en: "Sunshine Coast D",
       fr: "Sunshine Coast D",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37055,6 +41849,7 @@ export const rates = [
       en: "Sunshine Coast E",
       fr: "Sunshine Coast E",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37063,6 +41858,7 @@ export const rates = [
       en: "Sunshine Coast F",
       fr: "Sunshine Coast F",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37071,6 +41867,7 @@ export const rates = [
       en: "Chekwelp 26",
       fr: "Chekwelp 26",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37079,6 +41876,7 @@ export const rates = [
       en: "Sechelt (Part)",
       fr: "Sechelt (Part)",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37087,6 +41885,7 @@ export const rates = [
       en: "Squamish",
       fr: "Squamish",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37095,6 +41894,7 @@ export const rates = [
       en: "Pemberton",
       fr: "Pemberton",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37103,6 +41903,7 @@ export const rates = [
       en: "Squamish-Lillooet C",
       fr: "Squamish-Lillooet C",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37111,6 +41912,7 @@ export const rates = [
       en: "Whistler",
       fr: "Whistler",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37119,6 +41921,7 @@ export const rates = [
       en: "Squamish-Lillooet D",
       fr: "Squamish-Lillooet D",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37127,6 +41930,7 @@ export const rates = [
       en: "Lillooet",
       fr: "Lillooet",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37135,6 +41939,7 @@ export const rates = [
       en: "Squamish-Lillooet A",
       fr: "Squamish-Lillooet A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37143,6 +41948,7 @@ export const rates = [
       en: "Squamish-Lillooet B",
       fr: "Squamish-Lillooet B",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37151,6 +41957,7 @@ export const rates = [
       en: "Cheakamus 11",
       fr: "Cheakamus 11",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37159,6 +41966,7 @@ export const rates = [
       en: "Kowtain 17",
       fr: "Kowtain 17",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37167,6 +41975,7 @@ export const rates = [
       en: "Seaichem 16",
       fr: "Seaichem 16",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37175,6 +41984,7 @@ export const rates = [
       en: "Stawamus 24",
       fr: "Stawamus 24",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37183,6 +41993,7 @@ export const rates = [
       en: "Waiwakum 14",
       fr: "Waiwakum 14",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37191,6 +42002,7 @@ export const rates = [
       en: "Yekwaupsum 18",
       fr: "Yekwaupsum 18",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37199,6 +42011,7 @@ export const rates = [
       en: "Nesuch 3",
       fr: "Nesuch 3",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37207,6 +42020,7 @@ export const rates = [
       en: "Bridge River 1",
       fr: "Bridge River 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37215,6 +42029,7 @@ export const rates = [
       en: "Cayoosh Creek 1",
       fr: "Cayoosh Creek 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37223,6 +42038,7 @@ export const rates = [
       en: "Chilhil 6",
       fr: "Chilhil 6",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37231,6 +42047,7 @@ export const rates = [
       en: "Fountain 1",
       fr: "Fountain 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37239,6 +42056,7 @@ export const rates = [
       en: "Fountain 3",
       fr: "Fountain 3",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37247,6 +42065,7 @@ export const rates = [
       en: "Fountain 10",
       fr: "Fountain 10",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37255,6 +42074,7 @@ export const rates = [
       en: "Fountain 11",
       fr: "Fountain 11",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37263,6 +42083,7 @@ export const rates = [
       en: "Fountain 12",
       fr: "Fountain 12",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37271,6 +42092,7 @@ export const rates = [
       en: "Lillooet 1",
       fr: "Lillooet 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37279,6 +42101,7 @@ export const rates = [
       en: "Fountain Creek 8",
       fr: "Fountain Creek 8",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37287,6 +42110,7 @@ export const rates = [
       en: "McCartney's Flat 4",
       fr: "McCartney's Flat 4",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37295,6 +42119,7 @@ export const rates = [
       en: "Seton Lake 5",
       fr: "Seton Lake 5",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37303,6 +42128,7 @@ export const rates = [
       en: "Fountain 1D",
       fr: "Fountain 1D",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37311,6 +42137,7 @@ export const rates = [
       en: "Necait 6",
       fr: "Necait 6",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37319,6 +42146,7 @@ export const rates = [
       en: "Nesikep 6",
       fr: "Nesikep 6",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37327,6 +42155,7 @@ export const rates = [
       en: "Pashilqua 2",
       fr: "Pashilqua 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37335,6 +42164,7 @@ export const rates = [
       en: "Pavilion 1",
       fr: "Pavilion 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37343,6 +42173,7 @@ export const rates = [
       en: "Slosh 1",
       fr: "Slosh 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37351,6 +42182,7 @@ export const rates = [
       en: "Towinock 2",
       fr: "Towinock 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37359,6 +42191,7 @@ export const rates = [
       en: "Mission 5",
       fr: "Mission 5",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37367,6 +42200,7 @@ export const rates = [
       en: "Fountain 3A",
       fr: "Fountain 3A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37375,6 +42209,7 @@ export const rates = [
       en: "Fountain 1B",
       fr: "Fountain 1B",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37383,6 +42218,7 @@ export const rates = [
       en: "Mount Currie",
       fr: "Mount Currie",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37391,6 +42227,7 @@ export const rates = [
       en: "Nequatque",
       fr: "Nequatque",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37399,6 +42236,7 @@ export const rates = [
       en: "Merritt",
       fr: "Merritt",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37407,6 +42245,7 @@ export const rates = [
       en: "Thompson-Nicola M (Beautiful Nicola Valley - North)",
       fr: "Thompson-Nicola M (Beautiful Nicola Valley - North)",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37415,6 +42254,7 @@ export const rates = [
       en: "Thompson-Nicola N (Beautiful Nicola Valley - South)",
       fr: "Thompson-Nicola N (Beautiful Nicola Valley - South)",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37423,6 +42263,7 @@ export const rates = [
       en: "Lytton",
       fr: "Lytton",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37431,6 +42272,7 @@ export const rates = [
       en: "Ashcroft",
       fr: "Ashcroft",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37439,6 +42281,7 @@ export const rates = [
       en: "Cache Creek",
       fr: "Cache Creek",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37447,6 +42290,7 @@ export const rates = [
       en: "Clinton",
       fr: "Clinton",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37455,6 +42299,7 @@ export const rates = [
       en: "Thompson-Nicola E (Bonaparte Plateau)",
       fr: "Thompson-Nicola E (Bonaparte Plateau)",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37463,6 +42308,7 @@ export const rates = [
       en: "Logan Lake",
       fr: "Logan Lake",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37471,6 +42317,7 @@ export const rates = [
       en: "Thompson-Nicola I (Blue Sky Country)",
       fr: "Thompson-Nicola I (Blue Sky Country)",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37479,6 +42326,7 @@ export const rates = [
       en: "Thompson-Nicola J (Copper Desert Country)",
       fr: "Thompson-Nicola J (Copper Desert Country)",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37487,6 +42335,7 @@ export const rates = [
       en: "Kamloops",
       fr: "Kamloops",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37495,6 +42344,7 @@ export const rates = [
       en: "Thompson-Nicola P (Rivers and the Peaks)",
       fr: "Thompson-Nicola P (Rivers and the Peaks)",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37503,6 +42353,7 @@ export const rates = [
       en: "Sun Peaks Mountain",
       fr: "Sun Peaks Mountain",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37511,6 +42362,7 @@ export const rates = [
       en: "Chase",
       fr: "Chase",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37519,6 +42371,7 @@ export const rates = [
       en: "Thompson-Nicola L (Grasslands)",
       fr: "Thompson-Nicola L (Grasslands)",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37527,6 +42380,7 @@ export const rates = [
       en: "Clearwater",
       fr: "Clearwater",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37535,6 +42389,7 @@ export const rates = [
       en: "Thompson-Nicola A (Wells Gray Country)",
       fr: "Thompson-Nicola A (Wells Gray Country)",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37543,6 +42398,7 @@ export const rates = [
       en: "Thompson-Nicola B (Thompson Headwaters)",
       fr: "Thompson-Nicola B (Thompson Headwaters)",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37551,6 +42407,7 @@ export const rates = [
       en: "Thompson-Nicola O (Lower North Thompson)",
       fr: "Thompson-Nicola O (Lower North Thompson)",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37559,6 +42416,7 @@ export const rates = [
       en: "Barriere",
       fr: "Barriere",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37567,6 +42425,7 @@ export const rates = [
       en: "Coldwater 1",
       fr: "Coldwater 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37575,6 +42434,7 @@ export const rates = [
       en: "Douglas Lake 3",
       fr: "Douglas Lake 3",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37583,6 +42443,7 @@ export const rates = [
       en: "Hamilton Creek 2",
       fr: "Hamilton Creek 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37591,6 +42452,7 @@ export const rates = [
       en: "Joeyaska 2",
       fr: "Joeyaska 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37599,6 +42461,7 @@ export const rates = [
       en: "Nicola Lake 1",
       fr: "Nicola Lake 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37607,6 +42470,7 @@ export const rates = [
       en: "Nicola Mameet 1",
       fr: "Nicola Mameet 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37615,6 +42479,7 @@ export const rates = [
       en: "Nooaitch 10",
       fr: "Nooaitch 10",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37623,6 +42488,7 @@ export const rates = [
       en: "Paul's Basin 2",
       fr: "Paul's Basin 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37631,6 +42497,7 @@ export const rates = [
       en: "Chuchhraischin",
       fr: "Chuchhraischin",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37639,6 +42506,7 @@ export const rates = [
       en: "Zoht 4",
       fr: "Zoht 4",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37647,6 +42515,7 @@ export const rates = [
       en: "Bonaparte 3",
       fr: "Bonaparte 3",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37655,6 +42524,7 @@ export const rates = [
       en: "Halhalaeden",
       fr: "Halhalaeden",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37663,6 +42533,7 @@ export const rates = [
       en: "Canoe Creek 1",
       fr: "Canoe Creek 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37671,6 +42542,7 @@ export const rates = [
       en: "Skeetchestn",
       fr: "Skeetchestn",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37679,6 +42551,7 @@ export const rates = [
       en: "High Bar 1",
       fr: "High Bar 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37687,6 +42560,7 @@ export const rates = [
       en: "Canoe Creek 2",
       fr: "Canoe Creek 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37695,6 +42569,7 @@ export const rates = [
       en: "Kitzowit 20",
       fr: "Kitzowit 20",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37703,6 +42578,7 @@ export const rates = [
       en: "Skuppah 2A",
       fr: "Skuppah 2A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37711,6 +42587,7 @@ export const rates = [
       en: "Inklyuhkinatko 2",
       fr: "Inklyuhkinatko 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37719,6 +42596,7 @@ export const rates = [
       en: "Basque 18",
       fr: "Basque 18",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37727,6 +42605,7 @@ export const rates = [
       en: "Klahkamich 17",
       fr: "Klahkamich 17",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37735,6 +42614,7 @@ export const rates = [
       en: "Kleetlekut 22",
       fr: "Kleetlekut 22",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37743,6 +42623,7 @@ export const rates = [
       en: "Klickkumcheen 18",
       fr: "Klickkumcheen 18",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37751,6 +42632,7 @@ export const rates = [
       en: "Inkluckcheen",
       fr: "Inkluckcheen",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37759,6 +42641,7 @@ export const rates = [
       en: "Kumcheen 1",
       fr: "Kumcheen 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37767,6 +42650,7 @@ export const rates = [
       en: "Lower Hat Creek 2",
       fr: "Lower Hat Creek 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37775,6 +42659,7 @@ export const rates = [
       en: "Peq-Paq 22",
       fr: "Peq-Paq 22",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37783,6 +42668,7 @@ export const rates = [
       en: "Lytton 4A",
       fr: "Lytton 4A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37791,6 +42677,7 @@ export const rates = [
       en: "Lytton 4E",
       fr: "Lytton 4E",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37799,6 +42686,7 @@ export const rates = [
       en: "Lytton 9A",
       fr: "Lytton 9A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37807,6 +42695,7 @@ export const rates = [
       en: "Lytton 9B",
       fr: "Lytton 9B",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37815,6 +42704,7 @@ export const rates = [
       en: "Ashcroft 4",
       fr: "Ashcroft 4",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37823,6 +42713,7 @@ export const rates = [
       en: "105 Mile Post 2",
       fr: "105 Mile Post 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37831,6 +42722,7 @@ export const rates = [
       en: "Oregon Jack Creek 5",
       fr: "Oregon Jack Creek 5",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37839,6 +42731,7 @@ export const rates = [
       en: "Nickel Palm 4",
       fr: "Nickel Palm 4",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37847,6 +42740,7 @@ export const rates = [
       en: "Siska Flat",
       fr: "Siska Flat",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37855,6 +42749,7 @@ export const rates = [
       en: "Nickeyeah 25",
       fr: "Nickeyeah 25",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37863,6 +42758,7 @@ export const rates = [
       en: "Nicomen 1",
       fr: "Nicomen 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37871,6 +42767,7 @@ export const rates = [
       en: "Nohomeen 23",
       fr: "Nohomeen 23",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37879,6 +42776,7 @@ export const rates = [
       en: "Nuuautin 2",
       fr: "Nuuautin 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37887,6 +42785,7 @@ export const rates = [
       en: "Paska Island 3",
       fr: "Paska Island 3",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37895,6 +42794,7 @@ export const rates = [
       en: "Papyum 27",
       fr: "Papyum 27",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37903,6 +42803,7 @@ export const rates = [
       en: "Pemynoos 9",
       fr: "Pemynoos 9",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37911,6 +42812,7 @@ export const rates = [
       en: "Seah 5",
       fr: "Seah 5",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37919,6 +42821,7 @@ export const rates = [
       en: "Shackan 11",
       fr: "Shackan 11",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37927,6 +42830,7 @@ export const rates = [
       en: "Kloklowuck 7",
       fr: "Kloklowuck 7",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37935,6 +42839,7 @@ export const rates = [
       en: "Skuppah 4",
       fr: "Skuppah 4",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37943,6 +42848,7 @@ export const rates = [
       en: "Skwayaynope 26",
       fr: "Skwayaynope 26",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37951,6 +42857,7 @@ export const rates = [
       en: "Spintlum Flat 3",
       fr: "Spintlum Flat 3",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37959,6 +42866,7 @@ export const rates = [
       en: "Nkaih 10",
       fr: "Nkaih 10",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37967,6 +42875,7 @@ export const rates = [
       en: "Marble Canyon 3",
       fr: "Marble Canyon 3",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37975,6 +42884,7 @@ export const rates = [
       en: "Stryen 9",
       fr: "Stryen 9",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37983,6 +42893,7 @@ export const rates = [
       en: "Tsaukan 12",
       fr: "Tsaukan 12",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37991,6 +42902,7 @@ export const rates = [
       en: "Upper Hat Creek 1",
       fr: "Upper Hat Creek 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -37999,6 +42911,7 @@ export const rates = [
       en: "Upper Nepa 6",
       fr: "Upper Nepa 6",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38007,6 +42920,7 @@ export const rates = [
       en: "Whispering Pines 4",
       fr: "Whispering Pines 4",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38015,6 +42929,7 @@ export const rates = [
       en: "Yawaucht 11",
       fr: "Yawaucht 11",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38023,6 +42938,7 @@ export const rates = [
       en: "Zacht 5",
       fr: "Zacht 5",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38031,6 +42947,7 @@ export const rates = [
       en: "Kamloops 1",
       fr: "Kamloops 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38039,6 +42956,7 @@ export const rates = [
       en: "Spences Bridge",
       fr: "Spences Bridge",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38047,6 +42965,7 @@ export const rates = [
       en: "Kanaka Bar",
       fr: "Kanaka Bar",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38055,6 +42974,7 @@ export const rates = [
       en: "Sahhaltkum 4",
       fr: "Sahhaltkum 4",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38063,6 +42983,7 @@ export const rates = [
       en: "Nekalliston 2",
       fr: "Nekalliston 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38071,6 +42992,7 @@ export const rates = [
       en: "North Thompson 1",
       fr: "North Thompson 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38079,6 +43001,7 @@ export const rates = [
       en: "Louis Creek 4",
       fr: "Louis Creek 4",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38087,6 +43010,7 @@ export const rates = [
       en: "Squaam 2",
       fr: "Squaam 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38095,6 +43019,7 @@ export const rates = [
       en: "Stequmwhulpa 5",
       fr: "Stequmwhulpa 5",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38103,6 +43028,7 @@ export const rates = [
       en: "Twoyqhalsht 16",
       fr: "Twoyqhalsht 16",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38111,6 +43037,7 @@ export const rates = [
       en: "Shawniken 4B",
       fr: "Shawniken 4B",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38119,6 +43046,7 @@ export const rates = [
       en: "Nekliptum 1",
       fr: "Nekliptum 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38127,6 +43055,7 @@ export const rates = [
       en: "Boothroyd 8A",
       fr: "Boothroyd 8A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38135,6 +43064,7 @@ export const rates = [
       en: "Neskonlith",
       fr: "Neskonlith",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38143,6 +43073,7 @@ export const rates = [
       en: "Entlqwekkinh 19",
       fr: "Entlqwekkinh 19",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38151,6 +43082,7 @@ export const rates = [
       en: "Kelowna",
       fr: "Kelowna",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38159,6 +43091,7 @@ export const rates = [
       en: "Central Okanagan",
       fr: "Central Okanagan",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38167,6 +43100,7 @@ export const rates = [
       en: "Lake Country",
       fr: "Lake Country",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38175,6 +43109,7 @@ export const rates = [
       en: "Peachland",
       fr: "Peachland",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38183,6 +43118,7 @@ export const rates = [
       en: "Central Okanagan West",
       fr: "Central Okanagan West",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38191,6 +43127,7 @@ export const rates = [
       en: "West Kelowna",
       fr: "West Kelowna",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38199,6 +43136,7 @@ export const rates = [
       en: "Duck Lake 7",
       fr: "Duck Lake 7",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38207,6 +43145,7 @@ export const rates = [
       en: "Tsinstikeptum 9",
       fr: "Tsinstikeptum 9",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38215,6 +43154,7 @@ export const rates = [
       en: "Tsinstikeptum 10",
       fr: "Tsinstikeptum 10",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38223,6 +43163,7 @@ export const rates = [
       en: "Lumby",
       fr: "Lumby",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38231,6 +43172,7 @@ export const rates = [
       en: "Coldstream",
       fr: "Coldstream",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38239,6 +43181,7 @@ export const rates = [
       en: "Vernon",
       fr: "Vernon",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38247,6 +43190,7 @@ export const rates = [
       en: "North Okanagan B",
       fr: "North Okanagan B",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38255,6 +43199,7 @@ export const rates = [
       en: "North Okanagan C",
       fr: "North Okanagan C",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38263,6 +43208,7 @@ export const rates = [
       en: "North Okanagan D",
       fr: "North Okanagan D",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38271,6 +43217,7 @@ export const rates = [
       en: "North Okanagan E",
       fr: "North Okanagan E",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38279,6 +43226,7 @@ export const rates = [
       en: "Spallumcheen",
       fr: "Spallumcheen",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38287,6 +43235,7 @@ export const rates = [
       en: "Armstrong",
       fr: "Armstrong",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38295,6 +43244,7 @@ export const rates = [
       en: "Enderby",
       fr: "Enderby",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38303,6 +43253,7 @@ export const rates = [
       en: "North Okanagan F",
       fr: "North Okanagan F",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38311,6 +43262,7 @@ export const rates = [
       en: "Okanagan (Part) 1",
       fr: "Okanagan (Part) 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38319,6 +43271,7 @@ export const rates = [
       en: "Enderby 2",
       fr: "Enderby 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38327,6 +43280,7 @@ export const rates = [
       en: "Priest's Valley 6",
       fr: "Priest's Valley 6",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38335,6 +43289,7 @@ export const rates = [
       en: "Harris 3",
       fr: "Harris 3",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38343,6 +43298,7 @@ export const rates = [
       en: "Golden",
       fr: "Golden",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38351,6 +43307,7 @@ export const rates = [
       en: "Columbia-Shuswap A",
       fr: "Columbia-Shuswap A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38359,6 +43316,7 @@ export const rates = [
       en: "Revelstoke",
       fr: "Revelstoke",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38367,6 +43325,7 @@ export const rates = [
       en: "Columbia-Shuswap B",
       fr: "Columbia-Shuswap B",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38375,6 +43334,7 @@ export const rates = [
       en: "Salmon Arm",
       fr: "Salmon Arm",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38383,6 +43343,7 @@ export const rates = [
       en: "Columbia-Shuswap C",
       fr: "Columbia-Shuswap C",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38391,6 +43352,7 @@ export const rates = [
       en: "Columbia-Shuswap D",
       fr: "Columbia-Shuswap D",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38399,6 +43361,7 @@ export const rates = [
       en: "Columbia-Shuswap E",
       fr: "Columbia-Shuswap E",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38407,6 +43370,7 @@ export const rates = [
       en: "Columbia-Shuswap F",
       fr: "Columbia-Shuswap F",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38415,6 +43379,7 @@ export const rates = [
       en: "Sicamous",
       fr: "Sicamous",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38423,6 +43388,7 @@ export const rates = [
       en: "Chum Creek 2",
       fr: "Chum Creek 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38431,6 +43397,7 @@ export const rates = [
       en: "Hustalen 1",
       fr: "Hustalen 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38439,6 +43406,7 @@ export const rates = [
       en: "North Bay 5",
       fr: "North Bay 5",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38447,6 +43415,7 @@ export const rates = [
       en: "Okanagan (Part) 1",
       fr: "Okanagan (Part) 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38455,6 +43424,7 @@ export const rates = [
       en: "Quaaout 1",
       fr: "Quaaout 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38463,6 +43433,7 @@ export const rates = [
       en: "Salmon River 1",
       fr: "Salmon River 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38471,6 +43442,7 @@ export const rates = [
       en: "Scotch Creek 4",
       fr: "Scotch Creek 4",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38479,6 +43451,7 @@ export const rates = [
       en: "Switsemalph 3",
       fr: "Switsemalph 3",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38487,6 +43460,7 @@ export const rates = [
       en: "Switsemalph",
       fr: "Switsemalph",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38495,6 +43469,7 @@ export const rates = [
       en: "One Hundred Mile House",
       fr: "One Hundred Mile House",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38503,6 +43478,7 @@ export const rates = [
       en: "Williams Lake",
       fr: "Williams Lake",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38511,6 +43487,7 @@ export const rates = [
       en: "Cariboo D",
       fr: "Cariboo D",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38519,6 +43496,7 @@ export const rates = [
       en: "Cariboo E",
       fr: "Cariboo E",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38527,6 +43505,7 @@ export const rates = [
       en: "Quesnel",
       fr: "Quesnel",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38535,6 +43514,7 @@ export const rates = [
       en: "Cariboo F",
       fr: "Cariboo F",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38543,6 +43523,7 @@ export const rates = [
       en: "Cariboo G",
       fr: "Cariboo G",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38551,6 +43532,7 @@ export const rates = [
       en: "Cariboo H",
       fr: "Cariboo H",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38559,6 +43541,7 @@ export const rates = [
       en: "Cariboo L",
       fr: "Cariboo L",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38567,6 +43550,7 @@ export const rates = [
       en: "Cariboo A",
       fr: "Cariboo A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38575,6 +43559,7 @@ export const rates = [
       en: "Cariboo B",
       fr: "Cariboo B",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38583,6 +43568,7 @@ export const rates = [
       en: "Wells",
       fr: "Wells",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38591,6 +43577,7 @@ export const rates = [
       en: "Cariboo C",
       fr: "Cariboo C",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38599,6 +43586,7 @@ export const rates = [
       en: "Cariboo I",
       fr: "Cariboo I",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38607,6 +43595,7 @@ export const rates = [
       en: "Cariboo J",
       fr: "Cariboo J",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38615,6 +43604,7 @@ export const rates = [
       en: "Cariboo K",
       fr: "Cariboo K",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38623,6 +43613,7 @@ export const rates = [
       en: "Alkali Lake 1",
       fr: "Alkali Lake 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38631,6 +43622,7 @@ export const rates = [
       en: "Canim Lake 1",
       fr: "Canim Lake 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38639,6 +43631,7 @@ export const rates = [
       en: "Canim Lake 4",
       fr: "Canim Lake 4",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38647,6 +43640,7 @@ export const rates = [
       en: "Canoe Creek 3",
       fr: "Canoe Creek 3",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38655,6 +43649,7 @@ export const rates = [
       en: "Deep Creek 2",
       fr: "Deep Creek 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38663,6 +43658,7 @@ export const rates = [
       en: "Dog Creek 1",
       fr: "Dog Creek 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38671,6 +43667,7 @@ export const rates = [
       en: "Dog Creek 2",
       fr: "Dog Creek 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38679,6 +43676,7 @@ export const rates = [
       en: "Lohbiee 3",
       fr: "Lohbiee 3",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38687,6 +43685,7 @@ export const rates = [
       en: "Quesnel 1",
       fr: "Quesnel 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38695,6 +43694,7 @@ export const rates = [
       en: "Soda Creek 1",
       fr: "Soda Creek 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38703,6 +43703,7 @@ export const rates = [
       en: "Johny Sticks 2",
       fr: "Johny Sticks 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38711,6 +43712,7 @@ export const rates = [
       en: "Williams Lake 1",
       fr: "Williams Lake 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38719,6 +43721,7 @@ export const rates = [
       en: "Canim Lake 2",
       fr: "Canim Lake 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38727,6 +43730,7 @@ export const rates = [
       en: "Alexis Creek 14",
       fr: "Alexis Creek 14",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38735,6 +43739,7 @@ export const rates = [
       en: "Alexis Creek 16",
       fr: "Alexis Creek 16",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38743,6 +43748,7 @@ export const rates = [
       en: "Anahim's Flat 1",
       fr: "Anahim's Flat 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38751,6 +43757,7 @@ export const rates = [
       en: "Charley Boy's Meadow 3",
       fr: "Charley Boy's Meadow 3",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38759,6 +43766,7 @@ export const rates = [
       en: "Chilco Lake 1",
       fr: "Chilco Lake 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38767,6 +43775,7 @@ export const rates = [
       en: "Chilco Lake 1A",
       fr: "Chilco Lake 1A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38775,6 +43784,7 @@ export const rates = [
       en: "Tanakut 4",
       fr: "Tanakut 4",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38783,6 +43793,7 @@ export const rates = [
       en: "Kluskus 1",
       fr: "Kluskus 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38791,6 +43802,7 @@ export const rates = [
       en: "Coglistiko River 29",
       fr: "Coglistiko River 29",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38799,6 +43811,7 @@ export const rates = [
       en: "Nazco 20",
       fr: "Nazco 20",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38807,6 +43820,7 @@ export const rates = [
       en: "Puntzi Lake 2",
       fr: "Puntzi Lake 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38815,6 +43829,7 @@ export const rates = [
       en: "Redstone Flat 1",
       fr: "Redstone Flat 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38823,6 +43838,7 @@ export const rates = [
       en: "Squinas 2",
       fr: "Squinas 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38831,6 +43847,7 @@ export const rates = [
       en: "Stone 1",
       fr: "Stone 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38839,6 +43856,7 @@ export const rates = [
       en: "Agats Meadow 8",
       fr: "Agats Meadow 8",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38847,6 +43865,7 @@ export const rates = [
       en: "Thomas Squinas Ranch 2A",
       fr: "Thomas Squinas Ranch 2A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38855,6 +43874,7 @@ export const rates = [
       en: "Alexis Creek 21",
       fr: "Alexis Creek 21",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38863,6 +43883,7 @@ export const rates = [
       en: "Baptiste Meadow 2",
       fr: "Baptiste Meadow 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38871,6 +43892,7 @@ export const rates = [
       en: "Toosey 1",
       fr: "Toosey 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38879,6 +43901,7 @@ export const rates = [
       en: "Towdystan Lake 3",
       fr: "Towdystan Lake 3",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38887,6 +43910,7 @@ export const rates = [
       en: "Trout Lake Alec 16",
       fr: "Trout Lake Alec 16",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38895,6 +43919,7 @@ export const rates = [
       en: "Ulkatcho 13",
       fr: "Ulkatcho 13",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38903,6 +43928,7 @@ export const rates = [
       en: "Windy Mouth 7",
       fr: "Windy Mouth 7",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38911,6 +43937,7 @@ export const rates = [
       en: "Alexis Creek 34",
       fr: "Alexis Creek 34",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38919,6 +43946,7 @@ export const rates = [
       en: "Betty Creek 18",
       fr: "Betty Creek 18",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38927,6 +43955,7 @@ export const rates = [
       en: "Salmon River Meadow 7",
       fr: "Salmon River Meadow 7",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38935,6 +43964,7 @@ export const rates = [
       en: "Sundayman's Meadow 3",
       fr: "Sundayman's Meadow 3",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38943,6 +43973,7 @@ export const rates = [
       en: "Euchinico Creek 17",
       fr: "Euchinico Creek 17",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38951,6 +43982,7 @@ export const rates = [
       en: "Sandy Harry 4",
       fr: "Sandy Harry 4",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38959,6 +43991,7 @@ export const rates = [
       en: "Fishtrap 19",
       fr: "Fishtrap 19",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38967,6 +44000,7 @@ export const rates = [
       en: "Swan Lake 3",
       fr: "Swan Lake 3",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38975,6 +44009,7 @@ export const rates = [
       en: "Alkali Lake 4A",
       fr: "Alkali Lake 4A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38983,6 +44018,7 @@ export const rates = [
       en: "Lezbye 6",
       fr: "Lezbye 6",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38991,6 +44027,7 @@ export const rates = [
       en: "Michel Gardens 36",
       fr: "Michel Gardens 36",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -38999,6 +44036,7 @@ export const rates = [
       en: "Ulkatcho 14A",
       fr: "Ulkatcho 14A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39007,6 +44045,7 @@ export const rates = [
       en: "Baezaeko River 27",
       fr: "Baezaeko River 27",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39015,6 +44054,7 @@ export const rates = [
       en: "Alexandria",
       fr: "Alexandria",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39023,6 +44063,7 @@ export const rates = [
       en: "Anahim's Meadow",
       fr: "Anahim's Meadow",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39031,6 +44072,7 @@ export const rates = [
       en: "Garden",
       fr: "Garden",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39039,6 +44081,7 @@ export const rates = [
       en: "Little Springs",
       fr: "Little Springs",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39047,6 +44090,7 @@ export const rates = [
       en: "Dragon Lake 3",
       fr: "Dragon Lake 3",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39055,6 +44099,7 @@ export const rates = [
       en: "Alert Bay",
       fr: "Alert Bay",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39063,6 +44108,7 @@ export const rates = [
       en: "Port McNeill",
       fr: "Port McNeill",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39071,6 +44117,7 @@ export const rates = [
       en: "Port Alice",
       fr: "Port Alice",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39079,6 +44126,7 @@ export const rates = [
       en: "Port Hardy",
       fr: "Port Hardy",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39087,6 +44135,7 @@ export const rates = [
       en: "Mount Waddington B",
       fr: "Mount Waddington B",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39095,6 +44144,7 @@ export const rates = [
       en: "Mount Waddington C",
       fr: "Mount Waddington C",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39103,6 +44153,7 @@ export const rates = [
       en: "Mount Waddington D",
       fr: "Mount Waddington D",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39111,6 +44162,7 @@ export const rates = [
       en: "Mount Waddington A",
       fr: "Mount Waddington A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39119,6 +44171,7 @@ export const rates = [
       en: "Fort Rupert 1",
       fr: "Fort Rupert 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39127,6 +44180,7 @@ export const rates = [
       en: "Tsulquate 4",
       fr: "Tsulquate 4",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39135,6 +44189,7 @@ export const rates = [
       en: "Dead Point 5",
       fr: "Dead Point 5",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39143,6 +44198,7 @@ export const rates = [
       en: "Gwayasdums 1",
       fr: "Gwayasdums 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39151,6 +44207,7 @@ export const rates = [
       en: "Hopetown 10A",
       fr: "Hopetown 10A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39159,6 +44216,7 @@ export const rates = [
       en: "Quaee 7",
       fr: "Quaee 7",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39167,6 +44225,7 @@ export const rates = [
       en: "Kippase 2",
       fr: "Kippase 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39175,6 +44234,7 @@ export const rates = [
       en: "Quatsino Subdivision 18",
       fr: "Quatsino Subdivision 18",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39183,6 +44243,7 @@ export const rates = [
       en: "Thomas Point 5",
       fr: "Thomas Point 5",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39191,6 +44252,7 @@ export const rates = [
       en: "Thomas Point 5A",
       fr: "Thomas Point 5A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39199,6 +44261,7 @@ export const rates = [
       en: "Nimpkish 2",
       fr: "Nimpkish 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39207,6 +44270,7 @@ export const rates = [
       en: "Hope Island 1",
       fr: "Hope Island 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39215,6 +44279,7 @@ export const rates = [
       en: "Alert Bay",
       fr: "Alert Bay",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39223,6 +44288,7 @@ export const rates = [
       en: "Central Coast A",
       fr: "Central Coast A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39231,6 +44297,7 @@ export const rates = [
       en: "Central Coast C",
       fr: "Central Coast C",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39239,6 +44306,7 @@ export const rates = [
       en: "Central Coast D",
       fr: "Central Coast D",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39247,6 +44315,7 @@ export const rates = [
       en: "Central Coast E",
       fr: "Central Coast E",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39255,6 +44324,7 @@ export const rates = [
       en: "Bella Bella 1",
       fr: "Bella Bella 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39263,6 +44333,7 @@ export const rates = [
       en: "Bella Coola 1",
       fr: "Bella Coola 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39271,6 +44342,7 @@ export const rates = [
       en: "Katit 1",
       fr: "Katit 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39279,6 +44351,7 @@ export const rates = [
       en: "Port Edward",
       fr: "Port Edward",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39287,6 +44360,7 @@ export const rates = [
       en: "Prince Rupert",
       fr: "Prince Rupert",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39295,6 +44369,7 @@ export const rates = [
       en: "North Coast A",
       fr: "North Coast A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39303,6 +44378,7 @@ export const rates = [
       en: "North Coast C",
       fr: "North Coast C",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39311,6 +44387,7 @@ export const rates = [
       en: "Masset",
       fr: "Masset",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39319,6 +44396,7 @@ export const rates = [
       en: "Queen Charlotte",
       fr: "Queen Charlotte",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39327,6 +44405,7 @@ export const rates = [
       en: "North Coast D",
       fr: "North Coast D",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39335,6 +44414,7 @@ export const rates = [
       en: "Port Clements",
       fr: "Port Clements",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39343,6 +44423,7 @@ export const rates = [
       en: "North Coast E",
       fr: "North Coast E",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39351,6 +44432,7 @@ export const rates = [
       en: "Kulkayu (Hartley Bay) 4A",
       fr: "Kulkayu (Hartley Bay) 4A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39359,6 +44441,7 @@ export const rates = [
       en: "Masset 1",
       fr: "Masset 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39367,6 +44450,7 @@ export const rates = [
       en: "Skidegate 1",
       fr: "Skidegate 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39375,6 +44459,7 @@ export const rates = [
       en: "Kulkayu (Hartley Bay) 4",
       fr: "Kulkayu (Hartley Bay) 4",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39383,6 +44468,7 @@ export const rates = [
       en: "Dolphin Island 1",
       fr: "Dolphin Island 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39391,6 +44477,7 @@ export const rates = [
       en: "Lax Kw'alaams 1",
       fr: "Lax Kw'alaams 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39399,6 +44486,7 @@ export const rates = [
       en: "S1/2 Tsimpsean 2",
       fr: "S1/2 Tsimpsean 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39407,6 +44495,7 @@ export const rates = [
       en: "Tlaa Gaa Aawtlaas 28",
       fr: "Tlaa Gaa Aawtlaas 28",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39415,6 +44504,7 @@ export const rates = [
       en: "Kitimat",
       fr: "Kitimat",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39423,6 +44513,7 @@ export const rates = [
       en: "Terrace",
       fr: "Terrace",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39431,6 +44522,7 @@ export const rates = [
       en: "Kitimat-Stikine C (Part 1)",
       fr: "Kitimat-Stikine C (Part 1)",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39439,6 +44531,7 @@ export const rates = [
       en: "Kitimat-Stikine E",
       fr: "Kitimat-Stikine E",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39447,6 +44540,7 @@ export const rates = [
       en: "Kitimat-Stikine C (Part 2)",
       fr: "Kitimat-Stikine C (Part 2)",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39455,6 +44549,7 @@ export const rates = [
       en: "Hazelton",
       fr: "Hazelton",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39463,6 +44558,7 @@ export const rates = [
       en: "New Hazelton",
       fr: "New Hazelton",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39471,6 +44567,7 @@ export const rates = [
       en: "Kitimat-Stikine B",
       fr: "Kitimat-Stikine B",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39479,6 +44576,7 @@ export const rates = [
       en: "Stewart",
       fr: "Stewart",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39487,6 +44585,7 @@ export const rates = [
       en: "Nisga'a",
       fr: "Nisga'a",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39495,6 +44594,7 @@ export const rates = [
       en: "Kitimat-Stikine F",
       fr: "Kitimat-Stikine F",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39503,6 +44603,7 @@ export const rates = [
       en: "Kitimat-Stikine A",
       fr: "Kitimat-Stikine A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39511,6 +44612,7 @@ export const rates = [
       en: "Kitimat-Stikine D",
       fr: "Kitimat-Stikine D",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39519,6 +44621,7 @@ export const rates = [
       en: "Kitasoo 1",
       fr: "Kitasoo 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39527,6 +44630,7 @@ export const rates = [
       en: "Kitamaat 2",
       fr: "Kitamaat 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39535,6 +44639,7 @@ export const rates = [
       en: "Kitsumkaylum 1",
       fr: "Kitsumkaylum 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39543,6 +44648,7 @@ export const rates = [
       en: "Kshish 4",
       fr: "Kshish 4",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39551,6 +44657,7 @@ export const rates = [
       en: "Kulspai 6",
       fr: "Kulspai 6",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39559,6 +44666,7 @@ export const rates = [
       en: "Coryatsaqua (Moricetown) 2",
       fr: "Coryatsaqua (Moricetown) 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39567,6 +44675,7 @@ export const rates = [
       en: "Hagwilget 1",
       fr: "Hagwilget 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39575,6 +44684,7 @@ export const rates = [
       en: "Gitanmaax 1",
       fr: "Gitanmaax 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39583,6 +44693,7 @@ export const rates = [
       en: "Kispiox 1",
       fr: "Kispiox 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39591,6 +44702,7 @@ export const rates = [
       en: "Gitsegukla 1",
       fr: "Gitsegukla 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39599,6 +44711,7 @@ export const rates = [
       en: "Gitanyow 1",
       fr: "Gitanyow 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39607,6 +44720,7 @@ export const rates = [
       en: "Gitwangak 1",
       fr: "Gitwangak 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39615,6 +44729,7 @@ export const rates = [
       en: "Moricetown 1",
       fr: "Moricetown 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39623,6 +44738,7 @@ export const rates = [
       en: "Sik-e-dakh 2",
       fr: "Sik-e-dakh 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39631,6 +44747,7 @@ export const rates = [
       en: "Babine 17",
       fr: "Babine 17",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39639,6 +44756,7 @@ export const rates = [
       en: "Bulkley River 19",
       fr: "Bulkley River 19",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39647,6 +44765,7 @@ export const rates = [
       en: "Iskut 6",
       fr: "Iskut 6",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39655,6 +44774,7 @@ export const rates = [
       en: "Guhthe Tah 12",
       fr: "Guhthe Tah 12",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39663,6 +44783,7 @@ export const rates = [
       en: "Kitselas 1",
       fr: "Kitselas 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39671,6 +44792,7 @@ export const rates = [
       en: "Dease Lake 9",
       fr: "Dease Lake 9",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39679,6 +44801,7 @@ export const rates = [
       en: "Tahltan 1",
       fr: "Tahltan 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39687,6 +44810,7 @@ export const rates = [
       en: "Telegraph Creek",
       fr: "Telegraph Creek",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39695,6 +44819,7 @@ export const rates = [
       en: "Vanderhoof",
       fr: "Vanderhoof",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39703,6 +44828,7 @@ export const rates = [
       en: "Fraser Lake",
       fr: "Fraser Lake",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39711,6 +44837,7 @@ export const rates = [
       en: "Fort St. James",
       fr: "Fort St. James",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39719,6 +44846,7 @@ export const rates = [
       en: "Bulkley-Nechako C",
       fr: "Bulkley-Nechako C",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39727,6 +44855,7 @@ export const rates = [
       en: "Bulkley-Nechako D",
       fr: "Bulkley-Nechako D",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39735,6 +44864,7 @@ export const rates = [
       en: "Bulkley-Nechako F",
       fr: "Bulkley-Nechako F",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39743,6 +44873,7 @@ export const rates = [
       en: "Burns Lake",
       fr: "Burns Lake",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39751,6 +44882,7 @@ export const rates = [
       en: "Bulkley-Nechako B",
       fr: "Bulkley-Nechako B",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39759,6 +44891,7 @@ export const rates = [
       en: "Bulkley-Nechako E",
       fr: "Bulkley-Nechako E",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39767,6 +44900,7 @@ export const rates = [
       en: "Granisle",
       fr: "Granisle",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39775,6 +44909,7 @@ export const rates = [
       en: "Houston",
       fr: "Houston",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39783,6 +44918,7 @@ export const rates = [
       en: "Telkwa",
       fr: "Telkwa",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39791,6 +44927,7 @@ export const rates = [
       en: "Smithers",
       fr: "Smithers",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39799,6 +44936,7 @@ export const rates = [
       en: "Bulkley-Nechako A",
       fr: "Bulkley-Nechako A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39807,6 +44945,7 @@ export const rates = [
       en: "Bulkley-Nechako G",
       fr: "Bulkley-Nechako G",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39815,6 +44954,7 @@ export const rates = [
       en: "Ye Koo Che 3",
       fr: "Ye Koo Che 3",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39823,6 +44963,7 @@ export const rates = [
       en: "Nautley (Fort Fraser) 1",
       fr: "Nautley (Fort Fraser) 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39831,6 +44972,7 @@ export const rates = [
       en: "Nak'azdli",
       fr: "Nak'azdli",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39839,6 +44981,7 @@ export const rates = [
       en: "Sowchea 3",
       fr: "Sowchea 3",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39847,6 +44990,7 @@ export const rates = [
       en: "Binche 2",
       fr: "Binche 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39855,6 +44999,7 @@ export const rates = [
       en: "Seaspunkut 4",
       fr: "Seaspunkut 4",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39863,6 +45008,7 @@ export const rates = [
       en: "Stellaquo (Stella) 1",
       fr: "Stellaquo (Stella) 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39871,6 +45017,7 @@ export const rates = [
       en: "Stony Creek 1",
       fr: "Stony Creek 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39879,6 +45026,7 @@ export const rates = [
       en: "Tache 1",
       fr: "Tache 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39887,6 +45035,7 @@ export const rates = [
       en: "Tacla Lake (Ferry Landing) 9",
       fr: "Tacla Lake (Ferry Landing) 9",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39895,6 +45044,7 @@ export const rates = [
       en: "Laketown 3",
       fr: "Laketown 3",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39903,6 +45053,7 @@ export const rates = [
       en: "Dzitline Lee 9",
       fr: "Dzitline Lee 9",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39911,6 +45062,7 @@ export const rates = [
       en: "Burns Lake 18",
       fr: "Burns Lake 18",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39919,6 +45071,7 @@ export const rates = [
       en: "Cheslatta 1",
       fr: "Cheslatta 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39927,6 +45080,7 @@ export const rates = [
       en: "Omineca 1",
       fr: "Omineca 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39935,6 +45089,7 @@ export const rates = [
       en: "Palling 1",
       fr: "Palling 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39943,6 +45098,7 @@ export const rates = [
       en: "Duncan Lake 2",
       fr: "Duncan Lake 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39951,6 +45107,7 @@ export const rates = [
       en: "Francois Lake 7",
       fr: "Francois Lake 7",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39959,6 +45116,7 @@ export const rates = [
       en: "Skins Lake 16A",
       fr: "Skins Lake 16A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39967,6 +45125,7 @@ export const rates = [
       en: "Skins Lake 16B",
       fr: "Skins Lake 16B",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39975,6 +45134,7 @@ export const rates = [
       en: "Tatla West 11",
       fr: "Tatla West 11",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39983,6 +45143,7 @@ export const rates = [
       en: "Uncha Lake 13A",
       fr: "Uncha Lake 13A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39991,6 +45152,7 @@ export const rates = [
       en: "Woyenne 27",
       fr: "Woyenne 27",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -39999,6 +45161,7 @@ export const rates = [
       en: "Babine 6",
       fr: "Babine 6",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40007,6 +45170,7 @@ export const rates = [
       en: "Babine 25",
       fr: "Babine 25",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40015,6 +45179,7 @@ export const rates = [
       en: "Jean Baptiste 28",
       fr: "Jean Baptiste 28",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40023,6 +45188,7 @@ export const rates = [
       en: "Babine 16",
       fr: "Babine 16",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40031,6 +45197,7 @@ export const rates = [
       en: "Noonla 6",
       fr: "Noonla 6",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40039,6 +45206,7 @@ export const rates = [
       en: "Tatla't East 2",
       fr: "Tatla't East 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40047,6 +45215,7 @@ export const rates = [
       en: "Williams Prairie Meadow 1A",
       fr: "Williams Prairie Meadow 1A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40055,6 +45224,7 @@ export const rates = [
       en: "Poison Creek 17A",
       fr: "Poison Creek 17A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40063,6 +45233,7 @@ export const rates = [
       en: "Tadinlay 15",
       fr: "Tadinlay 15",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40071,6 +45242,7 @@ export const rates = [
       en: "Nedoats 11",
       fr: "Nedoats 11",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40079,6 +45251,7 @@ export const rates = [
       en: "Babine Lake 21B",
       fr: "Babine Lake 21B",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40087,6 +45260,7 @@ export const rates = [
       en: "North Tacla Lake",
       fr: "North Tacla Lake",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40095,6 +45269,7 @@ export const rates = [
       en: "Mission Lands 17",
       fr: "Mission Lands 17",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40103,6 +45278,7 @@ export const rates = [
       en: "Valemount",
       fr: "Valemount",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40111,6 +45287,7 @@ export const rates = [
       en: "McBride",
       fr: "McBride",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40119,6 +45296,7 @@ export const rates = [
       en: "Fraser-Fort George H",
       fr: "Fraser-Fort George H",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40127,6 +45305,7 @@ export const rates = [
       en: "Prince George",
       fr: "Prince George",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40135,6 +45314,7 @@ export const rates = [
       en: "Mackenzie",
       fr: "Mackenzie",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40143,6 +45323,7 @@ export const rates = [
       en: "Fraser-Fort George A",
       fr: "Fraser-Fort George A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40151,6 +45332,7 @@ export const rates = [
       en: "Fraser-Fort George C",
       fr: "Fraser-Fort George C",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40159,6 +45341,7 @@ export const rates = [
       en: "Fraser-Fort George D",
       fr: "Fraser-Fort George D",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40167,6 +45350,7 @@ export const rates = [
       en: "Fraser-Fort George E",
       fr: "Fraser-Fort George E",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40175,6 +45359,7 @@ export const rates = [
       en: "Fraser-Fort George F",
       fr: "Fraser-Fort George F",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40183,6 +45368,7 @@ export const rates = [
       en: "Fraser-Fort George G",
       fr: "Fraser-Fort George G",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40191,6 +45377,7 @@ export const rates = [
       en: "Fort George 2",
       fr: "Fort George 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40199,6 +45386,7 @@ export const rates = [
       en: "McLeod Lake 1",
       fr: "McLeod Lake 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40207,6 +45395,7 @@ export const rates = [
       en: "Tumbler Ridge",
       fr: "Tumbler Ridge",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40215,6 +45404,7 @@ export const rates = [
       en: "Pouce Coupe",
       fr: "Pouce Coupe",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40223,6 +45413,7 @@ export const rates = [
       en: "Chetwynd",
       fr: "Chetwynd",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40231,6 +45422,7 @@ export const rates = [
       en: "Dawson Creek",
       fr: "Dawson Creek",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40239,6 +45431,7 @@ export const rates = [
       en: "Peace River D",
       fr: "Peace River D",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40247,6 +45440,7 @@ export const rates = [
       en: "Peace River E",
       fr: "Peace River E",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40255,6 +45449,7 @@ export const rates = [
       en: "Hudson's Hope",
       fr: "Hudson's Hope",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40263,6 +45458,7 @@ export const rates = [
       en: "Taylor",
       fr: "Taylor",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40271,6 +45467,7 @@ export const rates = [
       en: "Fort St. John",
       fr: "Fort St. John",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40279,6 +45476,7 @@ export const rates = [
       en: "Peace River B",
       fr: "Peace River B",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40287,6 +45485,7 @@ export const rates = [
       en: "Peace River C",
       fr: "Peace River C",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40295,6 +45494,7 @@ export const rates = [
       en: "East Moberly Lake 169",
       fr: "East Moberly Lake 169",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40303,6 +45503,7 @@ export const rates = [
       en: "West Moberly Lake 168A",
       fr: "West Moberly Lake 168A",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40311,6 +45512,7 @@ export const rates = [
       en: "Blueberry River 205",
       fr: "Blueberry River 205",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40319,6 +45521,7 @@ export const rates = [
       en: "Doig River 206",
       fr: "Doig River 206",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40327,6 +45530,7 @@ export const rates = [
       en: "Fort Ware 1",
       fr: "Fort Ware 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40335,6 +45539,7 @@ export const rates = [
       en: "Halfway River 168",
       fr: "Halfway River 168",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40343,6 +45548,7 @@ export const rates = [
       en: "Ingenika Point",
       fr: "Ingenika Point",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40351,6 +45557,7 @@ export const rates = [
       en: "Finlay River 6",
       fr: "Finlay River 6",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40359,6 +45566,7 @@ export const rates = [
       en: "Mesilinka 7",
       fr: "Mesilinka 7",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40367,6 +45575,7 @@ export const rates = [
       en: "Stikine Region",
       fr: "Stikine Region",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40375,6 +45584,7 @@ export const rates = [
       en: "Unnamed 10",
       fr: "Unnamed 10",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40383,6 +45593,7 @@ export const rates = [
       en: "Five Mile Point 3",
       fr: "Five Mile Point 3",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40391,6 +45602,7 @@ export const rates = [
       en: "Good Hope Lake",
       fr: "Good Hope Lake",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40399,6 +45611,7 @@ export const rates = [
       en: "Lower Post",
       fr: "Lower Post",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40407,6 +45620,7 @@ export const rates = [
       en: "Liard River 3",
       fr: "Liard River 3",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40415,6 +45629,7 @@ export const rates = [
       en: "Dease River 1",
       fr: "Dease River 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40423,6 +45638,7 @@ export const rates = [
       en: "Northern Rockies",
       fr: "Northern Rockies",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40431,6 +45647,7 @@ export const rates = [
       en: "Fontas 1",
       fr: "Fontas 1",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40439,6 +45656,7 @@ export const rates = [
       en: "Fort Nelson 2",
       fr: "Fort Nelson 2",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40447,6 +45665,7 @@ export const rates = [
       en: "Kahntah 3",
       fr: "Kahntah 3",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40455,6 +45674,7 @@ export const rates = [
       en: "Prophet River 4",
       fr: "Prophet River 4",
     },
+    province: "BC",
     rates: [],
   },
   {
@@ -40463,6 +45683,7 @@ export const rates = [
       en: "Watson Lake",
       fr: "Watson Lake",
     },
+    province: "YT",
     rates: [],
   },
   {
@@ -40471,6 +45692,7 @@ export const rates = [
       en: "Faro",
       fr: "Faro",
     },
+    province: "YT",
     rates: [],
   },
   {
@@ -40479,6 +45701,7 @@ export const rates = [
       en: "Teslin",
       fr: "Teslin",
     },
+    province: "YT",
     rates: [],
   },
   {
@@ -40487,6 +45710,7 @@ export const rates = [
       en: "Teslin Post 13",
       fr: "Teslin Post 13",
     },
+    province: "YT",
     rates: [],
   },
   {
@@ -40495,6 +45719,7 @@ export const rates = [
       en: "Carcross 4",
       fr: "Carcross 4",
     },
+    province: "YT",
     rates: [],
   },
   {
@@ -40503,6 +45728,7 @@ export const rates = [
       en: "Whitehorse",
       fr: "Whitehorse",
     },
+    province: "YT",
     rates: [],
   },
   {
@@ -40511,6 +45737,7 @@ export const rates = [
       en: "Lake Laberge 1",
       fr: "Lake Laberge 1",
     },
+    province: "YT",
     rates: [],
   },
   {
@@ -40519,6 +45746,7 @@ export const rates = [
       en: "Carmacks",
       fr: "Carmacks",
     },
+    province: "YT",
     rates: [],
   },
   {
@@ -40527,6 +45755,7 @@ export const rates = [
       en: "Haines Junction",
       fr: "Haines Junction",
     },
+    province: "YT",
     rates: [],
   },
   {
@@ -40535,6 +45764,7 @@ export const rates = [
       en: "Kloo Lake",
       fr: "Kloo Lake",
     },
+    province: "YT",
     rates: [],
   },
   {
@@ -40543,6 +45773,7 @@ export const rates = [
       en: "Mayo",
       fr: "Mayo",
     },
+    province: "YT",
     rates: [],
   },
   {
@@ -40551,6 +45782,7 @@ export const rates = [
       en: "Dawson",
       fr: "Dawson",
     },
+    province: "YT",
     rates: [],
   },
   {
@@ -40559,6 +45791,7 @@ export const rates = [
       en: "Moosehide Creek 2",
       fr: "Moosehide Creek 2",
     },
+    province: "YT",
     rates: [],
   },
   {
@@ -40567,6 +45800,7 @@ export const rates = [
       en: "Upper Liard",
       fr: "Upper Liard",
     },
+    province: "YT",
     rates: [],
   },
   {
@@ -40575,6 +45809,7 @@ export const rates = [
       en: "Tagish",
       fr: "Tagish",
     },
+    province: "YT",
     rates: [],
   },
   {
@@ -40583,6 +45818,7 @@ export const rates = [
       en: "Ross River",
       fr: "Ross River",
     },
+    province: "YT",
     rates: [],
   },
   {
@@ -40591,6 +45827,7 @@ export const rates = [
       en: "Champagne Landing 10",
       fr: "Champagne Landing 10",
     },
+    province: "YT",
     rates: [],
   },
   {
@@ -40599,6 +45836,7 @@ export const rates = [
       en: "Burwash Landing",
       fr: "Burwash Landing",
     },
+    province: "YT",
     rates: [],
   },
   {
@@ -40607,6 +45845,7 @@ export const rates = [
       en: "Pelly Crossing",
       fr: "Pelly Crossing",
     },
+    province: "YT",
     rates: [],
   },
   {
@@ -40615,6 +45854,7 @@ export const rates = [
       en: "Beaver Creek",
       fr: "Beaver Creek",
     },
+    province: "YT",
     rates: [],
   },
   {
@@ -40623,6 +45863,7 @@ export const rates = [
       en: "Old Crow",
       fr: "Old Crow",
     },
+    province: "YT",
     rates: [],
   },
   {
@@ -40631,6 +45872,7 @@ export const rates = [
       en: "Mt. Lorne",
       fr: "Mt. Lorne",
     },
+    province: "YT",
     rates: [],
   },
   {
@@ -40639,6 +45881,7 @@ export const rates = [
       en: "Yukon, Unorganized",
       fr: "Yukon, Unorganized",
     },
+    province: "YT",
     rates: [],
   },
   {
@@ -40647,6 +45890,7 @@ export const rates = [
       en: "Swift River",
       fr: "Swift River",
     },
+    province: "YT",
     rates: [],
   },
   {
@@ -40655,6 +45899,7 @@ export const rates = [
       en: "Johnsons Crossing",
       fr: "Johnsons Crossing",
     },
+    province: "YT",
     rates: [],
   },
   {
@@ -40663,6 +45908,7 @@ export const rates = [
       en: "Carcross",
       fr: "Carcross",
     },
+    province: "YT",
     rates: [],
   },
   {
@@ -40671,6 +45917,7 @@ export const rates = [
       en: "Destruction Bay",
       fr: "Destruction Bay",
     },
+    province: "YT",
     rates: [],
   },
   {
@@ -40679,6 +45926,7 @@ export const rates = [
       en: "Stewart Crossing",
       fr: "Stewart Crossing",
     },
+    province: "YT",
     rates: [],
   },
   {
@@ -40687,6 +45935,7 @@ export const rates = [
       en: "Keno Hill",
       fr: "Keno Hill",
     },
+    province: "YT",
     rates: [],
   },
   {
@@ -40695,6 +45944,7 @@ export const rates = [
       en: "Ibex Valley",
       fr: "Ibex Valley",
     },
+    province: "YT",
     rates: [],
   },
   {
@@ -40703,6 +45953,7 @@ export const rates = [
       en: "Teslin",
       fr: "Teslin",
     },
+    province: "YT",
     rates: [],
   },
   {
@@ -40711,6 +45962,7 @@ export const rates = [
       en: "Marsh Lake",
       fr: "Marsh Lake",
     },
+    province: "YT",
     rates: [],
   },
   {
@@ -40719,6 +45971,7 @@ export const rates = [
       en: "Macpherson-Grizzly Valley",
       fr: "Macpherson-Grizzly Valley",
     },
+    province: "YT",
     rates: [],
   },
   {
@@ -40727,6 +45980,7 @@ export const rates = [
       en: "Whitehorse, Unorganized",
       fr: "Whitehorse, Unorganized",
     },
+    province: "YT",
     rates: [],
   },
   {
@@ -40735,6 +45989,7 @@ export const rates = [
       en: "North Slope",
       fr: "North Slope",
     },
+    province: "YT",
     rates: [],
   },
   {
@@ -40743,6 +45998,7 @@ export const rates = [
       en: "Tsiigehtchic",
       fr: "Tsiigehtchic",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -40751,6 +46007,7 @@ export const rates = [
       en: "Paulatuk",
       fr: "Paulatuk",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -40759,6 +46016,7 @@ export const rates = [
       en: "Fort McPherson",
       fr: "Fort McPherson",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -40767,6 +46025,7 @@ export const rates = [
       en: "Inuvik",
       fr: "Inuvik",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -40775,6 +46034,7 @@ export const rates = [
       en: "Aklavik",
       fr: "Aklavik",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -40783,6 +46043,7 @@ export const rates = [
       en: "Tuktoyaktuk",
       fr: "Tuktoyaktuk",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -40791,6 +46052,7 @@ export const rates = [
       en: "Sachs Harbour",
       fr: "Sachs Harbour",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -40799,6 +46061,7 @@ export const rates = [
       en: "Region 1, Unorganized",
       fr: "Region 1, Unorganized",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -40807,6 +46070,7 @@ export const rates = [
       en: "Ulukhaktok",
       fr: "Ulukhaktok",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -40815,6 +46079,7 @@ export const rates = [
       en: "Déline",
       fr: "Déline",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -40823,6 +46088,7 @@ export const rates = [
       en: "Tulita",
       fr: "Tulita",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -40831,6 +46097,7 @@ export const rates = [
       en: "Norman Wells",
       fr: "Norman Wells",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -40839,6 +46106,7 @@ export const rates = [
       en: "Fort Good Hope",
       fr: "Fort Good Hope",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -40847,6 +46115,7 @@ export const rates = [
       en: "Colville Lake",
       fr: "Colville Lake",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -40855,6 +46124,7 @@ export const rates = [
       en: "Region 2, Unorganized",
       fr: "Region 2, Unorganized",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -40863,6 +46133,7 @@ export const rates = [
       en: "Behchokò",
       fr: "Behchokò",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -40871,6 +46142,7 @@ export const rates = [
       en: "Whatì",
       fr: "Whatì",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -40879,6 +46151,7 @@ export const rates = [
       en: "Gamètì",
       fr: "Gamètì",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -40887,6 +46160,7 @@ export const rates = [
       en: "Wekweètì",
       fr: "Wekweètì",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -40895,6 +46169,7 @@ export const rates = [
       en: "Region 3, Unorganized",
       fr: "Region 3, Unorganized",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -40903,6 +46178,7 @@ export const rates = [
       en: "Kakisa",
       fr: "Kakisa",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -40911,6 +46187,7 @@ export const rates = [
       en: "Sambaa K'e",
       fr: "Sambaa K'e",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -40919,6 +46196,7 @@ export const rates = [
       en: "Fort Liard",
       fr: "Fort Liard",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -40927,6 +46205,7 @@ export const rates = [
       en: "Nahanni Butte",
       fr: "Nahanni Butte",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -40935,6 +46214,7 @@ export const rates = [
       en: "Jean Marie River",
       fr: "Jean Marie River",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -40943,6 +46223,7 @@ export const rates = [
       en: "Fort Providence",
       fr: "Fort Providence",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -40951,6 +46232,7 @@ export const rates = [
       en: "Hay River Dene 1",
       fr: "Hay River Dene 1",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -40959,6 +46241,7 @@ export const rates = [
       en: "Fort Simpson",
       fr: "Fort Simpson",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -40967,6 +46250,7 @@ export const rates = [
       en: "Wrigley",
       fr: "Wrigley",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -40975,6 +46259,7 @@ export const rates = [
       en: "Region 4, Unorganized",
       fr: "Region 4, Unorganized",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -40983,6 +46268,7 @@ export const rates = [
       en: "Fort Smith",
       fr: "Fort Smith",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -40991,6 +46277,7 @@ export const rates = [
       en: "Enterprise",
       fr: "Enterprise",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -40999,6 +46286,7 @@ export const rates = [
       en: "Salt Plains 195",
       fr: "Salt Plains 195",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -41007,6 +46295,7 @@ export const rates = [
       en: "Hay River",
       fr: "Hay River",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -41015,6 +46304,7 @@ export const rates = [
       en: "Fort Resolution",
       fr: "Fort Resolution",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -41023,6 +46313,7 @@ export const rates = [
       en: "Lutselk'e",
       fr: "Lutselk'e",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -41031,6 +46322,7 @@ export const rates = [
       en: "Reliance",
       fr: "Reliance",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -41039,6 +46331,7 @@ export const rates = [
       en: "Region 5, Unorganized",
       fr: "Region 5, Unorganized",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -41047,6 +46340,7 @@ export const rates = [
       en: "Dettah",
       fr: "Dettah",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -41055,6 +46349,7 @@ export const rates = [
       en: "Yellowknife",
       fr: "Yellowknife",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -41063,6 +46358,7 @@ export const rates = [
       en: "Region 6, Unorganized",
       fr: "Region 6, Unorganized",
     },
+    province: "NT",
     rates: [],
   },
   {
@@ -41071,6 +46367,7 @@ export const rates = [
       en: "Sanikiluaq",
       fr: "Sanikiluaq",
     },
+    province: "NU",
     rates: [],
   },
   {
@@ -41079,6 +46376,7 @@ export const rates = [
       en: "Iqaluit",
       fr: "Iqaluit",
     },
+    province: "NU",
     rates: [],
   },
   {
@@ -41087,6 +46385,7 @@ export const rates = [
       en: "Kimmirut",
       fr: "Kimmirut",
     },
+    province: "NU",
     rates: [],
   },
   {
@@ -41095,6 +46394,7 @@ export const rates = [
       en: "Cape Dorset",
       fr: "Cape Dorset",
     },
+    province: "NU",
     rates: [],
   },
   {
@@ -41103,6 +46403,7 @@ export const rates = [
       en: "Pangnirtung",
       fr: "Pangnirtung",
     },
+    province: "NU",
     rates: [],
   },
   {
@@ -41111,6 +46412,7 @@ export const rates = [
       en: "Qikiqtarjuaq",
       fr: "Qikiqtarjuaq",
     },
+    province: "NU",
     rates: [],
   },
   {
@@ -41119,6 +46421,7 @@ export const rates = [
       en: "Hall Beach",
       fr: "Hall Beach",
     },
+    province: "NU",
     rates: [],
   },
   {
@@ -41127,6 +46430,7 @@ export const rates = [
       en: "Igloolik",
       fr: "Igloolik",
     },
+    province: "NU",
     rates: [],
   },
   {
@@ -41135,6 +46439,7 @@ export const rates = [
       en: "Clyde River",
       fr: "Clyde River",
     },
+    province: "NU",
     rates: [],
   },
   {
@@ -41143,6 +46448,7 @@ export const rates = [
       en: "Arctic Bay",
       fr: "Arctic Bay",
     },
+    province: "NU",
     rates: [],
   },
   {
@@ -41151,6 +46457,7 @@ export const rates = [
       en: "Nanisivik",
       fr: "Nanisivik",
     },
+    province: "NU",
     rates: [],
   },
   {
@@ -41159,6 +46466,7 @@ export const rates = [
       en: "Pond Inlet",
       fr: "Pond Inlet",
     },
+    province: "NU",
     rates: [],
   },
   {
@@ -41167,6 +46475,7 @@ export const rates = [
       en: "Resolute",
       fr: "Resolute",
     },
+    province: "NU",
     rates: [],
   },
   {
@@ -41175,6 +46484,7 @@ export const rates = [
       en: "Grise Fiord",
       fr: "Grise Fiord",
     },
+    province: "NU",
     rates: [],
   },
   {
@@ -41183,6 +46493,7 @@ export const rates = [
       en: "Qikiqtaaluk, Unorganized",
       fr: "Qikiqtaaluk, Unorganized",
     },
+    province: "NU",
     rates: [],
   },
   {
@@ -41191,6 +46502,7 @@ export const rates = [
       en: "Coral Harbour",
       fr: "Coral Harbour",
     },
+    province: "NU",
     rates: [],
   },
   {
@@ -41199,6 +46511,7 @@ export const rates = [
       en: "Arviat",
       fr: "Arviat",
     },
+    province: "NU",
     rates: [],
   },
   {
@@ -41207,6 +46520,7 @@ export const rates = [
       en: "Whale Cove",
       fr: "Whale Cove",
     },
+    province: "NU",
     rates: [],
   },
   {
@@ -41215,6 +46529,7 @@ export const rates = [
       en: "Rankin Inlet",
       fr: "Rankin Inlet",
     },
+    province: "NU",
     rates: [],
   },
   {
@@ -41223,6 +46538,7 @@ export const rates = [
       en: "Chesterfield Inlet",
       fr: "Chesterfield Inlet",
     },
+    province: "NU",
     rates: [],
   },
   {
@@ -41231,6 +46547,7 @@ export const rates = [
       en: "Baker Lake",
       fr: "Baker Lake",
     },
+    province: "NU",
     rates: [],
   },
   {
@@ -41239,6 +46556,7 @@ export const rates = [
       en: "Naujaat",
       fr: "Naujaat",
     },
+    province: "NU",
     rates: [],
   },
   {
@@ -41247,6 +46565,7 @@ export const rates = [
       en: "Kivalliq, Unorganized",
       fr: "Kivalliq, Unorganized",
     },
+    province: "NU",
     rates: [],
   },
   {
@@ -41255,6 +46574,7 @@ export const rates = [
       en: "Kugaaruk",
       fr: "Kugaaruk",
     },
+    province: "NU",
     rates: [],
   },
   {
@@ -41263,6 +46583,7 @@ export const rates = [
       en: "Kugluktuk",
       fr: "Kugluktuk",
     },
+    province: "NU",
     rates: [],
   },
   {
@@ -41271,6 +46592,7 @@ export const rates = [
       en: "Bathurst Inlet",
       fr: "Bathurst Inlet",
     },
+    province: "NU",
     rates: [],
   },
   {
@@ -41279,6 +46601,7 @@ export const rates = [
       en: "Umingmaktok",
       fr: "Umingmaktok",
     },
+    province: "NU",
     rates: [],
   },
   {
@@ -41287,6 +46610,7 @@ export const rates = [
       en: "Cambridge Bay",
       fr: "Cambridge Bay",
     },
+    province: "NU",
     rates: [],
   },
   {
@@ -41295,6 +46619,7 @@ export const rates = [
       en: "Gjoa Haven",
       fr: "Gjoa Haven",
     },
+    province: "NU",
     rates: [],
   },
   {
@@ -41303,6 +46628,7 @@ export const rates = [
       en: "Taloyoak",
       fr: "Taloyoak",
     },
+    province: "NU",
     rates: [],
   },
   {
@@ -41311,6 +46637,7 @@ export const rates = [
       en: "Kitikmeot, Unorganized",
       fr: "Kitikmeot, Unorganized",
     },
+    province: "NU",
     rates: [],
   },
 ];
