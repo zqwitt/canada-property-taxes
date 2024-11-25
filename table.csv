@@ -475,95 +475,95 @@
 2021A00051201008,Shelburne,NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
 2021A00051201009,Lockeport,NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
 2021A00051202001,Argyle,NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
-2021A00051202004,Yarmouth,NS,,
-2021A00051202006,Yarmouth,NS,,
-2021A00051202040,Yarmouth 33,NS,,
-2021A00051203001,Clare,NS,,
-2021A00051203004,Digby,NS,,
-2021A00051203006,Digby,NS,,
-2021A00051203009,Bear River (Part) 6,NS,,
-2021A00051204001,Medway River 11,NS,,
-2021A00051204009,Ponhook Lake 10,NS,,
-2021A00051204010,Queens,NS,,
-2021A00051204015,Wildcat 12,NS,,
-2021A00051205001,"Annapolis, Subd. D",NS,,
-2021A00051205002,Bear River (Part) 6,NS,,
-2021A00051205004,"Annapolis, Subd. A",NS,,
-2021A00051205006,Bear River 6B,NS,,
-2021A00051205008,Annapolis Royal,NS,,
-2021A00051205009,"Annapolis, Subd. B",NS,,
-2021A00051205014,"Annapolis, Subd. C",NS,,
-2021A00051205016,Middleton,NS,,
-2021A00051206001,Lunenburg,NS,,
-2021A00051206004,Bridgewater,NS,,
-2021A00051206006,Lunenburg,NS,,
-2021A00051206008,Mahone Bay,NS,,
-2021A00051206009,Chester,NS,,
-2021A00051206011,Gold River 21,NS,,
-2021A00051206014,Pennal 19,NS,,
-2021A00051206016,New Ross 20,NS,,
-2021A00051207001,"Kings, Subd. A",NS,,
-2021A00051207002,Annapolis Valley First Nation,NS,,
-2021A00051207004,Berwick,NS,,
-2021A00051207011,"Kings, Subd. C",NS,,
-2021A00051207012,Kentville,NS,,
-2021A00051207016,"Kings, Subd. B",NS,,
-2021A00051207021,"Kings, Subd. D",NS,,
-2021A00051207024,Wolfville,NS,,
-2021A00051207027,Glooscap 35,NS,,
-2021A00051208003,West Hants,NS,,
-2021A00051208008,East Hants,NS,,
-2021A00051208014,Indian Brook 14,NS,,
-2021A00051209019,Cole Harbour 30,NS,,
-2021A00051209034,Halifax,NS,,
-2021A00051209037,Beaver Lake 17,NS,,
-2021A00051209038,Sheet Harbour 36,NS,,
-2021A00051209800,Wallace Hills 14A,NS,,
-2021A00051210001,"Colchester, Subd. C",NS,,
-2021A00051210002,Stewiacke,NS,,
-2021A00051210003,Millbrook 27,NS,,
-2021A00051210006,Truro,NS,,
-2021A00051210008,"Colchester, Subd. B",NS,,
-2021A00051210012,"Colchester, Subd. A",NS,,
-2021A00051211001,"Cumberland, Subd. A",NS,,
-2021A00051211006,"Cumberland, Subd. B",NS,,
-2021A00051211009,"Cumberland, Subd. C",NS,,
-2021A00051211011,Amherst,NS,,
-2021A00051211012,Oxford,NS,,
-2021A00051211014,"Cumberland, Subd. D",NS,,
-2021A00051212001,"Pictou, Subd. A",NS,,
-2021A00051212004,Pictou,NS,,
-2021A00051212006,"Pictou, Subd. B",NS,,
-2021A00051212008,Westville,NS,,
-2021A00051212009,Stellarton,NS,,
-2021A00051212011,"Pictou, Subd. C",NS,,
-2021A00051212014,New Glasgow,NS,,
-2021A00051212016,Trenton,NS,,
-2021A00051212019,Fisher's Grant 24,NS,,
-2021A00051212023,Merigomish Harbour 31,NS,,
-2021A00051213001,St. Mary's,NS,,
-2021A00051213004,Guysborough,NS,,
-2021A00051213008,Mulgrave,NS,,
-2021A00051214001,"Antigonish, Subd. A",NS,,
-2021A00051214002,Antigonish,NS,,
-2021A00051214006,"Antigonish, Subd. B",NS,,
-2021A00051214010,Paqtnkek-Niktuek No. 23,NS,,
-2021A00051215001,"Inverness, Subd. C",NS,,
-2021A00051215002,Port Hawkesbury,NS,,
-2021A00051215005,Malagawatch 4,NS,,
-2021A00051215006,"Inverness, Subd. B",NS,,
-2021A00051215008,Whycocomagh 2,NS,,
-2021A00051215011,"Inverness, Subd. A",NS,,
-2021A00051216001,"Richmond, Subd. C",NS,,
-2021A00051216006,"Richmond, Subd. A",NS,,
-2021A00051216011,"Richmond, Subd. B",NS,,
-2021A00051216014,Chapel Island 5,NS,,
-2021A00051217008,Membertou 28B,NS,,
-2021A00051217020,Eskasoni 3,NS,,
-2021A00051217030,Cape Breton,NS,,
-2021A00051218001,"Victoria, Subd. B",NS,,
-2021A00051218003,Wagmatcook 1,NS,,
-2021A00051218006,"Victoria, Subd. A",NS,,
+2021A00051202004,Yarmouth,NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051202006,Yarmouth,NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051202040,Yarmouth 33,NS,IRI (Indian Reservation),
+2021A00051203001,Clare,NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051203004,Digby,NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051203006,Digby,NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051203009,Bear River (Part) 6,NS,IRI (Indian Reservation),
+2021A00051204001,Medway River 11,NS,IRI (Indian Reservation),
+2021A00051204009,Ponhook Lake 10,NS,IRI (Indian Reservation),
+2021A00051204010,Queens,NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051204015,Wildcat 12,NS,IRI (Indian Reservation),
+2021A00051205001,"Annapolis, Subd. D",NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051205002,Bear River (Part) 6,NS,IRI (Indian Reservation),
+2021A00051205004,"Annapolis, Subd. A",NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051205006,Bear River 6B,NS,IRI (Indian Reservation),
+2021A00051205008,Annapolis Royal,NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051205009,"Annapolis, Subd. B",NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051205014,"Annapolis, Subd. C",NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051205016,Middleton,NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051206001,Lunenburg,NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051206004,Bridgewater,NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051206006,Lunenburg,NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051206008,Mahone Bay,NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051206009,Chester,NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051206011,Gold River 21,NS,IRI (Indian Reservation),
+2021A00051206014,Pennal 19,NS,IRI (Indian Reservation),
+2021A00051206016,New Ross 20,NS,IRI (Indian Reservation),
+2021A00051207001,"Kings, Subd. A",NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051207002,Annapolis Valley First Nation,NS,IRI (Indian Reservation),
+2021A00051207004,Berwick,NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051207011,"Kings, Subd. C",NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051207012,Kentville,NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051207016,"Kings, Subd. B",NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051207021,"Kings, Subd. D",NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051207024,Wolfville,NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051207027,Glooscap 35,NS,IRI (Indian Reservation),
+2021A00051208003,West Hants,NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051208008,East Hants,NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051208014,Indian Brook 14,NS,IRI (Indian Reservation),
+2021A00051209019,Cole Harbour 30,NS,IRI (Indian Reservation),
+2021A00051209034,Halifax,NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051209037,Beaver Lake 17,NS,IRI (Indian Reservation),
+2021A00051209038,Sheet Harbour 36,NS,IRI (Indian Reservation),
+2021A00051209800,Wallace Hills 14A,NS,IRI (Indian Reservation),
+2021A00051210001,"Colchester, Subd. C",NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051210002,Stewiacke,NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051210003,Millbrook 27,NS,IRI (Indian Reservation),
+2021A00051210006,Truro,NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051210008,"Colchester, Subd. B",NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051210012,"Colchester, Subd. A",NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051211001,"Cumberland, Subd. A",NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051211006,"Cumberland, Subd. B",NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051211009,"Cumberland, Subd. C",NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051211011,Amherst,NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051211012,Oxford,NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051211014,"Cumberland, Subd. D",NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051212001,"Pictou, Subd. A",NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051212004,Pictou,NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051212006,"Pictou, Subd. B",NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051212008,Westville,NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051212009,Stellarton,NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051212011,"Pictou, Subd. C",NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051212014,New Glasgow,NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051212016,Trenton,NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051212019,Fisher's Grant 24,NS,IRI (Indian Reservation),
+2021A00051212023,Merigomish Harbour 31,NS,IRI (Indian Reservation),
+2021A00051213001,St. Mary's,NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051213004,Guysborough,NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051213008,Mulgrave,NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051214001,"Antigonish, Subd. A",NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051214002,Antigonish,NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051214006,"Antigonish, Subd. B",NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051214010,Paqtnkek-Niktuek No. 23,NS,IRI (Indian Reservation),
+2021A00051215001,"Inverness, Subd. C",NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051215002,Port Hawkesbury,NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051215005,Malagawatch 4,NS,IRI (Indian Reservation),
+2021A00051215006,"Inverness, Subd. B",NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051215008,Whycocomagh 2,NS,IRI (Indian Reservation),
+2021A00051215011,"Inverness, Subd. A",NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051216001,"Richmond, Subd. C",NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051216006,"Richmond, Subd. A",NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051216011,"Richmond, Subd. B",NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051216014,Chapel Island 5,NS,IRI (Indian Reservation),
+2021A00051217008,Membertou 28B,NS,IRI (Indian Reservation),
+2021A00051217020,Eskasoni 3,NS,IRI (Indian Reservation),
+2021A00051217030,Cape Breton,NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051218001,"Victoria, Subd. B",NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
+2021A00051218003,Wagmatcook 1,NS,IRI (Indian Reservation),
+2021A00051218006,"Victoria, Subd. A",NS,2009-2023,https://data.novascotia.ca/Municipalities/Municipal-Property-Tax-Rates/ure8-3w7m/about_data
 2021A00051301001,Saint Martins,NB,,
 2021A00051301002,St. Martins,NB,,
 2021A00051301004,Simonds,NB,,
