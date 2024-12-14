@@ -1,1 +1,8 @@
-{}
+{
+  "imports": {
+    "@std/csv": "jsr:@std/csv@^1.0.4"
+  },
+  "fmt": {
+    "semiColons": true
+  }
+}

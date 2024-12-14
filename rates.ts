@@ -1,4 +1,4 @@
-export const rates = [
+export default [
   {
     id: "2021A00051001101",
     name: {
@@ -6601,7 +6601,7 @@ export const rates = [
       { year: 2024, rate: 0.01 },
     ],
   },
-    {
+  {
     id: "2021A00051201001",
     name: {
       en: "Barrington",

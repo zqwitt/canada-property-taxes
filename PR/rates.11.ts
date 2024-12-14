@@ -1,4 +1,4 @@
-export const rates = [
+export default [
   {
     id: "2021A00051101002",
     name: {
