@@ -92,6 +92,3 @@ console.log(rates);
 ## License
 
 This repository is licensed under the MIT License.
-
-<a href="https://www.buymeacoffee.com/zacharywitt" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/lato-yellow.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
