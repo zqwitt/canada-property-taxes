@@ -100,12 +100,12 @@ Ce dépôt propose un répertoire des taux d'imposition foncière municipaux his
 
 ## Structure du répertoire
 
-Les fichiers .ts de ce dépôt utilisent l'identificateur géographique unique (IDUGEO) pour indiquer la portée géographique des données :
+Les fichiers `.ts` de ce dépôt utilisent l'identificateur géographique unique (IDUGEO) pour indiquer la portée géographique des données :
 
-1. rates.ts : Fichier racine. Contient les données pour toutes les municipalités (ou subdivisions de recensement (SDR)) du Canada.
-2. RE/rates.[PRIDU].ts : Segmenté par région géographique du Canada.
-3. PR/rates.[PRIDU].ts : Segmenté par province et territoire.
-4. CD/rates.[DRIDU].ts : Segmenté par division de recensement. Contient les données pour toutes les municipalités dans la division.
+1. `rates.ts` : Fichier racine. Contient les données pour toutes les municipalités (ou subdivisions de recensement (SDR)) du Canada.
+2. `RE/rates.[PRIDU].ts` : Segmenté par région géographique du Canada.
+3. `PR/rates.[PRIDU].ts` : Segmenté par province et territoire.
+4. `CD/rates.[DRIDU].ts` : Segmenté par division de recensement. Contient les données pour toutes les municipalités dans la division.
 
 ### À titre de référence :
 
