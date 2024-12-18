@@ -1,5 +1,8 @@
 # Canada Property Tax Rates
 
+![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg) ![TypeScript](https://img.shields.io/badge/TypeScript-4.0-blue.svg) ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)  
+
+
 This repository provides a directory of historical and current municipal property tax rates across Canada, covering the years 2000 to 2024.
 
 ## Directory Structure
@@ -95,6 +98,8 @@ This repository is licensed under the MIT License.
 
 
 # Taux d'imposition foncière au Canada
+
+![Licence: MIT](https://img.shields.io/badge/licence-MIT-blue.svg) ![TypeScript](https://img.shields.io/badge/TypeScript-4.0-blue.svg) ![Contributions Bienvenues](https://img.shields.io/badge/contributions-bienvenues-brightgreen.svg)  
 
 Ce dépôt propose un répertoire des taux d'imposition foncière municipaux historiques et actuels à travers le Canada, couvrant les années 2000 à 2024.
 
